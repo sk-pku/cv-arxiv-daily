@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**|Luan Thanh Trinh et.al.|[2406.11713](http://arxiv.org/abs/2406.11713)|**[link](https://github.com/thanhluantrinh/lddgan)**|
+|**2024-06-17**|**Endor: Hardware-Friendly Sparse Format for Offloaded LLM Inference**|Donghyeon Joo et.al.|[2406.11674](http://arxiv.org/abs/2406.11674)|null|
+|**2024-06-17**|**ROTI-GCV: Generalized Cross-Validation for right-ROTationally Invariant Data**|Kevin Luo et.al.|[2406.11666](http://arxiv.org/abs/2406.11666)|null|
+|**2024-06-17**|**Compressed Skinning for Facial Blendshapes**|Ladislav Kavan et.al.|[2406.11597](http://arxiv.org/abs/2406.11597)|null|
+|**2024-06-17**|**Energy Reduction Opportunities in HDR Video Encoding**|Christian Herglotz et.al.|[2406.11492](http://arxiv.org/abs/2406.11492)|null|
+|**2024-06-17**|**A Simple and Effective $L_2$ Norm-Based Strategy for KV Cache Compression**|Alessio Devoto et.al.|[2406.11430](http://arxiv.org/abs/2406.11430)|null|
+|**2024-06-17**|**The Incompressible Limit of the Equations of Compressible Ideal Magneto-Hydrodynamics with perfectly conducting boundary**|Paolo Secchi et.al.|[2406.11425](http://arxiv.org/abs/2406.11425)|null|
+|**2024-06-17**|**$\textit{Refiner}$ : Restructure Retrieval Content Efficiently to Advance Question-Answering Capabilities**|Zhonghao Li et.al.|[2406.11357](http://arxiv.org/abs/2406.11357)|null|
+|**2024-06-17**|**An Empirical Investigation of Matrix Factorization Methods for Pre-trained Transformers**|Ashim Gupta et.al.|[2406.11307](http://arxiv.org/abs/2406.11307)|null|
+|**2024-06-17**|**DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization**|Dingrui Li et.al.|[2406.11266](http://arxiv.org/abs/2406.11266)|null|
 |**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
 |**2024-06-14**|**One-pass Multiple Conformer and Foundation Speech Systems Compression and Quantization Using An All-in-one Neural Model**|Zhaoqing Li et.al.|[2406.10160](http://arxiv.org/abs/2406.10160)|null|
 |**2024-06-14**|**Compressed Sensor Caching and Collaborative Sparse Data Recovery with Anchor Alignment**|Yi-Jen Yang et.al.|[2406.10137](http://arxiv.org/abs/2406.10137)|null|
