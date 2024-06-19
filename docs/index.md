@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3100,7 +3100,7 @@ layout: default
 |**2024-06-17**|**Energy Reduction Opportunities in HDR Video Encoding**|Christian Herglotz et.al.|[2406.11492](http://arxiv.org/abs/2406.11492)|null|
 |**2024-06-17**|**A Simple and Effective $L_2$ Norm-Based Strategy for KV Cache Compression**|Alessio Devoto et.al.|[2406.11430](http://arxiv.org/abs/2406.11430)|null|
 |**2024-06-17**|**The Incompressible Limit of the Equations of Compressible Ideal Magneto-Hydrodynamics with perfectly conducting boundary**|Paolo Secchi et.al.|[2406.11425](http://arxiv.org/abs/2406.11425)|null|
-|**2024-06-17**|**$\textit{Refiner}$ : Restructure Retrieval Content Efficiently to Advance Question-Answering Capabilities**|Zhonghao Li et.al.|[2406.11357](http://arxiv.org/abs/2406.11357)|null|
+|**2024-06-18**|**Refiner: Restructure Retrieval Content Efficiently to Advance Question-Answering Capabilities**|Zhonghao Li et.al.|[2406.11357](http://arxiv.org/abs/2406.11357)|null|
 |**2024-06-17**|**An Empirical Investigation of Matrix Factorization Methods for Pre-trained Transformers**|Ashim Gupta et.al.|[2406.11307](http://arxiv.org/abs/2406.11307)|null|
 |**2024-06-17**|**DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization**|Dingrui Li et.al.|[2406.11266](http://arxiv.org/abs/2406.11266)|null|
 |**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
