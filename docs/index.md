@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging**|Jinuk Kim et.al.|[2406.12837](http://arxiv.org/abs/2406.12837)|**[link](https://github.com/snu-mllab/layermerge)**|
+|**2024-06-18**|**Robustness of contextuality under different types of noise as quantifiers for parity-oblivious multiplexing tasks**|Amanda M. Fonseca et.al.|[2406.12773](http://arxiv.org/abs/2406.12773)|null|
+|**2024-06-18**|**Difference Autocorrelation: A Novel Approach to Estimate Shear Wave Speed in the Presence of Compression Waves**|Hamidreza Asemani et.al.|[2406.12714](http://arxiv.org/abs/2406.12714)|null|
+|**2024-06-18**|**Sparsifying dimensionality reduction of PDE solution data with Bregman learning**|Tjeerd Jan Heeringa et.al.|[2406.12672](http://arxiv.org/abs/2406.12672)|null|
+|**2024-06-18**|**Low mach Number Limit of the Viscous and Heat Conductive Flow with general pressure law on torus**|Yuhan Chen et.al.|[2406.12642](http://arxiv.org/abs/2406.12642)|null|
+|**2024-06-18**|**Learned Image Compression for HE-stained Histopathological Images via Stain Deconvolution**|Maximilian Fischer et.al.|[2406.12623](http://arxiv.org/abs/2406.12623)|null|
+|**2024-06-18**|**Towards Audio Codec-based Speech Separation**|Jia Qi Yip et.al.|[2406.12434](http://arxiv.org/abs/2406.12434)|null|
+|**2024-06-18**|**Competitive Learning for Achieving Content-specific Filters in Video Coding for Machines**|Honglei Zhang et.al.|[2406.12367](http://arxiv.org/abs/2406.12367)|null|
+|**2024-06-18**|**Finding Task-specific Subnetworks in Multi-task Spoken Language Understanding Model**|Hayato Futami et.al.|[2406.12317](http://arxiv.org/abs/2406.12317)|null|
+|**2024-06-18**|**Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models**|Dongwon Jo et.al.|[2406.12311](http://arxiv.org/abs/2406.12311)|null|
 |**2024-06-17**|**Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**|Luan Thanh Trinh et.al.|[2406.11713](http://arxiv.org/abs/2406.11713)|**[link](https://github.com/thanhluantrinh/lddgan)**|
 |**2024-06-17**|**Endor: Hardware-Friendly Sparse Format for Offloaded LLM Inference**|Donghyeon Joo et.al.|[2406.11674](http://arxiv.org/abs/2406.11674)|null|
 |**2024-06-17**|**ROTI-GCV: Generalized Cross-Validation for right-ROTationally Invariant Data**|Kevin Luo et.al.|[2406.11666](http://arxiv.org/abs/2406.11666)|null|
