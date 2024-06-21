@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**xCOMET-lite: Bridging the Gap Between Efficiency and Quality in Learned MT Evaluation Metrics**|Daniil Larionov et.al.|[2406.14553](http://arxiv.org/abs/2406.14553)|null|
+|**2024-06-20**|**Communication-efficient Vertical Federated Learning via Compressed Error Feedback**|Pedro Valdeira et.al.|[2406.14420](http://arxiv.org/abs/2406.14420)|null|
+|**2024-06-20**|**Predicting Probabilities of Error to Combine Quantization and Early Exiting: QuEE**|Florence Regol et.al.|[2406.14404](http://arxiv.org/abs/2406.14404)|null|
+|**2024-06-20**|**PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**|Sihan Ma et.al.|[2406.14367](http://arxiv.org/abs/2406.14367)|null|
+|**2024-06-20**|**DASB -- Discrete Audio and Speech Benchmark**|Pooneh Mousavi et.al.|[2406.14294](http://arxiv.org/abs/2406.14294)|null|
+|**2024-06-20**|**Region-Specific Coarse Quantization with Check Node Awareness in 5G-LDPC Decoding**|Philipp Mohr et.al.|[2406.14233](http://arxiv.org/abs/2406.14233)|null|
+|**2024-06-20**|**Failure-Resilient Distributed Inference with Model Compression over Heterogeneous Edge Devices**|Li Wang et.al.|[2406.14185](http://arxiv.org/abs/2406.14185)|null|
+|**2024-06-20**|**Ranking LLMs by compression**|Peijia Guo et.al.|[2406.14171](http://arxiv.org/abs/2406.14171)|null|
+|**2024-06-20**|**An Asymptotic Preserving and Energy Stable Scheme for the Euler System with Congestion Constraint**|K. R. Arun et.al.|[2406.14168](http://arxiv.org/abs/2406.14168)|null|
+|**2024-06-20**|**Measuring Sample Importance in Data Pruning for Training LLMs from a Data Compression Perspective**|Minsang Kim et.al.|[2406.14124](http://arxiv.org/abs/2406.14124)|null|
 |**2024-06-18**|**LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging**|Jinuk Kim et.al.|[2406.12837](http://arxiv.org/abs/2406.12837)|**[link](https://github.com/snu-mllab/layermerge)**|
 |**2024-06-18**|**Robustness of contextuality under different types of noise as quantifiers for parity-oblivious multiplexing tasks**|Amanda M. Fonseca et.al.|[2406.12773](http://arxiv.org/abs/2406.12773)|null|
 |**2024-06-18**|**Difference Autocorrelation: A Novel Approach to Estimate Shear Wave Speed in the Presence of Compression Waves**|Hamidreza Asemani et.al.|[2406.12714](http://arxiv.org/abs/2406.12714)|null|
