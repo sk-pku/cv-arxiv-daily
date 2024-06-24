@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning**|Brandon Huang et.al.|[2406.15334](http://arxiv.org/abs/2406.15334)|null|
+|**2024-06-21**|**On the Computing and Communication Tradeoff in Reasoning-Based Multi-User Semantic Communications**|Nitisha Singh et.al.|[2406.15199](http://arxiv.org/abs/2406.15199)|null|
+|**2024-06-21**|**Phase transitions, Dirac and WSM states in $\mathrm{Mn}_{1-x} \mathrm{Ge}_x \mathrm{Bi}_2 \mathrm{Te}_4$**|A. M. Shikin et.al.|[2406.15065](http://arxiv.org/abs/2406.15065)|null|
+|**2024-06-21**|**Space-efficient SLP Encoding for $O(\log N)$ -time Random Access**|Akito Takasaka et.al.|[2406.15011](http://arxiv.org/abs/2406.15011)|null|
+|**2024-06-21**|**Dislocation cartography: Representations and unsupervised classification of dislocation networks with unique fingerprints**|Benjamin Udofia et.al.|[2406.15004](http://arxiv.org/abs/2406.15004)|null|
+|**2024-06-21**|**RISC-V processor enhanced with a dynamic micro-decoder unit**|Juliette Pottier et.al.|[2406.14999](http://arxiv.org/abs/2406.14999)|null|
+|**2024-06-21**|**Uncovering the origin of interface stress enhancement and compressive-to-tensile stress transition in immiscible nanomultilayers**|Yang Hu et.al.|[2406.14959](http://arxiv.org/abs/2406.14959)|null|
+|**2024-06-21**|**Global solutions and uniform convergence stability for compressible Navier-Stokes equations with Oldroyd-type constitutive law**|Sébastien Boyaval et.al.|[2406.14943](http://arxiv.org/abs/2406.14943)|null|
+|**2024-06-21**|**FC3DNet: A Fully Connected Encoder-Decoder for Efficient Demoir'eing**|Zhibo Du et.al.|[2406.14912](http://arxiv.org/abs/2406.14912)|null|
+|**2024-06-21**|**MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression**|Tianyu Fu et.al.|[2406.14909](http://arxiv.org/abs/2406.14909)|**[link](https://github.com/thu-nics/moa)**|
 |**2024-06-20**|**xCOMET-lite: Bridging the Gap Between Efficiency and Quality in Learned MT Evaluation Metrics**|Daniil Larionov et.al.|[2406.14553](http://arxiv.org/abs/2406.14553)|null|
 |**2024-06-20**|**Communication-efficient Vertical Federated Learning via Compressed Error Feedback**|Pedro Valdeira et.al.|[2406.14420](http://arxiv.org/abs/2406.14420)|null|
 |**2024-06-20**|**Predicting Probabilities of Error to Combine Quantization and Early Exiting: QuEE**|Florence Regol et.al.|[2406.14404](http://arxiv.org/abs/2406.14404)|null|
