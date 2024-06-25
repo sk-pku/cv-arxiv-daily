@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Hierarchical B-frame Video Coding for Long Group of Pictures**|Ivan Kirillov et.al.|[2406.16544](http://arxiv.org/abs/2406.16544)|null|
+|**2024-06-24**|**Bijective BWT based compression schemes**|Golnaz Badkobeh et.al.|[2406.16475](http://arxiv.org/abs/2406.16475)|null|
+|**2024-06-24**|**Suppressing Uncertainties in Degradation Estimation for Blind Super-Resolution**|Junxiong Lin et.al.|[2406.16459](http://arxiv.org/abs/2406.16459)|null|
+|**2024-06-24**|**Approximate DCT and Quantization Techniques for Energy-Constrained Image Sensors**|Ming-Che Li et.al.|[2406.16358](http://arxiv.org/abs/2406.16358)|null|
+|**2024-06-24**|**Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging**|Deyuan Liu et.al.|[2406.16330](http://arxiv.org/abs/2406.16330)|null|
+|**2024-06-24**|**Low-Complexity CSI Feedback for FDD Massive MIMO Systems via Learning to Optimize**|Yifan Ma et.al.|[2406.16323](http://arxiv.org/abs/2406.16323)|null|
+|**2024-06-23**|**Monopole Excitation and Nuclear Compressibility: Present and Future Perspectives**|J. C. Zamora et.al.|[2406.16217](http://arxiv.org/abs/2406.16217)|null|
+|**2024-06-23**|**Towards unlocking the mystery of adversarial fragility of neural networks**|Jingchao Gao et.al.|[2406.16200](http://arxiv.org/abs/2406.16200)|null|
+|**2024-06-23**|**Decoder-only Architecture for Streaming End-to-end Speech Recognition**|Emiru Tsunoo et.al.|[2406.16107](http://arxiv.org/abs/2406.16107)|null|
+|**2024-06-23**|**LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction**|Hengyu Liu et.al.|[2406.16073](http://arxiv.org/abs/2406.16073)|null|
 |**2024-06-21**|**Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning**|Brandon Huang et.al.|[2406.15334](http://arxiv.org/abs/2406.15334)|null|
 |**2024-06-21**|**On the Computing and Communication Tradeoff in Reasoning-Based Multi-User Semantic Communications**|Nitisha Singh et.al.|[2406.15199](http://arxiv.org/abs/2406.15199)|null|
 |**2024-06-21**|**Phase transitions, Dirac and WSM states in $\mathrm{Mn}_{1-x} \mathrm{Ge}_x \mathrm{Bi}_2 \mathrm{Te}_4$**|A. M. Shikin et.al.|[2406.15065](http://arxiv.org/abs/2406.15065)|null|
