@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Differential error feedback for communication-efficient decentralized learning**|Roula Nassif et.al.|[2406.18418](http://arxiv.org/abs/2406.18418)|null|
+|**2024-06-26**|**Rauzy dimension and finite-state dimension**|Verónica Becher et.al.|[2406.18383](http://arxiv.org/abs/2406.18383)|null|
+|**2024-06-26**|**Efficient and Accurate Explanation Estimation with Distribution Compression**|Hubert Baniecki et.al.|[2406.18334](http://arxiv.org/abs/2406.18334)|null|
+|**2024-06-26**|**Molecular Diffusion Models with Virtual Receptors**|Matan Halfon et.al.|[2406.18330](http://arxiv.org/abs/2406.18330)|null|
+|**2024-06-26**|**AI-native Memory: A Pathway from LLMs Towards AGI**|Jingbo Shang et.al.|[2406.18312](http://arxiv.org/abs/2406.18312)|null|
+|**2024-06-26**|**Rebuttal of Morris' criticism of the diffusive compressible Euler model**|Magnus Svärd et.al.|[2406.18241](http://arxiv.org/abs/2406.18241)|null|
+|**2024-06-26**|**Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning**|Muhammad Salman Ali et.al.|[2406.18214](http://arxiv.org/abs/2406.18214)|null|
+|**2024-06-26**|**Wide-binary eccentricity distribution in young star clusters: dependence on the binary separation and mass**|S. S. Mathew et.al.|[2406.18184](http://arxiv.org/abs/2406.18184)|null|
+|**2024-06-26**|**LOOK-M: Look-Once Optimization in KV Cache for Efficient Multimodal Long-Context Inference**|Zhongwei Wan et.al.|[2406.18139](http://arxiv.org/abs/2406.18139)|null|
+|**2024-06-26**|**Rate-Distortion-Perception Tradeoff for Gaussian Vector Sources**|Jingjing Qian et.al.|[2406.18008](http://arxiv.org/abs/2406.18008)|null|
 |**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706](http://arxiv.org/abs/2406.17706)|null|
 |**2024-06-25**|**Understanding phase transitions of $α$ -quartz under dynamic compression conditions by machine-learning driven atomistic simulations**|Linus C. Erhard et.al.|[2406.17676](http://arxiv.org/abs/2406.17676)|null|
 |**2024-06-25**|**Distributed Training of Large Graph Neural Networks with Variable Communication Rates**|Juan Cervino et.al.|[2406.17611](http://arxiv.org/abs/2406.17611)|null|
