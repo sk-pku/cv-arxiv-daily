@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3097,9 +3097,9 @@ layout: default
 |**2024-06-25**|**Understanding phase transitions of $α$ -quartz under dynamic compression conditions by machine-learning driven atomistic simulations**|Linus C. Erhard et.al.|[2406.17676](http://arxiv.org/abs/2406.17676)|null|
 |**2024-06-25**|**Distributed Training of Large Graph Neural Networks with Variable Communication Rates**|Juan Cervino et.al.|[2406.17611](http://arxiv.org/abs/2406.17611)|null|
 |**2024-06-25**|**Detection of Synthetic Face Images: Accuracy, Robustness, Generalization**|Nela Petrzelkova et.al.|[2406.17547](http://arxiv.org/abs/2406.17547)|null|
-|**2024-06-25**|**CDQuant: Accurate Post-training Weight Quantization of Large Pre-trained Models using Greedy Coordinate Descent**|Pranav Ajit Nair et.al.|[2406.17542](http://arxiv.org/abs/2406.17542)|null|
+|**2024-06-26**|**CDQuant: Accurate Post-training Weight Quantization of Large Pre-trained Models using Greedy Coordinate Descent**|Pranav Ajit Nair et.al.|[2406.17542](http://arxiv.org/abs/2406.17542)|null|
 |**2024-06-25**|**Vanishing viscosity limit for the compressible Navier-Stokes equations with non-linear density dependent viscosities**|Luca Bisconti et.al.|[2406.17478](http://arxiv.org/abs/2406.17478)|null|
-|**2024-06-25**|**Variable Layer-Wise Quantization: A Simple and Effective Approach to Quantize LLMs**|Razvan-Gabriel Dumitru et.al.|[2406.17415](http://arxiv.org/abs/2406.17415)|null|
+|**2024-06-26**|**Layer-Wise Quantization: A Pragmatic and Effective Method for Quantizing LLMs Beyond Integer Bit-Levels**|Razvan-Gabriel Dumitru et.al.|[2406.17415](http://arxiv.org/abs/2406.17415)|null|
 |**2024-06-25**|**The equations of extended magnetohydrodynamics**|Christophe Cheverry et.al.|[2406.17356](http://arxiv.org/abs/2406.17356)|null|
 |**2024-06-25**|**Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers**|Lei Chen et.al.|[2406.17343](http://arxiv.org/abs/2406.17343)|null|
 |**2024-06-25**|**Robustly Optimized Deep Feature Decoupling Network for Fatty Liver Diseases Detection**|Peng Huang et.al.|[2406.17338](http://arxiv.org/abs/2406.17338)|null|
