@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3095,7 +3095,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-26**|**Differential error feedback for communication-efficient decentralized learning**|Roula Nassif et.al.|[2406.18418](http://arxiv.org/abs/2406.18418)|null|
 |**2024-06-26**|**Rauzy dimension and finite-state dimension**|Verónica Becher et.al.|[2406.18383](http://arxiv.org/abs/2406.18383)|null|
-|**2024-06-26**|**Efficient and Accurate Explanation Estimation with Distribution Compression**|Hubert Baniecki et.al.|[2406.18334](http://arxiv.org/abs/2406.18334)|null|
+|**2024-06-26**|**Efficient and Accurate Explanation Estimation with Distribution Compression**|Hubert Baniecki et.al.|[2406.18334](http://arxiv.org/abs/2406.18334)|**[link](https://github.com/hbaniecki/compress-then-explain)**|
 |**2024-06-26**|**Molecular Diffusion Models with Virtual Receptors**|Matan Halfon et.al.|[2406.18330](http://arxiv.org/abs/2406.18330)|null|
 |**2024-06-26**|**AI-native Memory: A Pathway from LLMs Towards AGI**|Jingbo Shang et.al.|[2406.18312](http://arxiv.org/abs/2406.18312)|null|
 |**2024-06-26**|**Rebuttal of Morris' criticism of the diffusive compressible Euler model**|Magnus Svärd et.al.|[2406.18241](http://arxiv.org/abs/2406.18241)|null|
