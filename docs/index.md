@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**MCNC: Manifold Constrained Network Compression**|Chayne Thrash et.al.|[2406.19301](http://arxiv.org/abs/2406.19301)|null|
+|**2024-06-27**|**PNeRV: A Polynomial Neural Representation for Videos**|Sonam Gupta et.al.|[2406.19299](http://arxiv.org/abs/2406.19299)|null|
+|**2024-06-27**|**Joint Channel and Data Estimation for Multiuser Extremely Large-Scale MIMO Systems**|Kabuto Arai et.al.|[2406.19289](http://arxiv.org/abs/2406.19289)|null|
+|**2024-06-27**|**Asymptotic stability of the equilibrium for the free boundary problem of a compressible atmospheric primitive model with physical vacuum**|Xin Liu et.al.|[2406.19259](http://arxiv.org/abs/2406.19259)|null|
+|**2024-06-27**|**AutoRAG-HP: Automatic Online Hyper-Parameter Tuning for Retrieval-Augmented Generation**|Jia Fu et.al.|[2406.19251](http://arxiv.org/abs/2406.19251)|null|
+|**2024-06-27**|**Staggered Quantizers for Perfect Perceptual Quality: A Connection between Quantizers with Common Randomness and Without**|Ruida Zhou et.al.|[2406.19248](http://arxiv.org/abs/2406.19248)|null|
+|**2024-06-27**|**T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for Memory-Efficient Embeddings**|Björn Deiseroth et.al.|[2406.19223](http://arxiv.org/abs/2406.19223)|null|
+|**2024-06-27**|**The Maclaurin spheroid in disguise. New figures of equilibrium with external magnetic support**|Jean-Marc Huré et.al.|[2406.19210](http://arxiv.org/abs/2406.19210)|null|
+|**2024-06-27**|**DocKylin: A Large Multimodal Model for Visual Document Understanding with Efficient Visual Slimming**|Jiaxin Zhang et.al.|[2406.19101](http://arxiv.org/abs/2406.19101)|null|
+|**2024-06-27**|**Exploiting Structured Sparsity in Near Field: From the Perspective of Decomposition**|Xufeng Guo et.al.|[2406.18985](http://arxiv.org/abs/2406.18985)|null|
 |**2024-06-26**|**Differential error feedback for communication-efficient decentralized learning**|Roula Nassif et.al.|[2406.18418](http://arxiv.org/abs/2406.18418)|null|
 |**2024-06-26**|**Rauzy dimension and finite-state dimension**|Verónica Becher et.al.|[2406.18383](http://arxiv.org/abs/2406.18383)|null|
 |**2024-06-26**|**Efficient and Accurate Explanation Estimation with Distribution Compression**|Hubert Baniecki et.al.|[2406.18334](http://arxiv.org/abs/2406.18334)|**[link](https://github.com/hbaniecki/compress-then-explain)**|
