@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression**|Jieneng Chen et.al.|[2406.20092](http://arxiv.org/abs/2406.20092)|**[link](https://github.com/beckschen/llavolta)**|
+|**2024-06-28**|**Wavelets Are All You Need for Autoregressive Image Generation**|Wael Mattar et.al.|[2406.19997](http://arxiv.org/abs/2406.19997)|null|
+|**2024-06-28**|**Single Parent Family: A Spectrum of Family Members from a Single Pre-Trained Foundation Model**|Habib Hajimolahoseini et.al.|[2406.19995](http://arxiv.org/abs/2406.19995)|null|
+|**2024-06-28**|**The pressureless damped Euler-Riesz system in the critical regularity framework**|Meiling Chi et.al.|[2406.19955](http://arxiv.org/abs/2406.19955)|null|
+|**2024-06-28**|**Fully Dynamic k-Means Coreset in Near-Optimal Update Time**|Max Dupré la Tour et.al.|[2406.19926](http://arxiv.org/abs/2406.19926)|null|
+|**2024-06-28**|**Deep Unfolding-Aided Parameter Tuning for Plug-and-Play Based Video Snapshot Compressive Imaging**|Takashi Matsuda et.al.|[2406.19870](http://arxiv.org/abs/2406.19870)|null|
+|**2024-06-28**|**Complexity Scaling of Liquid Dynamics**|Ian M. Douglass et.al.|[2406.19858](http://arxiv.org/abs/2406.19858)|null|
+|**2024-06-28**|**Compressible and immiscible fluids with arbitrary density ratio**|Fei Wang et.al.|[2406.19786](http://arxiv.org/abs/2406.19786)|null|
+|**2024-06-28**|**Momentum and kinetic energy transport in supersonic particle-laden turbulent boundary layers**|Ming Yu et.al.|[2406.19724](http://arxiv.org/abs/2406.19724)|null|
+|**2024-06-28**|**SAML: Speaker Adaptive Mixture of LoRA Experts for End-to-End ASR**|Qiuming Zhao et.al.|[2406.19706](http://arxiv.org/abs/2406.19706)|null|
 |**2024-06-27**|**MCNC: Manifold Constrained Network Compression**|Chayne Thrash et.al.|[2406.19301](http://arxiv.org/abs/2406.19301)|null|
 |**2024-06-27**|**PNeRV: A Polynomial Neural Representation for Videos**|Sonam Gupta et.al.|[2406.19299](http://arxiv.org/abs/2406.19299)|null|
 |**2024-06-28**|**Joint Channel and Data Estimation for Multiuser Extremely Large-Scale MIMO Systems**|Kabuto Arai et.al.|[2406.19289](http://arxiv.org/abs/2406.19289)|null|
