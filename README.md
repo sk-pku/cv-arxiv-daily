@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486](http://arxiv.org/abs/2407.02486)|**[link](https://github.com/alisafaya/neurocache)**|
+|**2024-07-02**|**Volume Tracking Based Reference Mesh Extraction for Time-Varying Mesh Compression**|Guodong Chen et.al.|[2407.02457](http://arxiv.org/abs/2407.02457)|null|
+|**2024-07-02**|**TokenPacker: Efficient Visual Projector for Multimodal LLM**|Wentong Li et.al.|[2407.02392](http://arxiv.org/abs/2407.02392)|**[link](https://github.com/circleradon/tokenpacker)**|
+|**2024-07-02**|**Hypersonic Boundary Layer Transition and Heat Loading**|Ahmad Peyvan et.al.|[2407.02311](http://arxiv.org/abs/2407.02311)|null|
+|**2024-07-02**|**Turbulent Diffuse Molecular Media with Non-ideal Magnetohydrodynamics and Consistent Thermochemistry: Numerical Simulations and Dynamic Characteristics**|Nannan Yue et.al.|[2407.02306](http://arxiv.org/abs/2407.02306)|null|
+|**2024-07-02**|**On the multicomponent reactive flows in moving domains**|Kuntal Bhandari et.al.|[2407.02303](http://arxiv.org/abs/2407.02303)|null|
+|**2024-07-02**|**Strategic Demand-Planning in Wireless Networks: Can Generative-AI Save Spectrum and Energy?**|Berk Çiloğlu et.al.|[2407.02292](http://arxiv.org/abs/2407.02292)|null|
+|**2024-07-02**|**PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning**|Jiaru Zou et.al.|[2407.02211](http://arxiv.org/abs/2407.02211)|null|
+|**2024-07-02**|**Kinetics of Rayleigh-Taylor instability in van der Waals fluid: the influence of compressibility**|Chen Jie et.al.|[2407.02139](http://arxiv.org/abs/2407.02139)|null|
+|**2024-07-02**|**LPViT: Low-Power Semi-structured Pruning for Vision Transformers**|Kaixin Xu et.al.|[2407.02068](http://arxiv.org/abs/2407.02068)|null|
 |**2024-06-28**|**LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression**|Jieneng Chen et.al.|[2406.20092](http://arxiv.org/abs/2406.20092)|**[link](https://github.com/beckschen/llavolta)**|
 |**2024-06-28**|**Wavelets Are All You Need for Autoregressive Image Generation**|Wael Mattar et.al.|[2406.19997](http://arxiv.org/abs/2406.19997)|null|
 |**2024-06-28**|**Single Parent Family: A Spectrum of Family Members from a Single Pre-Trained Foundation Model**|Habib Hajimolahoseini et.al.|[2406.19995](http://arxiv.org/abs/2406.19995)|null|
