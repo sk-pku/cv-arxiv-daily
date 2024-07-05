@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.04
+## Updated on 2024.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,7 +3093,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311](http://arxiv.org/abs/2407.03311)|null|
+|**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311](http://arxiv.org/abs/2407.03311)|**[link](https://github.com/utiasSTARS/vpace)**|
 |**2024-07-03**|**Novel Pressure-Equilibrium and Kinetic-Energy Preserving fluxes for compressible flows based on the harmonic mean**|Carlo De Michele et.al.|[2407.03299](http://arxiv.org/abs/2407.03299)|null|
 |**2024-07-03**|**Thermal and mechanical properties and the structural phase transition under pressure in $A$In$_2$As$_2$ ($A$ = Ca, Sr, Ba)**|Wen-Ti Guo et.al.|[2407.03290](http://arxiv.org/abs/2407.03290)|null|
 |**2024-07-03**|**Solving the inverse problem of microscopy deconvolution with a residual Beylkin-Coifman-Rokhlin neural network**|Rui Li et.al.|[2407.03239](http://arxiv.org/abs/2407.03239)|null|
