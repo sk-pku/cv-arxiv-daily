@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**TAPVid-3D: A Benchmark for Tracking Any Point in 3D**|Skanda Koppula et.al.|[2407.05921](http://arxiv.org/abs/2407.05921)|null|
+|**2024-07-08**|**Deep Learning-based CSI Feedback in Wi-Fi Systems**|Fan Qi et.al.|[2407.05905](http://arxiv.org/abs/2407.05905)|null|
+|**2024-07-08**|**SVT-AV1 Encoding Bitrate Estimation Using Motion Search Information**|Lena Eichermüller et.al.|[2407.05900](http://arxiv.org/abs/2407.05900)|null|
+|**2024-07-08**|**Wavefront shaping and imaging through a multimode hollow-core fiber**|Zhouping Lyu et.al.|[2407.05783](http://arxiv.org/abs/2407.05783)|null|
+|**2024-07-08**|**Compression using Quasi-Interpolation**|Martin Buhmann et.al.|[2407.05772](http://arxiv.org/abs/2407.05772)|null|
+|**2024-07-08**|**Collision energy dependence of elliptic flow of identified hadrons in heavy-ion collisions using the PHSD model**|B. Towseef et.al.|[2407.05722](http://arxiv.org/abs/2407.05722)|null|
+|**2024-07-08**|**Pruning Large Language Models to Intra-module Low-rank Architecture with Transitional Activations**|Bowen Shen et.al.|[2407.05690](http://arxiv.org/abs/2407.05690)|null|
+|**2024-07-08**|**Bulk high-temperature superconductivity in the high-pressure tetragonal phase of bilayer La2PrNi2O7**|Ningning Wang et.al.|[2407.05681](http://arxiv.org/abs/2407.05681)|null|
+|**2024-07-08**|**PCAC-GAN:ASparse-Tensor-Based Generative Adversarial Network for 3D Point Cloud Attribute Compression**|Xiaolong Mao et.al.|[2407.05677](http://arxiv.org/abs/2407.05677)|null|
+|**2024-07-08**|**High-order accurate entropy stable schemes for compressible Euler equations with van der Waals equation of state on adaptive moving meshes**|Shangting Li et.al.|[2407.05568](http://arxiv.org/abs/2407.05568)|null|
 |**2024-07-05**|**Partial Minimum Branching Program Size Problem is ETH-hard**|Ludmila Glinskih et.al.|[2407.04632](http://arxiv.org/abs/2407.04632)|null|
 |**2024-07-05**|**An autoencoder for compressing angle-resolved photoemission spectroscopy data**|Steinn Ymir Agustsson et.al.|[2407.04631](http://arxiv.org/abs/2407.04631)|null|
 |**2024-07-05**|**Resource-Efficient Speech Quality Prediction through Quantization Aware Training and Binary Activation Maps**|Mattias Nilsson et.al.|[2407.04578](http://arxiv.org/abs/2407.04578)|null|
