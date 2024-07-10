@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wang Wei et.al.|[2407.07056](http://arxiv.org/abs/2407.07056)|null|
+|**2024-07-09**|**Latent Space Imaging**|Matheus Souza et.al.|[2407.07052](http://arxiv.org/abs/2407.07052)|null|
+|**2024-07-09**|**Bow-shock structure of Sgr B molecular-cloud complex in the Galactic Centre inferred from 3D CO-line kinematics**|Yoshiaki Sofue et.al.|[2407.07013](http://arxiv.org/abs/2407.07013)|null|
+|**2024-07-09**|**Rethinking Image-to-Video Adaptation: An Object-centric Perspective**|Rui Qian et.al.|[2407.06871](http://arxiv.org/abs/2407.06871)|null|
+|**2024-07-09**|**ERQ: Error Reduction for Post-Training Quantization of Vision Transformers**|Yunshan Zhong et.al.|[2407.06794](http://arxiv.org/abs/2407.06794)|null|
+|**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
+|**2024-07-09**|**Realization of Conditional Operations through Transition Pathway Engineering**|Sheng Zhang et.al.|[2407.06687](http://arxiv.org/abs/2407.06687)|null|
+|**2024-07-09**|**Variational Learning ISTA**|Fabio Valerio Massoli et.al.|[2407.06646](http://arxiv.org/abs/2407.06646)|null|
+|**2024-07-09**|**Entropy Law: The Story Behind Data Compression and LLM Performance**|Mingjia Yin et.al.|[2407.06645](http://arxiv.org/abs/2407.06645)|null|
+|**2024-07-09**|**Rate-Loss Regions for Polynomial Regression with Side Information**|Jiahui Wei et.al.|[2407.06591](http://arxiv.org/abs/2407.06591)|null|
 |**2024-07-08**|**TAPVid-3D: A Benchmark for Tracking Any Point in 3D**|Skanda Koppula et.al.|[2407.05921](http://arxiv.org/abs/2407.05921)|null|
 |**2024-07-08**|**Deep Learning-based CSI Feedback in Wi-Fi Systems**|Fan Qi et.al.|[2407.05905](http://arxiv.org/abs/2407.05905)|null|
 |**2024-07-08**|**SVT-AV1 Encoding Bitrate Estimation Using Motion Search Information**|Lena Eichermüller et.al.|[2407.05900](http://arxiv.org/abs/2407.05900)|null|
