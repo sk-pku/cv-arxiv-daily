@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3101,7 +3101,7 @@ layout: default
 |**2024-07-08**|**Collision energy dependence of elliptic flow of identified hadrons in heavy-ion collisions using the PHSD model**|B. Towseef et.al.|[2407.05722](http://arxiv.org/abs/2407.05722)|null|
 |**2024-07-08**|**Pruning Large Language Models to Intra-module Low-rank Architecture with Transitional Activations**|Bowen Shen et.al.|[2407.05690](http://arxiv.org/abs/2407.05690)|null|
 |**2024-07-08**|**Bulk high-temperature superconductivity in the high-pressure tetragonal phase of bilayer La2PrNi2O7**|Ningning Wang et.al.|[2407.05681](http://arxiv.org/abs/2407.05681)|null|
-|**2024-07-08**|**PCAC-GAN:ASparse-Tensor-Based Generative Adversarial Network for 3D Point Cloud Attribute Compression**|Xiaolong Mao et.al.|[2407.05677](http://arxiv.org/abs/2407.05677)|null|
+|**2024-07-09**|**PCAC-GAN:ASparse-Tensor-Based Generative Adversarial Network for 3D Point Cloud Attribute Compression**|Xiaolong Mao et.al.|[2407.05677](http://arxiv.org/abs/2407.05677)|null|
 |**2024-07-08**|**High-order accurate entropy stable schemes for compressible Euler equations with van der Waals equation of state on adaptive moving meshes**|Shangting Li et.al.|[2407.05568](http://arxiv.org/abs/2407.05568)|null|
 |**2024-07-05**|**Partial Minimum Branching Program Size Problem is ETH-hard**|Ludmila Glinskih et.al.|[2407.04632](http://arxiv.org/abs/2407.04632)|null|
 |**2024-07-05**|**An autoencoder for compressing angle-resolved photoemission spectroscopy data**|Steinn Ymir Agustsson et.al.|[2407.04631](http://arxiv.org/abs/2407.04631)|null|
