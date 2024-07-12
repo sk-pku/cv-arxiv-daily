@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Domains in ferroelectric nitrides superlattices**|Zhijun Jiang et.al.|[2407.07859](http://arxiv.org/abs/2407.07859)|null|
+|**2024-07-10**|**SvANet: A Scale-variant Attention-based Network for Small Medical Object Segmentation**|Wei Dai et.al.|[2407.07720](http://arxiv.org/abs/2407.07720)|**[link](https://github.com/anthonyweidai/SvANet)**|
+|**2024-07-10**|**Localizing axial dense emitters based onsingle-helix point spread function andcompressed sensing**|Hanzhe Wu et.al.|[2407.07681](http://arxiv.org/abs/2407.07681)|null|
+|**2024-07-10**|**The Solar and Geomagnetic Storms in May 2024: A Flash Data Report**|Hisashi Hayakawa et.al.|[2407.07665](http://arxiv.org/abs/2407.07665)|null|
+|**2024-07-10**|**A Transverse-Read-assisted Valid-Bit Collection to Accelerate Stochastic Conmputing MAC for Energy-Efficient in-RTM DNNs**|Jihe Wang et.al.|[2407.07476](http://arxiv.org/abs/2407.07476)|null|
+|**2024-07-10**|**Using Low-Discrepancy Points for Data Compression in Machine Learning: An Experimental Comparison**|Simone Göttlich et.al.|[2407.07450](http://arxiv.org/abs/2407.07450)|null|
+|**2024-07-10**|**Alternating Subspace Approximate Message Passing**|Xu Zhu et.al.|[2407.07436](http://arxiv.org/abs/2407.07436)|null|
+|**2024-07-10**|**Standard compliant video coding using low complexity, switchable neural wrappers**|Yueyu Hu et.al.|[2407.07395](http://arxiv.org/abs/2407.07395)|null|
+|**2024-07-10**|**Data-driven Bayesian State Estimation with Compressed Measurement of Model-free Process using Semi-supervised Learning**|Anubhab Ghosh et.al.|[2407.07368](http://arxiv.org/abs/2407.07368)|null|
+|**2024-07-10**|**Ferromagnetic polar metals via epitaxial strain: a case study of SrCoO $_3$**|Zhiwei Liu et.al.|[2407.07349](http://arxiv.org/abs/2407.07349)|null|
 |**2024-07-10**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wei Wang et.al.|[2407.07056](http://arxiv.org/abs/2407.07056)|null|
 |**2024-07-09**|**Latent Space Imaging**|Matheus Souza et.al.|[2407.07052](http://arxiv.org/abs/2407.07052)|null|
 |**2024-07-09**|**Bow-shock structure of Sgr B molecular-cloud complex in the Galactic Centre inferred from 3D CO-line kinematics**|Yoshiaki Sofue et.al.|[2407.07013](http://arxiv.org/abs/2407.07013)|null|
