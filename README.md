@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -514,7 +514,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
 
 ## SFM
 
@@ -724,7 +724,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1530,7 +1530,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1761,7 +1761,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2000,7 +2000,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
 
 ## NeRF
 
@@ -3108,12 +3108,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
 
 ## Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models**|Runhui Huang et.al.|[2407.08706](http://arxiv.org/abs/2407.08706)|null|
+|**2024-07-11**|**Autoregressive Speech Synthesis without Vector Quantization**|Lingwei Meng et.al.|[2407.08551](http://arxiv.org/abs/2407.08551)|null|
+|**2024-07-11**|**OMR-NET: a two-stage octave multi-scale residual network for screen content image compression**|Shiqi Jiang et.al.|[2407.08545](http://arxiv.org/abs/2407.08545)|null|
+|**2024-07-11**|**Enhancing octree-based context models for point cloud geometry compression with attention-based child node number prediction**|Chang Sun et.al.|[2407.08528](http://arxiv.org/abs/2407.08528)|null|
+|**2024-07-11**|**Enhancing context models for point cloud geometry compression with context feature residuals and multi-loss**|Chang Sun et.al.|[2407.08520](http://arxiv.org/abs/2407.08520)|null|
+|**2024-07-11**|**Distributed Deep Reinforcement Learning Based Gradient Quantization for Federated Learning Enabled Vehicle Edge Computing**|Cui Zhang et.al.|[2407.08462](http://arxiv.org/abs/2407.08462)|null|
+|**2024-07-11**|**Model Tells You Where to Merge: Adaptive KV Cache Merging for LLMs on Long-Context Tasks**|Zheng Wang et.al.|[2407.08454](http://arxiv.org/abs/2407.08454)|null|
+|**2024-07-11**|**Polynomial tail solutions of the non-cutoff Boltzmann equation near local Maxwellians**|Renjun Duan et.al.|[2407.08346](http://arxiv.org/abs/2407.08346)|null|
+|**2024-07-11**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
+|**2024-07-11**|**PowerYOLO: Mixed Precision Model for Hardware Efficient Object Detection with Event Data**|Dominika Przewlocka-Rus et.al.|[2407.08272](http://arxiv.org/abs/2407.08272)|null|
 |**2024-07-10**|**Domains in ferroelectric nitrides superlattices**|Zhijun Jiang et.al.|[2407.07859](http://arxiv.org/abs/2407.07859)|null|
 |**2024-07-10**|**SvANet: A Scale-variant Attention-based Network for Small Medical Object Segmentation**|Wei Dai et.al.|[2407.07720](http://arxiv.org/abs/2407.07720)|**[link](https://github.com/anthonyweidai/SvANet)**|
 |**2024-07-10**|**Localizing axial dense emitters based onsingle-helix point spread function andcompressed sensing**|Hanzhe Wu et.al.|[2407.07681](http://arxiv.org/abs/2407.07681)|null|
@@ -3275,7 +3285,7 @@
 |**2024-06-14**|**Robust compressive tracking via online weighted multiple instance learning**|Sandeep Singh Sengar et.al.|[2406.09914](http://arxiv.org/abs/2406.09914)|null|
 |**2024-06-14**|**QQQ: Quality Quattuor-Bit Quantization for Large Language Models**|Ying Zhang et.al.|[2406.09904](http://arxiv.org/abs/2406.09904)|**[link](https://github.com/HandH1998/QQQ)**|
 
-<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

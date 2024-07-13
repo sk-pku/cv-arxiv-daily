@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models**|Runhui Huang et.al.|[2407.08706](http://arxiv.org/abs/2407.08706)|null|
+|**2024-07-11**|**Autoregressive Speech Synthesis without Vector Quantization**|Lingwei Meng et.al.|[2407.08551](http://arxiv.org/abs/2407.08551)|null|
+|**2024-07-11**|**OMR-NET: a two-stage octave multi-scale residual network for screen content image compression**|Shiqi Jiang et.al.|[2407.08545](http://arxiv.org/abs/2407.08545)|null|
+|**2024-07-11**|**Enhancing octree-based context models for point cloud geometry compression with attention-based child node number prediction**|Chang Sun et.al.|[2407.08528](http://arxiv.org/abs/2407.08528)|null|
+|**2024-07-11**|**Enhancing context models for point cloud geometry compression with context feature residuals and multi-loss**|Chang Sun et.al.|[2407.08520](http://arxiv.org/abs/2407.08520)|null|
+|**2024-07-11**|**Distributed Deep Reinforcement Learning Based Gradient Quantization for Federated Learning Enabled Vehicle Edge Computing**|Cui Zhang et.al.|[2407.08462](http://arxiv.org/abs/2407.08462)|null|
+|**2024-07-11**|**Model Tells You Where to Merge: Adaptive KV Cache Merging for LLMs on Long-Context Tasks**|Zheng Wang et.al.|[2407.08454](http://arxiv.org/abs/2407.08454)|null|
+|**2024-07-11**|**Polynomial tail solutions of the non-cutoff Boltzmann equation near local Maxwellians**|Renjun Duan et.al.|[2407.08346](http://arxiv.org/abs/2407.08346)|null|
+|**2024-07-11**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
+|**2024-07-11**|**PowerYOLO: Mixed Precision Model for Hardware Efficient Object Detection with Event Data**|Dominika Przewlocka-Rus et.al.|[2407.08272](http://arxiv.org/abs/2407.08272)|null|
 |**2024-07-10**|**Domains in ferroelectric nitrides superlattices**|Zhijun Jiang et.al.|[2407.07859](http://arxiv.org/abs/2407.07859)|null|
 |**2024-07-10**|**SvANet: A Scale-variant Attention-based Network for Small Medical Object Segmentation**|Wei Dai et.al.|[2407.07720](http://arxiv.org/abs/2407.07720)|**[link](https://github.com/anthonyweidai/SvANet)**|
 |**2024-07-10**|**Localizing axial dense emitters based onsingle-helix point spread function andcompressed sensing**|Hanzhe Wu et.al.|[2407.07681](http://arxiv.org/abs/2407.07681)|null|
