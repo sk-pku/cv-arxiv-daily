@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3101,7 +3101,7 @@ layout: default
 |**2024-07-11**|**Distributed Deep Reinforcement Learning Based Gradient Quantization for Federated Learning Enabled Vehicle Edge Computing**|Cui Zhang et.al.|[2407.08462](http://arxiv.org/abs/2407.08462)|null|
 |**2024-07-11**|**Model Tells You Where to Merge: Adaptive KV Cache Merging for LLMs on Long-Context Tasks**|Zheng Wang et.al.|[2407.08454](http://arxiv.org/abs/2407.08454)|null|
 |**2024-07-11**|**Polynomial tail solutions of the non-cutoff Boltzmann equation near local Maxwellians**|Renjun Duan et.al.|[2407.08346](http://arxiv.org/abs/2407.08346)|null|
-|**2024-07-11**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
+|**2024-07-12**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
 |**2024-07-11**|**PowerYOLO: Mixed Precision Model for Hardware Efficient Object Detection with Event Data**|Dominika Przewlocka-Rus et.al.|[2407.08272](http://arxiv.org/abs/2407.08272)|null|
 |**2024-07-10**|**Domains in ferroelectric nitrides superlattices**|Zhijun Jiang et.al.|[2407.07859](http://arxiv.org/abs/2407.07859)|null|
 |**2024-07-10**|**SvANet: A Scale-variant Attention-based Network for Small Medical Object Segmentation**|Wei Dai et.al.|[2407.07720](http://arxiv.org/abs/2407.07720)|**[link](https://github.com/anthonyweidai/SvANet)**|
