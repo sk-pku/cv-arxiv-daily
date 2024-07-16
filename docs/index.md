@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|null|
+|**2024-07-15**|**In-Loop Filtering via Trained Look-Up Tables**|Zhuoyuan Li et.al.|[2407.10926](http://arxiv.org/abs/2407.10926)|null|
+|**2024-07-15**|**Optimal Neural Summarisation for Full-Field Weak Lensing Cosmological Implicit Inference**|Denise Lanzieri et.al.|[2407.10877](http://arxiv.org/abs/2407.10877)|null|
+|**2024-07-15**|**Cut-Preserving Vertex Sparsifiers for Planar and Quasi-bipartite Graphs**|Yu Chen et.al.|[2407.10852](http://arxiv.org/abs/2407.10852)|null|
+|**2024-07-15**|**MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration**|Yulin Ren et.al.|[2407.10833](http://arxiv.org/abs/2407.10833)|null|
+|**2024-07-15**|**From Structural Stability to Electronic Flexibility: Unveiling Strain-induced Effects in a MoS $_2$ /Perylene Orange Hybrid System**|Mohammed El Amine Miloudi et.al.|[2407.10757](http://arxiv.org/abs/2407.10757)|null|
+|**2024-07-15**|**Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model**|Zhening Liu et.al.|[2407.10632](http://arxiv.org/abs/2407.10632)|null|
+|**2024-07-15**|**Reevaluating the cosmological redshift: insights into inhomogeneities and irreversible processes**|P. Tremblin et.al.|[2407.10622](http://arxiv.org/abs/2407.10622)|null|
+|**2024-07-15**|**Efficient Continual Learning with Low Memory Footprint For Edge Device**|Zeqing Wang et.al.|[2407.10545](http://arxiv.org/abs/2407.10545)|null|
+|**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 |**2024-07-12**|**Nearly-Tight Bounds for Flow Sparsifiers in Quasi-Bipartite Graphs**|Syamantak Das et.al.|[2407.09433](http://arxiv.org/abs/2407.09433)|null|
 |**2024-07-12**|**Context Embeddings for Efficient Answer Generation in RAG**|David Rau et.al.|[2407.09252](http://arxiv.org/abs/2407.09252)|null|
 |**2024-07-12**|**Tensor networks enable the calculation of turbulence probability distributions**|Nikita Gourianov et.al.|[2407.09169](http://arxiv.org/abs/2407.09169)|null|
