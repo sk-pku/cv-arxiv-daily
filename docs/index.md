@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946](http://arxiv.org/abs/2407.11946)|**[link](https://github.com/pwangcs/hisvit)**|
+|**2024-07-16**|**Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data**|Tim Elsner et.al.|[2407.11913](http://arxiv.org/abs/2407.11913)|null|
+|**2024-07-16**|**GraphFM: A Scalable Framework for Multi-Graph Pretraining**|Divyansha Lachi et.al.|[2407.11907](http://arxiv.org/abs/2407.11907)|null|
+|**2024-07-16**|**High-order conservative and accurately dissipative numerical integrators via auxiliary variables**|Boris D. Andrews et.al.|[2407.11904](http://arxiv.org/abs/2407.11904)|null|
+|**2024-07-16**|**Thermodynamics and density fluctuations in a bilayer Hubbard system of ultracold atoms**|J. Samland et.al.|[2407.11863](http://arxiv.org/abs/2407.11863)|null|
+|**2024-07-16**|**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**|Zhuoxiao Li et.al.|[2407.11840](http://arxiv.org/abs/2407.11840)|null|
+|**2024-07-16**|**Text Indexing for Long Patterns using Locally Consistent Anchors**|Lorraine A. K. Ayad et.al.|[2407.11819](http://arxiv.org/abs/2407.11819)|null|
+|**2024-07-16**|**Speckle-based 3D sub-diffraction imaging through a multimode fiber**|Zhouping Lyu et.al.|[2407.11796](http://arxiv.org/abs/2407.11796)|null|
+|**2024-07-16**|**Compressive Electron Backscatter Diffraction Imaging**|Zoë Broad et.al.|[2407.11724](http://arxiv.org/abs/2407.11724)|null|
+|**2024-07-16**|**Rate-Distortion-Cognition Controllable Versatile Neural Image Compression**|Jinming Liu et.al.|[2407.11700](http://arxiv.org/abs/2407.11700)|null|
 |**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|null|
 |**2024-07-15**|**In-Loop Filtering via Trained Look-Up Tables**|Zhuoyuan Li et.al.|[2407.10926](http://arxiv.org/abs/2407.10926)|null|
 |**2024-07-15**|**Optimal Neural Summarisation for Full-Field Weak Lensing Cosmological Implicit Inference**|Denise Lanzieri et.al.|[2407.10877](http://arxiv.org/abs/2407.10877)|null|
