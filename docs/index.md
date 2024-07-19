@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3096,7 +3096,7 @@ layout: default
 |**2024-07-17**|**Generalized Scaling of the Turbulence Structure in Wall-Bounded Flows**|T. -W. Lee et.al.|[2407.12765](http://arxiv.org/abs/2407.12765)|null|
 |**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753](http://arxiv.org/abs/2407.12753)|null|
 |**2024-07-17**|**"Halfway to Rayleigh" and other Insights to the Rossby Wave Instability**|Eonho Chang et.al.|[2407.12722](http://arxiv.org/abs/2407.12722)|null|
-|**2024-07-17**|**SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow**|Yuanzhi Zhu et.al.|[2407.12718](http://arxiv.org/abs/2407.12718)|null|
+|**2024-07-18**|**SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow**|Yuanzhi Zhu et.al.|[2407.12718](http://arxiv.org/abs/2407.12718)|**[link](https://github.com/yuanzhi-zhu/SlimFlow)**|
 |**2024-07-17**|**Patch-Level Training for Large Language Models**|Chenze Shao et.al.|[2407.12665](http://arxiv.org/abs/2407.12665)|**[link](https://github.com/shaochenze/patchtrain)**|
 |**2024-07-17**|**Entropy-Stable Model Reduction of One-Dimensional Hyperbolic Systems using Rational Quadratic Manifolds**|Robin Klein et.al.|[2407.12627](http://arxiv.org/abs/2407.12627)|null|
 |**2024-07-17**|**High Frequency Matters: Uncertainty Guided Image Compression with Wavelet Diffusion**|Juan Song et.al.|[2407.12538](http://arxiv.org/abs/2407.12538)|**[link](https://github.com/hejiaxiang1/wavelet-diffusion)**|
