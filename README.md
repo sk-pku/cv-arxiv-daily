@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Isospin Pomeranchuk effect and finite temperature resistivity minimum in rhombohedral graphene**|Ludwig Holleis et.al.|[2407.13763](http://arxiv.org/abs/2407.13763)|null|
+|**2024-07-18**|**On the consistency of rotation curves and spatially integrated HI flux profiles**|Tariq Yasin et.al.|[2407.13754](http://arxiv.org/abs/2407.13754)|null|
+|**2024-07-18**|**Compressing Structured Tensor Algebra**|Mahdi Ghorbani et.al.|[2407.13726](http://arxiv.org/abs/2407.13726)|null|
+|**2024-07-18**|**Characterizing hydrogel behavior under compression with gel-freezing osmometry**|Yanxia Feng et.al.|[2407.13718](http://arxiv.org/abs/2407.13718)|null|
+|**2024-07-18**|**Projection-based model-order reduction for unstructured meshes with graph autoencoders**|Liam K. Magargal et.al.|[2407.13669](http://arxiv.org/abs/2407.13669)|null|
+|**2024-07-18**|**On global dynamics of $3$ -D irrotational compressible fluids**|Qian Wang et.al.|[2407.13649](http://arxiv.org/abs/2407.13649)|null|
+|**2024-07-18**|**Simulating the Impact of Baffling on Divertor Performance Using SOLPS-ITER**|Cyd Cowley et.al.|[2407.13501](http://arxiv.org/abs/2407.13501)|null|
+|**2024-07-18**|**Training Foundation Models as Data Compression: On Information, Model Weights and Copyright Law**|Giorgio Franceschelli et.al.|[2407.13493](http://arxiv.org/abs/2407.13493)|null|
+|**2024-07-18**|**Empowering 5G PRS-Based ISAC with Compressed Sensing**|Esen Ozbay et.al.|[2407.13478](http://arxiv.org/abs/2407.13478)|null|
+|**2024-07-18**|**NeuroPlug: Plugging Side-Channel Leaks in NPUs using Space Filling Curves**|Nivedita Shrivastava et.al.|[2407.13383](http://arxiv.org/abs/2407.13383)|null|
 |**2024-07-17**|**Generalized Scaling of the Turbulence Structure in Wall-Bounded Flows**|T. -W. Lee et.al.|[2407.12765](http://arxiv.org/abs/2407.12765)|null|
 |**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753](http://arxiv.org/abs/2407.12753)|null|
 |**2024-07-17**|**"Halfway to Rayleigh" and other Insights to the Rossby Wave Instability**|Eonho Chang et.al.|[2407.12722](http://arxiv.org/abs/2407.12722)|null|
