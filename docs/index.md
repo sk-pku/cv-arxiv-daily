@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3097,7 +3097,7 @@ layout: default
 |**2024-07-18**|**On the consistency of rotation curves and spatially integrated HI flux profiles**|Tariq Yasin et.al.|[2407.13754](http://arxiv.org/abs/2407.13754)|null|
 |**2024-07-18**|**Compressing Structured Tensor Algebra**|Mahdi Ghorbani et.al.|[2407.13726](http://arxiv.org/abs/2407.13726)|null|
 |**2024-07-18**|**Characterizing hydrogel behavior under compression with gel-freezing osmometry**|Yanxia Feng et.al.|[2407.13718](http://arxiv.org/abs/2407.13718)|null|
-|**2024-07-18**|**Projection-based model-order reduction for unstructured meshes with graph autoencoders**|Liam K. Magargal et.al.|[2407.13669](http://arxiv.org/abs/2407.13669)|null|
+|**2024-07-19**|**Projection-based model-order reduction for unstructured meshes with graph autoencoders**|Liam K. Magargal et.al.|[2407.13669](http://arxiv.org/abs/2407.13669)|null|
 |**2024-07-18**|**On global dynamics of $3$ -D irrotational compressible fluids**|Qian Wang et.al.|[2407.13649](http://arxiv.org/abs/2407.13649)|null|
 |**2024-07-18**|**Simulating the Impact of Baffling on Divertor Performance Using SOLPS-ITER**|Cyd Cowley et.al.|[2407.13501](http://arxiv.org/abs/2407.13501)|null|
 |**2024-07-18**|**Training Foundation Models as Data Compression: On Information, Model Weights and Copyright Law**|Giorgio Franceschelli et.al.|[2407.13493](http://arxiv.org/abs/2407.13493)|null|
