@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**|Atharva Mete et.al.|[2407.15840](http://arxiv.org/abs/2407.15840)|null|
+|**2024-07-22**|**Reinterpretation of the Fermi acceleration of cosmic rays in terms of the ballistic surfing acceleration in supernova shocks**|Krzysztof Stasiewicz et.al.|[2407.15767](http://arxiv.org/abs/2407.15767)|null|
+|**2024-07-22**|**Online String Attractors**|Philip Whittington et.al.|[2407.15599](http://arxiv.org/abs/2407.15599)|null|
+|**2024-07-22**|**Decomposition of Neural Discrete Representations for Large-Scale 3D Mapping**|Minseong Park et.al.|[2407.15554](http://arxiv.org/abs/2407.15554)|**[link](https://github.com/minseong-p/dnmap)**|
+|**2024-07-22**|**Differentiable Product Quantization for Memory Efficient Camera Relocalization**|Zakaria Laskar et.al.|[2407.15540](http://arxiv.org/abs/2407.15540)|null|
+|**2024-07-22**|**Double Deep Learning-based Event Data Coding and Classification**|Abdelrahman Seleem et.al.|[2407.15531](http://arxiv.org/abs/2407.15531)|null|
+|**2024-07-22**|**Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models**|Adway Girish et.al.|[2407.15504](http://arxiv.org/abs/2407.15504)|null|
+|**2024-07-22**|**Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models**|Feifan Zhang et.al.|[2407.15335](http://arxiv.org/abs/2407.15335)|null|
+|**2024-07-22**|**Spectral properties of bright deposits in permanently shadowed craters on Ceres**|Stefan Schröder et.al.|[2407.15327](http://arxiv.org/abs/2407.15327)|null|
+|**2024-07-21**|**Strong Observational Support for the R_h=ct Timeline in the Early Universe**|Fulvio Melia et.al.|[2407.15279](http://arxiv.org/abs/2407.15279)|null|
 |**2024-07-19**|**Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding**|Renshan Zhang et.al.|[2407.14439](http://arxiv.org/abs/2407.14439)|**[link](https://github.com/JiuTian-VL/TokenCorrCompressor)**|
 |**2024-07-19**|**Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition**|Yurong Zhang et.al.|[2407.14302](http://arxiv.org/abs/2407.14302)|null|
 |**2024-07-19**|**A Benchmark for Gaussian Splatting Compression and Quality Assessment Study**|Qi Yang et.al.|[2407.14197](http://arxiv.org/abs/2407.14197)|**[link](https://github.com/qi-yangsjtu/ggsc)**|
