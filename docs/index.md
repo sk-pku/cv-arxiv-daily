@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Rank-reduced equation-of-motion coupled cluster triples: an accurate and affordable way of calculating electronic excitation energies**|Piotr Michalak et.al.|[2407.16572](http://arxiv.org/abs/2407.16572)|null|
+|**2024-07-23**|**Complementary Speckle STED Microscopy**|Payvand Arjmand et.al.|[2407.16493](http://arxiv.org/abs/2407.16493)|null|
+|**2024-07-23**|**Performance Analysis of Fronthaul Compression in Massive MIMO Receiver**|Roman Bychkov et.al.|[2407.16478](http://arxiv.org/abs/2407.16478)|null|
+|**2024-07-23**|**Positive pressure matters in acoustic droplet vaporization**|Samuele Fiorini et.al.|[2407.16455](http://arxiv.org/abs/2407.16455)|null|
+|**2024-07-23**|**Accelerating Learned Video Compression via Low-Resolution Representation Learning**|Zidian Qiu et.al.|[2407.16418](http://arxiv.org/abs/2407.16418)|null|
+|**2024-07-23**|**Equation of state of nuclear matter from collective flows and stopping in intermediate energy heavy-ion collisions**|Dan Cozma et.al.|[2407.16411](http://arxiv.org/abs/2407.16411)|null|
+|**2024-07-23**|**Low Mach number Limit of Steady Thermally Driven Fluid**|Feimin Huang et.al.|[2407.16400](http://arxiv.org/abs/2407.16400)|null|
+|**2024-07-23**|**FCNR: Fast Compressive Neural Representation of Visualization Images**|Yunfei Lu et.al.|[2407.16369](http://arxiv.org/abs/2407.16369)|null|
+|**2024-07-23**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357](http://arxiv.org/abs/2407.16357)|null|
+|**2024-07-23**|**A Lossless Compression Technique for the Downlink Control Information Message**|Bryan Liu et.al.|[2407.16319](http://arxiv.org/abs/2407.16319)|null|
 |**2024-07-23**|**QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**|Atharva Mete et.al.|[2407.15840](http://arxiv.org/abs/2407.15840)|null|
 |**2024-07-22**|**Reinterpretation of the Fermi acceleration of cosmic rays in terms of the ballistic surfing acceleration in supernova shocks**|Krzysztof Stasiewicz et.al.|[2407.15767](http://arxiv.org/abs/2407.15767)|null|
 |**2024-07-22**|**Online String Attractors**|Philip Whittington et.al.|[2407.15599](http://arxiv.org/abs/2407.15599)|null|
