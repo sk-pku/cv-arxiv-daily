@@ -3114,6 +3114,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Long-time behavior to the 3D isentropic compressible Navier-Stokes equations**|Guochun Wu et.al.|[2407.17439](http://arxiv.org/abs/2407.17439)|null|
+|**2024-07-24**|**(PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork**|Tianjin Huang et.al.|[2407.17412](http://arxiv.org/abs/2407.17412)|null|
+|**2024-07-24**|**Lossy Data Compression By Adaptive Mesh Coarsening**|N. Böing et.al.|[2407.17316](http://arxiv.org/abs/2407.17316)|null|
+|**2024-07-24**|**Weyl Semimetallic Phase in High Pressure CrSb $_2$ and Structural Compression Studies of its High Pressure Polymorphs**|Carl Jonas Linnemann et.al.|[2407.17136](http://arxiv.org/abs/2407.17136)|null|
+|**2024-07-24**|**High Efficiency Image Compression for Large Visual-Language Models**|Binzhe Li et.al.|[2407.17060](http://arxiv.org/abs/2407.17060)|null|
+|**2024-07-24**|**ACA CO(J=2-1) Mapping of the Nearest Spiral Galaxy M33. II. Exploring the Evolution of Giant Molecular Clouds**|Ayu Konishi et.al.|[2407.17018](http://arxiv.org/abs/2407.17018)|null|
+|**2024-07-24**|**Subspace Constrained Variational Bayesian Inference for Structured Compressive Sensing with a Dynamic Grid**|An Liu et.al.|[2407.16947](http://arxiv.org/abs/2407.16947)|null|
+|**2024-07-23**|**SPLAT: A framework for optimised GPU code-generation for SParse reguLar ATtention**|Ahan Gupta et.al.|[2407.16847](http://arxiv.org/abs/2407.16847)|null|
 |**2024-07-23**|**Rank-reduced equation-of-motion coupled cluster triples: an accurate and affordable way of calculating electronic excitation energies**|Piotr Michalak et.al.|[2407.16572](http://arxiv.org/abs/2407.16572)|null|
 |**2024-07-23**|**Complementary Speckle STED Microscopy**|Payvand Arjmand et.al.|[2407.16493](http://arxiv.org/abs/2407.16493)|null|
 |**2024-07-23**|**Performance Analysis of Fronthaul Compression in Massive MIMO Receiver**|Roman Bychkov et.al.|[2407.16478](http://arxiv.org/abs/2407.16478)|null|
