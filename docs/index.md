@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3098,9 +3098,9 @@ layout: default
 |**2024-07-23**|**Performance Analysis of Fronthaul Compression in Massive MIMO Receiver**|Roman Bychkov et.al.|[2407.16478](http://arxiv.org/abs/2407.16478)|null|
 |**2024-07-23**|**Positive pressure matters in acoustic droplet vaporization**|Samuele Fiorini et.al.|[2407.16455](http://arxiv.org/abs/2407.16455)|null|
 |**2024-07-23**|**Accelerating Learned Video Compression via Low-Resolution Representation Learning**|Zidian Qiu et.al.|[2407.16418](http://arxiv.org/abs/2407.16418)|null|
-|**2024-07-23**|**Equation of state of nuclear matter from collective flows and stopping in intermediate energy heavy-ion collisions**|Dan Cozma et.al.|[2407.16411](http://arxiv.org/abs/2407.16411)|null|
+|**2024-07-24**|**Equation of state of nuclear matter from collective flows and stopping in intermediate energy heavy-ion collisions**|Dan Cozma et.al.|[2407.16411](http://arxiv.org/abs/2407.16411)|null|
 |**2024-07-23**|**Low Mach number Limit of Steady Thermally Driven Fluid**|Feimin Huang et.al.|[2407.16400](http://arxiv.org/abs/2407.16400)|null|
-|**2024-07-23**|**FCNR: Fast Compressive Neural Representation of Visualization Images**|Yunfei Lu et.al.|[2407.16369](http://arxiv.org/abs/2407.16369)|null|
+|**2024-07-24**|**FCNR: Fast Compressive Neural Representation of Visualization Images**|Yunfei Lu et.al.|[2407.16369](http://arxiv.org/abs/2407.16369)|**[link](https://github.com/yunfeilu0112/fcnr)**|
 |**2024-07-23**|**TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou**|Zihua Si et.al.|[2407.16357](http://arxiv.org/abs/2407.16357)|null|
 |**2024-07-23**|**A Lossless Compression Technique for the Downlink Control Information Message**|Bryan Liu et.al.|[2407.16319](http://arxiv.org/abs/2407.16319)|null|
 |**2024-07-23**|**QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**|Atharva Mete et.al.|[2407.15840](http://arxiv.org/abs/2407.15840)|null|
