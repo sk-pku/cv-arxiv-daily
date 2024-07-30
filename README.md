@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**ImagiNet: A Multi-Content Dataset for Generalizable Synthetic Image Detection via Contrastive Learning**|Delyan Boychev et.al.|[2407.20020](http://arxiv.org/abs/2407.20020)|**[link](https://github.com/delyan-boychev/imaginet)**|
+|**2024-07-29**|**Robust Conformal Volume Estimation in 3D Medical Images**|Benjamin Lambert et.al.|[2407.19938](http://arxiv.org/abs/2407.19938)|**[link](https://github.com/benolmbrt/wcp_miccai)**|
+|**2024-07-29**|**Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations**|Giovanni Catalani et.al.|[2407.19916](http://arxiv.org/abs/2407.19916)|null|
+|**2024-07-29**|**Design and Testing for Steel Support Axial Force Servo System**|Sana Ullah et.al.|[2407.19867](http://arxiv.org/abs/2407.19867)|null|
+|**2024-07-29**|**Deep Image Priors for Magnetic Resonance Fingerprinting with pretrained Bloch-consistent denoising autoencoders**|Perla Mayo et.al.|[2407.19866](http://arxiv.org/abs/2407.19866)|null|
+|**2024-07-29**|**Model Agnostic Hybrid Sharding For Heterogeneous Distributed Inference**|Claudio Angione et.al.|[2407.19775](http://arxiv.org/abs/2407.19775)|null|
+|**2024-07-29**|**ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck**|Chia-Hao Kao et.al.|[2407.19651](http://arxiv.org/abs/2407.19651)|null|
+|**2024-07-29**|**Foundations for Unfairness in Anomaly Detection -- Case Studies in Facial Imaging Data**|Michael Livanos et.al.|[2407.19646](http://arxiv.org/abs/2407.19646)|null|
+|**2024-07-29**|**Realizing Unaligned Block-wise Pruning for DNN Acceleration on Mobile Devices**|Hayun Lee et.al.|[2407.19644](http://arxiv.org/abs/2407.19644)|null|
+|**2024-07-28**|**Mixture of Modular Experts: Distilling Knowledge from a Multilingual Teacher into Specialized Modular Language Models**|Mohammed Al-Maamari et.al.|[2407.19610](http://arxiv.org/abs/2407.19610)|**[link](https://github.com/padas-lab-de/multi-language-dataset-creator)**|
 |**2024-07-26**|**Hybrid summary statistics: neural weak lensing inference beyond the power spectrum**|T. Lucas Makinen et.al.|[2407.18909](http://arxiv.org/abs/2407.18909)|null|
 |**2024-07-26**|**Time discretization in visco-elastodynamics at large displacements and strains in the Eulerian frame**|Tomáš Roubíček et.al.|[2407.18799](http://arxiv.org/abs/2407.18799)|null|
 |**2024-07-26**|**Three-dimensional multi-physics simulation and sensitivity analysis of cyclic hydrogen storage in salt caverns**|Hermínio Tasinafo Honório et.al.|[2407.18777](http://arxiv.org/abs/2407.18777)|null|
