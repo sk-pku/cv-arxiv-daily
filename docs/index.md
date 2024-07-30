@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3101,7 +3101,7 @@ layout: default
 |**2024-07-26**|**Hierarchical Super-Localized Orthogonal Decomposition Method**|Jose C. Garay et.al.|[2407.18671](http://arxiv.org/abs/2407.18671)|null|
 |**2024-07-26**|**Singularity formation of hydromagnetic waves in cold plasma**|Junsik Bae et.al.|[2407.18619](http://arxiv.org/abs/2407.18619)|null|
 |**2024-07-26**|**REMIX SPH -- improving mixing in smoothed particle hydrodynamics simulations using a generalised, material-independent approach**|Thomas D. Sandnes et.al.|[2407.18587](http://arxiv.org/abs/2407.18587)|null|
-|**2024-07-26**|**Speech Bandwidth Expansion Via High Fidelity Generative Adversarial Networks**|Mahmoud Salhab et.al.|[2407.18571](http://arxiv.org/abs/2407.18571)|null|
+|**2024-07-29**|**Speech Bandwidth Expansion Via High Fidelity Generative Adversarial Networks**|Mahmoud Salhab et.al.|[2407.18571](http://arxiv.org/abs/2407.18571)|null|
 |**2024-07-26**|**Milli-spinner thrombectomy**|Yilong Chang et.al.|[2407.18495](http://arxiv.org/abs/2407.18495)|null|
 |**2024-07-25**|**Evolution of reconnection flux during eruption of magnetic flux ropes**|Samriddhi Sankar Maity et.al.|[2407.18188](http://arxiv.org/abs/2407.18188)|null|
 |**2024-07-25**|**Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models**|Sanae Lotfi et.al.|[2407.18158](http://arxiv.org/abs/2407.18158)|null|
