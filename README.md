@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Secure Source Coding Resilient Against Compromised Users via an Access Structure**|Hassan ZivariFard et.al.|[2407.20901](http://arxiv.org/abs/2407.20901)|null|
+|**2024-07-30**|**Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction**|Ke Cheng et.al.|[2407.20871](http://arxiv.org/abs/2407.20871)|null|
+|**2024-07-30**|**Planar network statistics for two-dimensional rupturing foams**|Joseph Klobusicky et.al.|[2407.20858](http://arxiv.org/abs/2407.20858)|null|
+|**2024-07-30**|**Edge Learning Based Collaborative Automatic Modulation Classification for Hierarchical Cognitive Radio Networks**|Peihao Dong et.al.|[2407.20772](http://arxiv.org/abs/2407.20772)|**[link](https://github.com/AI4CogComm/CAMC)**|
+|**2024-07-30**|**Task-Oriented Communication for Vehicle-to-Infrastructure Cooperative Perception**|Jiawei Shao et.al.|[2407.20748](http://arxiv.org/abs/2407.20748)|null|
+|**2024-07-30**|**Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications**|Yi Ju et.al.|[2407.20717](http://arxiv.org/abs/2407.20717)|null|
+|**2024-07-30**|**Pruning Large Language Models with Semi-Structural Adaptive Sparse Training**|Weiyu Huang et.al.|[2407.20584](http://arxiv.org/abs/2407.20584)|null|
+|**2024-07-30**|**RIP sensing matrices construction for sparsifying dictionaries with application to MRI imaging**|Jinn Ho et.al.|[2407.20576](http://arxiv.org/abs/2407.20576)|null|
+|**2024-07-30**|**SuperCodec: A Neural Speech Codec with Selective Back-Projection Network**|Youqiang Zheng et.al.|[2407.20530](http://arxiv.org/abs/2407.20530)|null|
+|**2024-07-30**|**Toward Efficient Permutation for Hierarchical N:M Sparsity on GPUs**|Seungmin Yu et.al.|[2407.20496](http://arxiv.org/abs/2407.20496)|null|
 |**2024-07-29**|**ImagiNet: A Multi-Content Dataset for Generalizable Synthetic Image Detection via Contrastive Learning**|Delyan Boychev et.al.|[2407.20020](http://arxiv.org/abs/2407.20020)|**[link](https://github.com/delyan-boychev/imaginet)**|
 |**2024-07-29**|**Robust Conformal Volume Estimation in 3D Medical Images**|Benjamin Lambert et.al.|[2407.19938](http://arxiv.org/abs/2407.19938)|**[link](https://github.com/benolmbrt/wcp_miccai)**|
 |**2024-07-29**|**Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations**|Giovanni Catalani et.al.|[2407.19916](http://arxiv.org/abs/2407.19916)|null|
