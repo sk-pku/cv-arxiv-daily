@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Shadow Hamiltonian Simulation**|Rolando D. Somma et.al.|[2407.21775](http://arxiv.org/abs/2407.21775)|null|
+|**2024-07-31**|**Cell-free Massive MIMO with Sequential Fronthaul Architecture and Limited Memory Access Points**|Vida Ranjbar et.al.|[2407.21754](http://arxiv.org/abs/2407.21754)|null|
+|**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
+|**2024-07-31**|**Turbulence, Waves, and Taylor's Hypothesis for Heliosheath Observations**|L. -L. Zhao et.al.|[2407.21673](http://arxiv.org/abs/2407.21673)|null|
+|**2024-07-31**|**Exploiting Non-Abelian Point-Group Symmetry to Estimate the Exact Ground-State Correlation Energy of Benzene in a Polarized Split-Valence Triple-Zeta Basis Set**|Jonas Greiner et.al.|[2407.21576](http://arxiv.org/abs/2407.21576)|null|
+|**2024-07-31**|**Robust Lossy Audio Compression Identification**|Hendrik Vincent Koops et.al.|[2407.21545](http://arxiv.org/abs/2407.21545)|null|
+|**2024-07-31**|**A Simple Low-bit Quantization Framework for Video Snapshot Compressive Imaging**|Miao Cao et.al.|[2407.21517](http://arxiv.org/abs/2407.21517)|null|
+|**2024-07-31**|**TinyBird-ML: An ultra-low Power Smart Sensor Node for Bird Vocalization Analysis and Syllable Classification**|Lukas Schulthess et.al.|[2407.21486](http://arxiv.org/abs/2407.21486)|null|
+|**2024-07-31**|**TinyChirp: Bird Song Recognition Using TinyML Models on Low-power Wireless Acoustic Sensors**|Zhaolan Huang et.al.|[2407.21453](http://arxiv.org/abs/2407.21453)|null|
+|**2024-07-31**|**Pressure induced nonmonotonic evolution of superconductivity in 6R-TaS2 with a natural bulk van der Waals heterostructure**|Shaopeng Wang et.al.|[2407.21427](http://arxiv.org/abs/2407.21427)|null|
 |**2024-07-30**|**Secure Source Coding Resilient Against Compromised Users via an Access Structure**|Hassan ZivariFard et.al.|[2407.20901](http://arxiv.org/abs/2407.20901)|null|
 |**2024-07-30**|**Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction**|Ke Cheng et.al.|[2407.20871](http://arxiv.org/abs/2407.20871)|null|
 |**2024-07-30**|**Planar network statistics for two-dimensional rupturing foams**|Joseph Klobusicky et.al.|[2407.20858](http://arxiv.org/abs/2407.20858)|null|
