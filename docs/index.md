@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models**|Hongjun An et.al.|[2408.00655](http://arxiv.org/abs/2408.00655)|null|
+|**2024-08-01**|**Empowering Snapshot Compressive Imaging: Spatial-Spectral State Space Model with Across-Scanning and Local Enhancement**|Wenzhe Tian et.al.|[2408.00629](http://arxiv.org/abs/2408.00629)|null|
+|**2024-08-01**|**Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control**|Michael Rudolph et.al.|[2408.00599](http://arxiv.org/abs/2408.00599)|null|
+|**2024-08-01**|**New Compressed Indices for Multijoins on Graph Databases**|Diego Arroyuelo et.al.|[2408.00558](http://arxiv.org/abs/2408.00558)|null|
+|**2024-08-01**|**High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**|Jian Li et.al.|[2408.00538](http://arxiv.org/abs/2408.00538)|null|
+|**2024-08-01**|**Efficient Patient Fine-Tuned Seizure Detection with a Tensor Kernel Machine**|Seline J. S. de Rooij et.al.|[2408.00437](http://arxiv.org/abs/2408.00437)|null|
+|**2024-08-01**|**Synchrotron x-ray diffraction and DFT study of non-centrosymmetric EuRhGe3 under high pressure**|N. S. Dhami et.al.|[2408.00410](http://arxiv.org/abs/2408.00410)|null|
+|**2024-08-01**|**QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression**|Wenshan Wang et.al.|[2408.00274](http://arxiv.org/abs/2408.00274)|null|
+|**2024-08-01**|**Solving cluster moment relaxation with hierarchical matrix**|Yi Wang et.al.|[2408.00235](http://arxiv.org/abs/2408.00235)|null|
+|**2024-07-31**|**Finch: Prompt-guided Key-Value Cache Compression**|Giulio Corallo et.al.|[2408.00167](http://arxiv.org/abs/2408.00167)|null|
 |**2024-07-31**|**Shadow Hamiltonian Simulation**|Rolando D. Somma et.al.|[2407.21775](http://arxiv.org/abs/2407.21775)|null|
 |**2024-07-31**|**Cell-free Massive MIMO with Sequential Fronthaul Architecture and Limited Memory Access Points**|Vida Ranjbar et.al.|[2407.21754](http://arxiv.org/abs/2407.21754)|null|
 |**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
