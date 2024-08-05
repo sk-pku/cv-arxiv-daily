@@ -3093,6 +3093,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**An upper critical dimension for dynamo action: A $d$ -dimensional closure model study**|Sugan Durai Murugan et.al.|[2408.01266](http://arxiv.org/abs/2408.01266)|null|
+|**2024-08-02**|**Entropy conservative discretization of compressible Euler equations with an arbitrary equation of state**|Alessandro Aiello et.al.|[2408.01235](http://arxiv.org/abs/2408.01235)|null|
+|**2024-08-02**|**Tensor Train Low-rank Approximation (TT-LoRA): Democratizing AI with Accelerated LLMs**|Afia Anjum et.al.|[2408.01008](http://arxiv.org/abs/2408.01008)|null|
+|**2024-08-02**|**Global regularity and optimal decay estimates of large solutions to the compressible FENE system**|Zhaonan Luo et.al.|[2408.00993](http://arxiv.org/abs/2408.00993)|null|
+|**2024-08-02**|**PERSOMA: PERsonalized SOft ProMpt Adapter Architecture for Personalized Language Prompting**|Liam Hebert et.al.|[2408.00960](http://arxiv.org/abs/2408.00960)|null|
+|**2024-08-01**|**Investigating introductory and advanced students' difficulties with entropy and the second law of thermodynamics using a validated instrument**|Mary Jane Brundage et.al.|[2408.00944](http://arxiv.org/abs/2408.00944)|null|
+|**2024-08-01**|**Magnetic Compressors for MeV-UED**|Tianzhe Xu et.al.|[2408.00936](http://arxiv.org/abs/2408.00936)|null|
+|**2024-08-01**|**Proposal for unambiguous measurement of braid statistics in fractional quantum Hall effect**|Mytraya Gattu et.al.|[2408.00919](http://arxiv.org/abs/2408.00919)|null|
 |**2024-08-02**|**SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models**|Hongjun An et.al.|[2408.00655](http://arxiv.org/abs/2408.00655)|null|
 |**2024-08-01**|**Empowering Snapshot Compressive Imaging: Spatial-Spectral State Space Model with Across-Scanning and Local Enhancement**|Wenzhe Tian et.al.|[2408.00629](http://arxiv.org/abs/2408.00629)|null|
 |**2024-08-01**|**Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control**|Michael Rudolph et.al.|[2408.00599](http://arxiv.org/abs/2408.00599)|null|
