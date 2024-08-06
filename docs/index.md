@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics**|Shishira R Maiya et.al.|[2408.02672](http://arxiv.org/abs/2408.02672)|null|
+|**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|null|
+|**2024-08-05**|**StoDIP: Efficient 3D MRF image reconstruction with deep image priors and stochastic iterations**|Perla Mayo et.al.|[2408.02367](http://arxiv.org/abs/2408.02367)|null|
+|**2024-08-05**|**Spatio-Temporal Communication Compression in Distributed Prime-Dual Flows**|Zihao Ren et.al.|[2408.02332](http://arxiv.org/abs/2408.02332)|null|
+|**2024-08-05**|**Simple and effective mechanical cloaking**|Suzanne M. Fielding et.al.|[2408.02323](http://arxiv.org/abs/2408.02323)|null|
+|**2024-08-05**|**Embedding Compression in Recommender Systems: A Survey**|Shiwei Li et.al.|[2408.02304](http://arxiv.org/abs/2408.02304)|null|
+|**2024-08-05**|**Role of thermal conduction in relativistic hot accretion flow around rotating black hole with shock**|Monu Singh et.al.|[2408.02256](http://arxiv.org/abs/2408.02256)|null|
+|**2024-08-05**|**A Fast Fourier-Galerkin Method for Solving Boundary Integral Equations on Torus-Shaped Surfaces**|Yiying Fang et.al.|[2408.02199](http://arxiv.org/abs/2408.02199)|null|
+|**2024-08-05**|**3D hard sphere Boltzmann equation: explicit structure and the transition process from polynomial tail to Gaussian tail**|Yu-Chu Lin et.al.|[2408.02183](http://arxiv.org/abs/2408.02183)|null|
+|**2024-08-04**|**Mini-Monkey: Alleviate the Sawtooth Effect by Multi-Scale Adaptive Cropping**|Mingxin Huang et.al.|[2408.02034](http://arxiv.org/abs/2408.02034)|null|
 |**2024-08-02**|**An upper critical dimension for dynamo action: A $d$ -dimensional closure model study**|Sugan Durai Murugan et.al.|[2408.01266](http://arxiv.org/abs/2408.01266)|null|
 |**2024-08-02**|**Entropy conservative discretization of compressible Euler equations with an arbitrary equation of state**|Alessandro Aiello et.al.|[2408.01235](http://arxiv.org/abs/2408.01235)|null|
 |**2024-08-02**|**Tensor Train Low-rank Approximation (TT-LoRA): Democratizing AI with Accelerated LLMs**|Afia Anjum et.al.|[2408.01008](http://arxiv.org/abs/2408.01008)|null|
