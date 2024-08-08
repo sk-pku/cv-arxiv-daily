@@ -3093,6 +3093,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**AdapMTL: Adaptive Pruning Framework for Multitask Learning Model**|Mingcan Xiang et.al.|[2408.03913](http://arxiv.org/abs/2408.03913)|null|
+|**2024-08-07**|**Principal Trotter Observation Error with Truncated Commutators**|Langyu Li et.al.|[2408.03891](http://arxiv.org/abs/2408.03891)|null|
+|**2024-08-07**|**Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression**|Hamidreza Soltani et.al.|[2408.03842](http://arxiv.org/abs/2408.03842)|null|
+|**2024-08-07**|**Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields**|Joo Chan Lee et.al.|[2408.03822](http://arxiv.org/abs/2408.03822)|null|
+|**2024-08-07**|**The Biot stress -- right stretch relation for the compressible Neo-Hooke-Ciarlet-Geymonat model and Rivlin's cube problem**|Ionel-Dumitrel Ghiba et.al.|[2408.03821](http://arxiv.org/abs/2408.03821)|null|
+|**2024-08-07**|**A Convex-optimization-based Layer-wise Post-training Pruner for Large Language Models**|Pengxiang Zhao et.al.|[2408.03728](http://arxiv.org/abs/2408.03728)|null|
+|**2024-08-06**|**Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems**|Shane A. McQuarrie et.al.|[2408.03455](http://arxiv.org/abs/2408.03455)|null|
+|**2024-08-06**|**Prioritize Alignment in Dataset Distillation**|Zekai Li et.al.|[2408.03360](http://arxiv.org/abs/2408.03360)|null|
 |**2024-08-06**|**DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers**|Lianwei Yang et.al.|[2408.03291](http://arxiv.org/abs/2408.03291)|null|
 |**2024-08-06**|**Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**|Angie Boggust et.al.|[2408.03274](http://arxiv.org/abs/2408.03274)|null|
 |**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
