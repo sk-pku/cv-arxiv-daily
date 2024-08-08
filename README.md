@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -514,7 +514,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## SFM
 
@@ -724,7 +724,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1530,7 +1530,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1761,7 +1761,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2000,7 +2000,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## NeRF
 
@@ -3108,7 +3108,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## Compression
 
@@ -3116,12 +3116,12 @@
 |---|---|---|---|---|
 |**2024-08-06**|**DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers**|Lianwei Yang et.al.|[2408.03291](http://arxiv.org/abs/2408.03291)|null|
 |**2024-08-06**|**Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**|Angie Boggust et.al.|[2408.03274](http://arxiv.org/abs/2408.03274)|null|
-|**2024-08-06**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
+|**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
 |**2024-08-06**|**Joint Transmission and Compression Design for 6G Networked Sensing with Limited-Capacity Backhaul**|Weifeng Zhu et.al.|[2408.03174](http://arxiv.org/abs/2408.03174)|null|
 |**2024-08-06**|**Inference Optimizations for Large Language Models: Effects, Challenges, and Practical Considerations**|Leo Donisch et.al.|[2408.03130](http://arxiv.org/abs/2408.03130)|null|
 |**2024-08-06**|**Codes Correcting Two Bursts of Exactly $b$ Deletions**|Zuo Ye et.al.|[2408.03113](http://arxiv.org/abs/2408.03113)|null|
 |**2024-08-06**|**500xCompressor: Generalized Prompt Compression for Large Language Models**|Zongqian Li et.al.|[2408.03094](http://arxiv.org/abs/2408.03094)|null|
-|**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046](http://arxiv.org/abs/2408.03046)|null|
+|**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046](http://arxiv.org/abs/2408.03046)|**[link](https://github.com/cranken/cpd)**|
 |**2024-08-06**|**Enhance Ferroelectric Structural Distortion via Doping Ca in Epitaxial h-Lu1-xCaxMnO3 Thin Films**|Detian Yang et.al.|[2408.03044](http://arxiv.org/abs/2408.03044)|null|
 |**2024-08-06**|**Fast Whole-Brain MR Multi-Parametric Mapping with Scan-Specific Self-Supervised Networks**|Amir Heydari et.al.|[2408.02988](http://arxiv.org/abs/2408.02988)|null|
 |**2024-08-05**|**Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics**|Shishira R Maiya et.al.|[2408.02672](http://arxiv.org/abs/2408.02672)|null|
@@ -3460,7 +3460,7 @@
 |**2024-06-14**|**Robust compressive tracking via online weighted multiple instance learning**|Sandeep Singh Sengar et.al.|[2406.09914](http://arxiv.org/abs/2406.09914)|null|
 |**2024-06-14**|**QQQ: Quality Quattuor-Bit Quantization for Large Language Models**|Ying Zhang et.al.|[2406.09904](http://arxiv.org/abs/2406.09904)|**[link](https://github.com/HandH1998/QQQ)**|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

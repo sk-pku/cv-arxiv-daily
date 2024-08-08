@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3095,12 +3095,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-06**|**DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers**|Lianwei Yang et.al.|[2408.03291](http://arxiv.org/abs/2408.03291)|null|
 |**2024-08-06**|**Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**|Angie Boggust et.al.|[2408.03274](http://arxiv.org/abs/2408.03274)|null|
-|**2024-08-06**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
+|**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
 |**2024-08-06**|**Joint Transmission and Compression Design for 6G Networked Sensing with Limited-Capacity Backhaul**|Weifeng Zhu et.al.|[2408.03174](http://arxiv.org/abs/2408.03174)|null|
 |**2024-08-06**|**Inference Optimizations for Large Language Models: Effects, Challenges, and Practical Considerations**|Leo Donisch et.al.|[2408.03130](http://arxiv.org/abs/2408.03130)|null|
 |**2024-08-06**|**Codes Correcting Two Bursts of Exactly $b$ Deletions**|Zuo Ye et.al.|[2408.03113](http://arxiv.org/abs/2408.03113)|null|
 |**2024-08-06**|**500xCompressor: Generalized Prompt Compression for Large Language Models**|Zongqian Li et.al.|[2408.03094](http://arxiv.org/abs/2408.03094)|null|
-|**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046](http://arxiv.org/abs/2408.03046)|null|
+|**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046](http://arxiv.org/abs/2408.03046)|**[link](https://github.com/cranken/cpd)**|
 |**2024-08-06**|**Enhance Ferroelectric Structural Distortion via Doping Ca in Epitaxial h-Lu1-xCaxMnO3 Thin Films**|Detian Yang et.al.|[2408.03044](http://arxiv.org/abs/2408.03044)|null|
 |**2024-08-06**|**Fast Whole-Brain MR Multi-Parametric Mapping with Scan-Specific Self-Supervised Networks**|Amir Heydari et.al.|[2408.02988](http://arxiv.org/abs/2408.02988)|null|
 |**2024-08-05**|**Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics**|Shishira R Maiya et.al.|[2408.02672](http://arxiv.org/abs/2408.02672)|null|
