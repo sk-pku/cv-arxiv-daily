@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Feedback Design with VQ-VAE for Robust Precoding in Multi-User FDD Systems**|Nurettin Turan et.al.|[2408.04505](http://arxiv.org/abs/2408.04505)|null|
+|**2024-08-08**|**Knowledge-Aided Semantic Communication Leveraging Probabilistic Graphical Modeling**|Haowen Wan et.al.|[2408.04499](http://arxiv.org/abs/2408.04499)|null|
+|**2024-08-08**|**Speed of sound and isothermal compressibility in a magnetized quark matter with anomalous magnetic moment of quarks**|Rajkumar Mondal et.al.|[2408.04398](http://arxiv.org/abs/2408.04398)|null|
+|**2024-08-08**|**Efficient finite element schemes for a phase field model of two-phase incompressible flows with different densities**|Jiancheng Wang et.al.|[2408.04371](http://arxiv.org/abs/2408.04371)|null|
+|**2024-08-08**|**Sparse Spiking Neural-like Membrane Systems on Graphics Processing Units**|Javier Hernández-Tello et.al.|[2408.04343](http://arxiv.org/abs/2408.04343)|null|
+|**2024-08-08**|**Vorticity blowup in compressible Euler equations in $\mathbb{R}^d, d \geq 3$**|Jiajie Chen et.al.|[2408.04319](http://arxiv.org/abs/2408.04319)|null|
+|**2024-08-08**|**Global large strong solutions to the compressible Navier-Stokes equations with density-dependent viscosities, case I: isentropic flows**|Xiangdi Huang et.al.|[2408.04305](http://arxiv.org/abs/2408.04305)|null|
+|**2024-08-08**|**LaDiMo: Layer-wise Distillation Inspired MoEfier**|Sungyoon Kim et.al.|[2408.04278](http://arxiv.org/abs/2408.04278)|null|
+|**2024-08-08**|**SG-JND: Semantic-Guided Just Noticeable Distortion Predictor For Image Compression**|Linhan Cao et.al.|[2408.04273](http://arxiv.org/abs/2408.04273)|null|
+|**2024-08-08**|**Ionic structure, Liquid-liquid phase transitions, X-Ray diffraction, and X-Ray Thomson scattering in shock compressed liquid Silicon in the 100-200 GPa regime**|M. W. C. Dharma-wardana et.al.|[2408.04173](http://arxiv.org/abs/2408.04173)|null|
 |**2024-08-07**|**AdapMTL: Adaptive Pruning Framework for Multitask Learning Model**|Mingcan Xiang et.al.|[2408.03913](http://arxiv.org/abs/2408.03913)|null|
 |**2024-08-07**|**Principal Trotter Observation Error with Truncated Commutators**|Langyu Li et.al.|[2408.03891](http://arxiv.org/abs/2408.03891)|null|
 |**2024-08-07**|**Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression**|Hamidreza Soltani et.al.|[2408.03842](http://arxiv.org/abs/2408.03842)|null|
