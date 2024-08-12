@@ -797,7 +797,7 @@
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
 |**2024-04-20**|**Collaborative Visual Place Recognition through Federated Learning**|Mattia Dutto et.al.|[2404.13324](http://arxiv.org/abs/2404.13324)|null|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
-|**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|null|
+|**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|**[link](https://github.com/BUAADreamer/SPN4CIR)**|
 |**2024-04-17**|**Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing**|Sanggeon Yun et.al.|[2404.11025](http://arxiv.org/abs/2404.11025)|null|
 |**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527](http://arxiv.org/abs/2404.10527)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
 |**2024-04-20**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640](http://arxiv.org/abs/2404.09640)|**[link](https://github.com/JethroJames/CREST)**|
@@ -3151,7 +3151,7 @@
 |**2024-08-05**|**Role of thermal conduction in relativistic hot accretion flow around rotating black hole with shock**|Monu Singh et.al.|[2408.02256](http://arxiv.org/abs/2408.02256)|null|
 |**2024-08-05**|**A Fast Fourier-Galerkin Method for Solving Boundary Integral Equations on Torus-Shaped Surfaces**|Yiying Fang et.al.|[2408.02199](http://arxiv.org/abs/2408.02199)|null|
 |**2024-08-05**|**3D hard sphere Boltzmann equation: explicit structure and the transition process from polynomial tail to Gaussian tail**|Yu-Chu Lin et.al.|[2408.02183](http://arxiv.org/abs/2408.02183)|null|
-|**2024-08-04**|**Mini-Monkey: Alleviate the Sawtooth Effect by Multi-Scale Adaptive Cropping**|Mingxin Huang et.al.|[2408.02034](http://arxiv.org/abs/2408.02034)|null|
+|**2024-08-04**|**Mini-Monkey: Alleviate the Sawtooth Effect by Multi-Scale Adaptive Cropping**|Mingxin Huang et.al.|[2408.02034](http://arxiv.org/abs/2408.02034)|**[link](https://github.com/yuliang-liu/monkey)**|
 |**2024-08-02**|**An upper critical dimension for dynamo action: A $d$ -dimensional closure model study**|Sugan Durai Murugan et.al.|[2408.01266](http://arxiv.org/abs/2408.01266)|null|
 |**2024-08-02**|**Entropy conservative discretization of compressible Euler equations with an arbitrary equation of state**|Alessandro Aiello et.al.|[2408.01235](http://arxiv.org/abs/2408.01235)|null|
 |**2024-08-02**|**Tensor Train Low-rank Approximation (TT-LoRA): Democratizing AI with Accelerated LLMs**|Afia Anjum et.al.|[2408.01008](http://arxiv.org/abs/2408.01008)|null|
@@ -3167,7 +3167,7 @@
 |**2024-08-01**|**High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**|Jian Li et.al.|[2408.00538](http://arxiv.org/abs/2408.00538)|null|
 |**2024-08-01**|**Efficient Patient Fine-Tuned Seizure Detection with a Tensor Kernel Machine**|Seline J. S. de Rooij et.al.|[2408.00437](http://arxiv.org/abs/2408.00437)|null|
 |**2024-08-01**|**Synchrotron x-ray diffraction and DFT study of non-centrosymmetric EuRhGe3 under high pressure**|N. S. Dhami et.al.|[2408.00410](http://arxiv.org/abs/2408.00410)|null|
-|**2024-08-01**|**QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression**|Wenshan Wang et.al.|[2408.00274](http://arxiv.org/abs/2408.00274)|null|
+|**2024-08-01**|**QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression**|Wenshan Wang et.al.|[2408.00274](http://arxiv.org/abs/2408.00274)|**[link](https://github.com/wenshansilvia/attention_compressor)**|
 |**2024-08-01**|**Solving cluster moment relaxation with hierarchical matrix**|Yi Wang et.al.|[2408.00235](http://arxiv.org/abs/2408.00235)|null|
 |**2024-07-31**|**Finch: Prompt-guided Key-Value Cache Compression**|Giulio Corallo et.al.|[2408.00167](http://arxiv.org/abs/2408.00167)|null|
 |**2024-07-31**|**Shadow Hamiltonian Simulation**|Rolando D. Somma et.al.|[2407.21775](http://arxiv.org/abs/2407.21775)|null|
