@@ -3093,6 +3093,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs**|Soraya Terrab et.al.|[2408.05193](http://arxiv.org/abs/2408.05193)|null|
+|**2024-08-09**|**Global Existence of Large Strong Solutions to the 3D Full Compressible Navier-Stokes Equations with Density-dependent Viscosity**|Yachun Li et.al.|[2408.05138](http://arxiv.org/abs/2408.05138)|null|
+|**2024-08-09**|**Benchmarking Conventional and Learned Video Codecs with a Low-Delay Configuration**|Siyue Teng et.al.|[2408.05042](http://arxiv.org/abs/2408.05042)|null|
+|**2024-08-09**|**Optical observations of the Galactic SNR HB9 and H II region G159.2+3.3**|Jiang-Tao Li et.al.|[2408.05016](http://arxiv.org/abs/2408.05016)|null|
+|**2024-08-09**|**Global Strong Solutions to the Cauchy Problem of Three-dimensional Isentropic Magnetohydrodynamics Equations with Large Initial Data**|Yachun Li et.al.|[2408.04995](http://arxiv.org/abs/2408.04995)|null|
+|**2024-08-09**|**Dislocation-induced flexoelectricity in SrTiO $_3$ nanostructure from first principles**|Kunihiko Yamauchi et.al.|[2408.04985](http://arxiv.org/abs/2408.04985)|null|
+|**2024-08-09**|**Tensor-based quantum phase difference estimation for large-scale demonstration**|Shu Kanno et.al.|[2408.04946](http://arxiv.org/abs/2408.04946)|null|
+|**2024-08-08**|**Confident magnitude-based neural network pruning**|Joaquin Alvarez et.al.|[2408.04759](http://arxiv.org/abs/2408.04759)|null|
 |**2024-08-08**|**Feedback Design with VQ-VAE for Robust Precoding in Multi-User FDD Systems**|Nurettin Turan et.al.|[2408.04505](http://arxiv.org/abs/2408.04505)|null|
 |**2024-08-08**|**Knowledge-Aided Semantic Communication Leveraging Probabilistic Graphical Modeling**|Haowen Wan et.al.|[2408.04499](http://arxiv.org/abs/2408.04499)|null|
 |**2024-08-08**|**Speed of sound and isothermal compressibility in a magnetized quark matter with anomalous magnetic moment of quarks**|Rajkumar Mondal et.al.|[2408.04398](http://arxiv.org/abs/2408.04398)|null|
