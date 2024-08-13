@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Robust Instance Optimal Phase-Only Compressed Sensing**|Junren Chen et.al.|[2408.06275](http://arxiv.org/abs/2408.06275)|null|
+|**2024-08-12**|**Rethinking Video with a Universal Event-Based Representation**|Andrew Freeman et.al.|[2408.06248](http://arxiv.org/abs/2408.06248)|null|
+|**2024-08-12**|**Isotropization by shock waves generation in anisotropic hydrodynamics**|Aleksandr Kovalenko et.al.|[2408.06181](http://arxiv.org/abs/2408.06181)|null|
+|**2024-08-12**|**Effect of low-temperature compression on superconductivity and crystal structure in strontium metal**|J. Lim et.al.|[2408.06128](http://arxiv.org/abs/2408.06128)|null|
+|**2024-08-12**|**The Westervelt-Rayleigh-Plesset model of ultrasound contrast imaging with microbubbles: analysis and simulation**|Vanja Nikolić et.al.|[2408.06108](http://arxiv.org/abs/2408.06108)|null|
+|**2024-08-12**|**Five Pitfalls When Assessing Synthetic Medical Images with Reference Metrics**|Melanie Dohmen et.al.|[2408.06075](http://arxiv.org/abs/2408.06075)|null|
+|**2024-08-12**|**CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer**|Zhuoyi Yang et.al.|[2408.06072](http://arxiv.org/abs/2408.06072)|**[link](https://github.com/thudm/cogvideo)**|
+|**2024-08-12**|**Optimizing Vision Transformers with Data-Free Knowledge Transfer**|Gousia Habib et.al.|[2408.05952](http://arxiv.org/abs/2408.05952)|null|
+|**2024-08-12**|**Optimizing RAG Techniques for Automotive Industry PDF Chatbots: A Case Study with Locally Deployed Ollama Models**|Fei Liu et.al.|[2408.05933](http://arxiv.org/abs/2408.05933)|null|
+|**2024-08-11**|**A Lorenz Model for an Anelastic Oberbeck-Boussinesq System**|Diego Grandi et.al.|[2408.05830](http://arxiv.org/abs/2408.05830)|null|
 |**2024-08-09**|**A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs**|Soraya Terrab et.al.|[2408.05193](http://arxiv.org/abs/2408.05193)|null|
 |**2024-08-09**|**Global Existence of Large Strong Solutions to the 3D Full Compressible Navier-Stokes Equations with Density-dependent Viscosity**|Yachun Li et.al.|[2408.05138](http://arxiv.org/abs/2408.05138)|null|
 |**2024-08-09**|**Benchmarking Conventional and Learned Video Codecs with a Low-Delay Configuration**|Siyue Teng et.al.|[2408.05042](http://arxiv.org/abs/2408.05042)|null|
