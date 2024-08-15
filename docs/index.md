@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3095,7 +3095,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-13**|**Subjective and Objective Quality Assessment of Rendered Human Avatar Videos in Virtual Reality**|Yu-Chih Chen et.al.|[2408.07041](http://arxiv.org/abs/2408.07041)|null|
 |**2024-08-13**|**Feature-Preserving Rate-Distortion Optimization in Image Coding for Machines**|Samuel Fernández Menduiña et.al.|[2408.07028](http://arxiv.org/abs/2408.07028)|null|
-|**2024-08-13**|**Dynamic and Compressive Adaptation of Transformers From Images to Videos**|Guozhen Zhang et.al.|[2408.06840](http://arxiv.org/abs/2408.06840)|null|
+|**2024-08-14**|**Dynamic and Compressive Adaptation of Transformers From Images to Videos**|Guozhen Zhang et.al.|[2408.06840](http://arxiv.org/abs/2408.06840)|null|
 |**2024-08-13**|**Cloud-Cloud Collision: Formation of Hub-Filament Systems and Associated Gas Kinematics; Mass-collecting cone: A new signature of Cloud-Cloud Collision**|A. K. Maity et.al.|[2408.06826](http://arxiv.org/abs/2408.06826)|null|
 |**2024-08-13**|**Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning**|Shibo Jie et.al.|[2408.06798](http://arxiv.org/abs/2408.06798)|null|
 |**2024-08-13**|**Joint Source-Channel Optimization for UAV Video Coding and Transmission**|Kesong Wu et.al.|[2408.06667](http://arxiv.org/abs/2408.06667)|null|
