@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Knowledge Distillation with Refined Logits**|Wujie Sun et.al.|[2408.07703](http://arxiv.org/abs/2408.07703)|**[link](https://github.com/zju-swj/rld)**|
+|**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
+|**2024-08-14**|**Stability for the $2\frac12$ -D compressible viscous non-resistive and heat-conducting magnetohydrodynamic flow**|Xiaoping Zhai et.al.|[2408.07571](http://arxiv.org/abs/2408.07571)|null|
+|**2024-08-14**|**Towards Real-time Video Compressive Sensing on Mobile Devices**|Miao Cao et.al.|[2408.07530](http://arxiv.org/abs/2408.07530)|**[link](https://github.com/mcao92/mobilesci)**|
+|**2024-08-14**|**Global well-posedness and large-time behavior for a special $2\frac{1}{2}$ D full compressible viscous non-resistive MHD system**|Xiaoping Zhai et.al.|[2408.07515](http://arxiv.org/abs/2408.07515)|null|
+|**2024-08-14**|**High Strain Rate Compressive Deformation Behavior of Nickel Microparticles**|Bárbara Bellón et.al.|[2408.07462](http://arxiv.org/abs/2408.07462)|null|
+|**2024-08-14**|**Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection**|Zhonglin Chen et.al.|[2408.07455](http://arxiv.org/abs/2408.07455)|null|
+|**2024-08-14**|**M2L Translation Operators for Kernel Independent Fast Multipole Methods on Modern Architectures**|Srinath Kailasa et.al.|[2408.07436](http://arxiv.org/abs/2408.07436)|null|
+|**2024-08-14**|**Encoding and Decoding Algorithms of ANS Variants and Evaluation of Their Average Code Lengths**|Hirosuke Yamamoto et.al.|[2408.07322](http://arxiv.org/abs/2408.07322)|null|
+|**2024-08-14**|**All-around Neural Collapse for Imbalanced Classification**|Enhao Zhang et.al.|[2408.07253](http://arxiv.org/abs/2408.07253)|null|
 |**2024-08-13**|**Subjective and Objective Quality Assessment of Rendered Human Avatar Videos in Virtual Reality**|Yu-Chih Chen et.al.|[2408.07041](http://arxiv.org/abs/2408.07041)|null|
 |**2024-08-13**|**Feature-Preserving Rate-Distortion Optimization in Image Coding for Machines**|Samuel Fernández Menduiña et.al.|[2408.07028](http://arxiv.org/abs/2408.07028)|null|
 |**2024-08-14**|**Dynamic and Compressive Adaptation of Transformers From Images to Videos**|Guozhen Zhang et.al.|[2408.06840](http://arxiv.org/abs/2408.06840)|null|
