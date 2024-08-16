@@ -3114,6 +3114,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Computer Vision Model Compression Techniques for Embedded Systems: A Survey**|Alexandre Lopes et.al.|[2408.08250](http://arxiv.org/abs/2408.08250)|**[link](https://github.com/venturusbr/cv-model-compression)**|
+|**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211](http://arxiv.org/abs/2408.08211)|null|
+|**2024-08-15**|**On the Formation of Super-Alfvénic Flows Downstream of Collisionless Shocks**|Adnane Osmane et.al.|[2408.08159](http://arxiv.org/abs/2408.08159)|null|
+|**2024-08-15**|**When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding**|Pingping Zhang et.al.|[2408.08093](http://arxiv.org/abs/2408.08093)|null|
+|**2024-08-15**|**Optimal Joint Fronthaul Compression and Beamforming Design for Networked ISAC Systems**|Kexin Zhang et.al.|[2408.08057](http://arxiv.org/abs/2408.08057)|null|
+|**2024-08-15**|**An Asymptotic Preserving Scheme for the Euler-Poisson-Boltzmann System in the Quasineutral Limit**|K. R. Arun et.al.|[2408.08029](http://arxiv.org/abs/2408.08029)|null|
+|**2024-08-15**|**Sb2Se3 and SbBiSe3 Surface Capping and Biaxial Strain Co-Engineering for Tuning the Surface Electronic Properties of Bi2Se3 Nanosheet- A Density Functional Theory based Investigation**|Naresh Bahadursha et.al.|[2408.07938](http://arxiv.org/abs/2408.07938)|null|
+|**2024-08-15**|**A new blowup criterion for the 3D barotropic compressible Navier-Stokes equations with vacuum**|Saiguo Xu et.al.|[2408.07935](http://arxiv.org/abs/2408.07935)|null|
+|**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
 |**2024-08-14**|**Knowledge Distillation with Refined Logits**|Wujie Sun et.al.|[2408.07703](http://arxiv.org/abs/2408.07703)|**[link](https://github.com/zju-swj/rld)**|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-14**|**Stability for the $2\frac12$ -D compressible viscous non-resistive and heat-conducting magnetohydrodynamic flow**|Xiaoping Zhai et.al.|[2408.07571](http://arxiv.org/abs/2408.07571)|null|
