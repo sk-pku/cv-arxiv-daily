@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**Entropy Coding of Unordered Data Structures**|Julius Kunze et.al.|[2408.08837](http://arxiv.org/abs/2408.08837)|**[link](https://github.com/juliuskunze/shuffle-coding)**|
+|**2024-08-16**|**An Adaptive Angular Aomain Compression Scheme For Solving Multiscale Radiative Transfer Equation**|Qinchen Song et.al.|[2408.08783](http://arxiv.org/abs/2408.08783)|null|
+|**2024-08-16**|**HyCoT: Hyperspectral Compression Transformer with an Efficient Training Strategy**|Martin Hermann Paul Fuchs et.al.|[2408.08700](http://arxiv.org/abs/2408.08700)|null|
+|**2024-08-16**|**P-V relationship of elements in the pressure range of 200-300 GPa**|Yuichi Akahama et.al.|[2408.08687](http://arxiv.org/abs/2408.08687)|null|
+|**2024-08-16**|**Research on Personalized Compression Algorithm for Pre-trained Models Based on Homomorphic Entropy Increase**|Yicong Li et.al.|[2408.08684](http://arxiv.org/abs/2408.08684)|null|
+|**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
+|**2024-08-16**|**Bi-Directional Deep Contextual Video Compression**|Xihua Sheng et.al.|[2408.08604](http://arxiv.org/abs/2408.08604)|null|
+|**2024-08-16**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](http://arxiv.org/abs/2408.08575)|null|
+|**2024-08-16**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|null|
+|**2024-08-15**|**JPEG-LM: LLMs as Image Generators with Canonical Codec Representations**|Xiaochuang Han et.al.|[2408.08459](http://arxiv.org/abs/2408.08459)|null|
 |**2024-08-15**|**Computer Vision Model Compression Techniques for Embedded Systems: A Survey**|Alexandre Lopes et.al.|[2408.08250](http://arxiv.org/abs/2408.08250)|**[link](https://github.com/venturusbr/cv-model-compression)**|
 |**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211](http://arxiv.org/abs/2408.08211)|null|
 |**2024-08-15**|**On the Formation of Super-Alfvénic Flows Downstream of Collisionless Shocks**|Adnane Osmane et.al.|[2408.08159](http://arxiv.org/abs/2408.08159)|null|
