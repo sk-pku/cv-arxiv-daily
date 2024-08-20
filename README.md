@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Superconductivity and spin canting in spin-orbit proximitized rhombohedral trilayer graphene**|Caitlin L. Patterson et.al.|[2408.10190](http://arxiv.org/abs/2408.10190)|null|
+|**2024-08-19**|**Implicit Gaussian Splatting with Efficient Multi-Level Tri-Plane Representation**|Minye Wu et.al.|[2408.10041](http://arxiv.org/abs/2408.10041)|null|
+|**2024-08-19**|**Efficient Inference of Sub-Item Id-based Sequential Recommendation Models with Millions of Items**|Aleksandr V. Petrov et.al.|[2408.09992](http://arxiv.org/abs/2408.09992)|null|
+|**2024-08-19**|**Parseval Convolution Operators and Neural Networks**|Michael Unser et.al.|[2408.09981](http://arxiv.org/abs/2408.09981)|null|
+|**2024-08-19**|**Propagating the prior from shallow to deep with a pre-trained velocity-model Generative Transformer network**|Randy Harsuko et.al.|[2408.09767](http://arxiv.org/abs/2408.09767)|null|
+|**2024-08-19**|**Dataset Distillation for Histopathology Image Classification**|Cong Cong et.al.|[2408.09709](http://arxiv.org/abs/2408.09709)|null|
+|**2024-08-19**|**MoDeGPT: Modular Decomposition for Large Language Model Compression**|Chi-Heng Lin et.al.|[2408.09632](http://arxiv.org/abs/2408.09632)|null|
+|**2024-08-18**|**Generating Automatically Print/Scan Textures for Morphing Attack Detection Applications**|Juan E. Tapia et.al.|[2408.09558](http://arxiv.org/abs/2408.09558)|null|
+|**2024-08-18**|**ELASTIC: Efficient Linear Attention for Sequential Interest Compression**|Jiaxin Deng et.al.|[2408.09380](http://arxiv.org/abs/2408.09380)|null|
+|**2024-08-17**|**Accelerating Chance-constrained SCED via Scenario Compression**|Qian Zhang et.al.|[2408.09245](http://arxiv.org/abs/2408.09245)|null|
 |**2024-08-16**|**Entropy Coding of Unordered Data Structures**|Julius Kunze et.al.|[2408.08837](http://arxiv.org/abs/2408.08837)|**[link](https://github.com/juliuskunze/shuffle-coding)**|
 |**2024-08-16**|**An Adaptive Angular Aomain Compression Scheme For Solving Multiscale Radiative Transfer Equation**|Qinchen Song et.al.|[2408.08783](http://arxiv.org/abs/2408.08783)|null|
 |**2024-08-16**|**HyCoT: Hyperspectral Compression Transformer with an Efficient Training Strategy**|Martin Hermann Paul Fuchs et.al.|[2408.08700](http://arxiv.org/abs/2408.08700)|null|
