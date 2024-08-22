@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3102,7 +3102,7 @@ layout: default
 |**2024-08-20**|**End-to-end learned Lossy Dynamic Point Cloud Attribute Compression**|Dat Thanh Nguyen et.al.|[2408.10665](http://arxiv.org/abs/2408.10665)|null|
 |**2024-08-20**|**Federated Clustering: An Unsupervised Cluster-Wise Training for Decentralized Data Distributions**|Mirko Nardi et.al.|[2408.10664](http://arxiv.org/abs/2408.10664)|null|
 |**2024-08-20**|**Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds**|Kai Liu et.al.|[2408.10543](http://arxiv.org/abs/2408.10543)|null|
-|**2024-08-20**|**Surgical Workflow Recognition and Blocking Effectiveness Detection in Laparoscopic Liver Resections with Pringle Maneuver**|Diandian Guo et.al.|[2408.10538](http://arxiv.org/abs/2408.10538)|null|
+|**2024-08-21**|**Surgical Workflow Recognition and Blocking Effectiveness Detection in Laparoscopic Liver Resections with Pringle Maneuver**|Diandian Guo et.al.|[2408.10538](http://arxiv.org/abs/2408.10538)|null|
 |**2024-08-19**|**Superconductivity and spin canting in spin-orbit proximitized rhombohedral trilayer graphene**|Caitlin L. Patterson et.al.|[2408.10190](http://arxiv.org/abs/2408.10190)|null|
 |**2024-08-19**|**Implicit Gaussian Splatting with Efficient Multi-Level Tri-Plane Representation**|Minye Wu et.al.|[2408.10041](http://arxiv.org/abs/2408.10041)|null|
 |**2024-08-19**|**Efficient Inference of Sub-Item Id-based Sequential Recommendation Models with Millions of Items**|Aleksandr V. Petrov et.al.|[2408.09992](http://arxiv.org/abs/2408.09992)|null|
