@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**LLM Pruning and Distillation in Practice: The Minitron Approach**|Sharath Turuvekere Sreenivas et.al.|[2408.11796](http://arxiv.org/abs/2408.11796)|null|
+|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758](http://arxiv.org/abs/2408.11758)|null|
+|**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|null|
+|**2024-08-21**|**Bridging experiment and theory of relaxor ferroelectrics at the atomic scale with multislice electron ptychography**|Menglin Zhu et.al.|[2408.11685](http://arxiv.org/abs/2408.11685)|null|
+|**2024-08-21**|**Scalable Knowledge Refactoring using Constrained Optimisation**|Minghao Liu et.al.|[2408.11530](http://arxiv.org/abs/2408.11530)|null|
+|**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
+|**2024-08-21**|**Green Probabilistic Semantic Communication over Wireless Networks**|Ruopeng Xu et.al.|[2408.11446](http://arxiv.org/abs/2408.11446)|null|
+|**2024-08-21**|**Domain-invariant Progressive Knowledge Distillation for UAV-based Object Detection**|Liang Yao et.al.|[2408.11407](http://arxiv.org/abs/2408.11407)|null|
+|**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
+|**2024-08-20**|**Displacement field-controlled fractional Chern insulators and charge density waves in a graphene/hBN moiré superlattice**|Samuel H. Aronson et.al.|[2408.11220](http://arxiv.org/abs/2408.11220)|null|
 |**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039](http://arxiv.org/abs/2408.11039)|null|
 |**2024-08-20**|**Theoretical Analysis of the Structure, Thermodynamics, and Shear Elasticity of Deeply Metastable Hard Sphere Fluids**|Subhashish Chaki et.al.|[2408.10922](http://arxiv.org/abs/2408.10922)|null|
 |**2024-08-20**|**Towards Efficient Formal Verification of Spiking Neural Network**|Baekryun Seong et.al.|[2408.10900](http://arxiv.org/abs/2408.10900)|null|
