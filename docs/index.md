@@ -1158,7 +1158,7 @@ layout: default
 |**2023-04-06**|**Distributed formation-enforcing control for UAVs robust to observation noise in relative pose measurements**|Viktor Walter et.al.|[2304.03057](http://arxiv.org/abs/2304.03057)|**[link](https://github.com/ctu-mrs/difec-ron)**|
 |**2023-04-05**|**Efficient OCR for Building a Diverse Digital History**|Jacob Carlson et.al.|[2304.02737](http://arxiv.org/abs/2304.02737)|**[link](https://github.com/dell-research-harvard/effocr)**|
 |**2023-04-05**|**LogoNet: a fine-grained network for instance-level logo sketch retrieval**|Binbin Feng et.al.|[2304.02214](http://arxiv.org/abs/2304.02214)|**[link](https://github.com/abin333/logonet)**|
-|**2023-04-04**|**OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**|Paul-Edouard Sarlin et.al.|[2304.02009](http://arxiv.org/abs/2304.02009)|null|
+|**2023-04-04**|**OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**|Paul-Edouard Sarlin et.al.|[2304.02009](http://arxiv.org/abs/2304.02009)|**[link](https://github.com/facebookresearch/OrienterNet)**|
 |**2023-04-04**|**Cross-Domain Image Captioning with Discriminative Finetuning**|Roberto Dessì et.al.|[2304.01662](http://arxiv.org/abs/2304.01662)|**[link](https://github.com/facebookresearch/EGG)**|
 |**2023-04-02**|**Learning Similarity between Scene Graphs and Images with Transformers**|Yuren Cong et.al.|[2304.00590](http://arxiv.org/abs/2304.00590)|**[link](https://github.com/yrcong/learning_similarity_between_graphs_images)**|
 |**2023-04-01**|**NPR: Nocturnal Place Recognition in Street**|Bingxi Liu et.al.|[2304.00276](http://arxiv.org/abs/2304.00276)|null|
@@ -3130,7 +3130,7 @@ layout: default
 |**2024-08-19**|**Propagating the prior from shallow to deep with a pre-trained velocity-model Generative Transformer network**|Randy Harsuko et.al.|[2408.09767](http://arxiv.org/abs/2408.09767)|null|
 |**2024-08-19**|**Dataset Distillation for Histopathology Image Classification**|Cong Cong et.al.|[2408.09709](http://arxiv.org/abs/2408.09709)|null|
 |**2024-08-20**|**MoDeGPT: Modular Decomposition for Large Language Model Compression**|Chi-Heng Lin et.al.|[2408.09632](http://arxiv.org/abs/2408.09632)|null|
-|**2024-08-18**|**Generating Automatically Print/Scan Textures for Morphing Attack Detection Applications**|Juan E. Tapia et.al.|[2408.09558](http://arxiv.org/abs/2408.09558)|null|
+|**2024-08-18**|**Generating Automatically Print/Scan Textures for Morphing Attack Detection Applications**|Juan E. Tapia et.al.|[2408.09558](http://arxiv.org/abs/2408.09558)|**[link](https://github.com/jedota/Semi-Auto-Transfer-PS600)**|
 |**2024-08-20**|**ELASTIC: Efficient Linear Attention for Sequential Interest Compression**|Jiaxin Deng et.al.|[2408.09380](http://arxiv.org/abs/2408.09380)|null|
 |**2024-08-17**|**Accelerating Chance-constrained SCED via Scenario Compression**|Qian Zhang et.al.|[2408.09245](http://arxiv.org/abs/2408.09245)|null|
 |**2024-08-16**|**Entropy Coding of Unordered Data Structures**|Julius Kunze et.al.|[2408.08837](http://arxiv.org/abs/2408.08837)|**[link](https://github.com/juliuskunze/shuffle-coding)**|
@@ -3264,11 +3264,11 @@ layout: default
 |**2024-07-30**|**Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications**|Yi Ju et.al.|[2407.20717](http://arxiv.org/abs/2407.20717)|null|
 |**2024-07-30**|**Pruning Large Language Models with Semi-Structural Adaptive Sparse Training**|Weiyu Huang et.al.|[2407.20584](http://arxiv.org/abs/2407.20584)|null|
 |**2024-07-30**|**RIP sensing matrices construction for sparsifying dictionaries with application to MRI imaging**|Jinn Ho et.al.|[2407.20576](http://arxiv.org/abs/2407.20576)|null|
-|**2024-07-30**|**SuperCodec: A Neural Speech Codec with Selective Back-Projection Network**|Youqiang Zheng et.al.|[2407.20530](http://arxiv.org/abs/2407.20530)|null|
+|**2024-07-30**|**SuperCodec: A Neural Speech Codec with Selective Back-Projection Network**|Youqiang Zheng et.al.|[2407.20530](http://arxiv.org/abs/2407.20530)|**[link](https://github.com/exercise-book-yq/supercodec)**|
 |**2024-07-30**|**Toward Efficient Permutation for Hierarchical N:M Sparsity on GPUs**|Seungmin Yu et.al.|[2407.20496](http://arxiv.org/abs/2407.20496)|null|
 |**2024-07-29**|**ImagiNet: A Multi-Content Dataset for Generalizable Synthetic Image Detection via Contrastive Learning**|Delyan Boychev et.al.|[2407.20020](http://arxiv.org/abs/2407.20020)|**[link](https://github.com/delyan-boychev/imaginet)**|
 |**2024-07-29**|**Robust Conformal Volume Estimation in 3D Medical Images**|Benjamin Lambert et.al.|[2407.19938](http://arxiv.org/abs/2407.19938)|**[link](https://github.com/benolmbrt/wcp_miccai)**|
-|**2024-07-29**|**Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations**|Giovanni Catalani et.al.|[2407.19916](http://arxiv.org/abs/2407.19916)|null|
+|**2024-07-29**|**Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations**|Giovanni Catalani et.al.|[2407.19916](http://arxiv.org/abs/2407.19916)|**[link](https://gitlab.isae-supaero.fr/gi.catalani/aero-nepf)**|
 |**2024-07-29**|**Design and Testing for Steel Support Axial Force Servo System**|Sana Ullah et.al.|[2407.19867](http://arxiv.org/abs/2407.19867)|null|
 |**2024-07-29**|**Deep Image Priors for Magnetic Resonance Fingerprinting with pretrained Bloch-consistent denoising autoencoders**|Perla Mayo et.al.|[2407.19866](http://arxiv.org/abs/2407.19866)|null|
 |**2024-07-29**|**Model Agnostic Hybrid Sharding For Heterogeneous Distributed Inference**|Claudio Angione et.al.|[2407.19775](http://arxiv.org/abs/2407.19775)|null|
