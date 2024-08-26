@@ -3093,6 +3093,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**On Information Theoretic Fairness: Compressed Representations With Perfect Demographic Parity**|Amirreza Zamani et.al.|[2408.13168](http://arxiv.org/abs/2408.13168)|null|
+|**2024-08-23**|**Anisotropic sub-band splitting mechanisms in strained HgTe: a first principles study**|Eeshan Ketkar et.al.|[2408.13042](http://arxiv.org/abs/2408.13042)|null|
+|**2024-08-23**|**A Web-Based Solution for Federated Learning with LLM-Based Automation**|Chamith Mawela et.al.|[2408.13010](http://arxiv.org/abs/2408.13010)|null|
+|**2024-08-23**|**A Survey on Drowsiness Detection -- Modern Applications and Methods**|Biying Fu et.al.|[2408.12990](http://arxiv.org/abs/2408.12990)|null|
+|**2024-08-23**|**Hydrodynamical shear mixing in subsonic boundary layers and its role in the thermonuclear explosion of classical novae**|Marco Bellomo et.al.|[2408.12937](http://arxiv.org/abs/2408.12937)|null|
+|**2024-08-23**|**Cylindrical Cavity Expansion: A Novel Method for Characterizing the Mechanical Properties of Soft Materials**|Jian Li et.al.|[2408.12920](http://arxiv.org/abs/2408.12920)|null|
+|**2024-08-22**|**Quantization-free Lossy Image Compression Using Integer Matrix Factorization**|Pooya Ashtari et.al.|[2408.12691](http://arxiv.org/abs/2408.12691)|**[link](https://github.com/pashtari/lrf)**|
 |**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/abs/2408.12590)|null|
 |**2024-08-22**|**Electric field control of superconductivity and quantized anomalous Hall effects in rhombohedral tetralayer graphene**|Youngjoon Choi et.al.|[2408.12584](http://arxiv.org/abs/2408.12584)|null|
 |**2024-08-22**|**Pruning By Explaining Revisited: Optimizing Attribution Methods to Prune CNNs and Transformers**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2408.12568](http://arxiv.org/abs/2408.12568)|null|
