@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**The limitations of a standard phase-field model in reproducing jointing in sedimentary rock layers**|Edoardo Pezzulli et.al.|[2408.14449](http://arxiv.org/abs/2408.14449)|null|
+|**2024-08-26**|**LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation**|Trung Dinh Quoc Dang et.al.|[2408.14415](http://arxiv.org/abs/2408.14415)|null|
+|**2024-08-26**|**Language-specific Calibration for Pruning Multilingual Language Models**|Simon Kurz et.al.|[2408.14398](http://arxiv.org/abs/2408.14398)|null|
+|**2024-08-26**|**Tension-induced giant actuation in unstructured elastic sheets**|Kexin Guo et.al.|[2408.14239](http://arxiv.org/abs/2408.14239)|null|
+|**2024-08-26**|**Recursive sparse LU decomposition based on nested dissection and low rank approximations**|Zhu Xuanru et.al.|[2408.14193](http://arxiv.org/abs/2408.14193)|null|
+|**2024-08-26**|**Global existence and time decay of strong solutions to a fluid-particle coupled model with energy exchanges**|Fucai Li et.al.|[2408.14121](http://arxiv.org/abs/2408.14121)|null|
+|**2024-08-26**|**Revisiting time-variant complex conjugate matrix equations with their corresponding real field time-variant large-scale linear equations, neural hypercomplex numbers space compressive approximation approach**|Jiakuang He et.al.|[2408.14057](http://arxiv.org/abs/2408.14057)|null|
+|**2024-08-25**|**Electronic correlations and long-range magnetic ordering in NiO tuned by pressure**|G. M. Gaifutdinov et.al.|[2408.13937](http://arxiv.org/abs/2408.13937)|null|
+|**2024-08-25**|**Inverse Problem Regularization for 3D Multi-Species Tumor Growth Models**|Ali Ghafouri et.al.|[2408.13903](http://arxiv.org/abs/2408.13903)|null|
+|**2024-08-25**|**Correlations for aerodynamic force coefficients of non-spherical particles in compressible flows**|Christian Gorges et.al.|[2408.13884](http://arxiv.org/abs/2408.13884)|null|
 |**2024-08-23**|**On Information Theoretic Fairness: Compressed Representations With Perfect Demographic Parity**|Amirreza Zamani et.al.|[2408.13168](http://arxiv.org/abs/2408.13168)|null|
 |**2024-08-23**|**Anisotropic sub-band splitting mechanisms in strained HgTe: a first principles study**|Eeshan Ketkar et.al.|[2408.13042](http://arxiv.org/abs/2408.13042)|null|
 |**2024-08-23**|**A Web-Based Solution for Federated Learning with LLM-Based Automation**|Chamith Mawela et.al.|[2408.13010](http://arxiv.org/abs/2408.13010)|null|
