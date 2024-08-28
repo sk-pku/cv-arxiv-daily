@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
+|**2024-08-27**|**A Deep Dive into the NGC 741 Galaxy Group: Insights into a Spectacular Head-Tail Radio Galaxy from VLA, MeerKAT, uGMRT and LOFAR**|K. Rajpurohit et.al.|[2408.15197](http://arxiv.org/abs/2408.15197)|null|
+|**2024-08-27**|**Assembly Theory Reduced to Shannon Entropy and Rendered Redundant by Naive Statistical Algorithms**|Luan Ozelim et.al.|[2408.15108](http://arxiv.org/abs/2408.15108)|null|
+|**2024-08-27**|**Resolving the pressure induced 'self-insertion' in skutterudite CoSb3**|Bihan Wang et.al.|[2408.15105](http://arxiv.org/abs/2408.15105)|null|
+|**2024-08-27**|**Data-Driven Nonlinear Deformation Design of 3D-Printable Shells**|Samuel Silverman et.al.|[2408.15097](http://arxiv.org/abs/2408.15097)|**[link](https://github.com/samsilverman/nonlinear-deformation-design)**|
+|**2024-08-27**|**Data downlink prioritization using image classification on-board a 6U CubeSat**|Keenan A. A. Chatar et.al.|[2408.14865](http://arxiv.org/abs/2408.14865)|null|
+|**2024-08-27**|**Diffusion Models Are Real-Time Game Engines**|Dani Valevski et.al.|[2408.14837](http://arxiv.org/abs/2408.14837)|null|
+|**2024-08-27**|**Shock Wave Interaction with a Naturally Generated Vortex Ring**|Swapnil Ashok Ahire et.al.|[2408.14800](http://arxiv.org/abs/2408.14800)|null|
+|**2024-08-27**|**Interplanetary Causes and Impacts of the 2024 May Superstorm on the Geosphere: An Overview**|Rajkumar Hajra et.al.|[2408.14799](http://arxiv.org/abs/2408.14799)|null|
+|**2024-08-27**|**Training-Free Time-Series Anomaly Detection: Leveraging Image Foundation Models**|Nobuo Namura et.al.|[2408.14756](http://arxiv.org/abs/2408.14756)|null|
 |**2024-08-26**|**The limitations of a standard phase-field model in reproducing jointing in sedimentary rock layers**|Edoardo Pezzulli et.al.|[2408.14449](http://arxiv.org/abs/2408.14449)|null|
 |**2024-08-26**|**LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation**|Trung Dinh Quoc Dang et.al.|[2408.14415](http://arxiv.org/abs/2408.14415)|null|
 |**2024-08-26**|**Language-specific Calibration for Pruning Multilingual Language Models**|Simon Kurz et.al.|[2408.14398](http://arxiv.org/abs/2408.14398)|null|
