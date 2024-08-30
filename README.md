@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Iterative Graph Alignment**|Fangyuan Yu et.al.|[2408.16667](http://arxiv.org/abs/2408.16667)|null|
+|**2024-08-29**|**WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling**|Shengpeng Ji et.al.|[2408.16532](http://arxiv.org/abs/2408.16532)|**[link](https://github.com/jishengpeng/wavtokenizer)**|
+|**2024-08-29**|**UAV-Based Human Body Detector Selection and Fusion for Geolocated Saliency Map Generation**|Piotr Rudol et.al.|[2408.16501](http://arxiv.org/abs/2408.16501)|null|
+|**2024-08-29**|**Prediction of an alternative route to polymeric carbon dioxide: A metastable energetic material**|Reetam Paul et.al.|[2408.16487](http://arxiv.org/abs/2408.16487)|null|
+|**2024-08-29**|**Efficient Compression of Redshift-Space Distortion Data for Late-Time Modified Gravity Models**|Yo Toda et.al.|[2408.16388](http://arxiv.org/abs/2408.16388)|null|
+|**2024-08-29**|**Multiferroic Metallic Monolayer Cu(CrSe2)2**|Ke Yang et.al.|[2408.16363](http://arxiv.org/abs/2408.16363)|null|
+|**2024-08-29**|**Steady Compressible 3D Euler Flows in Toroidal Volumes without Continuous Euclidean Isometries**|Naoki Sato et.al.|[2408.16339](http://arxiv.org/abs/2408.16339)|null|
+|**2024-08-29**|**Convolutional Neural Network Compression Based on Low-Rank Decomposition**|Yaping He et.al.|[2408.16289](http://arxiv.org/abs/2408.16289)|null|
+|**2024-08-29**|**PSE-Net: Channel Pruning for Convolutional Neural Networks with Parallel-subnets Estimator**|Shiguang Wang et.al.|[2408.16233](http://arxiv.org/abs/2408.16233)|null|
+|**2024-08-28**|**Single-Photon 3D Imaging with Equi-Depth Photon Histograms**|Kaustubh Sadekar et.al.|[2408.16150](http://arxiv.org/abs/2408.16150)|null|
 |**2024-08-29**|**Shot Segmentation Based on Von Neumann Entropy for Key Frame Extraction**|Xueqing Zhang et.al.|[2408.15844](http://arxiv.org/abs/2408.15844)|null|
 |**2024-08-28**|**Neural density functional theory of liquid-gas phase coexistence**|Florian Sammüller et.al.|[2408.15835](http://arxiv.org/abs/2408.15835)|**[link](https://github.com/sfalmo/neural-attraction)**|
 |**2024-08-28**|**Global well-posedness and large time behavior of solutions to the compressible Oldroyd-B model without stress diffusion**|Yajuan Zhao et.al.|[2408.15812](http://arxiv.org/abs/2408.15812)|null|
