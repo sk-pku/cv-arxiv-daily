@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -514,7 +514,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
 
 ## SFM
 
@@ -724,7 +724,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1530,7 +1530,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1761,7 +1761,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2000,7 +2000,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
 
 ## NeRF
 
@@ -3108,13 +3108,13 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
 
 ## Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-28**|**Shot Segmentation Based on Von Neumann Entropy for Key Frame Extraction**|Xueqing Zhang. Di Fu et.al.|[2408.15844](http://arxiv.org/abs/2408.15844)|null|
+|**2024-08-29**|**Shot Segmentation Based on Von Neumann Entropy for Key Frame Extraction**|Xueqing Zhang et.al.|[2408.15844](http://arxiv.org/abs/2408.15844)|null|
 |**2024-08-28**|**Neural density functional theory of liquid-gas phase coexistence**|Florian Sammüller et.al.|[2408.15835](http://arxiv.org/abs/2408.15835)|**[link](https://github.com/sfalmo/neural-attraction)**|
 |**2024-08-28**|**Global well-posedness and large time behavior of solutions to the compressible Oldroyd-B model without stress diffusion**|Yajuan Zhao et.al.|[2408.15812](http://arxiv.org/abs/2408.15812)|null|
 |**2024-08-28**|**Fast and accurate machine-learned interatomic potentials for large-scale simulations of Cu, Al and Ni**|Aslak Fellman et.al.|[2408.15779](http://arxiv.org/abs/2408.15779)|null|
@@ -3123,7 +3123,7 @@
 |**2024-08-28**|**New Results on Periodic Golay Pairs**|Tyler Lumsden et.al.|[2408.15611](http://arxiv.org/abs/2408.15611)|null|
 |**2024-08-28**|**On the elastoplastic behavior in collisional compression of spherical dust aggregates**|Sota Arakawa et.al.|[2408.15573](http://arxiv.org/abs/2408.15573)|null|
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|Jiajun Liu et.al.|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
-|**2024-08-28**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496](http://arxiv.org/abs/2408.15496)|null|
+|**2024-08-29**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496](http://arxiv.org/abs/2408.15496)|null|
 |**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
 |**2024-08-27**|**A Deep Dive into the NGC 741 Galaxy Group: Insights into a Spectacular Head-Tail Radio Galaxy from VLA, MeerKAT, uGMRT and LOFAR**|K. Rajpurohit et.al.|[2408.15197](http://arxiv.org/abs/2408.15197)|null|
 |**2024-08-27**|**Assembly Theory Reduced to Shannon Entropy and Rendered Redundant by Naive Statistical Algorithms**|Luan Ozelim et.al.|[2408.15108](http://arxiv.org/abs/2408.15108)|null|
@@ -3612,7 +3612,7 @@
 |**2024-06-14**|**Robust compressive tracking via online weighted multiple instance learning**|Sandeep Singh Sengar et.al.|[2406.09914](http://arxiv.org/abs/2406.09914)|null|
 |**2024-06-14**|**QQQ: Quality Quattuor-Bit Quantization for Large Language Models**|Ying Zhang et.al.|[2406.09904](http://arxiv.org/abs/2406.09904)|**[link](https://github.com/HandH1998/QQQ)**|
 
-<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

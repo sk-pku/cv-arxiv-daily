@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,7 +3093,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-28**|**Shot Segmentation Based on Von Neumann Entropy for Key Frame Extraction**|Xueqing Zhang. Di Fu et.al.|[2408.15844](http://arxiv.org/abs/2408.15844)|null|
+|**2024-08-29**|**Shot Segmentation Based on Von Neumann Entropy for Key Frame Extraction**|Xueqing Zhang et.al.|[2408.15844](http://arxiv.org/abs/2408.15844)|null|
 |**2024-08-28**|**Neural density functional theory of liquid-gas phase coexistence**|Florian Sammüller et.al.|[2408.15835](http://arxiv.org/abs/2408.15835)|**[link](https://github.com/sfalmo/neural-attraction)**|
 |**2024-08-28**|**Global well-posedness and large time behavior of solutions to the compressible Oldroyd-B model without stress diffusion**|Yajuan Zhao et.al.|[2408.15812](http://arxiv.org/abs/2408.15812)|null|
 |**2024-08-28**|**Fast and accurate machine-learned interatomic potentials for large-scale simulations of Cu, Al and Ni**|Aslak Fellman et.al.|[2408.15779](http://arxiv.org/abs/2408.15779)|null|
@@ -3102,7 +3102,7 @@ layout: default
 |**2024-08-28**|**New Results on Periodic Golay Pairs**|Tyler Lumsden et.al.|[2408.15611](http://arxiv.org/abs/2408.15611)|null|
 |**2024-08-28**|**On the elastoplastic behavior in collisional compression of spherical dust aggregates**|Sota Arakawa et.al.|[2408.15573](http://arxiv.org/abs/2408.15573)|null|
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|Jiajun Liu et.al.|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
-|**2024-08-28**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496](http://arxiv.org/abs/2408.15496)|null|
+|**2024-08-29**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496](http://arxiv.org/abs/2408.15496)|null|
 |**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
 |**2024-08-27**|**A Deep Dive into the NGC 741 Galaxy Group: Insights into a Spectacular Head-Tail Radio Galaxy from VLA, MeerKAT, uGMRT and LOFAR**|K. Rajpurohit et.al.|[2408.15197](http://arxiv.org/abs/2408.15197)|null|
 |**2024-08-27**|**Assembly Theory Reduced to Shannon Entropy and Rendered Redundant by Naive Statistical Algorithms**|Luan Ozelim et.al.|[2408.15108](http://arxiv.org/abs/2408.15108)|null|
