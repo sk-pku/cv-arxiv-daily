@@ -1383,7 +1383,7 @@
 |**2022-08-17**|**Understanding Attention for Vision-and-Language Tasks**|Feiqi Cao et.al.|[2208.08104](http://arxiv.org/abs/2208.08104)|**[link](https://github.com/adlnlp/attention_vl)**|
 |**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong et.al.|[2208.06933](http://arxiv.org/abs/2208.06933)|**[link](https://github.com/siyandong/src)**|
 |**2022-08-14**|**HyP $^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval**|Chengyin Xu et.al.|[2208.06866](http://arxiv.org/abs/2208.06866)|**[link](https://github.com/jerryxu0129/hyp2-loss)**|
-|**2022-08-13**|**Finding Point with Image: An End-to-End Benchmark for Vision-based UAV Localization**|Ming Dai et.al.|[2208.06561](http://arxiv.org/abs/2208.06561)|null|
+|**2022-08-13**|**Finding Point with Image: An End-to-End Benchmark for Vision-based UAV Localization**|Ming Dai et.al.|[2208.06561](http://arxiv.org/abs/2208.06561)|**[link](https://github.com/dmmm1997/drl)**|
 |**2022-08-16**|**Category-Level Pose Retrieval with Contrastive Features Learnt with Occlusion Augmentation**|Georgios Kouros et.al.|[2208.06195](http://arxiv.org/abs/2208.06195)|**[link](https://github.com/gkouros/contrastive-pose-retrieval)**|
 |**2022-08-12**|**Instance Image Retrieval by Learning Purely From Within the Dataset**|Zhongyan Zhang et.al.|[2208.06119](http://arxiv.org/abs/2208.06119)|null|
 |**2022-08-07**|**CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**|Yujiao Shi et.al.|[2208.03660](http://arxiv.org/abs/2208.03660)|null|
@@ -2249,7 +2249,7 @@
 |**2024-03-16**|**Fast Sparse View Guided NeRF Update for Object Reconfigurations**|Ziqi Lu et.al.|[2403.11024](http://arxiv.org/abs/2403.11024)|null|
 |**2024-03-16**|**HourglassNeRF: Casting an Hourglass as a Bundle of Rays for Few-shot Neural Rendering**|Seunghyeon Seo et.al.|[2403.10906](http://arxiv.org/abs/2403.10906)|null|
 |**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516](http://arxiv.org/abs/2403.10516)|**[link](https://github.com/mhamilton723/FeatUp)**|
-|**2024-03-15**|**Thermal-NeRF: Neural Radiance Fields from an Infrared Camera**|Tianxiang Ye et.al.|[2403.10340](http://arxiv.org/abs/2403.10340)|null|
+|**2024-03-15**|**Thermal-NeRF: Neural Radiance Fields from an Infrared Camera**|Tianxiang Ye et.al.|[2403.10340](http://arxiv.org/abs/2403.10340)|**[link](https://github.com/cerf-volant425/thermal-nerf)**|
 |**2024-03-15**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
 |**2024-03-15**|**GGRt: Towards Generalizable 3D Gaussians without Pose Priors in Real-Time**|Hao Li et.al.|[2403.10147](http://arxiv.org/abs/2403.10147)|null|
 |**2024-03-15**|**URS-NeRF: Unordered Rolling Shutter Bundle Adjustment for Neural Radiance Fields**|Bo Xu et.al.|[2403.10119](http://arxiv.org/abs/2403.10119)|null|
@@ -3163,7 +3163,7 @@
 |**2024-08-22**|**Quantization-free Lossy Image Compression Using Integer Matrix Factorization**|Pooya Ashtari et.al.|[2408.12691](http://arxiv.org/abs/2408.12691)|**[link](https://github.com/pashtari/lrf)**|
 |**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/abs/2408.12590)|null|
 |**2024-08-22**|**Electric field control of superconductivity and quantized anomalous Hall effects in rhombohedral tetralayer graphene**|Youngjoon Choi et.al.|[2408.12584](http://arxiv.org/abs/2408.12584)|null|
-|**2024-08-22**|**Pruning By Explaining Revisited: Optimizing Attribution Methods to Prune CNNs and Transformers**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2408.12568](http://arxiv.org/abs/2408.12568)|null|
+|**2024-08-22**|**Pruning By Explaining Revisited: Optimizing Attribution Methods to Prune CNNs and Transformers**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2408.12568](http://arxiv.org/abs/2408.12568)|**[link](https://github.com/erfanhatefi/pruning-by-explaining-in-pytorch)**|
 |**2024-08-23**|**Uniform Borel amenability is equivalent to randomized hyperfiniteness**|Gábor Elek et.al.|[2408.12565](http://arxiv.org/abs/2408.12565)|null|
 |**2024-08-22**|**Modeling Time-Variant Responses of Optical Compressors with Selective State Space Models**|Riccardo Simionato et.al.|[2408.12549](http://arxiv.org/abs/2408.12549)|null|
 |**2024-08-22**|**Effect of Frequency-Dependent Viscosity on Molecular Friction in Liquids**|Henrik Kiefer et.al.|[2408.12506](http://arxiv.org/abs/2408.12506)|null|
@@ -3172,7 +3172,7 @@
 |**2024-08-22**|**Gas dynamics around a Jupiter-mass planet I. Influence of protoplanetary disk properties**|E. Lega et.al.|[2408.12233](http://arxiv.org/abs/2408.12233)|null|
 |**2024-08-22**|**DeepHQ: Learned Hierarchical Quantizer for Progressive Deep Image Coding**|Jooyoung Lee et.al.|[2408.12150](http://arxiv.org/abs/2408.12150)|null|
 |**2024-08-21**|**LLM Pruning and Distillation in Practice: The Minitron Approach**|Sharath Turuvekere Sreenivas et.al.|[2408.11796](http://arxiv.org/abs/2408.11796)|null|
-|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758](http://arxiv.org/abs/2408.11758)|null|
+|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758](http://arxiv.org/abs/2408.11758)|**[link](https://github.com/renyulin-f/mambacsr)**|
 |**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|null|
 |**2024-08-21**|**Bridging experiment and theory of relaxor ferroelectrics at the atomic scale with multislice electron ptychography**|Menglin Zhu et.al.|[2408.11685](http://arxiv.org/abs/2408.11685)|null|
 |**2024-08-21**|**Scalable Knowledge Refactoring using Constrained Optimisation**|Minghao Liu et.al.|[2408.11530](http://arxiv.org/abs/2408.11530)|null|
@@ -3209,7 +3209,7 @@
 |**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
 |**2024-08-16**|**Bi-Directional Deep Contextual Video Compression**|Xihua Sheng et.al.|[2408.08604](http://arxiv.org/abs/2408.08604)|null|
 |**2024-08-16**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](http://arxiv.org/abs/2408.08575)|null|
-|**2024-08-16**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|null|
+|**2024-08-16**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|**[link](https://github.com/bytedance/abq-llm)**|
 |**2024-08-15**|**JPEG-LM: LLMs as Image Generators with Canonical Codec Representations**|Xiaochuang Han et.al.|[2408.08459](http://arxiv.org/abs/2408.08459)|null|
 |**2024-08-15**|**Computer Vision Model Compression Techniques for Embedded Systems: A Survey**|Alexandre Lopes et.al.|[2408.08250](http://arxiv.org/abs/2408.08250)|**[link](https://github.com/venturusbr/cv-model-compression)**|
 |**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211](http://arxiv.org/abs/2408.08211)|null|
@@ -3431,7 +3431,7 @@
 |**2024-07-16**|**Speckle-based 3D sub-diffraction imaging through a multimode fiber**|Zhouping Lyu et.al.|[2407.11796](http://arxiv.org/abs/2407.11796)|null|
 |**2024-07-16**|**Compressive Electron Backscatter Diffraction Imaging**|Zoë Broad et.al.|[2407.11724](http://arxiv.org/abs/2407.11724)|null|
 |**2024-07-17**|**Rate-Distortion-Cognition Controllable Versatile Neural Image Compression**|Jinming Liu et.al.|[2407.11700](http://arxiv.org/abs/2407.11700)|null|
-|**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|null|
+|**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|**[link](https://github.com/hanguo97/flute)**|
 |**2024-07-15**|**In-Loop Filtering via Trained Look-Up Tables**|Zhuoyuan Li et.al.|[2407.10926](http://arxiv.org/abs/2407.10926)|null|
 |**2024-07-15**|**Optimal Neural Summarisation for Full-Field Weak Lensing Cosmological Implicit Inference**|Denise Lanzieri et.al.|[2407.10877](http://arxiv.org/abs/2407.10877)|**[link](https://github.com/differentiableuniverseinitiative/sbi_lens)**|
 |**2024-07-15**|**Cut-Preserving Vertex Sparsifiers for Planar and Quasi-bipartite Graphs**|Yu Chen et.al.|[2407.10852](http://arxiv.org/abs/2407.10852)|null|
@@ -3481,7 +3481,7 @@
 |**2024-07-09**|**Variational Learning ISTA**|Fabio Valerio Massoli et.al.|[2407.06646](http://arxiv.org/abs/2407.06646)|null|
 |**2024-07-10**|**Entropy Law: The Story Behind Data Compression and LLM Performance**|Mingjia Yin et.al.|[2407.06645](http://arxiv.org/abs/2407.06645)|**[link](https://github.com/ustc-starteam/zip)**|
 |**2024-07-09**|**Rate-Loss Regions for Polynomial Regression with Side Information**|Jiahui Wei et.al.|[2407.06591](http://arxiv.org/abs/2407.06591)|null|
-|**2024-07-08**|**TAPVid-3D: A Benchmark for Tracking Any Point in 3D**|Skanda Koppula et.al.|[2407.05921](http://arxiv.org/abs/2407.05921)|null|
+|**2024-07-08**|**TAPVid-3D: A Benchmark for Tracking Any Point in 3D**|Skanda Koppula et.al.|[2407.05921](http://arxiv.org/abs/2407.05921)|**[link](https://github.com/google-deepmind/tapnet)**|
 |**2024-07-08**|**Deep Learning-based CSI Feedback in Wi-Fi Systems**|Fan Qi et.al.|[2407.05905](http://arxiv.org/abs/2407.05905)|null|
 |**2024-07-08**|**SVT-AV1 Encoding Bitrate Estimation Using Motion Search Information**|Lena Eichermüller et.al.|[2407.05900](http://arxiv.org/abs/2407.05900)|null|
 |**2024-07-08**|**Wavefront shaping and imaging through a multimode hollow-core fiber**|Zhouping Lyu et.al.|[2407.05783](http://arxiv.org/abs/2407.05783)|null|
