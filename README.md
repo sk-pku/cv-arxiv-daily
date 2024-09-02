@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**NDP: Next Distribution Prediction as a More Broad Target**|Junhao Ruan et.al.|[2408.17377](http://arxiv.org/abs/2408.17377)|null|
+|**2024-08-30**|**Physics-Informed Neural Networks for Transonic Flows around an Airfoil**|Simon Wassing et.al.|[2408.17364](http://arxiv.org/abs/2408.17364)|null|
+|**2024-08-30**|**Hold Me Tight: Stable Encoder-Decoder Design for Speech Enhancement**|Daniel Haider et.al.|[2408.17358](http://arxiv.org/abs/2408.17358)|null|
+|**2024-08-30**|**Asymptotic stability of composite waves of two viscous shocks for relaxed compressible Navier-Stokes equations**|Renyong Guan et.al.|[2408.17261](http://arxiv.org/abs/2408.17261)|null|
+|**2024-08-30**|**Stepwise Weighted Spike Coding for Deep Spiking Neural Networks**|Yiwen Gu et.al.|[2408.17245](http://arxiv.org/abs/2408.17245)|null|
+|**2024-08-30**|**Shock-driven amorphization and melt in Fe $_2$O$_3$**|Céline Crépisson et.al.|[2408.17204](http://arxiv.org/abs/2408.17204)|null|
+|**2024-08-30**|**Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model**|Zhen Ye et.al.|[2408.17175](http://arxiv.org/abs/2408.17175)|**[link](https://github.com/zhenye234/xcodec)**|
+|**2024-08-30**|**Mapping and characterizing magnetic fields in the Rho Ophiuchus-A molecular cloud with SOFIA/HAWC $+$**|Ngân Lê et.al.|[2408.17122](http://arxiv.org/abs/2408.17122)|null|
+|**2024-08-30**|**Dual JPEG Compatibility: a Reliable and Explainable Tool for Image Forensics**|Etienne Levecque et.al.|[2408.17106](http://arxiv.org/abs/2408.17106)|null|
+|**2024-08-30**|**Fully Coupled Implicit Hydro-Mechanical Multiphase Flow Simulation in Deformable Porous Media Using DEM**|Quanwei Dai et.al.|[2408.17100](http://arxiv.org/abs/2408.17100)|null|
 |**2024-08-29**|**Iterative Graph Alignment**|Fangyuan Yu et.al.|[2408.16667](http://arxiv.org/abs/2408.16667)|null|
 |**2024-08-29**|**WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling**|Shengpeng Ji et.al.|[2408.16532](http://arxiv.org/abs/2408.16532)|**[link](https://github.com/jishengpeng/wavtokenizer)**|
 |**2024-08-29**|**UAV-Based Human Body Detector Selection and Fusion for Geolocated Saliency Map Generation**|Piotr Rudol et.al.|[2408.16501](http://arxiv.org/abs/2408.16501)|null|
