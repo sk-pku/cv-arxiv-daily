@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Blochnium-Based Josephson Junction Parametric Amplifiers: Superior Tunability and Linearity**|A. Salmanogli et.al.|[2409.02887](http://arxiv.org/abs/2409.02887)|null|
+|**2024-09-04**|**Key Compression Limits for $k$ -Minimum Value Sketches**|Charlie Dickens et.al.|[2409.02852](http://arxiv.org/abs/2409.02852)|null|
+|**2024-09-04**|**Magnetic, Kinetic, and Transition regime: Spatially-segregated structure of compressive MHD turbulence**|Guang-Xing Li et.al.|[2409.02769](http://arxiv.org/abs/2409.02769)|null|
+|**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763](http://arxiv.org/abs/2409.02763)|null|
+|**2024-09-04**|**V-Words, Lyndon Words and Galois Words**|Jacqueline W. Daykin et.al.|[2409.02757](http://arxiv.org/abs/2409.02757)|null|
+|**2024-09-04**|**Efficient Image_Compression Using Advanced State Space Models**|Bouzid Arezki et.al.|[2409.02743](http://arxiv.org/abs/2409.02743)|null|
+|**2024-09-04**|**Compression of high-power laser pulse leads to increase of electron acceleration efficiency**|O. E. Vais et.al.|[2409.02671](http://arxiv.org/abs/2409.02671)|null|
+|**2024-09-04**|**Cutting Mechanics of Soft Compressible Solids: Force-radius scaling versus bulk modulus**|Bharath Antarvedi Goda et.al.|[2409.02665](http://arxiv.org/abs/2409.02665)|null|
+|**2024-09-04**|**Accretion vs. Core-Filament Collision: Implications for Streamer Formation in Per-emb-2**|Fumitaka Nakamura et.al.|[2409.02661](http://arxiv.org/abs/2409.02661)|null|
+|**2024-09-04**|**Mamba as a motion encoder for robotic imitation learning**|Toshiaki Tsuji et.al.|[2409.02636](http://arxiv.org/abs/2409.02636)|null|
 |**2024-08-30**|**NDP: Next Distribution Prediction as a More Broad Target**|Junhao Ruan et.al.|[2408.17377](http://arxiv.org/abs/2408.17377)|null|
 |**2024-08-30**|**Physics-Informed Neural Networks for Transonic Flows around an Airfoil**|Simon Wassing et.al.|[2408.17364](http://arxiv.org/abs/2408.17364)|null|
 |**2024-08-30**|**Hold Me Tight: Stable Encoder-Decoder Design for Speech Enhancement**|Daniel Haider et.al.|[2408.17358](http://arxiv.org/abs/2408.17358)|null|
