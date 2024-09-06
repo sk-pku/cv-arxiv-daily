@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild**|Yuntian Deng et.al.|[2409.03753](http://arxiv.org/abs/2409.03753)|null|
+|**2024-09-05**|**Unified Framework for Neural Network Compression via Decomposition and Optimal Rank Selection**|Ali Aghababaei-Harandi et.al.|[2409.03555](http://arxiv.org/abs/2409.03555)|null|
+|**2024-09-05**|**DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**|Qianlong Xiang et.al.|[2409.03550](http://arxiv.org/abs/2409.03550)|null|
+|**2024-09-05**|**Direct Measurement of Density Matrices via Dense Dual Bases**|Yu Wang et.al.|[2409.03435](http://arxiv.org/abs/2409.03435)|null|
+|**2024-09-05**|**mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding**|Anwen Hu et.al.|[2409.03420](http://arxiv.org/abs/2409.03420)|**[link](https://github.com/x-plug/mplug-docowl)**|
+|**2024-09-05**|**Finite time blowup of strong solutions to the two dimensional MHD equations**|Xiangdi Huang et.al.|[2409.03400](http://arxiv.org/abs/2409.03400)|null|
+|**2024-09-05**|**VQ-DeepVSC: A Dual-Stage Vector Quantization Framework for Video Semantic Communication**|Yongyi Miao et.al.|[2409.03393](http://arxiv.org/abs/2409.03393)|null|
+|**2024-09-05**|**Raw Speech Enhancement with Deep State Space Modeling**|Yan Ru Pei et.al.|[2409.03377](http://arxiv.org/abs/2409.03377)|**[link](https://github.com/Brainchip-Inc/aTENNuate)**|
+|**2024-09-05**|**Semantic Communication for Efficient Point Cloud Transmission**|Shangzhuo Xie et.al.|[2409.03319](http://arxiv.org/abs/2409.03319)|null|
+|**2024-09-05**|**FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications**|Hao-Han Guo et.al.|[2409.03283](http://arxiv.org/abs/2409.03283)|null|
 |**2024-09-04**|**Blochnium-Based Josephson Junction Parametric Amplifiers: Superior Tunability and Linearity**|A. Salmanogli et.al.|[2409.02887](http://arxiv.org/abs/2409.02887)|null|
 |**2024-09-04**|**Key Compression Limits for $k$ -Minimum Value Sketches**|Charlie Dickens et.al.|[2409.02852](http://arxiv.org/abs/2409.02852)|null|
 |**2024-09-04**|**Magnetic, Kinetic, and Transition regime: Spatially-segregated structure of compressive MHD turbulence**|Guang-Xing Li et.al.|[2409.02769](http://arxiv.org/abs/2409.02769)|null|
