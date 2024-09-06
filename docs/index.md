@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3098,7 +3098,7 @@ layout: default
 |**2024-09-04**|**Magnetic, Kinetic, and Transition regime: Spatially-segregated structure of compressive MHD turbulence**|Guang-Xing Li et.al.|[2409.02769](http://arxiv.org/abs/2409.02769)|null|
 |**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763](http://arxiv.org/abs/2409.02763)|null|
 |**2024-09-04**|**V-Words, Lyndon Words and Galois Words**|Jacqueline W. Daykin et.al.|[2409.02757](http://arxiv.org/abs/2409.02757)|null|
-|**2024-09-04**|**Efficient Image_Compression Using Advanced State Space Models**|Bouzid Arezki et.al.|[2409.02743](http://arxiv.org/abs/2409.02743)|null|
+|**2024-09-05**|**Efficient Image Compression Using Advanced State Space Models**|Bouzid Arezki et.al.|[2409.02743](http://arxiv.org/abs/2409.02743)|null|
 |**2024-09-04**|**Compression of high-power laser pulse leads to increase of electron acceleration efficiency**|O. E. Vais et.al.|[2409.02671](http://arxiv.org/abs/2409.02671)|null|
 |**2024-09-04**|**Cutting Mechanics of Soft Compressible Solids: Force-radius scaling versus bulk modulus**|Bharath Antarvedi Goda et.al.|[2409.02665](http://arxiv.org/abs/2409.02665)|null|
 |**2024-09-04**|**Accretion vs. Core-Filament Collision: Implications for Streamer Formation in Per-emb-2**|Fumitaka Nakamura et.al.|[2409.02661](http://arxiv.org/abs/2409.02661)|null|
