@@ -3115,7 +3115,7 @@ layout: default
 |**2024-09-04**|**Mamba as a motion encoder for robotic imitation learning**|Toshiaki Tsuji et.al.|[2409.02636](http://arxiv.org/abs/2409.02636)|null|
 |**2024-08-30**|**NDP: Next Distribution Prediction as a More Broad Target**|Junhao Ruan et.al.|[2408.17377](http://arxiv.org/abs/2408.17377)|null|
 |**2024-08-30**|**Physics-Informed Neural Networks for Transonic Flows around an Airfoil**|Simon Wassing et.al.|[2408.17364](http://arxiv.org/abs/2408.17364)|null|
-|**2024-08-30**|**Hold Me Tight: Stable Encoder-Decoder Design for Speech Enhancement**|Daniel Haider et.al.|[2408.17358](http://arxiv.org/abs/2408.17358)|null|
+|**2024-08-30**|**Hold Me Tight: Stable Encoder-Decoder Design for Speech Enhancement**|Daniel Haider et.al.|[2408.17358](http://arxiv.org/abs/2408.17358)|**[link](https://github.com/felixperfler/stable-hybrid-auditory-filterbanks)**|
 |**2024-08-30**|**Asymptotic stability of composite waves of two viscous shocks for relaxed compressible Navier-Stokes equations**|Renyong Guan et.al.|[2408.17261](http://arxiv.org/abs/2408.17261)|null|
 |**2024-08-30**|**Stepwise Weighted Spike Coding for Deep Spiking Neural Networks**|Yiwen Gu et.al.|[2408.17245](http://arxiv.org/abs/2408.17245)|null|
 |**2024-08-30**|**Shock-driven amorphization and melt in Fe $_2$O$_3$**|Céline Crépisson et.al.|[2408.17204](http://arxiv.org/abs/2408.17204)|null|
@@ -3123,11 +3123,11 @@ layout: default
 |**2024-08-30**|**Mapping and characterizing magnetic fields in the Rho Ophiuchus-A molecular cloud with SOFIA/HAWC $+$**|Ngân Lê et.al.|[2408.17122](http://arxiv.org/abs/2408.17122)|null|
 |**2024-08-30**|**Dual JPEG Compatibility: a Reliable and Explainable Tool for Image Forensics**|Etienne Levecque et.al.|[2408.17106](http://arxiv.org/abs/2408.17106)|null|
 |**2024-08-30**|**Fully Coupled Implicit Hydro-Mechanical Multiphase Flow Simulation in Deformable Porous Media Using DEM**|Quanwei Dai et.al.|[2408.17100](http://arxiv.org/abs/2408.17100)|null|
-|**2024-08-29**|**Iterative Graph Alignment**|Fangyuan Yu et.al.|[2408.16667](http://arxiv.org/abs/2408.16667)|null|
+|**2024-08-29**|**Iterative Graph Alignment**|Fangyuan Yu et.al.|[2408.16667](http://arxiv.org/abs/2408.16667)|**[link](https://github.com/fangyuan-ksgk/ruleeval)**|
 |**2024-08-29**|**WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling**|Shengpeng Ji et.al.|[2408.16532](http://arxiv.org/abs/2408.16532)|**[link](https://github.com/jishengpeng/wavtokenizer)**|
 |**2024-08-29**|**UAV-Based Human Body Detector Selection and Fusion for Geolocated Saliency Map Generation**|Piotr Rudol et.al.|[2408.16501](http://arxiv.org/abs/2408.16501)|null|
 |**2024-08-29**|**Prediction of an alternative route to polymeric carbon dioxide: A metastable energetic material**|Reetam Paul et.al.|[2408.16487](http://arxiv.org/abs/2408.16487)|null|
-|**2024-08-29**|**Efficient Compression of Redshift-Space Distortion Data for Late-Time Modified Gravity Models**|Yo Toda et.al.|[2408.16388](http://arxiv.org/abs/2408.16388)|null|
+|**2024-08-29**|**Efficient Compression of Redshift-Space Distortion Data for Late-Time Modified Gravity Models**|Yo Toda et.al.|[2408.16388](http://arxiv.org/abs/2408.16388)|**[link](https://github.com/toda-cosmo/rsd)**|
 |**2024-08-29**|**Multiferroic Metallic Monolayer Cu(CrSe2)2**|Ke Yang et.al.|[2408.16363](http://arxiv.org/abs/2408.16363)|null|
 |**2024-08-29**|**Steady Compressible 3D Euler Flows in Toroidal Volumes without Continuous Euclidean Isometries**|Naoki Sato et.al.|[2408.16339](http://arxiv.org/abs/2408.16339)|null|
 |**2024-08-29**|**Convolutional Neural Network Compression Based on Low-Rank Decomposition**|Yaping He et.al.|[2408.16289](http://arxiv.org/abs/2408.16289)|null|
@@ -3139,7 +3139,7 @@ layout: default
 |**2024-08-28**|**Fast and accurate machine-learned interatomic potentials for large-scale simulations of Cu, Al and Ni**|Aslak Fellman et.al.|[2408.15779](http://arxiv.org/abs/2408.15779)|null|
 |**2024-08-28**|**Local well-posedness of a system coupling compressible atmospheric dynamics and a micro-physics model of moisture in air**|Sabine Doppler et.al.|[2408.15749](http://arxiv.org/abs/2408.15749)|null|
 |**2024-08-28**|**Thermodynamics of amide + ketone mixtures. 1. Volumetric, speed of sound and refractive index data for N,N-dimethylformamide + 2-alkanone systems at several temperatures**|Ana Cobos et.al.|[2408.15644](http://arxiv.org/abs/2408.15644)|null|
-|**2024-08-28**|**New Results on Periodic Golay Pairs**|Tyler Lumsden et.al.|[2408.15611](http://arxiv.org/abs/2408.15611)|null|
+|**2024-08-28**|**New Results on Periodic Golay Pairs**|Tyler Lumsden et.al.|[2408.15611](http://arxiv.org/abs/2408.15611)|**[link](https://github.com/tylerlumsden/GolayPair)**|
 |**2024-08-28**|**On the elastoplastic behavior in collisional compression of spherical dust aggregates**|Sota Arakawa et.al.|[2408.15573](http://arxiv.org/abs/2408.15573)|null|
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|Jiajun Liu et.al.|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-29**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496](http://arxiv.org/abs/2408.15496)|null|
@@ -3153,7 +3153,7 @@ layout: default
 |**2024-08-27**|**Shock Wave Interaction with a Naturally Generated Vortex Ring**|Swapnil Ashok Ahire et.al.|[2408.14800](http://arxiv.org/abs/2408.14800)|null|
 |**2024-08-27**|**Interplanetary Causes and Impacts of the 2024 May Superstorm on the Geosphere: An Overview**|Rajkumar Hajra et.al.|[2408.14799](http://arxiv.org/abs/2408.14799)|null|
 |**2024-08-27**|**Training-Free Time-Series Anomaly Detection: Leveraging Image Foundation Models**|Nobuo Namura et.al.|[2408.14756](http://arxiv.org/abs/2408.14756)|null|
-|**2024-08-26**|**The limitations of a standard phase-field model in reproducing jointing in sedimentary rock layers**|Edoardo Pezzulli et.al.|[2408.14449](http://arxiv.org/abs/2408.14449)|null|
+|**2024-08-26**|**The limitations of a standard phase-field model in reproducing jointing in sedimentary rock layers**|Edoardo Pezzulli et.al.|[2408.14449](http://arxiv.org/abs/2408.14449)|**[link](https://github.com/zulianp/utopia)**|
 |**2024-08-26**|**LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation**|Trung Dinh Quoc Dang et.al.|[2408.14415](http://arxiv.org/abs/2408.14415)|null|
 |**2024-08-26**|**Language-specific Calibration for Pruning Multilingual Language Models**|Simon Kurz et.al.|[2408.14398](http://arxiv.org/abs/2408.14398)|null|
 |**2024-08-26**|**Tension-induced giant actuation in unstructured elastic sheets**|Kexin Guo et.al.|[2408.14239](http://arxiv.org/abs/2408.14239)|null|
@@ -3182,7 +3182,7 @@ layout: default
 |**2024-08-22**|**DeepHQ: Learned Hierarchical Quantizer for Progressive Deep Image Coding**|Jooyoung Lee et.al.|[2408.12150](http://arxiv.org/abs/2408.12150)|null|
 |**2024-08-21**|**LLM Pruning and Distillation in Practice: The Minitron Approach**|Sharath Turuvekere Sreenivas et.al.|[2408.11796](http://arxiv.org/abs/2408.11796)|null|
 |**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758](http://arxiv.org/abs/2408.11758)|**[link](https://github.com/renyulin-f/mambacsr)**|
-|**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|null|
+|**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|**[link](https://github.com/ist-daslab/sparse-marlin)**|
 |**2024-08-21**|**Bridging experiment and theory of relaxor ferroelectrics at the atomic scale with multislice electron ptychography**|Menglin Zhu et.al.|[2408.11685](http://arxiv.org/abs/2408.11685)|null|
 |**2024-08-21**|**Scalable Knowledge Refactoring using Constrained Optimisation**|Minghao Liu et.al.|[2408.11530](http://arxiv.org/abs/2408.11530)|null|
 |**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
@@ -3539,7 +3539,7 @@ layout: default
 |**2024-06-28**|**Complexity Scaling of Liquid Dynamics**|Ian M. Douglass et.al.|[2406.19858](http://arxiv.org/abs/2406.19858)|null|
 |**2024-06-28**|**Compressible and immiscible fluids with arbitrary density ratio**|Fei Wang et.al.|[2406.19786](http://arxiv.org/abs/2406.19786)|null|
 |**2024-06-28**|**Momentum and kinetic energy transport in supersonic particle-laden turbulent boundary layers**|Ming Yu et.al.|[2406.19724](http://arxiv.org/abs/2406.19724)|null|
-|**2024-06-28**|**SAML: Speaker Adaptive Mixture of LoRA Experts for End-to-End ASR**|Qiuming Zhao et.al.|[2406.19706](http://arxiv.org/abs/2406.19706)|null|
+|**2024-06-28**|**SAML: Speaker Adaptive Mixture of LoRA Experts for End-to-End ASR**|Qiuming Zhao et.al.|[2406.19706](http://arxiv.org/abs/2406.19706)|**[link](https://github.com/qmgzhao/SAML)**|
 |**2024-06-27**|**MCNC: Manifold Constrained Network Compression**|Chayne Thrash et.al.|[2406.19301](http://arxiv.org/abs/2406.19301)|null|
 |**2024-06-27**|**PNeRV: A Polynomial Neural Representation for Videos**|Sonam Gupta et.al.|[2406.19299](http://arxiv.org/abs/2406.19299)|null|
 |**2024-06-28**|**Joint Channel and Data Estimation for Multiuser Extremely Large-Scale MIMO Systems**|Kabuto Arai et.al.|[2406.19289](http://arxiv.org/abs/2406.19289)|null|
