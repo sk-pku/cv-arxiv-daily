@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428](http://arxiv.org/abs/2409.04428)|null|
+|**2024-09-06**|**Efficient Analysis and Visualization of High-Resolution Computed Tomography Data for the Exploration of Enclosed Cuneiform Tablets**|Stephan Olbrich et.al.|[2409.04236](http://arxiv.org/abs/2409.04236)|null|
+|**2024-09-06**|**Feature Compression for Cloud-Edge Multimodal 3D Object Detection**|Chongzhen Tian et.al.|[2409.04123](http://arxiv.org/abs/2409.04123)|null|
+|**2024-09-06**|**Convolutional Transformer-Based Image Compression**|Bouzid Arezki et.al.|[2409.04118](http://arxiv.org/abs/2409.04118)|null|
+|**2024-09-06**|**Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression**|Zhenxiao Zhang et.al.|[2409.04022](http://arxiv.org/abs/2409.04022)|null|
+|**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013](http://arxiv.org/abs/2409.04013)|null|
+|**2024-09-05**|**TropNNC: Structured Neural Network Compression Using Tropical Geometry**|Konstantinos Fotopoulos et.al.|[2409.03945](http://arxiv.org/abs/2409.03945)|null|
+|**2024-09-05**|**Generating High Dimensional User-Specific Wireless Channels using Diffusion Models**|Taekyun Lee et.al.|[2409.03924](http://arxiv.org/abs/2409.03924)|null|
+|**2024-09-05**|**Sirius: Contextual Sparsity with Correction for Efficient LLMs**|Yang Zhou et.al.|[2409.03856](http://arxiv.org/abs/2409.03856)|**[link](https://github.com/infini-ai-lab/sirius)**|
+|**2024-09-05**|**Benchmarking Quantum Red TEA on CPUs, GPUs, and TPUs**|Daniel Jaschke et.al.|[2409.03818](http://arxiv.org/abs/2409.03818)|null|
 |**2024-09-05**|**WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild**|Yuntian Deng et.al.|[2409.03753](http://arxiv.org/abs/2409.03753)|null|
 |**2024-09-05**|**Unified Framework for Neural Network Compression via Decomposition and Optimal Rank Selection**|Ali Aghababaei-Harandi et.al.|[2409.03555](http://arxiv.org/abs/2409.03555)|null|
 |**2024-09-05**|**DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**|Qianlong Xiang et.al.|[2409.03550](http://arxiv.org/abs/2409.03550)|null|
