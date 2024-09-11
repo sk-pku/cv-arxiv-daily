@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**|Zihan Liao et.al.|[2409.06679](http://arxiv.org/abs/2409.06679)|null|
+|**2024-09-10**|**Exploring Italian sentence embeddings properties through multi-tasking**|Vivi Nastase et.al.|[2409.06622](http://arxiv.org/abs/2409.06622)|null|
+|**2024-09-10**|**Universal End-to-End Neural Network for Lossy Image Compression**|Bouzid Arezki et.al.|[2409.06586](http://arxiv.org/abs/2409.06586)|null|
+|**2024-09-10**|**Compressed Sensing based Detection Schemes for Differential Spatial Modulation in Visible Light Communication Systems**|Zichun Shi et.al.|[2409.06577](http://arxiv.org/abs/2409.06577)|null|
+|**2024-09-10**|**The molecular gas content throughout the low-z merger sequence**|Mark T. Sargent et.al.|[2409.06572](http://arxiv.org/abs/2409.06572)|null|
+|**2024-09-10**|**Knowledge Distillation via Query Selection for Detection Transformer**|Yi Liu et.al.|[2409.06443](http://arxiv.org/abs/2409.06443)|null|
+|**2024-09-10**|**Towards few-body QCD on a quantum computer**|J. J. Galvez-Viruet et.al.|[2409.06403](http://arxiv.org/abs/2409.06403)|null|
+|**2024-09-10**|**Generalized Approximate Message-Passing for Compressed Sensing with Sublinear Sparsity**|Keigo Takeuchi et.al.|[2409.06320](http://arxiv.org/abs/2409.06320)|null|
+|**2024-09-10**|**Rate-Constrained Quantization for Communication-Efficient Federated Learning**|Shayan Mohajer Hamidi et.al.|[2409.06319](http://arxiv.org/abs/2409.06319)|null|
+|**2024-09-10**|**The Black-Box Simulation Barrier Persists in a Fully Quantum World**|Nai-Hui Chia et.al.|[2409.06317](http://arxiv.org/abs/2409.06317)|null|
 |**2024-09-09**|**Asymptotic Preserving Linearly Implicit Additive IMEX-RK Finite Volume Schemes for Low Mach Number Isentropic Euler Equations**|Saurav Samantaray et.al.|[2409.05854](http://arxiv.org/abs/2409.05854)|null|
 |**2024-09-10**|**NeurLZ: On Enhancing Lossy Compression Performance based on Error-Controlled Neural Learning for Scientific Data**|Wenqi Jia et.al.|[2409.05785](http://arxiv.org/abs/2409.05785)|null|
 |**2024-09-09**|**Vector Quantized Diffusion Model Based Speech Bandwidth Extension**|Yuan Fang et.al.|[2409.05784](http://arxiv.org/abs/2409.05784)|null|
