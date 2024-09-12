@@ -3114,6 +3114,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Efficient One-Step Diffusion Refinement for Snapshot Compressive Imaging**|Yunzhen Wang et.al.|[2409.07417](http://arxiv.org/abs/2409.07417)|null|
+|**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
+|**2024-09-11**|**Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering**|Weixi Weng et.al.|[2409.07331](http://arxiv.org/abs/2409.07331)|null|
+|**2024-09-11**|**Statistically Valid Information Bottleneck via Multiple Hypothesis Testing**|Amirmohammad Farzaneh et.al.|[2409.07325](http://arxiv.org/abs/2409.07325)|null|
+|**2024-09-11**|**ZKFault: Fault attack analysis on zero-knowledge based post-quantum digital signature schemes**|Puja Mondal et.al.|[2409.07150](http://arxiv.org/abs/2409.07150)|null|
+|**2024-09-11**|**Dynamic Error-Bounded Hierarchical Matrices in Neural Network Compression**|John Mango et.al.|[2409.07028](http://arxiv.org/abs/2409.07028)|null|
+|**2024-09-10**|**Earth's Mesosphere During Possible Encounters With Massive Interstellar Clouds 2 and 7 Million Years Ago**|Jesse A. Miller et.al.|[2409.06832](http://arxiv.org/abs/2409.06832)|null|
+|**2024-09-10**|**Scaling Law Hypothesis for Multimodal Model**|Qingyun Sun et.al.|[2409.06754](http://arxiv.org/abs/2409.06754)|null|
 |**2024-09-10**|**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**|Zihan Liao et.al.|[2409.06679](http://arxiv.org/abs/2409.06679)|null|
 |**2024-09-10**|**Exploring Italian sentence embeddings properties through multi-tasking**|Vivi Nastase et.al.|[2409.06622](http://arxiv.org/abs/2409.06622)|null|
 |**2024-09-10**|**Universal End-to-End Neural Network for Lossy Image Compression**|Bouzid Arezki et.al.|[2409.06586](http://arxiv.org/abs/2409.06586)|null|
