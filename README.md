@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Efficient Deep Learning-based Cascaded Channel Feedback in RIS-Assisted Communications**|Yiming Cui et.al.|[2409.08149](http://arxiv.org/abs/2409.08149)|null|
+|**2024-09-12**|**Loading-dependent microscale measures control bulk properties in granular material: an experimental test of the Stress-Force-Fabric relation**|Carmen L. Lee et.al.|[2409.08140](http://arxiv.org/abs/2409.08140)|null|
+|**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
+|**2024-09-12**|**A Riemannian Approach to the Lindbladian Dynamics of a Locally Purified Tensor Network**|Emiliano Godinez-Ramirez et.al.|[2409.08127](http://arxiv.org/abs/2409.08127)|null|
+|**2024-09-12**|**The April 2023 SYM-H = -233 nT Geomagnetic Storm: A Classical Event**|Rajkumar Hajra et.al.|[2409.08118](http://arxiv.org/abs/2409.08118)|null|
+|**2024-09-12**|**Direct Numerical Simulation of Particle Clustering and Turbulence Modulation: An Eulerian Approach**|Ajay Dhankarghare et.al.|[2409.07988](http://arxiv.org/abs/2409.07988)|null|
+|**2024-09-12**|**On singular behaviour in a plane linear elastostatics problem**|Heiko Gimperlein et.al.|[2409.07954](http://arxiv.org/abs/2409.07954)|null|
+|**2024-09-12**|**Collaborative Automatic Modulation Classification via Deep Edge Inference for Hierarchical Cognitive Radio Networks**|Chaowei He et.al.|[2409.07946](http://arxiv.org/abs/2409.07946)|null|
+|**2024-09-12**|**(Un)buckling mechanics of epithelial monolayers under compression**|Chandraniva Guha Ray et.al.|[2409.07928](http://arxiv.org/abs/2409.07928)|null|
+|**2024-09-12**|**Computing the LZ-End parsing: Easy to implement and practically efficient**|Patrick Dinklage et.al.|[2409.07840](http://arxiv.org/abs/2409.07840)|null|
 |**2024-09-11**|**Efficient One-Step Diffusion Refinement for Snapshot Compressive Imaging**|Yunzhen Wang et.al.|[2409.07417](http://arxiv.org/abs/2409.07417)|null|
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering**|Weixi Weng et.al.|[2409.07331](http://arxiv.org/abs/2409.07331)|null|
