@@ -95,7 +95,7 @@ layout: default
 |**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011](http://arxiv.org/abs/2309.11011)|**[link](https://github.com/ustclh/occ-vo)**|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436](http://arxiv.org/abs/2309.10436)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
 |**2023-09-21**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao et.al.|[2309.10314](http://arxiv.org/abs/2309.10314)|null|
-|**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
+|**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|**[link](https://github.com/uzh-rpg/rampvo)**|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 |**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249](http://arxiv.org/abs/2309.05249)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
@@ -288,7 +288,7 @@ layout: default
 |**2022-08-25**|**Lidar SLAM for Autonomous Driving Vehicles**|Farhad Aghili et.al.|[2208.11855](http://arxiv.org/abs/2208.11855)|null|
 |**2022-08-24**|**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**|Seungwon Song et.al.|[2208.11500](http://arxiv.org/abs/2208.11500)|**[link](https://github.com/url-kaist/dynavins)**|
 |**2022-08-22**|**Doppler Exploitation in Bistatic mmWave Radio SLAM**|Yu Ge et.al.|[2208.10204](http://arxiv.org/abs/2208.10204)|null|
-|**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825](http://arxiv.org/abs/2208.09825)|null|
+|**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825](http://arxiv.org/abs/2208.09825)|**[link](https://github.com/hilti-research/hilti-slam-challenge-2022)**|
 |**2022-08-26**|**JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**|Longrui Dong et.al.|[2208.09777](http://arxiv.org/abs/2208.09777)|null|
 |**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473](http://arxiv.org/abs/2208.07473)|**[link](https://github.com/yungecui/bow3d)**|
 |**2022-08-12**|**Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**|Barbara Bazzana et.al.|[2208.06325](http://arxiv.org/abs/2208.06325)|null|
@@ -2016,7 +2016,7 @@ layout: default
 |**2024-06-06**|**Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**|Takuhiro Kaneko et.al.|[2406.04155](http://arxiv.org/abs/2406.04155)|null|
 |**2024-06-06**|**How Far Can We Compress Instant-NGP-Based NeRF?**|Yihang Chen et.al.|[2406.04101](http://arxiv.org/abs/2406.04101)|**[link](https://github.com/yihangchen-ee/cnc)**|
 |**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723](http://arxiv.org/abs/2406.03723)|null|
-|**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697](http://arxiv.org/abs/2406.03697)|null|
+|**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697](http://arxiv.org/abs/2406.03697)|**[link](https://github.com/dnvtmf/SP_GS)**|
 |**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720](http://arxiv.org/abs/2406.02720)|**[link](https://github.com/lihaolin88/3d-half-gaussian-splatting)**|
 |**2024-06-06**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
 |**2024-06-04**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370](http://arxiv.org/abs/2406.02370)|null|
@@ -2040,7 +2040,7 @@ layout: default
 |**2024-06-02**|**NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild**|Weining Ren et.al.|[2405.18715](http://arxiv.org/abs/2405.18715)|**[link](https://github.com/cvg/nerf-on-the-go)**|
 |**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942](http://arxiv.org/abs/2405.17942)|null|
 |**2024-05-28**|**A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction**|Bin Zhang et.al.|[2405.17891](http://arxiv.org/abs/2405.17891)|null|
-|**2024-05-29**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|null|
+|**2024-05-29**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|**[link](https://github.com/zhaohaoyu376/hfgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 |**2024-05-28**|**F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2405.17083](http://arxiv.org/abs/2405.17083)|null|
 |**2024-05-29**|**PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**|Zipeng Wang et.al.|[2405.16829](http://arxiv.org/abs/2405.16829)|null|
@@ -3129,14 +3129,14 @@ layout: default
 |**2024-09-09**|**Design and Implementation of TAO DAQ System**|Shuihan Zhang et.al.|[2409.05522](http://arxiv.org/abs/2409.05522)|null|
 |**2024-09-09**|**A Taxonomy of Miscompressions: Preparing Image Forensics for Neural Compression**|Nora Hofer et.al.|[2409.05490](http://arxiv.org/abs/2409.05490)|null|
 |**2024-09-09**|**Density and speed of sound of (iodobenzene + n-alkane) liquid mixtures at $T$ = (288.15 to 308.15) K. Application of the Prigogine-Flory-Patterson model**|Fernando Hevia et.al.|[2409.05422](http://arxiv.org/abs/2409.05422)|null|
-|**2024-09-09**|**Application Specific Compression of Deep Learning Models**|Rohit Raj Rai et.al.|[2409.05368](http://arxiv.org/abs/2409.05368)|null|
+|**2024-09-09**|**Application Specific Compression of Deep Learning Models**|Rohit Raj Rai et.al.|[2409.05368](http://arxiv.org/abs/2409.05368)|**[link](https://github.com/rohitrai11/application-specific-compression-of-deep-learning-models)**|
 |**2024-09-09**|**Towards Determining Mechanical Properties of Brain-Skull Interface Under Tension and Compression**|Sajjad Arzemanzadeh et.al.|[2409.05365](http://arxiv.org/abs/2409.05365)|null|
 |**2024-09-06**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428](http://arxiv.org/abs/2409.04428)|null|
 |**2024-09-06**|**Efficient Analysis and Visualization of High-Resolution Computed Tomography Data for the Exploration of Enclosed Cuneiform Tablets**|Stephan Olbrich et.al.|[2409.04236](http://arxiv.org/abs/2409.04236)|null|
 |**2024-09-06**|**Feature Compression for Cloud-Edge Multimodal 3D Object Detection**|Chongzhen Tian et.al.|[2409.04123](http://arxiv.org/abs/2409.04123)|null|
 |**2024-09-06**|**Convolutional Transformer-Based Image Compression**|Bouzid Arezki et.al.|[2409.04118](http://arxiv.org/abs/2409.04118)|null|
 |**2024-09-06**|**Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression**|Zhenxiao Zhang et.al.|[2409.04022](http://arxiv.org/abs/2409.04022)|null|
-|**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013](http://arxiv.org/abs/2409.04013)|null|
+|**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013](http://arxiv.org/abs/2409.04013)|**[link](https://github.com/YujunHuang063/3D-GP-LMVIC)**|
 |**2024-09-05**|**TropNNC: Structured Neural Network Compression Using Tropical Geometry**|Konstantinos Fotopoulos et.al.|[2409.03945](http://arxiv.org/abs/2409.03945)|null|
 |**2024-09-05**|**Generating High Dimensional User-Specific Wireless Channels using Diffusion Models**|Taekyun Lee et.al.|[2409.03924](http://arxiv.org/abs/2409.03924)|null|
 |**2024-09-05**|**Sirius: Contextual Sparsity with Correction for Efficient LLMs**|Yang Zhou et.al.|[2409.03856](http://arxiv.org/abs/2409.03856)|**[link](https://github.com/infini-ai-lab/sirius)**|
@@ -3202,7 +3202,7 @@ layout: default
 |**2024-08-27**|**Interplanetary Causes and Impacts of the 2024 May Superstorm on the Geosphere: An Overview**|Rajkumar Hajra et.al.|[2408.14799](http://arxiv.org/abs/2408.14799)|null|
 |**2024-08-27**|**Training-Free Time-Series Anomaly Detection: Leveraging Image Foundation Models**|Nobuo Namura et.al.|[2408.14756](http://arxiv.org/abs/2408.14756)|null|
 |**2024-08-26**|**The limitations of a standard phase-field model in reproducing jointing in sedimentary rock layers**|Edoardo Pezzulli et.al.|[2408.14449](http://arxiv.org/abs/2408.14449)|**[link](https://github.com/zulianp/utopia)**|
-|**2024-08-26**|**LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation**|Trung Dinh Quoc Dang et.al.|[2408.14415](http://arxiv.org/abs/2408.14415)|null|
+|**2024-08-26**|**LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation**|Trung Dinh Quoc Dang et.al.|[2408.14415](http://arxiv.org/abs/2408.14415)|**[link](https://github.com/oulu-imeds/log-vmamba)**|
 |**2024-08-26**|**Language-specific Calibration for Pruning Multilingual Language Models**|Simon Kurz et.al.|[2408.14398](http://arxiv.org/abs/2408.14398)|null|
 |**2024-08-26**|**Tension-induced giant actuation in unstructured elastic sheets**|Kexin Guo et.al.|[2408.14239](http://arxiv.org/abs/2408.14239)|null|
 |**2024-08-26**|**Recursive sparse LU decomposition based on nested dissection and low rank approximations**|Zhu Xuanru et.al.|[2408.14193](http://arxiv.org/abs/2408.14193)|null|
@@ -3627,7 +3627,7 @@ layout: default
 |**2024-06-23**|**Monopole Excitation and Nuclear Compressibility: Present and Future Perspectives**|J. C. Zamora et.al.|[2406.16217](http://arxiv.org/abs/2406.16217)|null|
 |**2024-06-23**|**Towards unlocking the mystery of adversarial fragility of neural networks**|Jingchao Gao et.al.|[2406.16200](http://arxiv.org/abs/2406.16200)|null|
 |**2024-06-23**|**Decoder-only Architecture for Streaming End-to-end Speech Recognition**|Emiru Tsunoo et.al.|[2406.16107](http://arxiv.org/abs/2406.16107)|null|
-|**2024-06-23**|**LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction**|Hengyu Liu et.al.|[2406.16073](http://arxiv.org/abs/2406.16073)|null|
+|**2024-06-23**|**LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction**|Hengyu Liu et.al.|[2406.16073](http://arxiv.org/abs/2406.16073)|**[link](https://github.com/CUHK-AIM-Group/LGS)**|
 |**2024-06-21**|**Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning**|Brandon Huang et.al.|[2406.15334](http://arxiv.org/abs/2406.15334)|null|
 |**2024-06-21**|**On the Computing and Communication Tradeoff in Reasoning-Based Multi-User Semantic Communications**|Nitisha Singh et.al.|[2406.15199](http://arxiv.org/abs/2406.15199)|null|
 |**2024-06-21**|**Phase transitions, Dirac and WSM states in $\mathrm{Mn}_{1-x} \mathrm{Ge}_x \mathrm{Bi}_2 \mathrm{Te}_4$**|A. M. Shikin et.al.|[2406.15065](http://arxiv.org/abs/2406.15065)|null|
