@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Turbo Equalization with Coarse Quantization using the Information Bottleneck Method**|Philipp Mohr et.al.|[2409.09004](http://arxiv.org/abs/2409.09004)|null|
+|**2024-09-13**|**Fast DCT+: A Family of Fast Transforms Based on Rank-One Updates of the Path Graph**|Samuel Fernández-Menduiña et.al.|[2409.08970](http://arxiv.org/abs/2409.08970)|null|
+|**2024-09-13**|**Exploring Action-Centric Representations Through the Lens of Rate-Distortion Theory**|Miguel de Llanza Varona et.al.|[2409.08892](http://arxiv.org/abs/2409.08892)|null|
+|**2024-09-13**|**Efficient Pseudomode Representation and Complexity of Quantum Impurity Models**|Julian Thoenniss et.al.|[2409.08816](http://arxiv.org/abs/2409.08816)|null|
+|**2024-09-13**|**On the Computation of BD-Rate over a Set of Videos for Fair Assessment of Performance of Learned Video Codecs**|M. Akin Yilmaz et.al.|[2409.08772](http://arxiv.org/abs/2409.08772)|null|
+|**2024-09-13**|**Conforming finite element approximation for the fully-coupled non-linear thermodynamically consistent electrolyte model**|Ankur et.al.|[2409.08746](http://arxiv.org/abs/2409.08746)|null|
+|**2024-09-13**|**Computation of $M$ -QDR decomposition of tensors and applications**|Krushnachandra Panigrahy et.al.|[2409.08743](http://arxiv.org/abs/2409.08743)|null|
+|**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
+|**2024-09-13**|**Low Complexity DoA-ToA Signature Estimation for Multi-Antenna Multi-Carrier Systems**|Chandrashekhar Rai et.al.|[2409.08650](http://arxiv.org/abs/2409.08650)|null|
+|**2024-09-13**|**Byzantine-Robust and Communication-Efficient Distributed Learning via Compressed Momentum Filtering**|Changxin Liu et.al.|[2409.08640](http://arxiv.org/abs/2409.08640)|null|
 |**2024-09-12**|**Efficient Deep Learning-based Cascaded Channel Feedback in RIS-Assisted Communications**|Yiming Cui et.al.|[2409.08149](http://arxiv.org/abs/2409.08149)|null|
 |**2024-09-12**|**Loading-dependent microscale measures control bulk properties in granular material: an experimental test of the Stress-Force-Fabric relation**|Carmen L. Lee et.al.|[2409.08140](http://arxiv.org/abs/2409.08140)|null|
 |**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
