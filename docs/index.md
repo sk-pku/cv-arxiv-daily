@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Frequency-Guided Masking for Enhanced Vision Self-Supervised Learning**|Amin Karimi Monsefi et.al.|[2409.10362](http://arxiv.org/abs/2409.10362)|null|
+|**2024-09-16**|**MEGS: Morphological Evaluation of Galactic Structure**|Ufuk Çakır et.al.|[2409.10346](http://arxiv.org/abs/2409.10346)|**[link](https://github.com/ufuk-cakir/MEGS)**|
+|**2024-09-16**|**SPAC: Sampling-based Progressive Attribute Compression for Dense Point Clouds**|Xiaolong Mao et.al.|[2409.10293](http://arxiv.org/abs/2409.10293)|null|
+|**2024-09-16**|**Compressions of selfadjoint and maximal dissipative extensions of non-densely defined symmetric operators**|Yu. M. Arlinskiĭ et.al.|[2409.10234](http://arxiv.org/abs/2409.10234)|null|
+|**2024-09-16**|**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**|Yi-Hsin Li et.al.|[2409.10101](http://arxiv.org/abs/2409.10101)|null|
+|**2024-09-16**|**A Social Force Model for Multi-Agent Systems With Application to Robots Traversal in Cluttered Environments**|Chenxi Li et.al.|[2409.10049](http://arxiv.org/abs/2409.10049)|null|
+|**2024-09-16**|**Learning Latent Wireless Dynamics from Channel State Information**|Charbel Bou Chaaya et.al.|[2409.10045](http://arxiv.org/abs/2409.10045)|null|
+|**2024-09-16**|**Space-time adaptive ADER-DG finite element method with LST-DG predictor and a posteriori sub-cell WENO finite-volume limiting for simulation of non-stationary compressible multicomponent reactive flows**|I. S Popov et.al.|[2409.09932](http://arxiv.org/abs/2409.09932)|null|
+|**2024-09-16**|**Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search**|Jianyang Gao et.al.|[2409.09913](http://arxiv.org/abs/2409.09913)|null|
+|**2024-09-15**|**Latent Diffusion Models for Controllable RNA Sequence Generation**|Kaixuan Huang et.al.|[2409.09828](http://arxiv.org/abs/2409.09828)|null|
 |**2024-09-13**|**Turbo Equalization with Coarse Quantization using the Information Bottleneck Method**|Philipp Mohr et.al.|[2409.09004](http://arxiv.org/abs/2409.09004)|null|
 |**2024-09-13**|**Fast DCT+: A Family of Fast Transforms Based on Rank-One Updates of the Path Graph**|Samuel Fernández-Menduiña et.al.|[2409.08970](http://arxiv.org/abs/2409.08970)|null|
 |**2024-09-13**|**Exploring Action-Centric Representations Through the Lens of Rate-Distortion Theory**|Miguel de Llanza Varona et.al.|[2409.08892](http://arxiv.org/abs/2409.08892)|null|
