@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3102,7 +3102,7 @@ layout: default
 |**2024-09-17**|**Few-Shot Domain Adaptation for Learned Image Compression**|Tianyu Zhang et.al.|[2409.11111](http://arxiv.org/abs/2409.11111)|null|
 |**2024-09-17**|**Edge-based Denoising Image Compression**|Ryugo Morita et.al.|[2409.10978](http://arxiv.org/abs/2409.10978)|null|
 |**2024-09-16**|**Escape of fast radio bursts from magnetars**|Emanuele Sobacchi et.al.|[2409.10732](http://arxiv.org/abs/2409.10732)|null|
-|**2024-09-16**|**OpenACC offloading of the MFC compressible multiphase flow solver on AMD and NVIDIA GPUs**|Benjamin Wilfong et.al.|[2409.10729](http://arxiv.org/abs/2409.10729)|null|
+|**2024-09-16**|**OpenACC offloading of the MFC compressible multiphase flow solver on AMD and NVIDIA GPUs**|Benjamin Wilfong et.al.|[2409.10729](http://arxiv.org/abs/2409.10729)|**[link](https://github.com/MFlowCode/MFC)**|
 |**2024-09-16**|**Frequency-Guided Masking for Enhanced Vision Self-Supervised Learning**|Amin Karimi Monsefi et.al.|[2409.10362](http://arxiv.org/abs/2409.10362)|null|
 |**2024-09-16**|**MEGS: Morphological Evaluation of Galactic Structure**|Ufuk Çakır et.al.|[2409.10346](http://arxiv.org/abs/2409.10346)|**[link](https://github.com/ufuk-cakir/MEGS)**|
 |**2024-09-16**|**SPAC: Sampling-based Progressive Attribute Compression for Dense Point Clouds**|Xiaolong Mao et.al.|[2409.10293](http://arxiv.org/abs/2409.10293)|null|
