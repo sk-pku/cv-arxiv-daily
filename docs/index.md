@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3096,7 +3096,7 @@ layout: default
 |**2024-09-18**|**Precise Forecasting of Sky Images Using Spatial Warping**|Leron Julian et.al.|[2409.12162](http://arxiv.org/abs/2409.12162)|null|
 |**2024-09-18**|**Generalized compression and compressive search of large datasets**|Morgan E. Prior et.al.|[2409.12161](http://arxiv.org/abs/2409.12161)|**[link](https://github.com/uri-abd/clam)**|
 |**2024-09-18**|**Mechanical Wannier-Stark Ladder of Diamond Spin-Mechanical Lamb Wave Resonators**|Philip Andrango et.al.|[2409.12149](http://arxiv.org/abs/2409.12149)|null|
-|**2024-09-18**|**WMCodec: End-to-End Neural Speech Codec with Deep Watermarking for Authenticity Verification**|Junzuo Zhou et.al.|[2409.12121](http://arxiv.org/abs/2409.12121)|null|
+|**2024-09-22**|**WMCodec: End-to-End Neural Speech Codec with Deep Watermarking for Authenticity Verification**|Junzuo Zhou et.al.|[2409.12121](http://arxiv.org/abs/2409.12121)|null|
 |**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117](http://arxiv.org/abs/2409.12117)|null|
 |**2024-09-18**|**Applications of Knowledge Distillation in Remote Sensing: A Survey**|Yassine Himeur et.al.|[2409.12111](http://arxiv.org/abs/2409.12111)|null|
 |**2024-09-18**|**Less Memory Means smaller GPUs: Backpropagation with Compressed Activations**|Daniel Barley et.al.|[2409.11902](http://arxiv.org/abs/2409.11902)|null|
