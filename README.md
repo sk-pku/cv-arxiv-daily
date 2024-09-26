@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -514,7 +514,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## SFM
 
@@ -724,7 +724,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1530,7 +1530,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1761,7 +1761,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2000,7 +2000,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## NeRF
 
@@ -3108,12 +3108,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Compressed Depth Map Super-Resolution and Restoration: AIM 2024 Challenge Results**|Marcos V. Conde et.al.|[2409.16277](http://arxiv.org/abs/2409.16277)|null|
+|**2024-09-24**|**AIM 2024 Challenge on UHD Blind Photo Quality Assessment**|Vlad Hosu et.al.|[2409.16271](http://arxiv.org/abs/2409.16271)|null|
+|**2024-09-24**|**Evaluation of post-processing pipelines for in vivo $^{31}$ P MR imaging**|Pontus Pandurevic et.al.|[2409.16221](http://arxiv.org/abs/2409.16221)|null|
+|**2024-09-24**|**A recipe for an effective selection of promising candidates for high-temperature superconductors among binary hydrides**|Izabela A. Wrona et.al.|[2409.16070](http://arxiv.org/abs/2409.16070)|null|
+|**2024-09-24**|**Deep chroma compression of tone-mapped images**|Xenios Milidonis et.al.|[2409.16032](http://arxiv.org/abs/2409.16032)|**[link](https://github.com/DeepCamera/HDR-chroma-compression)**|
+|**2024-09-24**|**Dynamical formation of multiple quantum droplets in a Bose-Bose mixture**|L. Cavicchioli et.al.|[2409.16017](http://arxiv.org/abs/2409.16017)|null|
+|**2024-09-24**|**Toward Scalable and Efficient Visual Data Transmission in 6G Networks**|Junhao Cai et.al.|[2409.15961](http://arxiv.org/abs/2409.15961)|null|
+|**2024-09-24**|**ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for Audio, Music, and Speech**|Jiatong Shi et.al.|[2409.15897](http://arxiv.org/abs/2409.15897)|null|
+|**2024-09-24**|**Twin Network Augmentation: A Novel Training Strategy for Improved Spiking Neural Networks and Efficient Weight Quantization**|Lucas Deckers et.al.|[2409.15849](http://arxiv.org/abs/2409.15849)|null|
+|**2024-09-24**|**Experimental characterization of shock-separation interaction over wavy-shaped geometries through feature analysis**|J. Braun et.al.|[2409.15836](http://arxiv.org/abs/2409.15836)|null|
 |**2024-09-18**|**Precise Forecasting of Sky Images Using Spatial Warping**|Leron Julian et.al.|[2409.12162](http://arxiv.org/abs/2409.12162)|null|
 |**2024-09-18**|**Generalized compression and compressive search of large datasets**|Morgan E. Prior et.al.|[2409.12161](http://arxiv.org/abs/2409.12161)|**[link](https://github.com/uri-abd/clam)**|
 |**2024-09-18**|**Mechanical Wannier-Stark Ladder of Diamond Spin-Mechanical Lamb Wave Resonators**|Philip Andrango et.al.|[2409.12149](http://arxiv.org/abs/2409.12149)|null|
@@ -3740,7 +3750,7 @@
 |**2024-06-14**|**Robust compressive tracking via online weighted multiple instance learning**|Sandeep Singh Sengar et.al.|[2406.09914](http://arxiv.org/abs/2406.09914)|null|
 |**2024-06-14**|**QQQ: Quality Quattuor-Bit Quantization for Large Language Models**|Ying Zhang et.al.|[2406.09904](http://arxiv.org/abs/2406.09904)|**[link](https://github.com/HandH1998/QQQ)**|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

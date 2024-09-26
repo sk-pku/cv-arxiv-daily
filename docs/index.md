@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Compressed Depth Map Super-Resolution and Restoration: AIM 2024 Challenge Results**|Marcos V. Conde et.al.|[2409.16277](http://arxiv.org/abs/2409.16277)|null|
+|**2024-09-24**|**AIM 2024 Challenge on UHD Blind Photo Quality Assessment**|Vlad Hosu et.al.|[2409.16271](http://arxiv.org/abs/2409.16271)|null|
+|**2024-09-24**|**Evaluation of post-processing pipelines for in vivo $^{31}$ P MR imaging**|Pontus Pandurevic et.al.|[2409.16221](http://arxiv.org/abs/2409.16221)|null|
+|**2024-09-24**|**A recipe for an effective selection of promising candidates for high-temperature superconductors among binary hydrides**|Izabela A. Wrona et.al.|[2409.16070](http://arxiv.org/abs/2409.16070)|null|
+|**2024-09-24**|**Deep chroma compression of tone-mapped images**|Xenios Milidonis et.al.|[2409.16032](http://arxiv.org/abs/2409.16032)|**[link](https://github.com/DeepCamera/HDR-chroma-compression)**|
+|**2024-09-24**|**Dynamical formation of multiple quantum droplets in a Bose-Bose mixture**|L. Cavicchioli et.al.|[2409.16017](http://arxiv.org/abs/2409.16017)|null|
+|**2024-09-24**|**Toward Scalable and Efficient Visual Data Transmission in 6G Networks**|Junhao Cai et.al.|[2409.15961](http://arxiv.org/abs/2409.15961)|null|
+|**2024-09-24**|**ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for Audio, Music, and Speech**|Jiatong Shi et.al.|[2409.15897](http://arxiv.org/abs/2409.15897)|null|
+|**2024-09-24**|**Twin Network Augmentation: A Novel Training Strategy for Improved Spiking Neural Networks and Efficient Weight Quantization**|Lucas Deckers et.al.|[2409.15849](http://arxiv.org/abs/2409.15849)|null|
+|**2024-09-24**|**Experimental characterization of shock-separation interaction over wavy-shaped geometries through feature analysis**|J. Braun et.al.|[2409.15836](http://arxiv.org/abs/2409.15836)|null|
 |**2024-09-18**|**Precise Forecasting of Sky Images Using Spatial Warping**|Leron Julian et.al.|[2409.12162](http://arxiv.org/abs/2409.12162)|null|
 |**2024-09-18**|**Generalized compression and compressive search of large datasets**|Morgan E. Prior et.al.|[2409.12161](http://arxiv.org/abs/2409.12161)|**[link](https://github.com/uri-abd/clam)**|
 |**2024-09-18**|**Mechanical Wannier-Stark Ladder of Diamond Spin-Mechanical Lamb Wave Resonators**|Philip Andrango et.al.|[2409.12149](http://arxiv.org/abs/2409.12149)|null|
