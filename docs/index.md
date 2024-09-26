@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**FineZip : Pushing the Limits of Large Language Models for Practical Lossless Text Compression**|Fazal Mittu et.al.|[2409.17141](http://arxiv.org/abs/2409.17141)|**[link](https://github.com/fazalmittu/finezip)**|
+|**2024-09-25**|**Streaming Neural Images**|Marcos V. Conde et.al.|[2409.17134](http://arxiv.org/abs/2409.17134)|null|
+|**2024-09-25**|**BitQ: Tailoring Block Floating Point Precision for Improved DNN Efficiency on Resource-Constrained Devices**|Yongqi Xu et.al.|[2409.17093](http://arxiv.org/abs/2409.17093)|**[link](https://github.com/cheliosoops/bitq)**|
+|**2024-09-25**|**Influence of on-site low-ureolysis bacteria and high-ureolysis bacteria on the effectiveness of MICP processes**|Qinghua Wu et.al.|[2409.17071](http://arxiv.org/abs/2409.17071)|null|
+|**2024-09-25**|**VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models**|Yifei Liu et.al.|[2409.17066](http://arxiv.org/abs/2409.17066)|**[link](https://github.com/microsoft/vptq)**|
+|**2024-09-25**|**Investigations on Algorithm Selection for Interval-Based Coding Methods**|Tilo Strutz et.al.|[2409.17015](http://arxiv.org/abs/2409.17015)|null|
+|**2024-09-25**|**Temperature-activated dislocation avalanches signaling brittle-to-ductile transition in BCC micropillars**|Yang Li et.al.|[2409.16987](http://arxiv.org/abs/2409.16987)|null|
+|**2024-09-25**|**Construction of weak solutions to the equations of a compressible viscous model**|Nilasis Chaudhuri et.al.|[2409.16933](http://arxiv.org/abs/2409.16933)|null|
+|**2024-09-25**|**Dispersion and mixing in heterogeneous compressible porous media under transient forcing**|Satoshi Tajima et.al.|[2409.16789](http://arxiv.org/abs/2409.16789)|null|
+|**2024-09-25**|**LLaMa-SciQ: An Educational Chatbot for Answering Science MCQ**|Marc-Antoine Allard et.al.|[2409.16779](http://arxiv.org/abs/2409.16779)|null|
 |**2024-09-24**|**Compressed Depth Map Super-Resolution and Restoration: AIM 2024 Challenge Results**|Marcos V. Conde et.al.|[2409.16277](http://arxiv.org/abs/2409.16277)|null|
 |**2024-09-24**|**AIM 2024 Challenge on UHD Blind Photo Quality Assessment**|Vlad Hosu et.al.|[2409.16271](http://arxiv.org/abs/2409.16271)|null|
 |**2024-09-24**|**Evaluation of post-processing pipelines for in vivo $^{31}$ P MR imaging**|Pontus Pandurevic et.al.|[2409.16221](http://arxiv.org/abs/2409.16221)|null|
