@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114](http://arxiv.org/abs/2409.18114)|null|
+|**2024-09-26**|**Conveyor-belt magneto-optical trapping of molecules**|Grace K. Li et.al.|[2409.18090](http://arxiv.org/abs/2409.18090)|null|
+|**2024-09-26**|**Simulation-Based Inference Benchmark for LSST Weak Lensing Cosmology**|Justine Zeghal et.al.|[2409.17975](http://arxiv.org/abs/2409.17975)|null|
+|**2024-09-26**|**Sample compression unleashed : New generalization bounds for real valued losses**|Mathieu Bazinet et.al.|[2409.17932](http://arxiv.org/abs/2409.17932)|null|
+|**2024-09-26**|**Density, speed of sound, refractive index and relative permittivity of methanol, propan-1-ol or pentan-1-ol + aniline liquid mixtures. Application of the Kirkwood-Fröhlich model**|Fernando Hevia et.al.|[2409.17926](http://arxiv.org/abs/2409.17926)|null|
+|**2024-09-26**|**Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models**|Hui-Po Wang et.al.|[2409.17836](http://arxiv.org/abs/2409.17836)|null|
+|**2024-09-26**|**Fronthaul-Constrained Distributed Radar Sensing**|Christian Eckrich et.al.|[2409.17753](http://arxiv.org/abs/2409.17753)|null|
+|**2024-09-26**|**AnyLogo: Symbiotic Subject-Driven Diffusion System with Gemini Status**|Jinghao Zhang et.al.|[2409.17740](http://arxiv.org/abs/2409.17740)|null|
+|**2024-09-26**|**FlowMAC: Conditional Flow Matching for Audio Coding at Low Bit Rates**|Nicola Pia et.al.|[2409.17635](http://arxiv.org/abs/2409.17635)|null|
+|**2024-09-26**|**P4Q: Learning to Prompt for Quantization in Visual-language Models**|Huixin Sun et.al.|[2409.17634](http://arxiv.org/abs/2409.17634)|null|
 |**2024-09-25**|**FineZip : Pushing the Limits of Large Language Models for Practical Lossless Text Compression**|Fazal Mittu et.al.|[2409.17141](http://arxiv.org/abs/2409.17141)|**[link](https://github.com/fazalmittu/finezip)**|
 |**2024-09-25**|**Streaming Neural Images**|Marcos V. Conde et.al.|[2409.17134](http://arxiv.org/abs/2409.17134)|null|
 |**2024-09-25**|**BitQ: Tailoring Block Floating Point Precision for Improved DNN Efficiency on Resource-Constrained Devices**|Yongqi Xu et.al.|[2409.17093](http://arxiv.org/abs/2409.17093)|**[link](https://github.com/cheliosoops/bitq)**|
