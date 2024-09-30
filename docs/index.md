@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization**|Vladimír Boža et.al.|[2409.18850](http://arxiv.org/abs/2409.18850)|null|
+|**2024-09-27**|**Quantum nuclear motion in silicene: Assessing structural and vibrational properties through path-integral simulations**|Carlos P. Herrero et.al.|[2409.18840](http://arxiv.org/abs/2409.18840)|null|
+|**2024-09-27**|**Search for supersymmetry using vector boson fusion signatures and missing transverse momentum in $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2409.18762](http://arxiv.org/abs/2409.18762)|null|
+|**2024-09-27**|**Effectiveness of learning-based image codecs on fingerprint storage**|Daniele Mari et.al.|[2409.18730](http://arxiv.org/abs/2409.18730)|null|
+|**2024-09-27**|**Decoding Complexity-Rate-Quality Pareto-Front for Adaptive VVC Streaming**|Angeliki Katsenou et.al.|[2409.18713](http://arxiv.org/abs/2409.18713)|null|
+|**2024-09-27**|**Beyond Fundamental Building Blocks: Plasticity in Structurally Complex Crystals**|Tobias Stollenwerk et.al.|[2409.18687](http://arxiv.org/abs/2409.18687)|null|
+|**2024-09-27**|**Toward Greener Matrix Operations by Lossless Compressed Formats**|Francesco Tosoni et.al.|[2409.18620](http://arxiv.org/abs/2409.18620)|null|
+|**2024-09-27**|**"Oh LLM, I'm Asking Thee, Please Give Me a Decision Tree": Zero-Shot Decision Tree Induction and Embedding with Large Language Models**|Ricardo Knauer et.al.|[2409.18594](http://arxiv.org/abs/2409.18594)|null|
+|**2024-09-27**|**Align $^2$ LLaVA: Cascaded Human and Large Language Model Preference Alignment for Multi-modal Instruction Curation**|Hongzhe Huang et.al.|[2409.18541](http://arxiv.org/abs/2409.18541)|null|
+|**2024-09-27**|**Neural Video Representation for Redundancy Reduction and Consistency Preservation**|Taiga Hayami et.al.|[2409.18497](http://arxiv.org/abs/2409.18497)|null|
 |**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114](http://arxiv.org/abs/2409.18114)|null|
 |**2024-09-26**|**Conveyor-belt magneto-optical trapping of molecules**|Grace K. Li et.al.|[2409.18090](http://arxiv.org/abs/2409.18090)|null|
 |**2024-09-26**|**Simulation-Based Inference Benchmark for LSST Weak Lensing Cosmology**|Justine Zeghal et.al.|[2409.17975](http://arxiv.org/abs/2409.17975)|null|
