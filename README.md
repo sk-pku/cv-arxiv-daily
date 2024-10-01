@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
+|**2024-09-30**|**Assessing the QGP speed of sound in ultra-central heavy-ion collisions with ALICE**|Omar Vazquez Rueda et.al.|[2409.20470](http://arxiv.org/abs/2409.20470)|null|
+|**2024-09-30**|**Global existence and convergence near equilibrium for the moving interface problem between Navier-Stokes and the linear wave equation**|Daniel Coutand et.al.|[2409.20468](http://arxiv.org/abs/2409.20468)|null|
+|**2024-09-30**|**Micromechanics reveal strain rate dependent transition between dislocation mechanisms in a dual phase high entropy alloy**|Szilvia Kalácska et.al.|[2409.20368](http://arxiv.org/abs/2409.20368)|null|
+|**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|null|
+|**2024-09-30**|**PerCo (SD): Open Perceptual Compression**|Nikolai Körber et.al.|[2409.20255](http://arxiv.org/abs/2409.20255)|**[link](https://github.com/Nikolai10/PerCo)**|
+|**2024-09-30**|**VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection**|Huilin Deng et.al.|[2409.20146](http://arxiv.org/abs/2409.20146)|null|
+|**2024-09-30**|**Improving Achievability of Cache-Aided Private Variable-Length Coding with Zero Leakage**|Amirreza Zamani et.al.|[2409.20133](http://arxiv.org/abs/2409.20133)|null|
+|**2024-09-30**|**Aggressive Post-Training Compression on Extremely Large Language Models**|Zining Zhang et.al.|[2409.20094](http://arxiv.org/abs/2409.20094)|null|
+|**2024-09-30**|**Detonation propagation in three-dimensional continuous curved ducts**|Lisong Shi et.al.|[2409.19944](http://arxiv.org/abs/2409.19944)|null|
 |**2024-09-27**|**Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization**|Vladimír Boža et.al.|[2409.18850](http://arxiv.org/abs/2409.18850)|null|
 |**2024-09-27**|**Quantum nuclear motion in silicene: Assessing structural and vibrational properties through path-integral simulations**|Carlos P. Herrero et.al.|[2409.18840](http://arxiv.org/abs/2409.18840)|null|
 |**2024-09-27**|**Search for supersymmetry using vector boson fusion signatures and missing transverse momentum in $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2409.18762](http://arxiv.org/abs/2409.18762)|null|
