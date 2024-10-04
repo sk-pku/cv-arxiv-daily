@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3098,7 +3098,7 @@ layout: default
 |**2024-10-02**|**Statistical mechanics of the flexural Ising model in $D$ dimensions**|Abigail Plummer et.al.|[2410.01797](http://arxiv.org/abs/2410.01797)|null|
 |**2024-10-02**|**Korteweg de-Vries Dynamics at the Edge of Laughlin State**|Gustavo M. Monteiro et.al.|[2410.01730](http://arxiv.org/abs/2410.01730)|null|
 |**2024-10-02**|**COSMIC: Compress Satellite Images Efficiently via Diffusion Compensation**|Ziyuan Zhang et.al.|[2410.01698](http://arxiv.org/abs/2410.01698)|**[link](https://github.com/joanna-0421/cosmic)**|
-|**2024-10-02**|**Unleashing Parameter Potential of Neural Representation for Efficient Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
+|**2024-10-03**|**Releasing the Parameter Latency of Neural Representation for High-Efficiency Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
 |**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521](http://arxiv.org/abs/2410.01521)|**[link](https://github.com/waczjoan/mirage)**|
 |**2024-10-02**|**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs**|Minsoo Kim et.al.|[2410.01518](http://arxiv.org/abs/2410.01518)|null|
 |**2024-10-02**|**Task-Oriented Edge-Assisted Cooperative Data Compression, Communications and Computing for UGV-Enhanced Warehouse Logistics**|Jiaming Yang et.al.|[2410.01515](http://arxiv.org/abs/2410.01515)|null|
