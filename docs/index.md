@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Immunogenicity Prediction with Dual Attention Enables Vaccine Target Selection**|Song Li et.al.|[2410.02647](http://arxiv.org/abs/2410.02647)|null|
+|**2024-10-03**|**Diffusion-based Extreme Image Compression with Compressed Feature Initialization**|Zhiyuan Li et.al.|[2410.02640](http://arxiv.org/abs/2410.02640)|**[link](https://github.com/huai-chang/rdeic)**|
+|**2024-10-03**|**High-Efficiency Neural Video Compression via Hierarchical Predictive Learning**|Ming Lu et.al.|[2410.02598](http://arxiv.org/abs/2410.02598)|null|
+|**2024-10-03**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Yakovenko et.al.|[2410.02560](http://arxiv.org/abs/2410.02560)|null|
+|**2024-10-03**|**Lightweight Diffusion Models for Resource-Constrained Semantic Communication**|Giovanni Pignata et.al.|[2410.02491](http://arxiv.org/abs/2410.02491)|null|
+|**2024-10-03**|**Temporal Predictive Coding for Gradient Compression in Distributed Learning**|Adrian Edin et.al.|[2410.02478](http://arxiv.org/abs/2410.02478)|null|
+|**2024-10-03**|**On the material genome of wurtzite ferroelectrics**|Zijian Zhou et.al.|[2410.02471](http://arxiv.org/abs/2410.02471)|null|
+|**2024-10-03**|**Federated Reinforcement Learning to Optimize Teleoperated Driving Networks**|Filippo Bragato et.al.|[2410.02312](http://arxiv.org/abs/2410.02312)|null|
+|**2024-10-03**|**Optimising the Processing and Storage of Radio Astronomy Data**|Alexander Williamson et.al.|[2410.02285](http://arxiv.org/abs/2410.02285)|null|
+|**2024-10-03**|**SC-CDM: Enhancing Quality of Image Semantic Communication with a Compact Diffusion Model**|Kexin Zhang et.al.|[2410.02121](http://arxiv.org/abs/2410.02121)|null|
 |**2024-10-02**|**Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**|Yuxiang Huang et.al.|[2410.01805](http://arxiv.org/abs/2410.01805)|**[link](https://github.com/huangyuxiang03/Locret)**|
 |**2024-10-02**|**Efficient $1$ -bit tensor approximations**|Alex W. Neal Riasanovsky et.al.|[2410.01799](http://arxiv.org/abs/2410.01799)|null|
 |**2024-10-02**|**Statistical mechanics of the flexural Ising model in $D$ dimensions**|Abigail Plummer et.al.|[2410.01797](http://arxiv.org/abs/2410.01797)|null|
