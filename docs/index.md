@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3096,7 +3096,7 @@ layout: default
 |**2024-10-03**|**Immunogenicity Prediction with Dual Attention Enables Vaccine Target Selection**|Song Li et.al.|[2410.02647](http://arxiv.org/abs/2410.02647)|null|
 |**2024-10-03**|**Diffusion-based Extreme Image Compression with Compressed Feature Initialization**|Zhiyuan Li et.al.|[2410.02640](http://arxiv.org/abs/2410.02640)|**[link](https://github.com/huai-chang/rdeic)**|
 |**2024-10-03**|**High-Efficiency Neural Video Compression via Hierarchical Predictive Learning**|Ming Lu et.al.|[2410.02598](http://arxiv.org/abs/2410.02598)|null|
-|**2024-10-03**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Yakovenko et.al.|[2410.02560](http://arxiv.org/abs/2410.02560)|null|
+|**2024-10-04**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Iakovenko et.al.|[2410.02560](http://arxiv.org/abs/2410.02560)|null|
 |**2024-10-03**|**Lightweight Diffusion Models for Resource-Constrained Semantic Communication**|Giovanni Pignata et.al.|[2410.02491](http://arxiv.org/abs/2410.02491)|null|
 |**2024-10-03**|**Temporal Predictive Coding for Gradient Compression in Distributed Learning**|Adrian Edin et.al.|[2410.02478](http://arxiv.org/abs/2410.02478)|null|
 |**2024-10-03**|**On the material genome of wurtzite ferroelectrics**|Zijian Zhou et.al.|[2410.02471](http://arxiv.org/abs/2410.02471)|null|
