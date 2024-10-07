@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Compressing multivariate functions with tree tensor networks**|Joseph Tindall et.al.|[2410.03572](http://arxiv.org/abs/2410.03572)|null|
+|**2024-10-04**|**Polymorphism of monatomic iodine**|Alexander F. Goncharov et.al.|[2410.03468](http://arxiv.org/abs/2410.03468)|null|
+|**2024-10-04**|**Self-supervised Spatio-Temporal Graph Mask-Passing Attention Network for Perceptual Importance Prediction of Multi-point Tactility**|Dazhong He et.al.|[2410.03434](http://arxiv.org/abs/2410.03434)|null|
+|**2024-10-04**|**Assessing many-body methods on the potential energy surface of the (H $_2$)$_2$ hydrogen dimer**|Damian Contant et.al.|[2410.03410](http://arxiv.org/abs/2410.03410)|null|
+|**2024-10-04**|**Error Correction Code Transformer: From Non-Unified to Unified**|Yongli Yan et.al.|[2410.03364](http://arxiv.org/abs/2410.03364)|null|
+|**2024-10-04**|**Large scale structure prior knowledge in the dark siren method**|Charles Dalang et.al.|[2410.03275](http://arxiv.org/abs/2410.03275)|null|
+|**2024-10-04**|**A Framework for Automatic Validation and Application of Lossy Data Compression in Ensemble Data Assimilation**|Kai Keller et.al.|[2410.03184](http://arxiv.org/abs/2410.03184)|null|
+|**2024-10-04**|**Mathematical Formalism for Memory Compression in Selective State Space Models**|Siddhanth Bhat et.al.|[2410.03158](http://arxiv.org/abs/2410.03158)|null|
+|**2024-10-04**|**MELODI: Exploring Memory Compression for Long Contexts**|Yinpeng Chen et.al.|[2410.03156](http://arxiv.org/abs/2410.03156)|null|
+|**2024-10-04**|**ARB-LLM: Alternating Refined Binarizations for Large Language Models**|Zhiteng Li et.al.|[2410.03129](http://arxiv.org/abs/2410.03129)|**[link](https://github.com/zhitengli/arb-llm)**|
 |**2024-10-03**|**Immunogenicity Prediction with Dual Attention Enables Vaccine Target Selection**|Song Li et.al.|[2410.02647](http://arxiv.org/abs/2410.02647)|null|
 |**2024-10-03**|**Diffusion-based Extreme Image Compression with Compressed Feature Initialization**|Zhiyuan Li et.al.|[2410.02640](http://arxiv.org/abs/2410.02640)|**[link](https://github.com/huai-chang/rdeic)**|
 |**2024-10-03**|**High-Efficiency Neural Video Compression via Hierarchical Predictive Learning**|Ming Lu et.al.|[2410.02598](http://arxiv.org/abs/2410.02598)|null|
