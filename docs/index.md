@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**JPEG Inspired Deep Learning**|Ahmed H. Salamah et.al.|[2410.07081](http://arxiv.org/abs/2410.07081)|null|
+|**2024-10-09**|**Subspace method of moments for ab initio 3-D single-particle Cryo-EM reconstruction**|Jeremy Hoskins et.al.|[2410.06889](http://arxiv.org/abs/2410.06889)|null|
+|**2024-10-09**|**Adaptive Refinement Protocols for Distributed Distribution Estimation under $\ell^p$ -Losses**|Deheng Yuan et.al.|[2410.06884](http://arxiv.org/abs/2410.06884)|null|
+|**2024-10-09**|**SurANet: Surrounding-Aware Network for Concealed Object Detection via Highly-Efficient Interactive Contrastive Learning Strategy**|Yuhan Kang et.al.|[2410.06842](http://arxiv.org/abs/2410.06842)|**[link](https://github.com/kyh433/suranet)**|
+|**2024-10-09**|**A signal recovery guarantee with Restricted Isometry Property and Null Space Property for weighted $\ell_1$ minimization**|Xiaotong Liu et.al.|[2410.06794](http://arxiv.org/abs/2410.06794)|null|
+|**2024-10-09**|**To Preserve or To Compress: An In-Depth Study of Connector Selection in Multimodal Large Language Models**|Junyan Lin et.al.|[2410.06765](http://arxiv.org/abs/2410.06765)|**[link](https://github.com/eit-nlp/connector-selection-for-mllm)**|
+|**2024-10-09**|**Cluster-wise Graph Transformer with Dual-granularity Kernelized Attention**|Siyuan Huang et.al.|[2410.06746](http://arxiv.org/abs/2410.06746)|**[link](https://github.com/lumia-group/cluster-wise-graph-transformer)**|
+|**2024-10-09**|**SHRINK: Data Compression by Semantic Extraction and Residuals Encoding**|Guoyou Sun et.al.|[2410.06713](http://arxiv.org/abs/2410.06713)|null|
+|**2024-10-09**|**Symmetry-enhanced Counterdiabatic Quantum Algorithm for Qudits**|Alberto Bottarelli et.al.|[2410.06710](http://arxiv.org/abs/2410.06710)|null|
+|**2024-10-09**|**A Family of LZ78-based Universal Sequential Probability Assignments**|Naomi Sagan et.al.|[2410.06589](http://arxiv.org/abs/2410.06589)|null|
 |**2024-10-07**|**TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens**|Ya-Qi Yu et.al.|[2410.05261](http://arxiv.org/abs/2410.05261)|null|
 |**2024-10-07**|**Rosette spectroscopic imaging for whole-brain metabolite mapping at 7T: acceleration potential and reproducibility**|Zhiwei Huang et.al.|[2410.05245](http://arxiv.org/abs/2410.05245)|null|
 |**2024-10-07**|**Simulation of the high Mach number asymptote for bubble collapse in a compressible Euler fluid**|Daniels Krimans et.al.|[2410.05244](http://arxiv.org/abs/2410.05244)|null|
