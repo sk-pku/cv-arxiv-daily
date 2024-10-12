@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.11
+## Updated on 2024.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3096,7 +3096,7 @@ layout: default
 |**2024-10-10**|**Synthesis of single-cycle pulses based on a Yb:KGW laser amplifier**|Zekun Pi et.al.|[2410.08183](http://arxiv.org/abs/2410.08183)|null|
 |**2024-10-10**|**Q-VLM: Post-training Quantization for Large Vision-Language Models**|Changyuan Wang et.al.|[2410.08119](http://arxiv.org/abs/2410.08119)|**[link](https://github.com/changyuanwang17/qvlm)**|
 |**2024-10-10**|**Improved Gevrey-1 estimates of formal series expansions of center manifolds**|Kristian Uldall Kristiansen et.al.|[2410.08088](http://arxiv.org/abs/2410.08088)|null|
-|**2024-10-10**|**Reversible Decoupling Network for Single Image Reflection Removal**|Hao Zhao et.al.|[2410.08063](http://arxiv.org/abs/2410.08063)|null|
+|**2024-10-10**|**Reversible Decoupling Network for Single Image Reflection Removal**|Hao Zhao et.al.|[2410.08063](http://arxiv.org/abs/2410.08063)|**[link](https://github.com/lime-j/RDNet)**|
 |**2024-10-10**|**A framework for compressing unstructured scientific data via serialization**|Viktor Reshniak et.al.|[2410.08059](http://arxiv.org/abs/2410.08059)|null|
 |**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017](http://arxiv.org/abs/2410.08017)|null|
 |**2024-10-10**|**Sound Zone Control Robust To Sound Speed Change**|Sankha Subhra Bhattacharjee et.al.|[2410.07978](http://arxiv.org/abs/2410.07978)|null|
