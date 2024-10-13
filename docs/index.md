@@ -3098,7 +3098,7 @@ layout: default
 |**2024-10-10**|**Improved Gevrey-1 estimates of formal series expansions of center manifolds**|Kristian Uldall Kristiansen et.al.|[2410.08088](http://arxiv.org/abs/2410.08088)|null|
 |**2024-10-10**|**Reversible Decoupling Network for Single Image Reflection Removal**|Hao Zhao et.al.|[2410.08063](http://arxiv.org/abs/2410.08063)|**[link](https://github.com/lime-j/RDNet)**|
 |**2024-10-10**|**A framework for compressing unstructured scientific data via serialization**|Viktor Reshniak et.al.|[2410.08059](http://arxiv.org/abs/2410.08059)|null|
-|**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017](http://arxiv.org/abs/2410.08017)|null|
+|**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017](http://arxiv.org/abs/2410.08017)|**[link](https://github.com/yihangchen-ee/fcgs)**|
 |**2024-10-10**|**Sound Zone Control Robust To Sound Speed Change**|Sankha Subhra Bhattacharjee et.al.|[2410.07978](http://arxiv.org/abs/2410.07978)|null|
 |**2024-10-10**|**Understanding Spatio-Temporal Relations in Human-Object Interaction using Pyramid Graph Convolutional Network**|Hao Xing et.al.|[2410.07912](http://arxiv.org/abs/2410.07912)|null|
 |**2024-10-10**|**Multi-messenger signatures of a deformed magnetar in gamma-ray bursts**|Parisa Hashemi et.al.|[2410.07883](http://arxiv.org/abs/2410.07883)|null|
