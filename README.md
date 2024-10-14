@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Transforming In-Vehicle Network Intrusion Detection: VAE-based Knowledge Distillation Meets Explainable AI**|Muhammet Anil Yagiz et.al.|[2410.09043](http://arxiv.org/abs/2410.09043)|null|
+|**2024-10-11**|**Data-Driven Neural Estimation of Indirect Rate-Distortion Function**|Zichao Yu et.al.|[2410.09018](http://arxiv.org/abs/2410.09018)|null|
+|**2024-10-11**|**Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**|Hao Li et.al.|[2410.09012](http://arxiv.org/abs/2410.09012)|null|
+|**2024-10-11**|**Supercritical density fluctuations and structural heterogeneity in supercooled water-glycerol microdroplets**|Sharon Berkowicz et.al.|[2410.08952](http://arxiv.org/abs/2410.08952)|null|
+|**2024-10-11**|**FlowMRI-Net: A generalizable self-supervised physics-driven 4D Flow MRI reconstruction network for aortic and cerebrovascular applications**|Luuk Jacobs et.al.|[2410.08856](http://arxiv.org/abs/2410.08856)|null|
+|**2024-10-11**|**Compressing regularised dynamics improves link prediction in sparse networks**|Maja Lindström et.al.|[2410.08777](http://arxiv.org/abs/2410.08777)|null|
+|**2024-10-11**|**Efficient Multi-Object Tracking on Edge Devices via Reconstruction-Based Channel Pruning**|Jan Müller et.al.|[2410.08769](http://arxiv.org/abs/2410.08769)|null|
+|**2024-10-11**|**Superconducting memory and trapped magnetic flux in ternary lanthanum polyhydrides**|Dmitrii V. Semenok et.al.|[2410.08730](http://arxiv.org/abs/2410.08730)|null|
+|**2024-10-11**|**Distillation of Discrete Diffusion through Dimensional Correlations**|Satoshi Hayakawa et.al.|[2410.08709](http://arxiv.org/abs/2410.08709)|null|
+|**2024-10-11**|**SpikeBottleNet: Energy Efficient Spike Neural Network Partitioning for Feature Compression in Device-Edge Co-Inference Systems**|Maruf Hassan et.al.|[2410.08673](http://arxiv.org/abs/2410.08673)|null|
 |**2024-10-10**|**Synthesis of single-cycle pulses based on a Yb:KGW laser amplifier**|Zekun Pi et.al.|[2410.08183](http://arxiv.org/abs/2410.08183)|null|
 |**2024-10-10**|**Q-VLM: Post-training Quantization for Large Vision-Language Models**|Changyuan Wang et.al.|[2410.08119](http://arxiv.org/abs/2410.08119)|**[link](https://github.com/changyuanwang17/qvlm)**|
 |**2024-10-10**|**Improved Gevrey-1 estimates of formal series expansions of center manifolds**|Kristian Uldall Kristiansen et.al.|[2410.08088](http://arxiv.org/abs/2410.08088)|null|
