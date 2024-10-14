@@ -3103,8 +3103,8 @@ layout: default
 |**2024-10-10**|**Understanding Spatio-Temporal Relations in Human-Object Interaction using Pyramid Graph Convolutional Network**|Hao Xing et.al.|[2410.07912](http://arxiv.org/abs/2410.07912)|null|
 |**2024-10-10**|**Multi-messenger signatures of a deformed magnetar in gamma-ray bursts**|Parisa Hashemi et.al.|[2410.07883](http://arxiv.org/abs/2410.07883)|null|
 |**2024-10-10**|**Partitioning Trillion Edge Graphs on Edge Devices**|Adil Chhabra et.al.|[2410.07732](http://arxiv.org/abs/2410.07732)|null|
-|**2024-10-09**|**JPEG Inspired Deep Learning**|Ahmed H. Salamah et.al.|[2410.07081](http://arxiv.org/abs/2410.07081)|null|
-|**2024-10-09**|**Subspace method of moments for ab initio 3-D single-particle Cryo-EM reconstruction**|Jeremy Hoskins et.al.|[2410.06889](http://arxiv.org/abs/2410.06889)|null|
+|**2024-10-09**|**JPEG Inspired Deep Learning**|Ahmed H. Salamah et.al.|[2410.07081](http://arxiv.org/abs/2410.07081)|**[link](https://github.com/jpeginspireddl/jpeg-inspired-dl)**|
+|**2024-10-09**|**Subspace method of moments for ab initio 3-D single-particle Cryo-EM reconstruction**|Jeremy Hoskins et.al.|[2410.06889](http://arxiv.org/abs/2410.06889)|**[link](https://github.com/wangyuguan/subspace_mom)**|
 |**2024-10-09**|**Adaptive Refinement Protocols for Distributed Distribution Estimation under $\ell^p$ -Losses**|Deheng Yuan et.al.|[2410.06884](http://arxiv.org/abs/2410.06884)|null|
 |**2024-10-09**|**SurANet: Surrounding-Aware Network for Concealed Object Detection via Highly-Efficient Interactive Contrastive Learning Strategy**|Yuhan Kang et.al.|[2410.06842](http://arxiv.org/abs/2410.06842)|**[link](https://github.com/kyh433/suranet)**|
 |**2024-10-09**|**A signal recovery guarantee with Restricted Isometry Property and Null Space Property for weighted $\ell_1$ minimization**|Xiaotong Liu et.al.|[2410.06794](http://arxiv.org/abs/2410.06794)|null|
@@ -3135,9 +3135,9 @@ layout: default
 |**2024-10-04**|**ARB-LLM: Alternating Refined Binarizations for Large Language Models**|Zhiteng Li et.al.|[2410.03129](http://arxiv.org/abs/2410.03129)|**[link](https://github.com/zhitengli/arb-llm)**|
 |**2024-10-03**|**Immunogenicity Prediction with Dual Attention Enables Vaccine Target Selection**|Song Li et.al.|[2410.02647](http://arxiv.org/abs/2410.02647)|null|
 |**2024-10-03**|**Diffusion-based Extreme Image Compression with Compressed Feature Initialization**|Zhiyuan Li et.al.|[2410.02640](http://arxiv.org/abs/2410.02640)|**[link](https://github.com/huai-chang/rdeic)**|
-|**2024-10-03**|**High-Efficiency Neural Video Compression via Hierarchical Predictive Learning**|Ming Lu et.al.|[2410.02598](http://arxiv.org/abs/2410.02598)|null|
+|**2024-10-03**|**High-Efficiency Neural Video Compression via Hierarchical Predictive Learning**|Ming Lu et.al.|[2410.02598](http://arxiv.org/abs/2410.02598)|**[link](https://github.com/NJUVISION/DHVC)**|
 |**2024-10-04**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Iakovenko et.al.|[2410.02560](http://arxiv.org/abs/2410.02560)|null|
-|**2024-10-03**|**Lightweight Diffusion Models for Resource-Constrained Semantic Communication**|Giovanni Pignata et.al.|[2410.02491](http://arxiv.org/abs/2410.02491)|null|
+|**2024-10-03**|**Lightweight Diffusion Models for Resource-Constrained Semantic Communication**|Giovanni Pignata et.al.|[2410.02491](http://arxiv.org/abs/2410.02491)|**[link](https://github.com/ispamm/q-gesco)**|
 |**2024-10-03**|**Temporal Predictive Coding for Gradient Compression in Distributed Learning**|Adrian Edin et.al.|[2410.02478](http://arxiv.org/abs/2410.02478)|null|
 |**2024-10-03**|**On the material genome of wurtzite ferroelectrics**|Zijian Zhou et.al.|[2410.02471](http://arxiv.org/abs/2410.02471)|null|
 |**2024-10-03**|**Federated Reinforcement Learning to Optimize Teleoperated Driving Networks**|Filippo Bragato et.al.|[2410.02312](http://arxiv.org/abs/2410.02312)|null|
@@ -3157,13 +3157,13 @@ layout: default
 |**2024-09-30**|**Assessing the QGP speed of sound in ultra-central heavy-ion collisions with ALICE**|Omar Vazquez Rueda et.al.|[2409.20470](http://arxiv.org/abs/2409.20470)|null|
 |**2024-09-30**|**Global existence and convergence near equilibrium for the moving interface problem between Navier-Stokes and the linear wave equation**|Daniel Coutand et.al.|[2409.20468](http://arxiv.org/abs/2409.20468)|null|
 |**2024-09-30**|**Micromechanics reveal strain rate dependent transition between dislocation mechanisms in a dual phase high entropy alloy**|Szilvia Kalácska et.al.|[2409.20368](http://arxiv.org/abs/2409.20368)|null|
-|**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|null|
+|**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|**[link](https://github.com/leopold1423/mpe)**|
 |**2024-09-30**|**PerCo (SD): Open Perceptual Compression**|Nikolai Körber et.al.|[2409.20255](http://arxiv.org/abs/2409.20255)|**[link](https://github.com/Nikolai10/PerCo)**|
 |**2024-09-30**|**VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection**|Huilin Deng et.al.|[2409.20146](http://arxiv.org/abs/2409.20146)|null|
 |**2024-09-30**|**Improving Achievability of Cache-Aided Private Variable-Length Coding with Zero Leakage**|Amirreza Zamani et.al.|[2409.20133](http://arxiv.org/abs/2409.20133)|null|
 |**2024-09-30**|**Aggressive Post-Training Compression on Extremely Large Language Models**|Zining Zhang et.al.|[2409.20094](http://arxiv.org/abs/2409.20094)|null|
 |**2024-09-30**|**Detonation propagation in three-dimensional continuous curved ducts**|Lisong Shi et.al.|[2409.19944](http://arxiv.org/abs/2409.19944)|null|
-|**2024-09-27**|**Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization**|Vladimír Boža et.al.|[2409.18850](http://arxiv.org/abs/2409.18850)|null|
+|**2024-09-27**|**Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization**|Vladimír Boža et.al.|[2409.18850](http://arxiv.org/abs/2409.18850)|**[link](https://github.com/usamec/double_sparse)**|
 |**2024-09-27**|**Quantum nuclear motion in silicene: Assessing structural and vibrational properties through path-integral simulations**|Carlos P. Herrero et.al.|[2409.18840](http://arxiv.org/abs/2409.18840)|null|
 |**2024-09-27**|**Search for supersymmetry using vector boson fusion signatures and missing transverse momentum in $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2409.18762](http://arxiv.org/abs/2409.18762)|null|
 |**2024-09-27**|**Effectiveness of learning-based image codecs on fingerprint storage**|Daniele Mari et.al.|[2409.18730](http://arxiv.org/abs/2409.18730)|**[link](https://github.com/Dan8991/Learning-based-fingerprint-coding)**|
@@ -3171,7 +3171,7 @@ layout: default
 |**2024-09-27**|**Beyond Fundamental Building Blocks: Plasticity in Structurally Complex Crystals**|Tobias Stollenwerk et.al.|[2409.18687](http://arxiv.org/abs/2409.18687)|null|
 |**2024-09-27**|**Toward Greener Matrix Operations by Lossless Compressed Formats**|Francesco Tosoni et.al.|[2409.18620](http://arxiv.org/abs/2409.18620)|**[link](https://gitlab.com/ftosoni/green-lossless-spmv)**|
 |**2024-09-27**|**"Oh LLM, I'm Asking Thee, Please Give Me a Decision Tree": Zero-Shot Decision Tree Induction and Embedding with Large Language Models**|Ricardo Knauer et.al.|[2409.18594](http://arxiv.org/abs/2409.18594)|null|
-|**2024-09-27**|**Align $^2$ LLaVA: Cascaded Human and Large Language Model Preference Alignment for Multi-modal Instruction Curation**|Hongzhe Huang et.al.|[2409.18541](http://arxiv.org/abs/2409.18541)|null|
+|**2024-09-27**|**Align $^2$ LLaVA: Cascaded Human and Large Language Model Preference Alignment for Multi-modal Instruction Curation**|Hongzhe Huang et.al.|[2409.18541](http://arxiv.org/abs/2409.18541)|**[link](https://github.com/dcdmllm/align2llava)**|
 |**2024-09-27**|**Neural Video Representation for Redundancy Reduction and Consistency Preservation**|Taiga Hayami et.al.|[2409.18497](http://arxiv.org/abs/2409.18497)|null|
 |**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114](http://arxiv.org/abs/2409.18114)|null|
 |**2024-09-26**|**Conveyor-belt magneto-optical trapping of molecules**|Grace K. Li et.al.|[2409.18090](http://arxiv.org/abs/2409.18090)|null|
