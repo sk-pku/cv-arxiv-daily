@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,16 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-14**|**The macroscopic shape of Gelfand-Tsetlin patterns and free probability**|Samuel G. G. Johnston et.al.|[2410.10754](http://arxiv.org/abs/2410.10754)|null|
+|**2024-10-15**|**The macroscopic shape of Gelfand-Tsetlin patterns and free probability**|Samuel G. G. Johnston et.al.|[2410.10754](http://arxiv.org/abs/2410.10754)|null|
 |**2024-10-14**|**Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models**|Junyu Chen et.al.|[2410.10733](http://arxiv.org/abs/2410.10733)|**[link](https://github.com/mit-han-lab/efficientvit)**|
 |**2024-10-14**|**SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators**|Rasoul Shafipour et.al.|[2410.10714](http://arxiv.org/abs/2410.10714)|null|
 |**2024-10-14**|**Large Language Model Evaluation via Matrix Nuclear-Norm**|Yahan Li et.al.|[2410.10672](http://arxiv.org/abs/2410.10672)|null|
-|**2024-10-14**|**SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers**|Enze Xie et.al.|[2410.10629](http://arxiv.org/abs/2410.10629)|null|
+|**2024-10-15**|**SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers**|Enze Xie et.al.|[2410.10629](http://arxiv.org/abs/2410.10629)|null|
 |**2024-10-14**|**QIANets: Quantum-Integrated Adaptive Networks for Reduced Latency and Improved Inference Times in CNN Models**|Zhumazhan Balapanov et.al.|[2410.10318](http://arxiv.org/abs/2410.10318)|null|
 |**2024-10-14**|**ABBA-VSM: Time Series Classification using Symbolic Representation on the Edge**|Meerzhan Kanatbekova et.al.|[2410.10285](http://arxiv.org/abs/2410.10285)|null|
-|**2024-10-14**|**Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection**|Weijie Zhou et.al.|[2410.10244](http://arxiv.org/abs/2410.10244)|**[link](https://github.com/BigWhiteBearZWJ/PDP-Official-Code)**|
+|**2024-10-15**|**Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection**|Weijie Zhou et.al.|[2410.10244](http://arxiv.org/abs/2410.10244)|**[link](https://github.com/BigWhiteBearZWJ/PDP-Official-Code)**|
 |**2024-10-14**|**Generative Human Video Compression with Multi-granularity Temporal Trajectory Factorization**|Shanzhi Yin et.al.|[2410.10171](http://arxiv.org/abs/2410.10171)|null|
-|**2024-10-14**|**Edge Unlearning is Not "on Edge"! An Adaptive Exact Unlearning System on Resource-Constrained Devices**|Xiaoyu Xia et.al.|[2410.10128](http://arxiv.org/abs/2410.10128)|**[link](https://github.com/xlab-hub/cause)**|
+|**2024-10-15**|**Edge Unlearning is Not "on Edge"! An Adaptive Exact Unlearning System on Resource-Constrained Devices**|Xiaoyu Xia et.al.|[2410.10128](http://arxiv.org/abs/2410.10128)|**[link](https://github.com/xlab-hub/cause)**|
 |**2024-10-11**|**Transforming In-Vehicle Network Intrusion Detection: VAE-based Knowledge Distillation Meets Explainable AI**|Muhammet Anil Yagiz et.al.|[2410.09043](http://arxiv.org/abs/2410.09043)|null|
 |**2024-10-11**|**Data-Driven Neural Estimation of Indirect Rate-Distortion Function**|Zichao Yu et.al.|[2410.09018](http://arxiv.org/abs/2410.09018)|null|
 |**2024-10-11**|**Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**|Hao Li et.al.|[2410.09012](http://arxiv.org/abs/2410.09012)|null|
