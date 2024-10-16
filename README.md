@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability**|Tsz Ting Chung et.al.|[2410.11786](http://arxiv.org/abs/2410.11786)|null|
+|**2024-10-15**|**Beyond the Median Voter: How Affective Polarization Shapes Party Polarization in Multidimensional Ideological Spaces**|Roberto Venegeroles et.al.|[2410.11512](http://arxiv.org/abs/2410.11512)|null|
+|**2024-10-15**|**GBSense: A GHz-Bandwidth Compressed Spectrum Sensing System**|Zihang Song et.al.|[2410.11495](http://arxiv.org/abs/2410.11495)|null|
+|**2024-10-15**|**VidCompress: Memory-Enhanced Temporal Compression for Video Understanding in Large Language Models**|Xiaohan Lan et.al.|[2410.11417](http://arxiv.org/abs/2410.11417)|null|
+|**2024-10-15**|**FLASH-enabled Proton SBRT for a challenging case of spine metastasis**|S. Wuyckens et.al.|[2410.11411](http://arxiv.org/abs/2410.11411)|null|
+|**2024-10-15**|**Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations**|Seongho Kim et.al.|[2410.11381](http://arxiv.org/abs/2410.11381)|null|
+|**2024-10-15**|**Learning from Imperfect Data: Towards Efficient Knowledge Distillation of Autoregressive Language Models for Text-to-SQL**|Qihuang Zhong et.al.|[2410.11371](http://arxiv.org/abs/2410.11371)|null|
+|**2024-10-15**|**Using Zone Inflation and Volume Transfer to Design a Fabric-based Pneumatic Exosuit with both Efficiency and Wearability**|Chendong Liu et.al.|[2410.11341](http://arxiv.org/abs/2410.11341)|null|
+|**2024-10-15**|**Interpretability as Compression: Reconsidering SAE Explanations of Neural Activations with MDL-SAEs**|Kola Ayonrinde et.al.|[2410.11179](http://arxiv.org/abs/2410.11179)|null|
+|**2024-10-14**|**Solving the Transient Dyson Equation with Quasilinear Complexity via Matrix Compression**|Baptiste Lamic et.al.|[2410.11057](http://arxiv.org/abs/2410.11057)|null|
 |**2024-10-15**|**The macroscopic shape of Gelfand-Tsetlin patterns and free probability**|Samuel G. G. Johnston et.al.|[2410.10754](http://arxiv.org/abs/2410.10754)|null|
 |**2024-10-14**|**Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models**|Junyu Chen et.al.|[2410.10733](http://arxiv.org/abs/2410.10733)|**[link](https://github.com/mit-han-lab/efficientvit)**|
 |**2024-10-14**|**SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators**|Rasoul Shafipour et.al.|[2410.10714](http://arxiv.org/abs/2410.10714)|null|
