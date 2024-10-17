@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3095,7 +3095,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-15**|**Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability**|Tsz Ting Chung et.al.|[2410.11786](http://arxiv.org/abs/2410.11786)|null|
 |**2024-10-15**|**Beyond the Median Voter: How Affective Polarization Shapes Party Polarization in Multidimensional Ideological Spaces**|Roberto Venegeroles et.al.|[2410.11512](http://arxiv.org/abs/2410.11512)|null|
-|**2024-10-15**|**GBSense: A GHz-Bandwidth Compressed Spectrum Sensing System**|Zihang Song et.al.|[2410.11495](http://arxiv.org/abs/2410.11495)|null|
+|**2024-10-16**|**GBSense: A GHz-Bandwidth Compressed Spectrum Sensing System**|Zihang Song et.al.|[2410.11495](http://arxiv.org/abs/2410.11495)|null|
 |**2024-10-15**|**VidCompress: Memory-Enhanced Temporal Compression for Video Understanding in Large Language Models**|Xiaohan Lan et.al.|[2410.11417](http://arxiv.org/abs/2410.11417)|null|
 |**2024-10-15**|**FLASH-enabled Proton SBRT for a challenging case of spine metastasis**|S. Wuyckens et.al.|[2410.11411](http://arxiv.org/abs/2410.11411)|null|
 |**2024-10-15**|**Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations**|Seongho Kim et.al.|[2410.11381](http://arxiv.org/abs/2410.11381)|null|
