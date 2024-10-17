@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Toleo: Scaling Freshness to Tera-scale Memory using CXL and PIM**|Juechu Dong et.al.|[2410.12749](http://arxiv.org/abs/2410.12749)|null|
+|**2024-10-16**|**FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression**|Zhenheng Tang et.al.|[2410.12707](http://arxiv.org/abs/2410.12707)|null|
+|**2024-10-16**|**Most High-density Exoplanets Are Unlikely to Be Remnant Giant-planet Cores**|Zifan Lin et.al.|[2410.12640](http://arxiv.org/abs/2410.12640)|null|
+|**2024-10-16**|**Sparse flow reconstruction methods to reduce the costs of analyzing large unsteady datasets**|Spencer L. Stahl et.al.|[2410.12627](http://arxiv.org/abs/2410.12627)|null|
+|**2024-10-16**|**Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting**|Wei Chen et.al.|[2410.12593](http://arxiv.org/abs/2410.12593)|null|
+|**2024-10-16**|**TW-class sub-2-cycle post-compression of Ti:Sapphire laser pulses in a gas-filled multipass cell**|Louis Daniault et.al.|[2410.12525](http://arxiv.org/abs/2410.12525)|null|
+|**2024-10-16**|**Prompt Compression for Large Language Models: A Survey**|Zongqian Li et.al.|[2410.12388](http://arxiv.org/abs/2410.12388)|null|
+|**2024-10-16**|**Line Spectral Analysis Using the G-Filter: An Atomic Norm Minimization Approach**|Bin Zhu et.al.|[2410.12358](http://arxiv.org/abs/2410.12358)|null|
+|**2024-10-16**|**How much do contextualized representations encode long-range context?**|Simeng Sun et.al.|[2410.12292](http://arxiv.org/abs/2410.12292)|null|
+|**2024-10-16**|**Rethinking Bjøntegaard Delta for Compression Efficiency Evaluation: Are We Calculating It Precisely and Reliably?**|Xinyu Hang et.al.|[2410.12220](http://arxiv.org/abs/2410.12220)|null|
 |**2024-10-15**|**Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability**|Tsz Ting Chung et.al.|[2410.11786](http://arxiv.org/abs/2410.11786)|null|
 |**2024-10-15**|**Beyond the Median Voter: How Affective Polarization Shapes Party Polarization in Multidimensional Ideological Spaces**|Roberto Venegeroles et.al.|[2410.11512](http://arxiv.org/abs/2410.11512)|null|
 |**2024-10-16**|**GBSense: A GHz-Bandwidth Compressed Spectrum Sensing System**|Zihang Song et.al.|[2410.11495](http://arxiv.org/abs/2410.11495)|null|
