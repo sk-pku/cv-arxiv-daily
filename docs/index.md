@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3099,7 +3099,7 @@ layout: default
 |**2024-10-16**|**Sparse flow reconstruction methods to reduce the costs of analyzing large unsteady datasets**|Spencer L. Stahl et.al.|[2410.12627](http://arxiv.org/abs/2410.12627)|null|
 |**2024-10-16**|**Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting**|Wei Chen et.al.|[2410.12593](http://arxiv.org/abs/2410.12593)|null|
 |**2024-10-16**|**TW-class sub-2-cycle post-compression of Ti:Sapphire laser pulses in a gas-filled multipass cell**|Louis Daniault et.al.|[2410.12525](http://arxiv.org/abs/2410.12525)|null|
-|**2024-10-16**|**Prompt Compression for Large Language Models: A Survey**|Zongqian Li et.al.|[2410.12388](http://arxiv.org/abs/2410.12388)|null|
+|**2024-10-17**|**Prompt Compression for Large Language Models: A Survey**|Zongqian Li et.al.|[2410.12388](http://arxiv.org/abs/2410.12388)|**[link](https://github.com/zongqianli/promptcompression-survey)**|
 |**2024-10-16**|**Line Spectral Analysis Using the G-Filter: An Atomic Norm Minimization Approach**|Bin Zhu et.al.|[2410.12358](http://arxiv.org/abs/2410.12358)|null|
 |**2024-10-16**|**How much do contextualized representations encode long-range context?**|Simeng Sun et.al.|[2410.12292](http://arxiv.org/abs/2410.12292)|null|
 |**2024-10-16**|**Rethinking Bjøntegaard Delta for Compression Efficiency Evaluation: Are We Calculating It Precisely and Reliably?**|Xinyu Hang et.al.|[2410.12220](http://arxiv.org/abs/2410.12220)|null|
