@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Adaptive Subsampling and Learned Model Improve Spatiotemporal Resolution of Tactile Skin**|Ariel Slepyan et.al.|[2410.13847](http://arxiv.org/abs/2410.13847)|null|
+|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|null|
+|**2024-10-17**|**Effect of ozone sensitization on the reflection patterns and stabilization of standing detonation waves induced by curved ramps**|Eric J. Ching et.al.|[2410.13845](http://arxiv.org/abs/2410.13845)|null|
+|**2024-10-17**|**Artificial Kuramoto Oscillatory Neurons**|Takeru Miyato et.al.|[2410.13821](http://arxiv.org/abs/2410.13821)|**[link](https://github.com/autonomousvision/akorn)**|
+|**2024-10-17**|**Optimal Quantization for Matrix Multiplication**|Or Ordentlich et.al.|[2410.13780](http://arxiv.org/abs/2410.13780)|null|
+|**2024-10-17**|**Supervised Kernel Thinning**|Albert Gong et.al.|[2410.13749](http://arxiv.org/abs/2410.13749)|null|
+|**2024-10-17**|**Mechanical and suture-holding properties of a UV-cured atelocollagen membrane with varied crosslinked architecture**|Ruya Zhang et.al.|[2410.13679](http://arxiv.org/abs/2410.13679)|null|
+|**2024-10-17**|**MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes**|Xinjie Zhang et.al.|[2410.13613](http://arxiv.org/abs/2410.13613)|null|
+|**2024-10-17**|**Co-Segmentation without any Pixel-level Supervision with Application to Large-Scale Sketch Classification**|Nikolaos-Antonios Ypsilantis et.al.|[2410.13582](http://arxiv.org/abs/2410.13582)|null|
+|**2024-10-17**|**Dynamic Range Compression and Its Effect on Music Genre Classification**|Arlyn Reese Madsen III et.al.|[2410.13581](http://arxiv.org/abs/2410.13581)|null|
 |**2024-10-16**|**Toleo: Scaling Freshness to Tera-scale Memory using CXL and PIM**|Juechu Dong et.al.|[2410.12749](http://arxiv.org/abs/2410.12749)|null|
 |**2024-10-16**|**FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression**|Zhenheng Tang et.al.|[2410.12707](http://arxiv.org/abs/2410.12707)|null|
 |**2024-10-16**|**Most High-density Exoplanets Are Unlikely to Be Remnant Giant-planet Cores**|Zifan Lin et.al.|[2410.12640](http://arxiv.org/abs/2410.12640)|null|
