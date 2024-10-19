@@ -3115,11 +3115,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-17**|**Adaptive Subsampling and Learned Model Improve Spatiotemporal Resolution of Tactile Skin**|Ariel Slepyan et.al.|[2410.13847](http://arxiv.org/abs/2410.13847)|null|
-|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|null|
+|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|**[link](https://github.com/sail-sg/simlayerkv)**|
 |**2024-10-17**|**Effect of ozone sensitization on the reflection patterns and stabilization of standing detonation waves induced by curved ramps**|Eric J. Ching et.al.|[2410.13845](http://arxiv.org/abs/2410.13845)|null|
 |**2024-10-17**|**Artificial Kuramoto Oscillatory Neurons**|Takeru Miyato et.al.|[2410.13821](http://arxiv.org/abs/2410.13821)|**[link](https://github.com/autonomousvision/akorn)**|
 |**2024-10-17**|**Optimal Quantization for Matrix Multiplication**|Or Ordentlich et.al.|[2410.13780](http://arxiv.org/abs/2410.13780)|null|
-|**2024-10-17**|**Supervised Kernel Thinning**|Albert Gong et.al.|[2410.13749](http://arxiv.org/abs/2410.13749)|null|
+|**2024-10-17**|**Supervised Kernel Thinning**|Albert Gong et.al.|[2410.13749](http://arxiv.org/abs/2410.13749)|**[link](https://github.com/ag2435/npr)**|
 |**2024-10-17**|**Mechanical and suture-holding properties of a UV-cured atelocollagen membrane with varied crosslinked architecture**|Ruya Zhang et.al.|[2410.13679](http://arxiv.org/abs/2410.13679)|null|
 |**2024-10-17**|**MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes**|Xinjie Zhang et.al.|[2410.13613](http://arxiv.org/abs/2410.13613)|null|
 |**2024-10-17**|**Co-Segmentation without any Pixel-level Supervision with Application to Large-Scale Sketch Classification**|Nikolaos-Antonios Ypsilantis et.al.|[2410.13582](http://arxiv.org/abs/2410.13582)|null|
