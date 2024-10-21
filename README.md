@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search**|Oliver Sieberling et.al.|[2410.14649](http://arxiv.org/abs/2410.14649)|null|
+|**2024-10-18**|**Modeling of shock wave passage through porous copper using moving window technique and kernel gradient correction in smoothed particle hydrodynamics method**|G. D. Rublev et.al.|[2410.14646](http://arxiv.org/abs/2410.14646)|null|
+|**2024-10-18**|**Variable-property and intrinsic compressibility corrections for turbulence models using near-wall scaling theories**|Asif Manzoor Hasan et.al.|[2410.14637](http://arxiv.org/abs/2410.14637)|null|
+|**2024-10-18**|**Understanding the difficulty of low-precision post-training quantization of large language models**|Zifei Xu et.al.|[2410.14570](http://arxiv.org/abs/2410.14570)|null|
+|**2024-10-18**|**Semi-Implicit Lagrangian Voronoi Approximation for Compressible Viscous Fluid Flows**|Ondřej Kincl et.al.|[2410.14564](http://arxiv.org/abs/2410.14564)|null|
+|**2024-10-18**|**Interactions between the near-wall turbulent structures and heavy particles in compressible turbulent boundary layers**|Ming Yu et.al.|[2410.14553](http://arxiv.org/abs/2410.14553)|null|
+|**2024-10-18**|**Dissecting inertial clustering and sling dynamics in high-Reynolds number particle-laden turbulence**|Lukas A. Codispoti et.al.|[2410.14549](http://arxiv.org/abs/2410.14549)|null|
+|**2024-10-18**|**Stationary flows for viscous heat-conductive fluid in a perturbed half-space**|Mingjie Li et.al.|[2410.14511](http://arxiv.org/abs/2410.14511)|null|
+|**2024-10-18**|**Bubble curtains for noise mitigation: one vs. two**|Simon Beelen et.al.|[2410.14415](http://arxiv.org/abs/2410.14415)|null|
+|**2024-10-18**|**SNAC: Multi-Scale Neural Audio Codec**|Hubert Siuzdak et.al.|[2410.14411](http://arxiv.org/abs/2410.14411)|**[link](https://github.com/hubertsiuzdak/snac)**|
 |**2024-10-17**|**Adaptive Subsampling and Learned Model Improve Spatiotemporal Resolution of Tactile Skin**|Ariel Slepyan et.al.|[2410.13847](http://arxiv.org/abs/2410.13847)|null|
 |**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|**[link](https://github.com/sail-sg/simlayerkv)**|
 |**2024-10-17**|**Effect of ozone sensitization on the reflection patterns and stabilization of standing detonation waves induced by curved ramps**|Eric J. Ching et.al.|[2410.13845](http://arxiv.org/abs/2410.13845)|null|
