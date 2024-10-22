@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**LDAdam: Adaptive Optimization from Low-Dimensional Gradient Statistics**|Thomas Robert et.al.|[2410.16103](http://arxiv.org/abs/2410.16103)|null|
+|**2024-10-21**|**Stability of strong solutions to the full compressible magnetohydrodynamic system with non-conservative boundary conditions**|Hana Mizerová et.al.|[2410.16001](http://arxiv.org/abs/2410.16001)|null|
+|**2024-10-21**|**Interaction of the Prominence Plasma within the Magnetic Cloud of an ICME with the Earth's Bow Shock**|Hadi Madanian et.al.|[2410.15989](http://arxiv.org/abs/2410.15989)|null|
+|**2024-10-21**|**Partial Orientation Retrieval of Proteins From Coulomb Explosions**|Tomas André et.al.|[2410.15965](http://arxiv.org/abs/2410.15965)|null|
+|**2024-10-21**|**Relating Left and Right Extensions of Maximal Repeats**|Shunsuke Inenaga et.al.|[2410.15958](http://arxiv.org/abs/2410.15958)|null|
+|**2024-10-21**|**Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?**|Lingao Xiao et.al.|[2410.15919](http://arxiv.org/abs/2410.15919)|null|
+|**2024-10-21**|**Variable Rate Learned Wavelet Video Coding with Temporal Layer Adaptivity**|Anna Meyer et.al.|[2410.15873](http://arxiv.org/abs/2410.15873)|null|
+|**2024-10-21**|**Design of a Flexible Robot Arm for Safe Aerial Physical Interaction**|Julien Mellet et.al.|[2410.15797](http://arxiv.org/abs/2410.15797)|null|
+|**2024-10-21**|**Solving Sparse \& High-Dimensional-Output Regression via Compression**|Renyuan Li et.al.|[2410.15762](http://arxiv.org/abs/2410.15762)|null|
+|**2024-10-21**|**Optimizing Neural Speech Codec for Low-Bitrate Compression via Multi-Scale Encoding**|Peiji Yang et.al.|[2410.15749](http://arxiv.org/abs/2410.15749)|null|
 |**2024-10-18**|**EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search**|Oliver Sieberling et.al.|[2410.14649](http://arxiv.org/abs/2410.14649)|null|
 |**2024-10-18**|**Modeling of shock wave passage through porous copper using moving window technique and kernel gradient correction in smoothed particle hydrodynamics method**|G. D. Rublev et.al.|[2410.14646](http://arxiv.org/abs/2410.14646)|null|
 |**2024-10-18**|**Variable-property and intrinsic compressibility corrections for turbulence models using near-wall scaling theories**|Asif Manzoor Hasan et.al.|[2410.14637](http://arxiv.org/abs/2410.14637)|null|
