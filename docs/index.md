@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Automated Spinal MRI Labelling from Reports Using a Large Language Model**|Robin Y. Park et.al.|[2410.17235](http://arxiv.org/abs/2410.17235)|**[link](https://github.com/robinyjpark/autolabelclassifier)**|
+|**2024-10-22**|**Self-calibration for Language Model Quantization and Pruning**|Miles Williams et.al.|[2410.17170](http://arxiv.org/abs/2410.17170)|null|
+|**2024-10-22**|**Continuous Speech Tokenizer in Text To Speech**|Yixing Li et.al.|[2410.17081](http://arxiv.org/abs/2410.17081)|null|
+|**2024-10-22**|**Electronic and interfacial properties of 2D mxene/blue phosphorene heterostructures: impact of external strain for thermoelectric applications**|Sarga P K et.al.|[2410.17065](http://arxiv.org/abs/2410.17065)|null|
+|**2024-10-22**|**A Wrinkling Model for General Hyperelastic Materials based on Tension Field Theory**|H. M. Verhelst et.al.|[2410.16990](http://arxiv.org/abs/2410.16990)|null|
+|**2024-10-22**|**Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization**|Constantin Kleinbeck et.al.|[2410.16978](http://arxiv.org/abs/2410.16978)|null|
+|**2024-10-22**|**Pyramid Vector Quantization for LLMs**|Tycho F. A. van der Ouderaa et.al.|[2410.16926](http://arxiv.org/abs/2410.16926)|null|
+|**2024-10-22**|**Recent development of magnetocaloric effect in Pyrochlore oxides**|Vinod Kumar Dwivedi et.al.|[2410.16777](http://arxiv.org/abs/2410.16777)|null|
+|**2024-10-22**|**Efficient Implementation of an Accurate Algebraic Scheme for Sharp Interface Advection in Multiphase Flows**|Mehran Sharifi et.al.|[2410.16754](http://arxiv.org/abs/2410.16754)|null|
+|**2024-10-22**|**Influential Language Data Selection via Gradient Trajectory Pursuit**|Zhiwei Deng et.al.|[2410.16710](http://arxiv.org/abs/2410.16710)|null|
 |**2024-10-21**|**LDAdam: Adaptive Optimization from Low-Dimensional Gradient Statistics**|Thomas Robert et.al.|[2410.16103](http://arxiv.org/abs/2410.16103)|null|
 |**2024-10-21**|**Stability of strong solutions to the full compressible magnetohydrodynamic system with non-conservative boundary conditions**|Hana Mizerová et.al.|[2410.16001](http://arxiv.org/abs/2410.16001)|null|
 |**2024-10-21**|**Interaction of the Prominence Plasma within the Magnetic Cloud of an ICME with the Earth's Bow Shock**|Hadi Madanian et.al.|[2410.15989](http://arxiv.org/abs/2410.15989)|null|
