@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3098,7 +3098,7 @@ layout: default
 |**2024-10-22**|**Continuous Speech Tokenizer in Text To Speech**|Yixing Li et.al.|[2410.17081](http://arxiv.org/abs/2410.17081)|null|
 |**2024-10-22**|**Electronic and interfacial properties of 2D mxene/blue phosphorene heterostructures: impact of external strain for thermoelectric applications**|Sarga P K et.al.|[2410.17065](http://arxiv.org/abs/2410.17065)|null|
 |**2024-10-22**|**A Wrinkling Model for General Hyperelastic Materials based on Tension Field Theory**|H. M. Verhelst et.al.|[2410.16990](http://arxiv.org/abs/2410.16990)|null|
-|**2024-10-22**|**Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization**|Constantin Kleinbeck et.al.|[2410.16978](http://arxiv.org/abs/2410.16978)|null|
+|**2024-10-22**|**Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization**|Constantin Kleinbeck et.al.|[2410.16978](http://arxiv.org/abs/2410.16978)|**[link](https://github.com/roth-hex-lab/Multi-Layer-Gaussian-Splatting-for-Immersive-Anatomy-Visualization)**|
 |**2024-10-22**|**Pyramid Vector Quantization for LLMs**|Tycho F. A. van der Ouderaa et.al.|[2410.16926](http://arxiv.org/abs/2410.16926)|null|
 |**2024-10-22**|**Recent development of magnetocaloric effect in Pyrochlore oxides**|Vinod Kumar Dwivedi et.al.|[2410.16777](http://arxiv.org/abs/2410.16777)|null|
 |**2024-10-22**|**Efficient Implementation of an Accurate Algebraic Scheme for Sharp Interface Advection in Multiphase Flows**|Mehran Sharifi et.al.|[2410.16754](http://arxiv.org/abs/2410.16754)|null|
