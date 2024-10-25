@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Learning Structured Compressed Sensing with Automatic Resource Allocation**|Han Wang et.al.|[2410.18954](http://arxiv.org/abs/2410.18954)|null|
+|**2024-10-24**|**Learning $k$ -body Hamiltonians via compressed sensing**|Muzhou Ma et.al.|[2410.18928](http://arxiv.org/abs/2410.18928)|null|
+|**2024-10-24**|**ODDN: Addressing Unpaired Data Challenges in Open-World Deepfake Detection on Online Social Networks**|Renshuai Tao et.al.|[2410.18687](http://arxiv.org/abs/2410.18687)|null|
+|**2024-10-24**|**KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing**|Yifei Yang et.al.|[2410.18517](http://arxiv.org/abs/2410.18517)|**[link](https://github.com/yangyifei729/kvsharer)**|
+|**2024-10-24**|**A Causal Graph-Enhanced Gaussian Process Regression for Modeling Engine-out NOx**|Shrenik Zinage et.al.|[2410.18424](http://arxiv.org/abs/2410.18424)|null|
+|**2024-10-24**|**DMVC: Multi-Camera Video Compression Network aimed at Improving Deep Learning Accuracy**|Huan Cui et.al.|[2410.18400](http://arxiv.org/abs/2410.18400)|null|
+|**2024-10-23**|**Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces**|Dániel T. R. Nagy et.al.|[2410.18284](http://arxiv.org/abs/2410.18284)|null|
+|**2024-10-23**|**Predicting total time to compress a video corpus using online inference systems**|Xin Shu et.al.|[2410.18260](http://arxiv.org/abs/2410.18260)|null|
+|**2024-10-23**|**ZIP-FIT: Embedding-Free Data Selection via Compression-Based Alignment**|Elyas Obbad et.al.|[2410.18194](http://arxiv.org/abs/2410.18194)|null|
+|**2024-10-23**|**The origin and evolution of the [CII]-deficit in HII regions and star-forming molecular clouds**|Stefano Ebagezio et.al.|[2410.18185](http://arxiv.org/abs/2410.18185)|null|
 |**2024-10-23**|**DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**|Hengwei Bian et.al.|[2410.18084](http://arxiv.org/abs/2410.18084)|null|
 |**2024-10-23**|**FIPER: Generalizable Factorized Fields for Joint Image Compression and Super-Resolution**|Yang-Che Sun et.al.|[2410.18083](http://arxiv.org/abs/2410.18083)|null|
 |**2024-10-23**|**Inferring stability properties of chaotic systems on autoencoders' latent spaces**|Elise Özalp et.al.|[2410.18003](http://arxiv.org/abs/2410.18003)|null|
