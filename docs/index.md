@@ -736,7 +736,7 @@ layout: default
 |**2024-06-05**|**Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach**|Saehyung Lee et.al.|[2406.03411](http://arxiv.org/abs/2406.03411)|**[link](https://github.com/saehyung-lee/plugir)**|
 |**2024-06-04**|**MeshVPR: Citywide Visual Place Recognition Using 3D Meshes**|Gabriele Berton et.al.|[2406.02776](http://arxiv.org/abs/2406.02776)|null|
 |**2024-06-04**|**Can CLIP help CLIP in learning 3D?**|Cristian Sbrolli et.al.|[2406.02202](http://arxiv.org/abs/2406.02202)|null|
-|**2024-06-03**|**Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP**|Sriram Balasubramanian et.al.|[2406.01583](http://arxiv.org/abs/2406.01583)|null|
+|**2024-06-03**|**Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP**|Sriram Balasubramanian et.al.|[2406.01583](http://arxiv.org/abs/2406.01583)|**[link](https://github.com/sriramb-98/vit-decompose)**|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315](http://arxiv.org/abs/2406.01315)|**[link](https://github.com/gbarbarani/MorseDet)**|
 |**2024-06-02**|**Visual place recognition for aerial imagery: A survey**|Ivan Moskalenko et.al.|[2406.00885](http://arxiv.org/abs/2406.00885)|**[link](https://github.com/prime-slam/aero-vloc)**|
 |**2024-06-01**|**NuRF: Nudging the Particle Filter in Radiance Fields for Robot Visual Localization**|Wugang Meng et.al.|[2406.00312](http://arxiv.org/abs/2406.00312)|null|
@@ -915,11 +915,11 @@ layout: default
 |**2023-12-12**|**Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval**|Qiwei Tian et.al.|[2312.07364](http://arxiv.org/abs/2312.07364)|**[link](https://github.com/michaeltian108/ca-tride)**|
 |**2023-12-12**|**Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**|Jonathan J. Y. Kim et.al.|[2312.06991](http://arxiv.org/abs/2312.06991)|null|
 |**2023-12-11**|**Dynamic Weighted Combiner for Mixed-Modal Image Retrieval**|Fuxiang Huang et.al.|[2312.06179](http://arxiv.org/abs/2312.06179)|**[link](https://github.com/fuxianghuang1/dwc)**|
-|**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|null|
+|**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|**[link](https://github.com/gongzix/lite-mind)**|
 |**2023-12-08**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029](http://arxiv.org/abs/2312.02029)|null|
 |**2023-12-04**|**Language-only Efficient Training of Zero-shot Composed Image Retrieval**|Geonmo Gu et.al.|[2312.01998](http://arxiv.org/abs/2312.01998)|**[link](https://github.com/navervision/lincir)**|
-|**2023-12-03**|**G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training**|Che Liu et.al.|[2312.01522](http://arxiv.org/abs/2312.01522)|null|
+|**2023-12-03**|**G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training**|Che Liu et.al.|[2312.01522](http://arxiv.org/abs/2312.01522)|**[link](https://github.com/cheliu-computation/g2d-neurips24)**|
 |**2023-12-01**|**Improve Supervised Representation Learning with Masked Image Modeling**|Kaifeng Chen et.al.|[2312.00950](http://arxiv.org/abs/2312.00950)|null|
 |**2023-12-05**|**Grounding Everything: Emerging Localization Properties in Vision-Language Transformers**|Walid Bousselham et.al.|[2312.00878](http://arxiv.org/abs/2312.00878)|**[link](https://github.com/walbouss/gem)**|
 |**2023-12-01**|**Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras**|Mohammad Altillawi et.al.|[2312.00500](http://arxiv.org/abs/2312.00500)|null|
@@ -3105,7 +3105,7 @@ layout: default
 |**2024-10-23**|**The origin and evolution of the [CII]-deficit in HII regions and star-forming molecular clouds**|Stefano Ebagezio et.al.|[2410.18185](http://arxiv.org/abs/2410.18185)|null|
 |**2024-10-23**|**DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**|Hengwei Bian et.al.|[2410.18084](http://arxiv.org/abs/2410.18084)|null|
 |**2024-10-23**|**FIPER: Generalizable Factorized Fields for Joint Image Compression and Super-Resolution**|Yang-Che Sun et.al.|[2410.18083](http://arxiv.org/abs/2410.18083)|null|
-|**2024-10-23**|**Inferring stability properties of chaotic systems on autoencoders' latent spaces**|Elise Özalp et.al.|[2410.18003](http://arxiv.org/abs/2410.18003)|null|
+|**2024-10-23**|**Inferring stability properties of chaotic systems on autoencoders' latent spaces**|Elise Özalp et.al.|[2410.18003](http://arxiv.org/abs/2410.18003)|**[link](https://github.com/MagriLab/LatentStability)**|
 |**2024-10-23**|**MCUBERT: Memory-Efficient BERT Inference on Commodity Microcontrollers**|Zebin Yang et.al.|[2410.17957](http://arxiv.org/abs/2410.17957)|null|
 |**2024-10-23**|**Truly Sub-Nyquist Method Based Matrix Pencil and CRT with Super Resolution**|Huiguang Zhang et.al.|[2410.17841](http://arxiv.org/abs/2410.17841)|null|
 |**2024-10-23**|**Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds**|Kai Liu et.al.|[2410.17823](http://arxiv.org/abs/2410.17823)|**[link](https://github.com/i2-multimedia-lab/att2cpc)**|
@@ -3123,17 +3123,17 @@ layout: default
 |**2024-10-22**|**Recent development of magnetocaloric effect in Pyrochlore oxides**|Vinod Kumar Dwivedi et.al.|[2410.16777](http://arxiv.org/abs/2410.16777)|null|
 |**2024-10-22**|**Efficient Implementation of an Accurate Algebraic Scheme for Sharp Interface Advection in Multiphase Flows**|Mehran Sharifi et.al.|[2410.16754](http://arxiv.org/abs/2410.16754)|null|
 |**2024-10-22**|**Influential Language Data Selection via Gradient Trajectory Pursuit**|Zhiwei Deng et.al.|[2410.16710](http://arxiv.org/abs/2410.16710)|null|
-|**2024-10-21**|**LDAdam: Adaptive Optimization from Low-Dimensional Gradient Statistics**|Thomas Robert et.al.|[2410.16103](http://arxiv.org/abs/2410.16103)|null|
+|**2024-10-21**|**LDAdam: Adaptive Optimization from Low-Dimensional Gradient Statistics**|Thomas Robert et.al.|[2410.16103](http://arxiv.org/abs/2410.16103)|**[link](https://github.com/IST-DASLab/LDAdam)**|
 |**2024-10-21**|**Stability of strong solutions to the full compressible magnetohydrodynamic system with non-conservative boundary conditions**|Hana Mizerová et.al.|[2410.16001](http://arxiv.org/abs/2410.16001)|null|
 |**2024-10-21**|**Interaction of the Prominence Plasma within the Magnetic Cloud of an ICME with the Earth's Bow Shock**|Hadi Madanian et.al.|[2410.15989](http://arxiv.org/abs/2410.15989)|null|
 |**2024-10-21**|**Partial Orientation Retrieval of Proteins From Coulomb Explosions**|Tomas André et.al.|[2410.15965](http://arxiv.org/abs/2410.15965)|null|
 |**2024-10-21**|**Relating Left and Right Extensions of Maximal Repeats**|Shunsuke Inenaga et.al.|[2410.15958](http://arxiv.org/abs/2410.15958)|null|
-|**2024-10-21**|**Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?**|Lingao Xiao et.al.|[2410.15919](http://arxiv.org/abs/2410.15919)|null|
-|**2024-10-21**|**Variable Rate Learned Wavelet Video Coding with Temporal Layer Adaptivity**|Anna Meyer et.al.|[2410.15873](http://arxiv.org/abs/2410.15873)|null|
+|**2024-10-21**|**Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?**|Lingao Xiao et.al.|[2410.15919](http://arxiv.org/abs/2410.15919)|**[link](https://github.com/he-y/soft-label-pruning-for-dataset-distillation)**|
+|**2024-10-21**|**Variable Rate Learned Wavelet Video Coding with Temporal Layer Adaptivity**|Anna Meyer et.al.|[2410.15873](http://arxiv.org/abs/2410.15873)|**[link](https://github.com/fau-lms/learned-pmctf)**|
 |**2024-10-21**|**Design of a Flexible Robot Arm for Safe Aerial Physical Interaction**|Julien Mellet et.al.|[2410.15797](http://arxiv.org/abs/2410.15797)|null|
 |**2024-10-21**|**Solving Sparse \& High-Dimensional-Output Regression via Compression**|Renyuan Li et.al.|[2410.15762](http://arxiv.org/abs/2410.15762)|null|
 |**2024-10-21**|**Optimizing Neural Speech Codec for Low-Bitrate Compression via Multi-Scale Encoding**|Peiji Yang et.al.|[2410.15749](http://arxiv.org/abs/2410.15749)|null|
-|**2024-10-18**|**EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search**|Oliver Sieberling et.al.|[2410.14649](http://arxiv.org/abs/2410.14649)|null|
+|**2024-10-18**|**EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search**|Oliver Sieberling et.al.|[2410.14649](http://arxiv.org/abs/2410.14649)|**[link](https://github.com/ist-daslab/evopress)**|
 |**2024-10-18**|**Modeling of shock wave passage through porous copper using moving window technique and kernel gradient correction in smoothed particle hydrodynamics method**|G. D. Rublev et.al.|[2410.14646](http://arxiv.org/abs/2410.14646)|null|
 |**2024-10-18**|**Variable-property and intrinsic compressibility corrections for turbulence models using near-wall scaling theories**|Asif Manzoor Hasan et.al.|[2410.14637](http://arxiv.org/abs/2410.14637)|null|
 |**2024-10-18**|**Understanding the difficulty of low-precision post-training quantization of large language models**|Zifei Xu et.al.|[2410.14570](http://arxiv.org/abs/2410.14570)|null|
@@ -3276,7 +3276,7 @@ layout: default
 |**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114](http://arxiv.org/abs/2409.18114)|null|
 |**2024-09-26**|**Conveyor-belt magneto-optical trapping of molecules**|Grace K. Li et.al.|[2409.18090](http://arxiv.org/abs/2409.18090)|null|
 |**2024-09-26**|**Simulation-Based Inference Benchmark for LSST Weak Lensing Cosmology**|Justine Zeghal et.al.|[2409.17975](http://arxiv.org/abs/2409.17975)|null|
-|**2024-09-26**|**Sample compression unleashed : New generalization bounds for real valued losses**|Mathieu Bazinet et.al.|[2409.17932](http://arxiv.org/abs/2409.17932)|null|
+|**2024-09-26**|**Sample compression unleashed : New generalization bounds for real valued losses**|Mathieu Bazinet et.al.|[2409.17932](http://arxiv.org/abs/2409.17932)|**[link](https://github.com/graal-research/pick-to-learn)**|
 |**2024-09-26**|**Density, speed of sound, refractive index and relative permittivity of methanol, propan-1-ol or pentan-1-ol + aniline liquid mixtures. Application of the Kirkwood-Fröhlich model**|Fernando Hevia et.al.|[2409.17926](http://arxiv.org/abs/2409.17926)|null|
 |**2024-09-26**|**Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models**|Hui-Po Wang et.al.|[2409.17836](http://arxiv.org/abs/2409.17836)|null|
 |**2024-09-26**|**Fronthaul-Constrained Distributed Radar Sensing**|Christian Eckrich et.al.|[2409.17753](http://arxiv.org/abs/2409.17753)|null|
@@ -3585,7 +3585,7 @@ layout: default
 |**2024-08-06**|**Prioritize Alignment in Dataset Distillation**|Zekai Li et.al.|[2408.03360](http://arxiv.org/abs/2408.03360)|**[link](https://github.com/nus-hpc-ai-lab/pad)**|
 |**2024-08-06**|**DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers**|Lianwei Yang et.al.|[2408.03291](http://arxiv.org/abs/2408.03291)|null|
 |**2024-08-06**|**Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**|Angie Boggust et.al.|[2408.03274](http://arxiv.org/abs/2408.03274)|null|
-|**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
+|**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|**[link](https://github.com/fan-aaron-zhang/bvi-aom)**|
 |**2024-08-06**|**Joint Transmission and Compression Design for 6G Networked Sensing with Limited-Capacity Backhaul**|Weifeng Zhu et.al.|[2408.03174](http://arxiv.org/abs/2408.03174)|null|
 |**2024-08-06**|**Inference Optimizations for Large Language Models: Effects, Challenges, and Practical Considerations**|Leo Donisch et.al.|[2408.03130](http://arxiv.org/abs/2408.03130)|null|
 |**2024-08-06**|**Codes Correcting Two Bursts of Exactly $b$ Deletions**|Zuo Ye et.al.|[2408.03113](http://arxiv.org/abs/2408.03113)|null|
