@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271](http://arxiv.org/abs/2410.21271)|null|
+|**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262](http://arxiv.org/abs/2410.21262)|**[link](https://github.com/changwoolee/blast)**|
+|**2024-10-28**|**Phase space compression of a positive muon beam in two spatial dimensions**|A. Antognini et.al.|[2410.21162](http://arxiv.org/abs/2410.21162)|null|
+|**2024-10-28**|**Enhancing Learned Image Compression via Cross Window-based Attention**|Priyanka Mudgal et.al.|[2410.21144](http://arxiv.org/abs/2410.21144)|null|
+|**2024-10-28**|**Energy cascade and Sobolev norms inflation for the quantum Euler equations on tori**|Filippo Giuliani et.al.|[2410.21080](http://arxiv.org/abs/2410.21080)|null|
+|**2024-10-28**|**Projection-based Reduced Order Modelling for Unsteady Parametrized Optimal Control Problems in 3D Cardiovascular Flows**|Surabhi Rathore et.al.|[2410.20828](http://arxiv.org/abs/2410.20828)|null|
+|**2024-10-28**|**Intermittency of bubble deformation in turbulence**|Xu Xu et.al.|[2410.20826](http://arxiv.org/abs/2410.20826)|null|
+|**2024-10-28**|**Temporal Streaming Batch Principal Component Analysis for Time Series Classification**|Enshuo Yan et.al.|[2410.20820](http://arxiv.org/abs/2410.20820)|null|
+|**2024-10-28**|**MrT5: Dynamic Token Merging for Efficient Byte-level Language Models**|Julie Kallini et.al.|[2410.20771](http://arxiv.org/abs/2410.20771)|**[link](https://github.com/jkallini/mrt5)**|
+|**2024-10-28**|**Superconductivity and strain-enhanced phase stability of Janus tungsten chalcogenide hydride monolayers**|Jakkapat Seeyangnok et.al.|[2410.20744](http://arxiv.org/abs/2410.20744)|null|
 |**2024-10-25**|**TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning**|Xiangyu Zeng et.al.|[2410.19702](http://arxiv.org/abs/2410.19702)|null|
 |**2024-10-25**|**Generalized dissipative solutions to free boundary compressible viscous models**|Anna Abbatiello et.al.|[2410.19691](http://arxiv.org/abs/2410.19691)|null|
 |**2024-10-25**|**Geodesic completeness from string T-duality**|Kimet Jusufi et.al.|[2410.19613](http://arxiv.org/abs/2410.19613)|null|
