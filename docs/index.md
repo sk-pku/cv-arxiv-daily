@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**Consistent Interface Capturing Adaptive Reconstruction Approach for Viscous Compressible Multicomponent Flows**|Amareshwara Sainadh Chamarthi et.al.|[2410.22127](http://arxiv.org/abs/2410.22127)|null|
+|**2024-10-29**|**Extent of the Magnetotail of Venus From the Solar Orbiter, Parker Solar Probe and BepiColombo Flybys**|Niklas J. T. Edberg et.al.|[2410.21856](http://arxiv.org/abs/2410.21856)|null|
+|**2024-10-29**|**Memory-Efficient Point Cloud Registration via Overlapping Region Sampling**|Tomoyasu Shimada et.al.|[2410.21753](http://arxiv.org/abs/2410.21753)|null|
+|**2024-10-29**|**Minimum Entropy Coupling with Bottleneck**|M. Reza Ebrahimi et.al.|[2410.21666](http://arxiv.org/abs/2410.21666)|null|
+|**2024-10-29**|**Predicting the Encoding Error of SIRENs**|Jeremy Vonderfecht et.al.|[2410.21645](http://arxiv.org/abs/2410.21645)|null|
+|**2024-10-29**|**RDSinger: Reference-based Diffusion Network for Singing Voice Synthesis**|Kehan Sui et.al.|[2410.21641](http://arxiv.org/abs/2410.21641)|null|
+|**2024-10-29**|**Giant Negative Linear Compressibility in Orthorhombic Copper Cyanide**|Swayam Kesari et.al.|[2410.21623](http://arxiv.org/abs/2410.21623)|null|
+|**2024-10-28**|**Quality Analysis of the Coding Bitrate Tradeoff Between Geometry and Attributes for Colored Point Clouds**|Joao Prazeres et.al.|[2410.21613](http://arxiv.org/abs/2410.21613)|null|
+|**2024-10-28**|**MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression**|Noel Elias et.al.|[2410.21548](http://arxiv.org/abs/2410.21548)|**[link](https://github.com/noelkelias/multitok)**|
+|**2024-10-28**|**Trustworthiness of Stochastic Gradient Descent in Distributed Learning**|Hongyang Li et.al.|[2410.21491](http://arxiv.org/abs/2410.21491)|null|
 |**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271](http://arxiv.org/abs/2410.21271)|null|
 |**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262](http://arxiv.org/abs/2410.21262)|**[link](https://github.com/changwoolee/blast)**|
 |**2024-10-28**|**Phase space compression of a positive muon beam in two spatial dimensions**|A. Antognini et.al.|[2410.21162](http://arxiv.org/abs/2410.21162)|null|
