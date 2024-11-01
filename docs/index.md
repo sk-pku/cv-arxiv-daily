@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**From broadband biphotons to frequency combs via spectral compression with time-varying cavities**|Karthik V. Myilswamy et.al.|[2410.24188](http://arxiv.org/abs/2410.24188)|null|
+|**2024-10-31**|**Chasing Better Deep Image Priors between Over- and Under-parameterization**|Qiming Wu et.al.|[2410.24187](http://arxiv.org/abs/2410.24187)|**[link](https://github.com/vita-group/chasing-better-dips)**|
+|**2024-10-31**|**An Overview of Solar Orbiter Observations of Interplanetary Shocks in Solar Cycle 25**|D. Trotta et.al.|[2410.24007](http://arxiv.org/abs/2410.24007)|null|
+|**2024-10-31**|**BitStack: Fine-Grained Size Control for Compressed Large Language Models in Variable Memory Environments**|Xinghao Wang et.al.|[2410.23918](http://arxiv.org/abs/2410.23918)|**[link](https://github.com/xinghaow99/bitstack)**|
+|**2024-10-31**|**Understanding multi-layered transmission matrices**|Anat Levin et.al.|[2410.23864](http://arxiv.org/abs/2410.23864)|null|
+|**2024-10-31**|**Gardner transition coincides with the emergence of jamming scalings in hard spheres and disks**|Qi Wang et.al.|[2410.23797](http://arxiv.org/abs/2410.23797)|null|
+|**2024-10-31**|**Scaled Inverse Graphics: Efficiently Learning Large Sets of 3D Scenes**|Karim Kassab et.al.|[2410.23742](http://arxiv.org/abs/2410.23742)|null|
+|**2024-10-31**|**Supercritical Crossover Lines in the Cell Fluid Model**|O. A. Dobush et.al.|[2410.23694](http://arxiv.org/abs/2410.23694)|null|
+|**2024-10-31**|**Global Well-posedness of Compressible Viscous Surface Waves without Surface Tension**|Ting Sun et.al.|[2410.23653](http://arxiv.org/abs/2410.23653)|null|
+|**2024-10-31**|**Dynamical structure factors of Warm Dense Matter from Time-Dependent Orbital-Free and Mixed-Stochastic-Deterministic Density Functional Theory**|Alexander J. White et.al.|[2410.23599](http://arxiv.org/abs/2410.23599)|null|
 |**2024-10-30**|**ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting**|Muhammad Salman Ali et.al.|[2410.23213](http://arxiv.org/abs/2410.23213)|null|
 |**2024-10-30**|**Developing a Self-Explanatory Transformer**|Rasha Karakchi et.al.|[2410.23083](http://arxiv.org/abs/2410.23083)|null|
 |**2024-10-30**|**Two-particle calculations with quantics tensor trains -- solving the parquet equations**|Stefan Rohshap et.al.|[2410.22975](http://arxiv.org/abs/2410.22975)|null|
