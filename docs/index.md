@@ -78,7 +78,7 @@ layout: default
 |**2023-12-20**|**Trajectory Approximation of Video Based on Phase Correlation for Forward Facing Camera**|Abdulkadhem A. Abdulkadhem et.al.|[2312.12680](http://arxiv.org/abs/2312.12680)|null|
 |**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800](http://arxiv.org/abs/2312.09800)|**[link](https://github.com/tum-vision/devo)**|
 |**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889](http://arxiv.org/abs/2312.05889)|null|
-|**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141](http://arxiv.org/abs/2312.02141)|null|
+|**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141](http://arxiv.org/abs/2312.02141)|**[link](https://github.com/sair-lab/iMatching)**|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189](http://arxiv.org/abs/2311.18189)|null|
 |**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580](http://arxiv.org/abs/2311.12580)|null|
 |**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149](http://arxiv.org/abs/2311.06149)|null|
@@ -520,7 +520,7 @@ layout: default
 |**2024-05-29**|**Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy**|Zijie Jiang et.al.|[2405.18863](http://arxiv.org/abs/2405.18863)|null|
 |**2024-05-29**|**3D Reconstruction with Fast Dipole Sums**|Hanyu Chen et.al.|[2405.16788](http://arxiv.org/abs/2405.16788)|null|
 |**2024-05-26**|**MCGMapper: Light-Weight Incremental Structure from Motion and Visual Localization With Planar Markers and Camera Groups**|Yusen Xie et.al.|[2405.16599](http://arxiv.org/abs/2405.16599)|null|
-|**2024-05-26**|**Categorical Flow Matching on Statistical Manifolds**|Chaoran Cheng et.al.|[2405.16441](http://arxiv.org/abs/2405.16441)|null|
+|**2024-05-26**|**Categorical Flow Matching on Statistical Manifolds**|Chaoran Cheng et.al.|[2405.16441](http://arxiv.org/abs/2405.16441)|**[link](https://github.com/ccr-cheng/statistical-flow-matching)**|
 |**2024-05-22**|**Exploring Galaxy Properties of eCALIFA with Contrastive Learning**|G. Martínez-Solaeche et.al.|[2405.13471](http://arxiv.org/abs/2405.13471)|null|
 |**2024-05-23**|**Switched Flow Matching: Eliminating Singularities via Switching ODEs**|Qunxi Zhu et.al.|[2405.11605](http://arxiv.org/abs/2405.11605)|null|
 |**2024-05-28**|**NeRO: Neural Road Surface Reconstruction**|Ruibo Wang et.al.|[2405.10554](http://arxiv.org/abs/2405.10554)|**[link](https://github.com/toeleot/nero)**|
@@ -968,7 +968,7 @@ layout: default
 |**2023-10-12**|**Hyp-UML: Hyperbolic Image Retrieval with Uncertainty-aware Metric Learning**|Shiyang Yan et.al.|[2310.08390](http://arxiv.org/abs/2310.08390)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
-|**2023-10-10**|**Distillation Improves Visual Place Recognition for Low-Quality Queries**|Anbang Yang et.al.|[2310.06906](http://arxiv.org/abs/2310.06906)|null|
+|**2023-10-10**|**Distillation Improves Visual Place Recognition for Low-Quality Queries**|Anbang Yang et.al.|[2310.06906](http://arxiv.org/abs/2310.06906)|**[link](https://github.com/ai4ce/loqi-vpr)**|
 |**2023-10-10**|**Efficient Retrieval of Images with Irregular Patterns using Morphological Image Analysis: Applications to Industrial and Healthcare datasets**|Jiajun Zhang et.al.|[2310.06566](http://arxiv.org/abs/2310.06566)|null|
 |**2023-10-10**|**Topological RANSAC for instance verification and retrieval without fine-tuning**|Guoyuan An et.al.|[2310.06486](http://arxiv.org/abs/2310.06486)|null|
 |**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385](http://arxiv.org/abs/2310.06385)|null|
@@ -2053,7 +2053,7 @@ layout: default
 |**2024-05-23**|**Camera Relocalization in Shadow-free Neural Radiance Fields**|Shiyao Xu et.al.|[2405.14824](http://arxiv.org/abs/2405.14824)|**[link](https://github.com/hnrna/shadowfreenerf-camerareloc)**|
 |**2024-05-23**|**LDM: Large Tensorial SDF Model for Textured Mesh Generation**|Rengan Xie et.al.|[2405.14580](http://arxiv.org/abs/2405.14580)|**[link](https://github.com/rgxie/ldm)**|
 |**2024-05-23**|**JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression**|Zihan Zheng et.al.|[2405.14452](http://arxiv.org/abs/2405.14452)|null|
-|**2024-05-22**|**DoGaussian: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus**|Yu Chen et.al.|[2405.13943](http://arxiv.org/abs/2405.13943)|null|
+|**2024-05-22**|**DoGaussian: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus**|Yu Chen et.al.|[2405.13943](http://arxiv.org/abs/2405.13943)|**[link](https://github.com/aibluefisher/dogs)**|
 |**2024-05-22**|**Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances**|Licheng Shen et.al.|[2405.13694](http://arxiv.org/abs/2405.13694)|null|
 |**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806](http://arxiv.org/abs/2405.12806)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/abs/2405.12728)|null|
@@ -3149,7 +3149,7 @@ layout: default
 |**2024-10-24**|**KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing**|Yifei Yang et.al.|[2410.18517](http://arxiv.org/abs/2410.18517)|**[link](https://github.com/yangyifei729/kvsharer)**|
 |**2024-10-24**|**A Causal Graph-Enhanced Gaussian Process Regression for Modeling Engine-out NOx**|Shrenik Zinage et.al.|[2410.18424](http://arxiv.org/abs/2410.18424)|null|
 |**2024-10-24**|**DMVC: Multi-Camera Video Compression Network aimed at Improving Deep Learning Accuracy**|Huan Cui et.al.|[2410.18400](http://arxiv.org/abs/2410.18400)|null|
-|**2024-10-23**|**Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces**|Dániel T. R. Nagy et.al.|[2410.18284](http://arxiv.org/abs/2410.18284)|null|
+|**2024-10-23**|**Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces**|Dániel T. R. Nagy et.al.|[2410.18284](http://arxiv.org/abs/2410.18284)|**[link](https://github.com/Budapest-Quantum-Computing-Group/hybrid_latent_qrl)**|
 |**2024-10-23**|**Predicting total time to compress a video corpus using online inference systems**|Xin Shu et.al.|[2410.18260](http://arxiv.org/abs/2410.18260)|null|
 |**2024-10-23**|**ZIP-FIT: Embedding-Free Data Selection via Compression-Based Alignment**|Elyas Obbad et.al.|[2410.18194](http://arxiv.org/abs/2410.18194)|null|
 |**2024-10-23**|**The origin and evolution of the [CII]-deficit in HII regions and star-forming molecular clouds**|Stefano Ebagezio et.al.|[2410.18185](http://arxiv.org/abs/2410.18185)|null|
@@ -3491,7 +3491,7 @@ layout: default
 |**2024-08-28**|**On the elastoplastic behavior in collisional compression of spherical dust aggregates**|Sota Arakawa et.al.|[2408.15573](http://arxiv.org/abs/2408.15573)|null|
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|Jiajun Liu et.al.|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-29**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496](http://arxiv.org/abs/2408.15496)|null|
-|**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
+|**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|**[link](https://github.com/ar-roy/dct-cryptonets)**|
 |**2024-08-27**|**A Deep Dive into the NGC 741 Galaxy Group: Insights into a Spectacular Head-Tail Radio Galaxy from VLA, MeerKAT, uGMRT and LOFAR**|K. Rajpurohit et.al.|[2408.15197](http://arxiv.org/abs/2408.15197)|null|
 |**2024-08-27**|**Assembly Theory Reduced to Shannon Entropy and Rendered Redundant by Naive Statistical Algorithms**|Luan Ozelim et.al.|[2408.15108](http://arxiv.org/abs/2408.15108)|null|
 |**2024-08-27**|**Resolving the pressure induced 'self-insertion' in skutterudite CoSb3**|Bihan Wang et.al.|[2408.15105](http://arxiv.org/abs/2408.15105)|null|
@@ -3665,7 +3665,7 @@ layout: default
 |**2024-08-01**|**Empowering Snapshot Compressive Imaging: Spatial-Spectral State Space Model with Across-Scanning and Local Enhancement**|Wenzhe Tian et.al.|[2408.00629](http://arxiv.org/abs/2408.00629)|null|
 |**2024-08-01**|**Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control**|Michael Rudolph et.al.|[2408.00599](http://arxiv.org/abs/2408.00599)|null|
 |**2024-08-01**|**New Compressed Indices for Multijoins on Graph Databases**|Diego Arroyuelo et.al.|[2408.00558](http://arxiv.org/abs/2408.00558)|null|
-|**2024-08-01**|**High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**|Jian Li et.al.|[2408.00538](http://arxiv.org/abs/2408.00538)|null|
+|**2024-08-01**|**High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**|Jian Li et.al.|[2408.00538](http://arxiv.org/abs/2408.00538)|**[link](https://github.com/star-center/ros_mp4)**|
 |**2024-08-01**|**Efficient Patient Fine-Tuned Seizure Detection with a Tensor Kernel Machine**|Seline J. S. de Rooij et.al.|[2408.00437](http://arxiv.org/abs/2408.00437)|null|
 |**2024-08-01**|**Synchrotron x-ray diffraction and DFT study of non-centrosymmetric EuRhGe3 under high pressure**|N. S. Dhami et.al.|[2408.00410](http://arxiv.org/abs/2408.00410)|null|
 |**2024-08-01**|**QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression**|Wenshan Wang et.al.|[2408.00274](http://arxiv.org/abs/2408.00274)|**[link](https://github.com/wenshansilvia/attention_compressor)**|
@@ -3794,7 +3794,7 @@ layout: default
 |**2024-07-15**|**Cut-Preserving Vertex Sparsifiers for Planar and Quasi-bipartite Graphs**|Yu Chen et.al.|[2407.10852](http://arxiv.org/abs/2407.10852)|null|
 |**2024-07-15**|**MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration**|Yulin Ren et.al.|[2407.10833](http://arxiv.org/abs/2407.10833)|null|
 |**2024-07-15**|**From Structural Stability to Electronic Flexibility: Unveiling Strain-induced Effects in a MoS $_2$ /Perylene Orange Hybrid System**|Mohammed El Amine Miloudi et.al.|[2407.10757](http://arxiv.org/abs/2407.10757)|null|
-|**2024-07-15**|**Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model**|Zhening Liu et.al.|[2407.10632](http://arxiv.org/abs/2407.10632)|null|
+|**2024-07-15**|**Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model**|Zhening Liu et.al.|[2407.10632](http://arxiv.org/abs/2407.10632)|**[link](https://github.com/liuzhening111/bisic)**|
 |**2024-07-15**|**Reevaluating the cosmological redshift: insights into inhomogeneities and irreversible processes**|P. Tremblin et.al.|[2407.10622](http://arxiv.org/abs/2407.10622)|null|
 |**2024-07-15**|**Efficient Continual Learning with Low Memory Footprint For Edge Device**|Zeqing Wang et.al.|[2407.10545](http://arxiv.org/abs/2407.10545)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
@@ -3877,7 +3877,7 @@ layout: default
 |**2024-07-02**|**Strategic Demand-Planning in Wireless Networks: Can Generative-AI Save Spectrum and Energy?**|Berk Çiloğlu et.al.|[2407.02292](http://arxiv.org/abs/2407.02292)|null|
 |**2024-07-02**|**PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning**|Jiaru Zou et.al.|[2407.02211](http://arxiv.org/abs/2407.02211)|null|
 |**2024-07-03**|**Kinetics of Rayleigh-Taylor instability in van der Waals fluid: the influence of compressibility**|Jie Chen et.al.|[2407.02139](http://arxiv.org/abs/2407.02139)|null|
-|**2024-07-02**|**LPViT: Low-Power Semi-structured Pruning for Vision Transformers**|Kaixin Xu et.al.|[2407.02068](http://arxiv.org/abs/2407.02068)|null|
+|**2024-07-02**|**LPViT: Low-Power Semi-structured Pruning for Vision Transformers**|Kaixin Xu et.al.|[2407.02068](http://arxiv.org/abs/2407.02068)|**[link](https://github.com/Akimoto-Cris/LPViT)**|
 |**2024-06-28**|**LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression**|Jieneng Chen et.al.|[2406.20092](http://arxiv.org/abs/2406.20092)|**[link](https://github.com/beckschen/llavolta)**|
 |**2024-06-28**|**Wavelets Are All You Need for Autoregressive Image Generation**|Wael Mattar et.al.|[2406.19997](http://arxiv.org/abs/2406.19997)|null|
 |**2024-06-28**|**Single Parent Family: A Spectrum of Family Members from a Single Pre-Trained Foundation Model**|Habib Hajimolahoseini et.al.|[2406.19995](http://arxiv.org/abs/2406.19995)|null|
