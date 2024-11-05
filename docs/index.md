@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Adaptive Length Image Tokenization via Recurrent Allocation**|Shivam Duggal et.al.|[2411.02393](http://arxiv.org/abs/2411.02393)|**[link](https://github.com/shivamduggal4/adaptive-length-tokenizer)**|
+|**2024-11-04**|**Neural optical flow for planar and stereo PIV**|Andrew I. Masker et.al.|[2411.02373](http://arxiv.org/abs/2411.02373)|null|
+|**2024-11-04**|**Diffusion-based Generative Multicasting with Intent-aware Semantic Decomposition**|Xinkai Liu et.al.|[2411.02334](http://arxiv.org/abs/2411.02334)|null|
+|**2024-11-04**|**Discrete the solving model of time-variant standard Sylvester-conjugate matrix equations using Euler-forward formula**|Jiakuang He et.al.|[2411.02333](http://arxiv.org/abs/2411.02333)|null|
+|**2024-11-04**|**PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance**|Ruyang Liu et.al.|[2411.02327](http://arxiv.org/abs/2411.02327)|**[link](https://github.com/farewellthree/ppllava)**|
+|**2024-11-04**|**Information plane and compression-gnostic feedback in quantum machine learning**|Nathan Haboury et.al.|[2411.02313](http://arxiv.org/abs/2411.02313)|null|
+|**2024-11-04**|**Sample-Efficient Private Learning of Mixtures of Gaussians**|Hassan Ashtiani et.al.|[2411.02298](http://arxiv.org/abs/2411.02298)|null|
+|**2024-11-04**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|**[link](https://github.com/tencent/hunyuan-large)**|
+|**2024-11-04**|**GPU performance in Run3 ALICE online/offline reconstruction**|Gabriele Cimador et.al.|[2411.02206](http://arxiv.org/abs/2411.02206)|null|
+|**2024-11-04**|**Compressible Navier--Stokes--Coriolis system in critical Besov spaces**|Mikihiro Fujii et.al.|[2411.02191](http://arxiv.org/abs/2411.02191)|null|
 |**2024-11-01**|**From broadband biphotons to frequency combs via spectral compression with time-varying cavities**|Karthik V. Myilswamy et.al.|[2410.24188](http://arxiv.org/abs/2410.24188)|null|
 |**2024-10-31**|**Chasing Better Deep Image Priors between Over- and Under-parameterization**|Qiming Wu et.al.|[2410.24187](http://arxiv.org/abs/2410.24187)|**[link](https://github.com/vita-group/chasing-better-dips)**|
 |**2024-10-31**|**An Overview of Solar Orbiter Observations of Interplanetary Shocks in Solar Cycle 25**|D. Trotta et.al.|[2410.24007](http://arxiv.org/abs/2410.24007)|null|
