@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
+|**2024-11-05**|**Tuning into spatial frequency space: Satellite and space debris detection in the ZTF alert stream**|J. P. Carvajal et.al.|[2411.03258](http://arxiv.org/abs/2411.03258)|null|
+|**2024-11-05**|**Decoupling Fine Detail and Global Geometry for Compressed Depth Map Super-Resolution**|Huan Zheng et.al.|[2411.03239](http://arxiv.org/abs/2411.03239)|null|
+|**2024-11-05**|**Newtonized Orthogonal Matching Pursuit for High-Resolution Target Detection in Sparse OFDM ISAC Systems**|Syed Najaf Haider Shah et.al.|[2411.03191](http://arxiv.org/abs/2411.03191)|null|
+|**2024-11-05**|**ZipCache: A DRAM/SSD Cache with Built-in Transparent Compression**|Rui Xie et.al.|[2411.03174](http://arxiv.org/abs/2411.03174)|null|
+|**2024-11-05**|**Alternate Learning and Compression Approaching R(D)**|Ram Zamir et.al.|[2411.03054](http://arxiv.org/abs/2411.03054)|null|
+|**2024-11-05**|**Rethinking Decoders for Transformer-based Semantic Segmentation: Compression is All You Need**|Qishuai Wen et.al.|[2411.03033](http://arxiv.org/abs/2411.03033)|**[link](https://github.com/qishuaiwen/depict)**|
+|**2024-11-05**|**A Linear-complexity Tensor Butterfly Algorithm for Compressing High-dimensional Oscillatory Integral Operators**|P. Michael Kielstra et.al.|[2411.03029](http://arxiv.org/abs/2411.03029)|null|
+|**2024-11-05**|**Regular solutions to the dissipative Aw-Rascle system**|Nilasis Chaudhuri et.al.|[2411.03024](http://arxiv.org/abs/2411.03024)|null|
+|**2024-11-05**|**Learning-based Lossless Event Data Compression**|Ahmadreza Sezavar et.al.|[2411.03010](http://arxiv.org/abs/2411.03010)|null|
 |**2024-11-04**|**Adaptive Length Image Tokenization via Recurrent Allocation**|Shivam Duggal et.al.|[2411.02393](http://arxiv.org/abs/2411.02393)|**[link](https://github.com/shivamduggal4/adaptive-length-tokenizer)**|
 |**2024-11-04**|**Neural optical flow for planar and stereo PIV**|Andrew I. Masker et.al.|[2411.02373](http://arxiv.org/abs/2411.02373)|null|
 |**2024-11-04**|**Diffusion-based Generative Multicasting with Intent-aware Semantic Decomposition**|Xinkai Liu et.al.|[2411.02334](http://arxiv.org/abs/2411.02334)|null|
