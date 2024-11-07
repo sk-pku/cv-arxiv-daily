@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Space-Time Spectral Element Tensor Network Approach for Time Dependent Convection Diffusion Reaction Equation with Variable Coefficients**|Dibyendu Adak et.al.|[2411.04026](http://arxiv.org/abs/2411.04026)|null|
+|**2024-11-06**|**Towards Resource-Efficient Federated Learning in Industrial IoT for Multivariate Time Series Analysis**|Alexandros Gkillas et.al.|[2411.03996](http://arxiv.org/abs/2411.03996)|null|
+|**2024-11-06**|**Inter-Frame Coding for Dynamic Meshes via Coarse-to-Fine Anchor Mesh Generation**|He Huang et.al.|[2411.03921](http://arxiv.org/abs/2411.03921)|null|
+|**2024-11-06**|**Non-monotonic motion of sliding droplets on strained soft solids**|Youchuang Chao et.al.|[2411.03915](http://arxiv.org/abs/2411.03915)|null|
+|**2024-11-06**|**Quantum circuit compression using qubit logic on qudits**|Liam Lysaght et.al.|[2411.03878](http://arxiv.org/abs/2411.03878)|null|
+|**2024-11-06**|**Fatigue performance of prosthetic screws used in dental implant restorations: Rolled versus cut threads**|Mikel Armentia et.al.|[2411.03733](http://arxiv.org/abs/2411.03733)|null|
+|**2024-11-06**|**Hierarchical Self-Organization in Fixed-Magnetization Particle Systems**|Shunhao Oh et.al.|[2411.03643](http://arxiv.org/abs/2411.03643)|null|
+|**2024-11-06**|**Stability of steady states of the 3-D Navier-Stokes-Poisson equations with non-flat doping profile in exterior domains**|Yingzhi Du et.al.|[2411.03594](http://arxiv.org/abs/2411.03594)|null|
+|**2024-11-05**|**VQ-ACE: Efficient Policy Search for Dexterous Robotic Manipulation via Action Chunking Embedding**|Chenyu Yang et.al.|[2411.03556](http://arxiv.org/abs/2411.03556)|null|
+|**2024-11-05**|**Change Is the Only Constant: Dynamic LLM Slicing based on Layer Redundancy**|Razvan-Gabriel Dumitru et.al.|[2411.03513](http://arxiv.org/abs/2411.03513)|**[link](https://github.com/razvandu/dynamicslicing)**|
 |**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
 |**2024-11-05**|**Tuning into spatial frequency space: Satellite and space debris detection in the ZTF alert stream**|J. P. Carvajal et.al.|[2411.03258](http://arxiv.org/abs/2411.03258)|null|
 |**2024-11-05**|**Decoupling Fine Detail and Global Geometry for Compressed Depth Map Super-Resolution**|Huan Zheng et.al.|[2411.03239](http://arxiv.org/abs/2411.03239)|null|
