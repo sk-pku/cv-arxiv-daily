@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Effects of Distributed Friction Actuation During Sliding Touch**|MacKenzie Harnett et.al.|[2411.05769](http://arxiv.org/abs/2411.05769)|null|
+|**2024-11-08**|**The Helmholtz Dirichlet and Neumann problems on piecewise smooth open curves**|Johan Helsing et.al.|[2411.05761](http://arxiv.org/abs/2411.05761)|null|
+|**2024-11-08**|**YOSO: You-Only-Sample-Once via Compressed Sensing for Graph Neural Network Training**|Yi Li et.al.|[2411.05693](http://arxiv.org/abs/2411.05693)|null|
+|**2024-11-08**|**Piezovalley effect and magnetovalley coupling in altermagnetic semiconductors**|Weifeng Xie et.al.|[2411.05518](http://arxiv.org/abs/2411.05518)|null|
+|**2024-11-08**|**Handling geometrical variability in nonlinear reduced order modeling through Continuous Geometry-Aware DL-ROMs**|Simone Brivio et.al.|[2411.05486](http://arxiv.org/abs/2411.05486)|null|
+|**2024-11-08**|**ClusterGraph: a new tool for visualization and compression of multidimensional data**|Paweł Dłotko et.al.|[2411.05443](http://arxiv.org/abs/2411.05443)|null|
+|**2024-11-08**|**The Double Almost-Riordan Arrays and Their Sequence Characterization, Compression, and Total Positivity**|Tian-Xiao He et.al.|[2411.05334](http://arxiv.org/abs/2411.05334)|null|
+|**2024-11-08**|**Error-controlled Progressive Retrieval of Scientific Data under Derivable Quantities of Interest**|Xuan Wu et.al.|[2411.05333](http://arxiv.org/abs/2411.05333)|null|
+|**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322](http://arxiv.org/abs/2411.05322)|null|
+|**2024-11-08**|**Content-Adaptive Rate-Quality Curve Prediction Model in Media Processing System**|Shibo Yin et.al.|[2411.05295](http://arxiv.org/abs/2411.05295)|null|
 |**2024-11-07**|**Analyzing The Language of Visual Tokens**|David M. Chan et.al.|[2411.05001](http://arxiv.org/abs/2411.05001)|null|
 |**2024-11-07**|**Which bits went where? Past and future transfer entropy decomposition with the information bottleneck**|Kieran A. Murphy et.al.|[2411.04992](http://arxiv.org/abs/2411.04992)|null|
 |**2024-11-07**|**Constraints on the equation-of-state from low energy heavy-ion collisions within the PHQMD microscopic approach with momentum-dependent potential**|Viktar Kireyeu et.al.|[2411.04969](http://arxiv.org/abs/2411.04969)|null|
