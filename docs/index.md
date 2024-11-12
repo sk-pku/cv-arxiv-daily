@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Low Complexity Learning-based Lossless Event-based Compression**|Ahmadreza Sezavar et.al.|[2411.07155](http://arxiv.org/abs/2411.07155)|null|
+|**2024-11-11**|**Scaling Mesh Generation via Compressive Tokenization**|Haohan Weng et.al.|[2411.07025](http://arxiv.org/abs/2411.07025)|**[link](https://github.com/whaohan/bpt)**|
+|**2024-11-11**|**A Hierarchical Compression Technique for 3D Gaussian Splatting Compression**|He Huang et.al.|[2411.06976](http://arxiv.org/abs/2411.06976)|null|
+|**2024-11-11**|**Investigating Differences in the Palomar-Green Blazar Population Using Polarization**|Janhavi Baghel et.al.|[2411.06937](http://arxiv.org/abs/2411.06937)|null|
+|**2024-11-11**|**Edge reconstruction of compressible Quantum Hall fluid in the filling fraction range 1/3 to 2/3**|Suvankar Purkait et.al.|[2411.06840](http://arxiv.org/abs/2411.06840)|null|
+|**2024-11-11**|**LLM-Neo: Parameter Efficient Knowledge Distillation for Large Language Models**|Runming Yang et.al.|[2411.06839](http://arxiv.org/abs/2411.06839)|null|
+|**2024-11-11**|**HarmLevelBench: Evaluating Harm-Level Compliance and the Impact of Quantization on Model Alignment**|Yannis Belkhiter et.al.|[2411.06835](http://arxiv.org/abs/2411.06835)|null|
+|**2024-11-11**|**JPEG AI Image Compression Visual Artifacts: Detection Methods and Dataset**|Daria Tsereh et.al.|[2411.06810](http://arxiv.org/abs/2411.06810)|null|
+|**2024-11-11**|**Evolving Efficient Genetic Encoding for Deep Spiking Neural Networks**|Wenxuan Pan et.al.|[2411.06792](http://arxiv.org/abs/2411.06792)|null|
+|**2024-11-11**|**Machine vision-aware quality metrics for compressed image and video assessment**|Mikhail Dremin et.al.|[2411.06776](http://arxiv.org/abs/2411.06776)|null|
 |**2024-11-08**|**Effects of Distributed Friction Actuation During Sliding Touch**|MacKenzie Harnett et.al.|[2411.05769](http://arxiv.org/abs/2411.05769)|null|
 |**2024-11-08**|**The Helmholtz Dirichlet and Neumann problems on piecewise smooth open curves**|Johan Helsing et.al.|[2411.05761](http://arxiv.org/abs/2411.05761)|null|
 |**2024-11-08**|**YOSO: You-Only-Sample-Once via Compressed Sensing for Graph Neural Network Training**|Yi Li et.al.|[2411.05693](http://arxiv.org/abs/2411.05693)|null|
