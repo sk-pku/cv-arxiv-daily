@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|null|
+|**2024-11-12**|**Non-equilibrium phase transitions in hybrid Voronoi models of cell colonies**|Mattia Miotto et.al.|[2411.08012](http://arxiv.org/abs/2411.08012)|null|
+|**2024-11-12**|**Feasibly Constructive Proof of Schwartz-Zippel Lemma and the Complexity of Finding Hitting Sets**|Albert Atserias et.al.|[2411.07966](http://arxiv.org/abs/2411.07966)|null|
+|**2024-11-12**|**Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer**|Xiao Huo et.al.|[2411.07899](http://arxiv.org/abs/2411.07899)|null|
+|**2024-11-12**|**Verbosity $\neq$ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models**|Yusen Zhang et.al.|[2411.07858](http://arxiv.org/abs/2411.07858)|**[link](https://github.com/psunlpgroup/verbosityllm)**|
+|**2024-11-12**|**Trapped-ion quantum simulation of the Fermi-Hubbard model as a lattice gauge theory using hardware-aware native gates**|Dhruv Srinivasan et.al.|[2411.07778](http://arxiv.org/abs/2411.07778)|null|
+|**2024-11-12**|**ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization**|Weibo Zhao et.al.|[2411.07762](http://arxiv.org/abs/2411.07762)|null|
+|**2024-11-12**|**Optimizing Traffic Signal Control using High-Dimensional State Representation and Efficient Deep Reinforcement Learning**|Lawrence Francis et.al.|[2411.07759](http://arxiv.org/abs/2411.07759)|null|
+|**2024-11-12**|**OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**|Jiaxi Li et.al.|[2411.07711](http://arxiv.org/abs/2411.07711)|null|
+|**2024-11-12**|**A low-dissipation numerical method based on boundary variation diminishing principle for compressible gas-liquid two-phase flows with phase change on unstructured grid**|Hiro Wakimura et.al.|[2411.07704](http://arxiv.org/abs/2411.07704)|null|
 |**2024-11-11**|**Low Complexity Learning-based Lossless Event-based Compression**|Ahmadreza Sezavar et.al.|[2411.07155](http://arxiv.org/abs/2411.07155)|null|
 |**2024-11-11**|**Scaling Mesh Generation via Compressive Tokenization**|Haohan Weng et.al.|[2411.07025](http://arxiv.org/abs/2411.07025)|**[link](https://github.com/whaohan/bpt)**|
 |**2024-11-11**|**A Hierarchical Compression Technique for 3D Gaussian Splatting Compression**|He Huang et.al.|[2411.06976](http://arxiv.org/abs/2411.06976)|null|
