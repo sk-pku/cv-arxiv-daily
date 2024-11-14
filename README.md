@@ -3114,7 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|null|
+|**2024-11-13**|**ALMA Survey of Orion Planck Galactic Cold Clumps (ALMASOP): Nested Morphological and Kinematic Structures of Outflows Revealed in SiO and CO Emission**|Chun-Fan Liu et.al.|[2411.08827](http://arxiv.org/abs/2411.08827)|null|
+|**2024-11-13**|**Theoretical Analysis of Byte-Pair Encoding**|László Kozma et.al.|[2411.08671](http://arxiv.org/abs/2411.08671)|null|
+|**2024-11-13**|**Double-flattop quantum droplets in low-dimensional Bose-Bose mixtures**|Yaroslav V. Kartashov et.al.|[2411.08578](http://arxiv.org/abs/2411.08578)|null|
+|**2024-11-13**|**Grammarization-Based Grasping with Deep Multi-Autoencoder Latent Space Exploration by Reinforcement Learning Agent**|Leonidas Askianakis et.al.|[2411.08566](http://arxiv.org/abs/2411.08566)|null|
+|**2024-11-13**|**A Framework for Robust Lossy Compression of Heavy-Tailed Sources**|Karim Ezzeddine et.al.|[2411.08549](http://arxiv.org/abs/2411.08549)|null|
+|**2024-11-13**|**The study of an interaction between an interstellar medium and the jet around knot E and knot F of radio galaxy M87 by Chandra**|S. Osone et.al.|[2411.08525](http://arxiv.org/abs/2411.08525)|null|
+|**2024-11-13**|**BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**|David Svitov et.al.|[2411.08508](http://arxiv.org/abs/2411.08508)|null|
+|**2024-11-13**|**LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing**|Xiaonan Nie et.al.|[2411.08446](http://arxiv.org/abs/2411.08446)|null|
+|**2024-11-12**|**Spatiotemporal Superfocusing**|Qianru Yang et.al.|[2411.08157](http://arxiv.org/abs/2411.08157)|null|
+|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|**[link](https://github.com/autodeskailab/wala)**|
 |**2024-11-12**|**Non-equilibrium phase transitions in hybrid Voronoi models of cell colonies**|Mattia Miotto et.al.|[2411.08012](http://arxiv.org/abs/2411.08012)|null|
 |**2024-11-12**|**Feasibly Constructive Proof of Schwartz-Zippel Lemma and the Complexity of Finding Hitting Sets**|Albert Atserias et.al.|[2411.07966](http://arxiv.org/abs/2411.07966)|null|
 |**2024-11-12**|**Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer**|Xiao Huo et.al.|[2411.07899](http://arxiv.org/abs/2411.07899)|null|
