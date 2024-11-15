@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Application of signal separation to diffraction image compression and serial crystallography**|Jérôme Kieffer et.al.|[2411.09515](http://arxiv.org/abs/2411.09515)|null|
+|**2024-11-14**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
+|**2024-11-14**|**Sparse Bayesian Generative Modeling for Compressive Sensing**|Benedikt Böck et.al.|[2411.09483](http://arxiv.org/abs/2411.09483)|null|
+|**2024-11-14**|**A note on Ideal Magneto-Hydrodynamics with perfectly conducting boundary conditions in the quarter space**|Paolo Secchi et.al.|[2411.09352](http://arxiv.org/abs/2411.09352)|null|
+|**2024-11-14**|**Re-Parameterization of Lightweight Transformer for On-Device Speech Emotion Recognition**|Zixing Zhang et.al.|[2411.09339](http://arxiv.org/abs/2411.09339)|null|
+|**2024-11-14**|**Compression Method for Solar Polarization Spectra Collected from Hinode SOT/SP Observations**|Jargalmaa Batmunkh et.al.|[2411.09311](http://arxiv.org/abs/2411.09311)|null|
+|**2024-11-14**|**DT-JRD: Deep Transformer based Just Recognizable Difference Prediction Model for Video Coding for Machines**|Junqi Liu et.al.|[2411.09308](http://arxiv.org/abs/2411.09308)|null|
+|**2024-11-14**|**LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation**|Zhenshi Li et.al.|[2411.09301](http://arxiv.org/abs/2411.09301)|**[link](https://github.com/NJU-LHRS/LHRS-Bot)**|
+|**2024-11-14**|**Towards efficient compression and communication for prototype-based decentralized learning**|Pablo Fernández-Piñeiro et.al.|[2411.09267](http://arxiv.org/abs/2411.09267)|null|
+|**2024-11-14**|**BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation**|Zheng Zhou et.al.|[2411.09265](http://arxiv.org/abs/2411.09265)|**[link](https://github.com/zhouzhengqd/beard)**|
 |**2024-11-13**|**ALMA Survey of Orion Planck Galactic Cold Clumps (ALMASOP): Nested Morphological and Kinematic Structures of Outflows Revealed in SiO and CO Emission**|Chun-Fan Liu et.al.|[2411.08827](http://arxiv.org/abs/2411.08827)|null|
 |**2024-11-13**|**Theoretical Analysis of Byte-Pair Encoding**|László Kozma et.al.|[2411.08671](http://arxiv.org/abs/2411.08671)|null|
 |**2024-11-13**|**Double-flattop quantum droplets in low-dimensional Bose-Bose mixtures**|Yaroslav V. Kartashov et.al.|[2411.08578](http://arxiv.org/abs/2411.08578)|null|
