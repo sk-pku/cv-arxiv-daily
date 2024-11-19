@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods**|Egor Kovalev et.al.|[2411.11795](http://arxiv.org/abs/2411.11795)|null|
+|**2024-11-18**|**Energy shifts and broadening of excitonic resonances in electrostatically-doped semiconductors**|Hanan Dery et.al.|[2411.11790](http://arxiv.org/abs/2411.11790)|null|
+|**2024-11-18**|**High-energy, few-cycle light pulses tunable across the vacuum ultraviolet**|José R. C. Andrade et.al.|[2411.11769](http://arxiv.org/abs/2411.11769)|null|
+|**2024-11-18**|**Additional Tests for TV 3.0**|Eduardo Peixoto et.al.|[2411.11755](http://arxiv.org/abs/2411.11755)|null|
+|**2024-11-18**|**A New Finite-Horizon Dynamic Programming Analysis of Nonanticipative Rate-Distortion Function for Markov Sources**|Zixuan He et.al.|[2411.11698](http://arxiv.org/abs/2411.11698)|null|
+|**2024-11-18**|**Topological Pathways to Two-Dimensional Quantum Turbulence**|Riccardo Panico et.al.|[2411.11671](http://arxiv.org/abs/2411.11671)|null|
+|**2024-11-18**|**How bad could it be? Modelling the 3D complexity of the polarised dust signal using moment expansion**|Léo Vacher et.al.|[2411.11649](http://arxiv.org/abs/2411.11649)|null|
+|**2024-11-18**|**Signaling and Social Learning in Swarms of Robots**|Leo Cazenille et.al.|[2411.11616](http://arxiv.org/abs/2411.11616)|null|
+|**2024-11-18**|**Generative Spatio-temporal GraphNet for Transonic Wing Pressure Distribution Forecasting**|Gabriele Immordino et.al.|[2411.11592](http://arxiv.org/abs/2411.11592)|null|
+|**2024-11-18**|**Measuring Regolith Strength in Reduced Gravity Environments in the Laboratory**|Christopher Duffey et.al.|[2411.11571](http://arxiv.org/abs/2411.11571)|null|
 |**2024-11-15**|**Low-Latency Task-Oriented Communications with Multi-Round, Multi-Task Deep Learning**|Yalin E. Sagduyu et.al.|[2411.10385](http://arxiv.org/abs/2411.10385)|null|
 |**2024-11-15**|**Compressible turbulent convection at very high Rayleigh numbers**|Harshit Tiwari et.al.|[2411.10372](http://arxiv.org/abs/2411.10372)|null|
 |**2024-11-15**|**Multidimensional Byte Pair Encoding: Shortened Sequences for Improved Visual Data Generation**|Tim Elsner et.al.|[2411.10281](http://arxiv.org/abs/2411.10281)|null|
