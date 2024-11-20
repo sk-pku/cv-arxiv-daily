@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Probing Langmuir monolayer self-assembly in condensed and collapsed phases: grazing incidence X-ray diffraction and X-ray standing waves studies**|K. V. Nikolaev et.al.|[2411.12686](http://arxiv.org/abs/2411.12686)|null|
+|**2024-11-19**|**Universal programmable waveguide arrays**|Akram Youssry et.al.|[2411.12610](http://arxiv.org/abs/2411.12610)|null|
+|**2024-11-19**|**AdaCM $^2$ : On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction**|Yuanbin Man et.al.|[2411.12593](http://arxiv.org/abs/2411.12593)|null|
+|**2024-11-19**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471](http://arxiv.org/abs/2411.12471)|null|
+|**2024-11-19**|**Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need**|Kecheng Chen et.al.|[2411.12448](http://arxiv.org/abs/2411.12448)|null|
+|**2024-11-19**|**Efficient terabyte-scale text compression via stable local consistency and parallel grammar processing**|Diego Diaz-Dominguez et.al.|[2411.12439](http://arxiv.org/abs/2411.12439)|null|
+|**2024-11-19**|**Chemical Evolution during Molecular Cloud Formation Triggered by an Interstellar Shock Wave: Dependence on Shock Parameters and Comparison with Molecular Absorption Lines**|Yuto Komichi et.al.|[2411.12394](http://arxiv.org/abs/2411.12394)|null|
+|**2024-11-19**|**Breathless: An 8-hour Performance Contrasting Human and Robot Expressiveness**|Catie Cuan et.al.|[2411.12361](http://arxiv.org/abs/2411.12361)|null|
+|**2024-11-19**|**A computational model for inelastic behaviour and fracture of refractory industrial components under high-temperature conditions, application to slide gate plates**|Lorenzo Fiore et.al.|[2411.12346](http://arxiv.org/abs/2411.12346)|null|
+|**2024-11-19**|**Accelerating UMAP for Large-Scale Datasets Through Spectral Coarsening**|Yongyu Wang et.al.|[2411.12331](http://arxiv.org/abs/2411.12331)|null|
 |**2024-11-18**|**Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods**|Egor Kovalev et.al.|[2411.11795](http://arxiv.org/abs/2411.11795)|null|
 |**2024-11-18**|**Energy shifts and broadening of excitonic resonances in electrostatically-doped semiconductors**|Hanan Dery et.al.|[2411.11790](http://arxiv.org/abs/2411.11790)|null|
 |**2024-11-18**|**High-energy, few-cycle light pulses tunable across the vacuum ultraviolet**|José R. C. Andrade et.al.|[2411.11769](http://arxiv.org/abs/2411.11769)|null|
