@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.24
+## Updated on 2024.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3101,7 +3101,7 @@ layout: default
 |**2024-11-21**|**Deformation and adiabatic heating of single crystalline and nanocrystalline Ni micropillars at high strain rates**|Nidhin George Mathews et.al.|[2411.14136](http://arxiv.org/abs/2411.14136)|null|
 |**2024-11-21**|**Compact Visual Data Representation for Green Multimedia -- A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](http://arxiv.org/abs/2411.14135)|null|
 |**2024-11-21**|**The efficient implementation of transport velocity formulation**|Zhentong Wang et.al.|[2411.13992](http://arxiv.org/abs/2411.13992)|null|
-|**2024-11-21**|**Quantization without Tears**|Minghao Fu et.al.|[2411.13918](http://arxiv.org/abs/2411.13918)|null|
+|**2024-11-22**|**Quantization without Tears**|Minghao Fu et.al.|[2411.13918](http://arxiv.org/abs/2411.13918)|null|
 |**2024-11-21**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
 |**2024-11-20**|**REDUCIO! Generating 1024 $\times$ 1024 Video within 16 Seconds using Extremely Compressed Motion Latents**|Rui Tian et.al.|[2411.13552](http://arxiv.org/abs/2411.13552)|**[link](https://github.com/microsoft/reducio-vae)**|
 |**2024-11-20**|**Benchmarking Quantum Convolutional Neural Networks for Classification and Data Compression Tasks**|Jun Yong Khoo et.al.|[2411.13468](http://arxiv.org/abs/2411.13468)|null|
