@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Information geometric regularization of unidimensional pressureless Euler equations yields global strong solutions**|Ruijia Cao et.al.|[2411.15121](http://arxiv.org/abs/2411.15121)|null|
+|**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113](http://arxiv.org/abs/2411.15113)|null|
+|**2024-11-22**|**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models**|Keda Tao et.al.|[2411.15024](http://arxiv.org/abs/2411.15024)|null|
+|**2024-11-22**|**A positive- and bound-preserving vectorial lattice Boltzmann method in two dimensions**|Gauthier Wissocq et.al.|[2411.15001](http://arxiv.org/abs/2411.15001)|null|
+|**2024-11-22**|**On Temporal Decay of Compressible Hookean Viscoelastic Fluids with Relatively Large Elasticity Coefficient**|Shengbin Fu et.al.|[2411.14882](http://arxiv.org/abs/2411.14882)|null|
+|**2024-11-22**|**De-biased Multimodal Electrocardiogram Analysis**|Haitao Li et.al.|[2411.14795](http://arxiv.org/abs/2411.14795)|null|
+|**2024-11-22**|**FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification**|Zhengrui Guo et.al.|[2411.14743](http://arxiv.org/abs/2411.14743)|**[link](https://github.com/dddavid4real/focus)**|
+|**2024-11-22**|**A Lightweight Edge-CNN-Transformer Model for Detecting Coordinated Cyber and Digital Twin Attacks in Cooperative Smart Farming**|Lopamudra Praharaj et.al.|[2411.14729](http://arxiv.org/abs/2411.14729)|null|
+|**2024-11-22**|**Comparative study of spectral broadening and few-cycle compression of Yb:KGW laser pulses in gas-filled hollow-core fibers**|Islam Shalaby et.al.|[2411.14658](http://arxiv.org/abs/2411.14658)|null|
+|**2024-11-22**|**VQalAttent: a Transparent Speech Generation Pipeline based on Transformer-learned VQ-VAE Latent Space**|Armani Rodriguez et.al.|[2411.14642](http://arxiv.org/abs/2411.14642)|null|
 |**2024-11-21**|**Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding**|Yiming Zhang et.al.|[2411.14401](http://arxiv.org/abs/2411.14401)|null|
 |**2024-11-21**|**Truly Supercritical Trade-offs for Resolution, Cutting Planes, Monotone Circuits, and Weisfeiler-Leman**|Susanna F. de Rezende et.al.|[2411.14267](http://arxiv.org/abs/2411.14267)|null|
 |**2024-11-21**|**FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression**|Yuke Zhu et.al.|[2411.14228](http://arxiv.org/abs/2411.14228)|null|
