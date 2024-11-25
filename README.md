@@ -1814,7 +1814,7 @@
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
 |**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574](http://arxiv.org/abs/2401.01574)|null|
-|**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363](http://arxiv.org/abs/2312.15363)|null|
+|**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363](http://arxiv.org/abs/2312.15363)|**[link](https://github.com/tavisshore/BEV-CV)**|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2024-01-05**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
@@ -2616,7 +2616,7 @@
 |**2023-09-20**|**GenLayNeRF: Generalizable Layered Representations with 3D Model Alignment for Multi-Human View Synthesis**|Youssef Abdelkareem et.al.|[2309.11627](http://arxiv.org/abs/2309.11627)|null|
 |**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525](http://arxiv.org/abs/2309.11525)|null|
 |**2023-09-21**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009](http://arxiv.org/abs/2309.11009)|null|
-|**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987](http://arxiv.org/abs/2309.10987)|null|
+|**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987](http://arxiv.org/abs/2309.10987)|**[link](https://github.com/Ikarosy/SpikingNeRF-of-CASIA)**|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684](http://arxiv.org/abs/2309.10684)|null|
 |**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503](http://arxiv.org/abs/2309.10503)|null|
 |**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011](http://arxiv.org/abs/2309.10011)|null|
@@ -3139,7 +3139,7 @@
 |**2024-11-19**|**AdaCM $^2$ : On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction**|Yuanbin Man et.al.|[2411.12593](http://arxiv.org/abs/2411.12593)|null|
 |**2024-11-19**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471](http://arxiv.org/abs/2411.12471)|null|
 |**2024-11-19**|**Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need**|Kecheng Chen et.al.|[2411.12448](http://arxiv.org/abs/2411.12448)|null|
-|**2024-11-19**|**Efficient terabyte-scale text compression via stable local consistency and parallel grammar processing**|Diego Diaz-Dominguez et.al.|[2411.12439](http://arxiv.org/abs/2411.12439)|null|
+|**2024-11-19**|**Efficient terabyte-scale text compression via stable local consistency and parallel grammar processing**|Diego Diaz-Dominguez et.al.|[2411.12439](http://arxiv.org/abs/2411.12439)|**[link](https://github.com/ddiazdom/lcg)**|
 |**2024-11-19**|**Chemical Evolution during Molecular Cloud Formation Triggered by an Interstellar Shock Wave: Dependence on Shock Parameters and Comparison with Molecular Absorption Lines**|Yuto Komichi et.al.|[2411.12394](http://arxiv.org/abs/2411.12394)|null|
 |**2024-11-19**|**Breathless: An 8-hour Performance Contrasting Human and Robot Expressiveness**|Catie Cuan et.al.|[2411.12361](http://arxiv.org/abs/2411.12361)|null|
 |**2024-11-19**|**A computational model for inelastic behaviour and fracture of refractory industrial components under high-temperature conditions, application to slide gate plates**|Lorenzo Fiore et.al.|[2411.12346](http://arxiv.org/abs/2411.12346)|null|
@@ -3156,9 +3156,9 @@
 |**2024-11-18**|**Measuring Regolith Strength in Reduced Gravity Environments in the Laboratory**|Christopher Duffey et.al.|[2411.11571](http://arxiv.org/abs/2411.11571)|null|
 |**2024-11-15**|**Low-Latency Task-Oriented Communications with Multi-Round, Multi-Task Deep Learning**|Yalin E. Sagduyu et.al.|[2411.10385](http://arxiv.org/abs/2411.10385)|null|
 |**2024-11-15**|**Compressible turbulent convection at very high Rayleigh numbers**|Harshit Tiwari et.al.|[2411.10372](http://arxiv.org/abs/2411.10372)|null|
-|**2024-11-15**|**Multidimensional Byte Pair Encoding: Shortened Sequences for Improved Visual Data Generation**|Tim Elsner et.al.|[2411.10281](http://arxiv.org/abs/2411.10281)|null|
+|**2024-11-15**|**Multidimensional Byte Pair Encoding: Shortened Sequences for Improved Visual Data Generation**|Tim Elsner et.al.|[2411.10281](http://arxiv.org/abs/2411.10281)|**[link](https://github.com/DaiDaiLoh/MDBPE_TF)**|
 |**2024-11-15**|**Block based Adaptive Compressive Sensing with Sampling Rate Control**|Kosuke Iwama et.al.|[2411.10200](http://arxiv.org/abs/2411.10200)|null|
-|**2024-11-15**|**Efficient Progressive Image Compression with Variance-aware Masking**|Alberto Presta et.al.|[2411.10185](http://arxiv.org/abs/2411.10185)|null|
+|**2024-11-15**|**Efficient Progressive Image Compression with Variance-aware Masking**|Alberto Presta et.al.|[2411.10185](http://arxiv.org/abs/2411.10185)|**[link](https://github.com/EIDOSLAB/Efficient-PIC-with-Variance-Aware-Masking)**|
 |**2024-11-15**|**Heterogeneous dynamic restoration of Ti-15Mo alloy during hot compression**|Esmaeil Shahryari et.al.|[2411.10159](http://arxiv.org/abs/2411.10159)|null|
 |**2024-11-15**|**Cascaded Prediction and Asynchronous Execution of Iterative Algorithms on Heterogeneous Platforms**|Jianhua Gao et.al.|[2411.10143](http://arxiv.org/abs/2411.10143)|null|
 |**2024-11-15**|**CMATH: Cross-Modality Augmented Transformer with Hierarchical Variational Distillation for Multimodal Emotion Recognition in Conversation**|Xiaofei Zhu et.al.|[2411.10060](http://arxiv.org/abs/2411.10060)|null|
@@ -3166,7 +3166,7 @@
 |**2024-11-15**|**TEESlice: Protecting Sensitive Neural Network Models in Trusted Execution Environments When Attackers have Pre-Trained Models**|Ding Li et.al.|[2411.09945](http://arxiv.org/abs/2411.09945)|null|
 |**2024-11-14**|**Application of signal separation to diffraction image compression and serial crystallography**|Jérôme Kieffer et.al.|[2411.09515](http://arxiv.org/abs/2411.09515)|**[link](https://github.com/silx-kit/pyFAI)**|
 |**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
-|**2024-11-14**|**Sparse Bayesian Generative Modeling for Compressive Sensing**|Benedikt Böck et.al.|[2411.09483](http://arxiv.org/abs/2411.09483)|null|
+|**2024-11-14**|**Sparse Bayesian Generative Modeling for Compressive Sensing**|Benedikt Böck et.al.|[2411.09483](http://arxiv.org/abs/2411.09483)|**[link](https://github.com/beneboeck/sparse-bayesian-gen-mod)**|
 |**2024-11-14**|**A note on Ideal Magneto-Hydrodynamics with perfectly conducting boundary conditions in the quarter space**|Paolo Secchi et.al.|[2411.09352](http://arxiv.org/abs/2411.09352)|null|
 |**2024-11-14**|**Re-Parameterization of Lightweight Transformer for On-Device Speech Emotion Recognition**|Zixing Zhang et.al.|[2411.09339](http://arxiv.org/abs/2411.09339)|null|
 |**2024-11-14**|**Compression Method for Solar Polarization Spectra Collected from Hinode SOT/SP Observations**|Jargalmaa Batmunkh et.al.|[2411.09311](http://arxiv.org/abs/2411.09311)|null|
@@ -3385,7 +3385,7 @@
 |**2024-10-14**|**SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators**|Rasoul Shafipour et.al.|[2410.10714](http://arxiv.org/abs/2410.10714)|null|
 |**2024-10-14**|**Large Language Model Evaluation via Matrix Nuclear-Norm**|Yahan Li et.al.|[2410.10672](http://arxiv.org/abs/2410.10672)|**[link](https://github.com/mlgroupjlu/matrixnuclearnorm)**|
 |**2024-10-15**|**SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers**|Enze Xie et.al.|[2410.10629](http://arxiv.org/abs/2410.10629)|null|
-|**2024-10-14**|**QIANets: Quantum-Integrated Adaptive Networks for Reduced Latency and Improved Inference Times in CNN Models**|Zhumazhan Balapanov et.al.|[2410.10318](http://arxiv.org/abs/2410.10318)|null|
+|**2024-10-14**|**QIANets: Quantum-Integrated Adaptive Networks for Reduced Latency and Improved Inference Times in CNN Models**|Zhumazhan Balapanov et.al.|[2410.10318](http://arxiv.org/abs/2410.10318)|**[link](https://github.com/edwardmagongo/quantum-inspired-model-compression)**|
 |**2024-10-14**|**ABBA-VSM: Time Series Classification using Symbolic Representation on the Edge**|Meerzhan Kanatbekova et.al.|[2410.10285](http://arxiv.org/abs/2410.10285)|null|
 |**2024-10-15**|**Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection**|Weijie Zhou et.al.|[2410.10244](http://arxiv.org/abs/2410.10244)|**[link](https://github.com/BigWhiteBearZWJ/PDP-Official-Code)**|
 |**2024-10-14**|**Generative Human Video Compression with Multi-granularity Temporal Trajectory Factorization**|Shanzhi Yin et.al.|[2410.10171](http://arxiv.org/abs/2410.10171)|null|
