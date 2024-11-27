@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**|Yuhang Han et.al.|[2411.17686](http://arxiv.org/abs/2411.17686)|null|
+|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|null|
+|**2024-11-26**|**BERT or FastText? A Comparative Analysis of Contextual as well as Non-Contextual Embeddings**|Abhay Shanbhag et.al.|[2411.17661](http://arxiv.org/abs/2411.17661)|null|
+|**2024-11-26**|**Pushing the Limits of Large Language Model Quantization via the Linearity Theorem**|Vladimir Malinovskii et.al.|[2411.17525](http://arxiv.org/abs/2411.17525)|null|
+|**2024-11-26**|**E-CONDOR: Efficient Contour-Based Detection Of Random Spatial Signals From UAV Observations Using Dual Stochastic Gradient**|Maryam Zahra et.al.|[2411.17449](http://arxiv.org/abs/2411.17449)|null|
+|**2024-11-26**|**Rewiring Techniques to Mitigate Oversquashing and Oversmoothing in GNNs: A Survey**|Hugo Attali et.al.|[2411.17429](http://arxiv.org/abs/2411.17429)|null|
+|**2024-11-26**|**Evaluating the Overhead of the Performance Profiler Cloudprofiler With MooBench**|Shinhyung Yang et.al.|[2411.17413](http://arxiv.org/abs/2411.17413)|null|
+|**2024-11-26**|**Inner crust of neutron stars: Unified description of structure and superconductivity**|Dmitry Kobyakov et.al.|[2411.17303](http://arxiv.org/abs/2411.17303)|null|
+|**2024-11-26**|**Training a neural netwok for data reduction and better generalization**|Sylvain Sardy et.al.|[2411.17180](http://arxiv.org/abs/2411.17180)|**[link](https://github.com/VcMaxouuu/AnnLasso)**|
+|**2024-11-26**|**LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization**|Rui Xie et.al.|[2411.17178](http://arxiv.org/abs/2411.17178)|null|
 |**2024-11-25**|**Finite-difference compatible entropy-conserving schemes for the compressible Euler equations**|Carlo De Michele et.al.|[2411.16621](http://arxiv.org/abs/2411.16621)|null|
 |**2024-11-25**|**Measuring entanglement without local addressing via spiral quantum state tomography**|Giacomo Marmorini et.al.|[2411.16603](http://arxiv.org/abs/2411.16603)|null|
 |**2024-11-25**|**Relativistically Magnetized Collisionless Shocks in Pair Plasma: I. Solitons, Chaos, and Thermalization**|Arno Vanthieghem et.al.|[2411.16484](http://arxiv.org/abs/2411.16484)|null|
