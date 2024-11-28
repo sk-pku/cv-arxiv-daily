@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Surveying the space of descriptions of a composite system with machine learning**|Kieran A. Murphy et.al.|[2411.18579](http://arxiv.org/abs/2411.18579)|**[link](https://github.com/murphyka/description_space)**|
+|**2024-11-27**|**Learning Optimal Linear Block Transform by Rate Distortion Minimization**|Alessandro Gnutti et.al.|[2411.18494](http://arxiv.org/abs/2411.18494)|null|
+|**2024-11-27**|**HEMGS: A Hybrid Entropy Model for 3D Gaussian Splatting Data Compression**|Lei Liu et.al.|[2411.18473](http://arxiv.org/abs/2411.18473)|null|
+|**2024-11-27**|**Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models**|Yiming Wu et.al.|[2411.18375](http://arxiv.org/abs/2411.18375)|null|
+|**2024-11-27**|**Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment**|Shima Mohammadi et.al.|[2411.18372](http://arxiv.org/abs/2411.18372)|null|
+|**2024-11-27**|**Intrinsic aeroacoustic instabilities in the crosstalk apertures of can-annular combustors**|Audrey Blondé et.al.|[2411.18283](http://arxiv.org/abs/2411.18283)|null|
+|**2024-11-27**|**Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
+|**2024-11-27**|**JPPO: Joint Power and Prompt Optimization for Accelerated Large Language Model Services**|Feiran You et.al.|[2411.18010](http://arxiv.org/abs/2411.18010)|null|
+|**2024-11-27**|**Speech Separation using Neural Audio Codecs with Embedding Loss**|Jia Qi Yip et.al.|[2411.17998](http://arxiv.org/abs/2411.17998)|null|
+|**2024-11-26**|**Structural Parameterization of Locating-Dominating Set and Test Cover**|Dipayan Chakraborty et.al.|[2411.17948](http://arxiv.org/abs/2411.17948)|null|
 |**2024-11-26**|**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**|Yuhang Han et.al.|[2411.17686](http://arxiv.org/abs/2411.17686)|null|
 |**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|null|
 |**2024-11-26**|**BERT or FastText? A Comparative Analysis of Contextual as well as Non-Contextual Embeddings**|Abhay Shanbhag et.al.|[2411.17661](http://arxiv.org/abs/2411.17661)|null|
