@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.01
+## Updated on 2024.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3099,7 +3099,7 @@ layout: default
 |**2024-11-27**|**Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models**|Yiming Wu et.al.|[2411.18375](http://arxiv.org/abs/2411.18375)|null|
 |**2024-11-27**|**Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment**|Shima Mohammadi et.al.|[2411.18372](http://arxiv.org/abs/2411.18372)|null|
 |**2024-11-27**|**Intrinsic aeroacoustic instabilities in the crosstalk apertures of can-annular combustors**|Audrey Blondé et.al.|[2411.18283](http://arxiv.org/abs/2411.18283)|null|
-|**2024-11-27**|**Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
+|**2024-11-28**|**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
 |**2024-11-27**|**JPPO: Joint Power and Prompt Optimization for Accelerated Large Language Model Services**|Feiran You et.al.|[2411.18010](http://arxiv.org/abs/2411.18010)|null|
 |**2024-11-27**|**Speech Separation using Neural Audio Codecs with Embedding Loss**|Jia Qi Yip et.al.|[2411.17998](http://arxiv.org/abs/2411.17998)|null|
 |**2024-11-26**|**Structural Parameterization of Locating-Dominating Set and Test Cover**|Dipayan Chakraborty et.al.|[2411.17948](http://arxiv.org/abs/2411.17948)|null|
