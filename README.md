@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Scaling Image Tokenizers with Grouped Spherical Quantization**|Jiangtao Wang et.al.|[2412.02632](http://arxiv.org/abs/2412.02632)|**[link](https://github.com/helmholtzai-fzj/flex_gen)**|
+|**2024-12-03**|**Efficient Algorithms for Low Tubal Rank Tensor Approximation with Applications to Image Compression, Super-Resolution and Deep Learning**|Salman Ahmadi-Asl et.al.|[2412.02598](http://arxiv.org/abs/2412.02598)|null|
+|**2024-12-03**|**Randomized algorithms for Kroncecker tensor decomposition and applications**|Salman Ahmadi-Asl et.al.|[2412.02597](http://arxiv.org/abs/2412.02597)|null|
+|**2024-12-03**|**Mobile Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning: A Scalable Framework**|Ziheng Liu et.al.|[2412.02581](http://arxiv.org/abs/2412.02581)|null|
+|**2024-12-03**|**UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search**|Anqi Liang et.al.|[2412.02448](http://arxiv.org/abs/2412.02448)|null|
+|**2024-12-03**|**Efficient Model Compression Techniques with FishLeg**|Jamie McGowan et.al.|[2412.02328](http://arxiv.org/abs/2412.02328)|null|
+|**2024-12-03**|**Simulation-based inference has its own Dodelson-Schneider effect (but it knows that it does)**|Jed Homer et.al.|[2412.02311](http://arxiv.org/abs/2412.02311)|null|
+|**2024-12-03**|**Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity**|Da Ma et.al.|[2412.02252](http://arxiv.org/abs/2412.02252)|null|
+|**2024-12-03**|**3D representation in 512-Byte:Variational tokenizer is the key for autoregressive 3D generation**|Jinzhi Zhang et.al.|[2412.02202](http://arxiv.org/abs/2412.02202)|null|
+|**2024-12-03**|**SparseGrasp: Robotic Grasping via 3D Semantic Gaussian Splatting from Sparse Multi-View RGB Images**|Junqiu Yu et.al.|[2412.02140](http://arxiv.org/abs/2412.02140)|null|
 |**2024-11-29**|**AIDetx: a compression-based method for identification of machine-learning generated text**|Leonardo Almeida et.al.|[2411.19869](http://arxiv.org/abs/2411.19869)|**[link](https://github.com/aidetx/aidetx)**|
 |**2024-11-29**|**Relative Representations of Latent Spaces enable Efficient Semantic Channel Equalization**|Tomás Hüttebräucker et.al.|[2411.19719](http://arxiv.org/abs/2411.19719)|null|
 |**2024-11-29**|**Memristive Nanowire Network for Energy Efficient Audio Classification: Pre-Processing-Free Reservoir Computing with Reduced Latency**|Akshaya Rajesh et.al.|[2411.19611](http://arxiv.org/abs/2411.19611)|null|
