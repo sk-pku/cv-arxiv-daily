@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,7 +3093,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-03**|**Scaling Image Tokenizers with Grouped Spherical Quantization**|Jiangtao Wang et.al.|[2412.02632](http://arxiv.org/abs/2412.02632)|**[link](https://github.com/helmholtzai-fzj/flex_gen)**|
+|**2024-12-04**|**Scaling Image Tokenizers with Grouped Spherical Quantization**|Jiangtao Wang et.al.|[2412.02632](http://arxiv.org/abs/2412.02632)|**[link](https://github.com/helmholtzai-fzj/flex_gen)**|
 |**2024-12-03**|**Efficient Algorithms for Low Tubal Rank Tensor Approximation with Applications to Image Compression, Super-Resolution and Deep Learning**|Salman Ahmadi-Asl et.al.|[2412.02598](http://arxiv.org/abs/2412.02598)|null|
 |**2024-12-03**|**Randomized algorithms for Kroncecker tensor decomposition and applications**|Salman Ahmadi-Asl et.al.|[2412.02597](http://arxiv.org/abs/2412.02597)|null|
 |**2024-12-03**|**Mobile Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning: A Scalable Framework**|Ziheng Liu et.al.|[2412.02581](http://arxiv.org/abs/2412.02581)|null|
