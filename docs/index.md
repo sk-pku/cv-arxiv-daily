@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**NVILA: Efficient Frontier Visual Language Models**|Zhijian Liu et.al.|[2412.04468](http://arxiv.org/abs/2412.04468)|null|
+|**2024-12-05**|**Four-Plane Factorized Video Autoencoders**|Mohammed Suhail et.al.|[2412.04452](http://arxiv.org/abs/2412.04452)|null|
+|**2024-12-05**|**DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**|Yizhuo Li et.al.|[2412.04446](http://arxiv.org/abs/2412.04446)|null|
+|**2024-12-05**|**Diagnosing Systematic Effects Using the Inferred Initial Power Spectrum**|Tristan Hoellinger et.al.|[2412.04443](http://arxiv.org/abs/2412.04443)|null|
+|**2024-12-05**|**Stabilizing and Solving Inverse Problems using Data and Machine Learning**|Erik Burman et.al.|[2412.04409](http://arxiv.org/abs/2412.04409)|null|
+|**2024-12-05**|**Electronic structure of Ruddlesden-Popper nickelates: strain to mimic the effects pressure**|Yi-Feng Zhao et.al.|[2412.04391](http://arxiv.org/abs/2412.04391)|null|
+|**2024-12-05**|**Small-scale dynamics and structure of free-surface turbulence**|Yinghe Qi et.al.|[2412.04361](http://arxiv.org/abs/2412.04361)|null|
+|**2024-12-05**|**Multi-Scale Node Embeddings for Graph Modeling and Generation**|Riccardo Milocco et.al.|[2412.04354](http://arxiv.org/abs/2412.04354)|null|
+|**2024-12-05**|**FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression**|Bo Tong et.al.|[2412.04317](http://arxiv.org/abs/2412.04317)|null|
+|**2024-12-05**|**Feature Coding in the Era of Large Models: Dataset, Test Conditions, and Benchmark**|Changsheng Gao et.al.|[2412.04307](http://arxiv.org/abs/2412.04307)|null|
 |**2024-12-04**|**Decoding Long-duration Gravitational Waves from Binary Neutron Stars with Machine Learning: Parameter Estimation and Equations of State**|Qian Hu et.al.|[2412.03454](http://arxiv.org/abs/2412.03454)|null|
 |**2024-12-04**|**Consequences of the failure of equipartition for the p-V behavior of liquid water and the hydration free energy components of a small protein**|Dilipkumar N. Asthagiri et.al.|[2412.03448](http://arxiv.org/abs/2412.03448)|null|
 |**2024-12-04**|**A Novel and Simple Invariant-Domain-Preserving Framework for PAMPA Scheme: 1D Case**|Rémi Abgrall et.al.|[2412.03423](http://arxiv.org/abs/2412.03423)|null|
