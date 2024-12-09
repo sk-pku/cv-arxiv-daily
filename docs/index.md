@@ -3119,7 +3119,7 @@ layout: default
 |**2024-12-03**|**Mobile Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning: A Scalable Framework**|Ziheng Liu et.al.|[2412.02581](http://arxiv.org/abs/2412.02581)|null|
 |**2024-12-03**|**UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search**|Anqi Liang et.al.|[2412.02448](http://arxiv.org/abs/2412.02448)|null|
 |**2024-12-03**|**Efficient Model Compression Techniques with FishLeg**|Jamie McGowan et.al.|[2412.02328](http://arxiv.org/abs/2412.02328)|null|
-|**2024-12-03**|**Simulation-based inference has its own Dodelson-Schneider effect (but it knows that it does)**|Jed Homer et.al.|[2412.02311](http://arxiv.org/abs/2412.02311)|null|
+|**2024-12-03**|**Simulation-based inference has its own Dodelson-Schneider effect (but it knows that it does)**|Jed Homer et.al.|[2412.02311](http://arxiv.org/abs/2412.02311)|**[link](https://github.com/homerjed/sbiax)**|
 |**2024-12-03**|**Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity**|Da Ma et.al.|[2412.02252](http://arxiv.org/abs/2412.02252)|null|
 |**2024-12-03**|**3D representation in 512-Byte:Variational tokenizer is the key for autoregressive 3D generation**|Jinzhi Zhang et.al.|[2412.02202](http://arxiv.org/abs/2412.02202)|null|
 |**2024-12-03**|**SparseGrasp: Robotic Grasping via 3D Semantic Gaussian Splatting from Sparse Multi-View RGB Images**|Junqiu Yu et.al.|[2412.02140](http://arxiv.org/abs/2412.02140)|null|
@@ -3137,7 +3137,7 @@ layout: default
 |**2024-11-27**|**Learning Optimal Linear Block Transform by Rate Distortion Minimization**|Alessandro Gnutti et.al.|[2411.18494](http://arxiv.org/abs/2411.18494)|null|
 |**2024-11-27**|**HEMGS: A Hybrid Entropy Model for 3D Gaussian Splatting Data Compression**|Lei Liu et.al.|[2411.18473](http://arxiv.org/abs/2411.18473)|null|
 |**2024-11-27**|**Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models**|Yiming Wu et.al.|[2411.18375](http://arxiv.org/abs/2411.18375)|null|
-|**2024-11-27**|**Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment**|Shima Mohammadi et.al.|[2411.18372](http://arxiv.org/abs/2411.18372)|null|
+|**2024-11-27**|**Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment**|Shima Mohammadi et.al.|[2411.18372](http://arxiv.org/abs/2411.18372)|**[link](https://github.com/shimamohammadi/LBPS-EIC)**|
 |**2024-11-27**|**Intrinsic aeroacoustic instabilities in the crosstalk apertures of can-annular combustors**|Audrey Blondé et.al.|[2411.18283](http://arxiv.org/abs/2411.18283)|null|
 |**2024-11-28**|**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
 |**2024-11-27**|**JPPO: Joint Power and Prompt Optimization for Accelerated Large Language Model Services**|Feiran You et.al.|[2411.18010](http://arxiv.org/abs/2411.18010)|null|
@@ -3250,7 +3250,7 @@ layout: default
 |**2024-11-12**|**Trapped-ion quantum simulation of the Fermi-Hubbard model as a lattice gauge theory using hardware-aware native gates**|Dhruv Srinivasan et.al.|[2411.07778](http://arxiv.org/abs/2411.07778)|null|
 |**2024-11-12**|**ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization**|Weibo Zhao et.al.|[2411.07762](http://arxiv.org/abs/2411.07762)|null|
 |**2024-11-12**|**Optimizing Traffic Signal Control using High-Dimensional State Representation and Efficient Deep Reinforcement Learning**|Lawrence Francis et.al.|[2411.07759](http://arxiv.org/abs/2411.07759)|null|
-|**2024-11-12**|**OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**|Jiaxi Li et.al.|[2411.07711](http://arxiv.org/abs/2411.07711)|null|
+|**2024-11-12**|**OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**|Jiaxi Li et.al.|[2411.07711](http://arxiv.org/abs/2411.07711)|**[link](https://github.com/JiaxiLi1/OWLed)**|
 |**2024-11-12**|**A low-dissipation numerical method based on boundary variation diminishing principle for compressible gas-liquid two-phase flows with phase change on unstructured grid**|Hiro Wakimura et.al.|[2411.07704](http://arxiv.org/abs/2411.07704)|null|
 |**2024-11-11**|**Low Complexity Learning-based Lossless Event-based Compression**|Ahmadreza Sezavar et.al.|[2411.07155](http://arxiv.org/abs/2411.07155)|null|
 |**2024-11-11**|**Scaling Mesh Generation via Compressive Tokenization**|Haohan Weng et.al.|[2411.07025](http://arxiv.org/abs/2411.07025)|**[link](https://github.com/whaohan/bpt)**|
@@ -3628,7 +3628,7 @@ layout: default
 |**2024-09-10**|**Earth's Mesosphere During Possible Encounters With Massive Interstellar Clouds 2 and 7 Million Years Ago**|Jesse A. Miller et.al.|[2409.06832](http://arxiv.org/abs/2409.06832)|null|
 |**2024-09-10**|**Scaling Law Hypothesis for Multimodal Model**|Qingyun Sun et.al.|[2409.06754](http://arxiv.org/abs/2409.06754)|null|
 |**2024-09-10**|**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**|Zihan Liao et.al.|[2409.06679](http://arxiv.org/abs/2409.06679)|null|
-|**2024-09-10**|**Exploring Italian sentence embeddings properties through multi-tasking**|Vivi Nastase et.al.|[2409.06622](http://arxiv.org/abs/2409.06622)|null|
+|**2024-09-10**|**Exploring Italian sentence embeddings properties through multi-tasking**|Vivi Nastase et.al.|[2409.06622](http://arxiv.org/abs/2409.06622)|**[link](https://github.com/clcl-geneva/blm-snfdisentangling)**|
 |**2024-09-10**|**Universal End-to-End Neural Network for Lossy Image Compression**|Bouzid Arezki et.al.|[2409.06586](http://arxiv.org/abs/2409.06586)|null|
 |**2024-09-10**|**Compressed Sensing based Detection Schemes for Differential Spatial Modulation in Visible Light Communication Systems**|Zichun Shi et.al.|[2409.06577](http://arxiv.org/abs/2409.06577)|null|
 |**2024-09-10**|**The molecular gas content throughout the low-z merger sequence**|Mark T. Sargent et.al.|[2409.06572](http://arxiv.org/abs/2409.06572)|null|
