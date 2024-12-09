@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**DNF: Unconditional 4D Generation with Dictionary-based Neural Fields**|Xinyi Zhang et.al.|[2412.05161](http://arxiv.org/abs/2412.05161)|null|
+|**2024-12-06**|**SMIC: Semantic Multi-Item Compression based on CLIP dictionary**|Tom Bachard et.al.|[2412.05035](http://arxiv.org/abs/2412.05035)|null|
+|**2024-12-06**|**Succinct Data Structures for Segments**|Philip Bille et.al.|[2412.04965](http://arxiv.org/abs/2412.04965)|null|
+|**2024-12-06**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|
+|**2024-12-06**|**Ultrahigh-temperature ferromagnetism in ultrathin insulating films with ripple-infinite-layer structure**|Yazhuo Yi et.al.|[2412.04957](http://arxiv.org/abs/2412.04957)|null|
+|**2024-12-06**|**UniMIC: Towards Universal Multi-modality Perceptual Image Compression**|Yixin Gao et.al.|[2412.04912](http://arxiv.org/abs/2412.04912)|null|
+|**2024-12-06**|**Volumetric (dilatant) plasticity in geodynamic models and implications on thermal dissipation and strain localization**|Ekeabino Momoh et.al.|[2412.04851](http://arxiv.org/abs/2412.04851)|null|
+|**2024-12-06**|**Wavelet Diffusion Neural Operator**|Peiyan Hu et.al.|[2412.04833](http://arxiv.org/abs/2412.04833)|null|
+|**2024-12-06**|**Origin of Increased Curie Temperature in Lithium-Substituted Ferroelectric Niobate Perovskite: Enhancement of the Soft Polar Mode**|Hao-Cheng Thong et.al.|[2412.04810](http://arxiv.org/abs/2412.04810)|null|
+|**2024-12-06**|**Ltri-LLM: Streaming Long Context Inference for LLMs with Training-Free Dynamic Triangular Attention Pattern**|Hongyin Tang et.al.|[2412.04757](http://arxiv.org/abs/2412.04757)|null|
 |**2024-12-05**|**NVILA: Efficient Frontier Visual Language Models**|Zhijian Liu et.al.|[2412.04468](http://arxiv.org/abs/2412.04468)|null|
 |**2024-12-05**|**Four-Plane Factorized Video Autoencoders**|Mohammed Suhail et.al.|[2412.04452](http://arxiv.org/abs/2412.04452)|null|
 |**2024-12-05**|**DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**|Yizhuo Li et.al.|[2412.04446](http://arxiv.org/abs/2412.04446)|null|
