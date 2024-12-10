@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727](http://arxiv.org/abs/2412.06727)|null|
+|**2024-12-09**|**Efficiency Meets Fidelity: A Novel Quantization Framework for Stable Diffusion**|Shuaiting Li et.al.|[2412.06661](http://arxiv.org/abs/2412.06661)|null|
+|**2024-12-09**|**Fitting Spherical Gaussians to Dynamic HDRI Sequences**|Pascal Clausen et.al.|[2412.06511](http://arxiv.org/abs/2412.06511)|null|
+|**2024-12-09**|**Energy absorption of sustainable lattice structures under static compression**|Sören Bieler et.al.|[2412.06493](http://arxiv.org/abs/2412.06493)|null|
+|**2024-12-09**|**Improving text-conditioned latent diffusion for cancer pathology**|Aakash Madhav Rao et.al.|[2412.06487](http://arxiv.org/abs/2412.06487)|null|
+|**2024-12-09**|**Filamentation-Assisted Isolated Attosecond Pulse Generation**|Yu-En Chien et.al.|[2412.06339](http://arxiv.org/abs/2412.06339)|null|
+|**2024-12-09**|**The Hybrid ROA: A Flexible and Scalable Encoding Scheme for Route Origin Authorization**|Yanbiao Li et.al.|[2412.06290](http://arxiv.org/abs/2412.06290)|null|
+|**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
+|**2024-12-09**|**Microstructural evolution of Carrara marble during semi-brittle deformation**|Tongzhang Qu et.al.|[2412.06118](http://arxiv.org/abs/2412.06118)|null|
+|**2024-12-08**|**Vision Transformer-based Semantic Communications With Importance-Aware Quantization**|Joohyuk Park et.al.|[2412.06038](http://arxiv.org/abs/2412.06038)|null|
 |**2024-12-06**|**DNF: Unconditional 4D Generation with Dictionary-based Neural Fields**|Xinyi Zhang et.al.|[2412.05161](http://arxiv.org/abs/2412.05161)|null|
 |**2024-12-06**|**SMIC: Semantic Multi-Item Compression based on CLIP dictionary**|Tom Bachard et.al.|[2412.05035](http://arxiv.org/abs/2412.05035)|null|
 |**2024-12-06**|**Succinct Data Structures for Segments**|Philip Bille et.al.|[2412.04965](http://arxiv.org/abs/2412.04965)|null|
