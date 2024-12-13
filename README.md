@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**|Chenyu Yang et.al.|[2412.09613](http://arxiv.org/abs/2412.09613)|null|
+|**2024-12-12**|**Spectral Image Tokenizer**|Carlos Esteves et.al.|[2412.09607](http://arxiv.org/abs/2412.09607)|null|
+|**2024-12-12**|**InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions**|Pan Zhang et.al.|[2412.09596](http://arxiv.org/abs/2412.09596)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2024-12-12**|**Does Representation Matter? Exploring Intermediate Layers in Large Language Models**|Oscar Skean et.al.|[2412.09563](http://arxiv.org/abs/2412.09563)|null|
+|**2024-12-12**|**Identification of structures driving trailing-edge noise. Part II -- Numerical investigation**|Zhenyang Yuan et.al.|[2412.09562](http://arxiv.org/abs/2412.09562)|null|
+|**2024-12-12**|**Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM**|Han Wang et.al.|[2412.09530](http://arxiv.org/abs/2412.09530)|**[link](https://github.com/hon-wong/bytevideollm)**|
+|**2024-12-12**|**Video Seal: Open and Efficient Video Watermarking**|Pierre Fernandez et.al.|[2412.09492](http://arxiv.org/abs/2412.09492)|**[link](https://github.com/facebookresearch/videoseal)**|
+|**2024-12-12**|**Uncommon Belief in Rationality**|Qi Shi et.al.|[2412.09407](http://arxiv.org/abs/2412.09407)|null|
+|**2024-12-12**|**Learned Compression for Compressed Learning**|Dan Jacobellis et.al.|[2412.09405](http://arxiv.org/abs/2412.09405)|null|
+|**2024-12-12**|**Anomalous pinch in electron-electron beam collision**|W. Zhang et.al.|[2412.09398](http://arxiv.org/abs/2412.09398)|null|
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[2412.08643](http://arxiv.org/abs/2412.08643)|**[link](https://github.com/wzzheng/gpd)**|
 |**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637](http://arxiv.org/abs/2412.08637)|**[link](https://github.com/huawei-lin/DMin)**|
 |**2024-12-11**|**TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|
