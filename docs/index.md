@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Cavitation Onset in an Impulsively Accelerated Liquid Column**|Taj Sobral et.al.|[2412.10332](http://arxiv.org/abs/2412.10332)|null|
+|**2024-12-13**|**SCBench: A KV Cache-Centric Analysis of Long-Context Methods**|Yucheng Li et.al.|[2412.10319](http://arxiv.org/abs/2412.10319)|null|
+|**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
+|**2024-12-13**|**Adversarial Robustness of Bottleneck Injected Deep Neural Networks for Task-Oriented Communication**|Alireza Furutanpey et.al.|[2412.10265](http://arxiv.org/abs/2412.10265)|null|
+|**2024-12-13**|**MVQ:Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization**|Shuaiting Li et.al.|[2412.10261](http://arxiv.org/abs/2412.10261)|null|
+|**2024-12-13**|**Design a Reliable Communication Network for handling a Smart Factory Applications using Time Sensitive Networks and Emerging Technologies**|Yazen S. Sheet et.al.|[2412.10243](http://arxiv.org/abs/2412.10243)|null|
+|**2024-12-13**|**On diffeomorphisms of 4-dimensional 1-handlebodies**|Delphine Moussard et.al.|[2412.10210](http://arxiv.org/abs/2412.10210)|null|
+|**2024-12-13**|**Diagnostic results of new-generation dispersive element test samples based on Bragg structures in fused silica**|Anton I. Gorokhov et.al.|[2412.10118](http://arxiv.org/abs/2412.10118)|null|
+|**2024-12-13**|**Panacea: Novel DNN Accelerator using Accuracy-Preserving Asymmetric Quantization and Energy-Saving Bit-Slice Sparsity**|Dongyun Kam et.al.|[2412.10059](http://arxiv.org/abs/2412.10059)|null|
+|**2024-12-13**|**Going Beyond Feature Similarity: Effective Dataset distillation based on Class-aware Conditional Mutual Information**|Xinhao Zhong et.al.|[2412.09945](http://arxiv.org/abs/2412.09945)|null|
 |**2024-12-12**|**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**|Chenyu Yang et.al.|[2412.09613](http://arxiv.org/abs/2412.09613)|null|
 |**2024-12-12**|**Spectral Image Tokenizer**|Carlos Esteves et.al.|[2412.09607](http://arxiv.org/abs/2412.09607)|null|
 |**2024-12-12**|**InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions**|Pan Zhang et.al.|[2412.09596](http://arxiv.org/abs/2412.09596)|**[link](https://github.com/internlm/internlm-xcomposer)**|
