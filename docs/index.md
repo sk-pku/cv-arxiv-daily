@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Feather the Throttle: Revisiting Visual Token Pruning for Vision-Language Model Acceleration**|Mark Endo et.al.|[2412.13180](http://arxiv.org/abs/2412.13180)|null|
+|**2024-12-17**|**Compressed Chain of Thought: Efficient Reasoning Through Dense Representations**|Jeffrey Cheng et.al.|[2412.13171](http://arxiv.org/abs/2412.13171)|null|
+|**2024-12-17**|**Unlocking the Potential of Digital Pathology: Novel Baselines for Compression**|Maximilian Fischer et.al.|[2412.13137](http://arxiv.org/abs/2412.13137)|null|
+|**2024-12-17**|**Reservoir Computing for Fast, Simplified Reinforcement Learning on Memory Tasks**|Kevin McKee et.al.|[2412.13093](http://arxiv.org/abs/2412.13093)|null|
+|**2024-12-17**|**Identifying Bias in Deep Neural Networks Using Image Transforms**|Sai Teja Erukude et.al.|[2412.13079](http://arxiv.org/abs/2412.13079)|**[link](https://github.com/SaiTeja-Erukude/identifying-bias-in-dnn-classification)**|
+|**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070](http://arxiv.org/abs/2412.13070)|**[link](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)**|
+|**2024-12-17**|**3D MedDiffusion: A 3D Medical Diffusion Model for Controllable and High-quality Medical Image Generation**|Haoshen Wang et.al.|[2412.13059](http://arxiv.org/abs/2412.13059)|null|
+|**2024-12-17**|**Evolution and final fates of low- and intermediate-mass stars**|Alessandro Bressan et.al.|[2412.13039](http://arxiv.org/abs/2412.13039)|null|
+|**2024-12-17**|**An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes**|Christina G. Taylor et.al.|[2412.13002](http://arxiv.org/abs/2412.13002)|null|
+|**2024-12-17**|**Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression**|Ruijie Chen et.al.|[2412.12982](http://arxiv.org/abs/2412.12982)|null|
 |**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
 |**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091](http://arxiv.org/abs/2412.12091)|null|
 |**2024-12-16**|**Nonlinear Reduced-Order Modeling of Compressible Flow Fields Using Deep Learning and Manifold Learning**|Bilal Mufti et.al.|[2412.12088](http://arxiv.org/abs/2412.12088)|null|
