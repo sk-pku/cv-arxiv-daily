@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150](http://arxiv.org/abs/2412.14150)|null|
+|**2024-12-18**|**Incorporating Feature Pyramid Tokenization and Open Vocabulary Semantic Segmentation**|Jianyu Zhang et.al.|[2412.14145](http://arxiv.org/abs/2412.14145)|null|
+|**2024-12-18**|**High-resolution nonequilibrium $GW$ calculations based on quantics tensor trains**|Maksymilian Środa et.al.|[2412.14032](http://arxiv.org/abs/2412.14032)|null|
+|**2024-12-18**|**Recent developments and research needs in turbulence modeling of hypersonic flows**|Pratikkumar Raje et.al.|[2412.13985](http://arxiv.org/abs/2412.13985)|null|
+|**2024-12-18**|**Components and anisotropy of 3D QFP waves during the early solar eruption**|Jialiang Hu et.al.|[2412.13984](http://arxiv.org/abs/2412.13984)|null|
+|**2024-12-18**|**Threshold Neuron: A Brain-inspired Artificial Neuron for Efficient On-device Inference**|Zihao Zheng et.al.|[2412.13902](http://arxiv.org/abs/2412.13902)|null|
+|**2024-12-18**|**Probing supersolidity through excitations in a spin-orbit-coupled Bose-Einstein condensate**|C. S. Chisholm et.al.|[2412.13861](http://arxiv.org/abs/2412.13861)|null|
+|**2024-12-18**|**Graph Coarsening via Supervised Granular-Ball for Scalable Graph Neural Network Training**|Shuyin Xia et.al.|[2412.13842](http://arxiv.org/abs/2412.13842)|null|
+|**2024-12-18**|**Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN**|Pengxiang Li et.al.|[2412.13795](http://arxiv.org/abs/2412.13795)|**[link](https://github.com/pixeli99/mixln)**|
+|**2024-12-18**|**Recursive Algorithm to the Centroid of Free Area for Inherent Structure and Hopping Motion in Deeply Supercooled Binary Hard Disk Systems**|Daigo Mugita et.al.|[2412.13773](http://arxiv.org/abs/2412.13773)|null|
 |**2024-12-17**|**Feather the Throttle: Revisiting Visual Token Pruning for Vision-Language Model Acceleration**|Mark Endo et.al.|[2412.13180](http://arxiv.org/abs/2412.13180)|null|
 |**2024-12-17**|**Compressed Chain of Thought: Efficient Reasoning Through Dense Representations**|Jeffrey Cheng et.al.|[2412.13171](http://arxiv.org/abs/2412.13171)|null|
 |**2024-12-17**|**Unlocking the Potential of Digital Pathology: Novel Baselines for Compression**|Maximilian Fischer et.al.|[2412.13137](http://arxiv.org/abs/2412.13137)|null|
