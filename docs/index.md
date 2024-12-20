@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Tokenisation is NP-Complete**|Philip Whittington et.al.|[2412.15210](http://arxiv.org/abs/2412.15210)|null|
+|**2024-12-19**|**Till the Layers Collapse: Compressing a Deep Neural Network through the Lenses of Batch Normalization Layers**|Zhu Liao et.al.|[2412.15077](http://arxiv.org/abs/2412.15077)|null|
+|**2024-12-19**|**ThinCurr: An open-source 3D thin-wall eddy current modeling code for the analysis of large-scale systems of conducting structures**|Christopher Hansen et.al.|[2412.14962](http://arxiv.org/abs/2412.14962)|null|
+|**2024-12-19**|**Effective Method with Compression for Distributed and Federated Cocoercive Variational Inequalities**|Daniil Medyakov et.al.|[2412.14935](http://arxiv.org/abs/2412.14935)|null|
+|**2024-12-19**|**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs**|Xiabin Zhou et.al.|[2412.14838](http://arxiv.org/abs/2412.14838)|null|
+|**2024-12-19**|**Holistic Adversarially Robust Pruning**|Qi Zhao et.al.|[2412.14714](http://arxiv.org/abs/2412.14714)|null|
+|**2024-12-19**|**Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers**|Rui Ding et.al.|[2412.14633](http://arxiv.org/abs/2412.14633)|null|
+|**2024-12-19**|**Identifying topological excitonic insulators via bulk-edge correspondence**|Hongwei Qu et.al.|[2412.14600](http://arxiv.org/abs/2412.14600)|null|
+|**2024-12-19**|**MixLLM: LLM Quantization with Global Mixed-precision between Output-features and Highly-efficient System Design**|Zhen Zheng et.al.|[2412.14590](http://arxiv.org/abs/2412.14590)|null|
+|**2024-12-19**|**DiffSim: Taming Diffusion Models for Evaluating Visual Similarity**|Yiren Song et.al.|[2412.14580](http://arxiv.org/abs/2412.14580)|**[link](https://github.com/showlab/diffsim)**|
 |**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150](http://arxiv.org/abs/2412.14150)|null|
 |**2024-12-18**|**Incorporating Feature Pyramid Tokenization and Open Vocabulary Semantic Segmentation**|Jianyu Zhang et.al.|[2412.14145](http://arxiv.org/abs/2412.14145)|null|
 |**2024-12-18**|**High-resolution nonequilibrium $GW$ calculations based on quantics tensor trains**|Maksymilian Środa et.al.|[2412.14032](http://arxiv.org/abs/2412.14032)|null|
