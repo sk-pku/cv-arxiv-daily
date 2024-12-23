@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**PromptOptMe: Error-Aware Prompt Compression for LLM-based MT Evaluation Metrics**|Daniil Larionov et.al.|[2412.16120](http://arxiv.org/abs/2412.16120)|null|
+|**2024-12-20**|**Distributed Beam Alignment in sub-THz D2D Networks**|Fernando Pedraza et.al.|[2412.16015](http://arxiv.org/abs/2412.16015)|null|
+|**2024-12-20**|**Direct measurement of the local electrocaloric effect in 2D ferroelectric In ${}_2$Se${}_3$ by Scanning Electrocaloric Thermometry**|Jean Spièce et.al.|[2412.15884](http://arxiv.org/abs/2412.15884)|null|
+|**2024-12-20**|**Multi-phase HI clouds in the Small Magellanic Cloud halo**|F. Buckland-Willis et.al.|[2412.15852](http://arxiv.org/abs/2412.15852)|null|
+|**2024-12-20**|**Sparse Point Clouds Assisted Learned Image Compression**|Yiheng Jiang et.al.|[2412.15752](http://arxiv.org/abs/2412.15752)|null|
+|**2024-12-20**|**Convergence of a Hyperbolic Thermodynamically Compatible Finite Volume scheme for the Euler equations**|Michael Dumbser et.al.|[2412.15730](http://arxiv.org/abs/2412.15730)|null|
+|**2024-12-20**|**MacLight: Multi-scene Aggregation Convolutional Learning for Traffic Signal Control**|Sunbowen Lee et.al.|[2412.15703](http://arxiv.org/abs/2412.15703)|**[link](https://github.com/Aegis1863/MacLight)**|
+|**2024-12-20**|**Parameterized Complexity of (d,r)-Domination via Modular Decomposition**|Gennaro Cordasco et.al.|[2412.15671](http://arxiv.org/abs/2412.15671)|null|
+|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649](http://arxiv.org/abs/2412.15649)|null|
+|**2024-12-20**|**Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck**|Van Thuy Hoang et.al.|[2412.15589](http://arxiv.org/abs/2412.15589)|null|
 |**2024-12-19**|**Tokenisation is NP-Complete**|Philip Whittington et.al.|[2412.15210](http://arxiv.org/abs/2412.15210)|null|
 |**2024-12-19**|**Till the Layers Collapse: Compressing a Deep Neural Network through the Lenses of Batch Normalization Layers**|Zhu Liao et.al.|[2412.15077](http://arxiv.org/abs/2412.15077)|null|
 |**2024-12-19**|**ThinCurr: An open-source 3D thin-wall eddy current modeling code for the analysis of large-scale systems of conducting structures**|Christopher Hansen et.al.|[2412.14962](http://arxiv.org/abs/2412.14962)|**[link](https://github.com/openfusiontoolkit/OpenFUSIONToolkit)**|
