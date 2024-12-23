@@ -587,7 +587,7 @@ layout: default
 |**2023-09-22**|**Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning**|Jonathan Sauder et.al.|[2309.12804](http://arxiv.org/abs/2309.12804)|null|
 |**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883](http://arxiv.org/abs/2309.11883)|**[link](https://github.com/RayShark0605/On_the_fly_SfM)**|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
-|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
+|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|**[link](https://github.com/hannahhaensen/dynamon)**|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
 |**2023-09-01**|**SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation**|Youhong Wang et.al.|[2309.00526](http://arxiv.org/abs/2309.00526)|null|
 |**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385](http://arxiv.org/abs/2309.00385)|null|
@@ -997,7 +997,7 @@ layout: default
 |**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879](http://arxiv.org/abs/2309.09879)|null|
 |**2023-09-18**|**Decompose Semantic Shifts for Composed Image Retrieval**|Xingyu Yang et.al.|[2309.09531](http://arxiv.org/abs/2309.09531)|null|
 |**2023-09-16**|**Efficient Object Rearrangement via Multi-view Fusion**|Dehao Huang et.al.|[2309.08994](http://arxiv.org/abs/2309.08994)|null|
-|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
+|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|**[link](https://github.com/hannahhaensen/dynamon)**|
 |**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914](http://arxiv.org/abs/2309.08914)|**[link](https://github.com/pamphlett/outram)**|
 |**2023-09-15**|**Active Learning for Fine-Grained Sketch-Based Image Retrieval**|Himanshu Thakur et.al.|[2309.08743](http://arxiv.org/abs/2309.08743)|null|
 |**2023-09-15**|**Optimization of Rank Losses for Image Retrieval**|Elias Ramzi et.al.|[2309.08250](http://arxiv.org/abs/2309.08250)|**[link](https://github.com/cvdfoundation/google-landmark)**|
@@ -2603,7 +2603,7 @@ layout: default
 |**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011](http://arxiv.org/abs/2309.10011)|null|
 |**2023-09-18**|**RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision**|Mingjie Pan et.al.|[2309.09502](http://arxiv.org/abs/2309.09502)|**[link](https://github.com/pmj110119/renderocc)**|
 |**2023-09-17**|**NeRF-VINS: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System**|Saimouli Katragadda et.al.|[2309.09295](http://arxiv.org/abs/2309.09295)|null|
-|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
+|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|**[link](https://github.com/hannahhaensen/dynamon)**|
 |**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596](http://arxiv.org/abs/2309.08596)|**[link](https://github.com/wengflow/robust-e-nerf)**|
 |**2023-09-14**|**Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**|Gergely Sóti et.al.|[2309.08040](http://arxiv.org/abs/2309.08040)|null|
 |**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846](http://arxiv.org/abs/2309.07846)|null|
@@ -3095,7 +3095,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-19**|**Tokenisation is NP-Complete**|Philip Whittington et.al.|[2412.15210](http://arxiv.org/abs/2412.15210)|null|
 |**2024-12-19**|**Till the Layers Collapse: Compressing a Deep Neural Network through the Lenses of Batch Normalization Layers**|Zhu Liao et.al.|[2412.15077](http://arxiv.org/abs/2412.15077)|null|
-|**2024-12-19**|**ThinCurr: An open-source 3D thin-wall eddy current modeling code for the analysis of large-scale systems of conducting structures**|Christopher Hansen et.al.|[2412.14962](http://arxiv.org/abs/2412.14962)|null|
+|**2024-12-19**|**ThinCurr: An open-source 3D thin-wall eddy current modeling code for the analysis of large-scale systems of conducting structures**|Christopher Hansen et.al.|[2412.14962](http://arxiv.org/abs/2412.14962)|**[link](https://github.com/openfusiontoolkit/OpenFUSIONToolkit)**|
 |**2024-12-19**|**Effective Method with Compression for Distributed and Federated Cocoercive Variational Inequalities**|Daniil Medyakov et.al.|[2412.14935](http://arxiv.org/abs/2412.14935)|null|
 |**2024-12-19**|**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs**|Xiabin Zhou et.al.|[2412.14838](http://arxiv.org/abs/2412.14838)|null|
 |**2024-12-19**|**Holistic Adversarially Robust Pruning**|Qi Zhao et.al.|[2412.14714](http://arxiv.org/abs/2412.14714)|null|
@@ -3121,15 +3121,15 @@ layout: default
 |**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070](http://arxiv.org/abs/2412.13070)|**[link](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)**|
 |**2024-12-17**|**3D MedDiffusion: A 3D Medical Diffusion Model for Controllable and High-quality Medical Image Generation**|Haoshen Wang et.al.|[2412.13059](http://arxiv.org/abs/2412.13059)|null|
 |**2024-12-17**|**Evolution and final fates of low- and intermediate-mass stars**|Alessandro Bressan et.al.|[2412.13039](http://arxiv.org/abs/2412.13039)|null|
-|**2024-12-17**|**An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes**|Christina G. Taylor et.al.|[2412.13002](http://arxiv.org/abs/2412.13002)|null|
+|**2024-12-17**|**An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes**|Christina G. Taylor et.al.|[2412.13002](http://arxiv.org/abs/2412.13002)|**[link](https://github.com/cgt3/es-cutdg)**|
 |**2024-12-17**|**Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression**|Ruijie Chen et.al.|[2412.12982](http://arxiv.org/abs/2412.12982)|null|
-|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091](http://arxiv.org/abs/2412.12091)|null|
 |**2024-12-16**|**Nonlinear Reduced-Order Modeling of Compressible Flow Fields Using Deep Learning and Manifold Learning**|Bilal Mufti et.al.|[2412.12088](http://arxiv.org/abs/2412.12088)|null|
 |**2024-12-16**|**Thermodynamics-informed graph neural networks for real-time simulation of digital human twins**|Lucas Tesán et.al.|[2412.12034](http://arxiv.org/abs/2412.12034)|null|
 |**2024-12-16**|**A Note on Hyperbolic Relaxation of the Navier-Stokes-Cahn-Hilliard system for incompressible two-phase flow**|Jens Keim et.al.|[2412.11904](http://arxiv.org/abs/2412.11904)|null|
 |**2024-12-16**|**Parallel CPU- and GPU-based connected component algorithms for event building for hybrid pixel detectors**|Tomáš Čelko et.al.|[2412.11809](http://arxiv.org/abs/2412.11809)|null|
-|**2024-12-16**|**Scalable Temporal Anomaly Causality Discovery in Large Systems: Achieving Computational Efficiency with Binary Anomaly Flag Data**|Mulugeta Weldezgina Asres et.al.|[2412.11800](http://arxiv.org/abs/2412.11800)|null|
+|**2024-12-16**|**Scalable Temporal Anomaly Causality Discovery in Large Systems: Achieving Computational Efficiency with Binary Anomaly Flag Data**|Mulugeta Weldezgina Asres et.al.|[2412.11800](http://arxiv.org/abs/2412.11800)|**[link](https://github.com/muleina/anomalycd)**|
 |**2024-12-16**|**Point Cloud-Assisted Neural Image Compression**|Ziqun Li et.al.|[2412.11771](http://arxiv.org/abs/2412.11771)|null|
 |**2024-12-16**|**Ultra-High-Definition Dynamic Multi-Exposure Image Fusion via Infinite Pixel Learning**|Xingchi Chen et.al.|[2412.11685](http://arxiv.org/abs/2412.11685)|null|
 |**2024-12-16**|**C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness**|Yu Kang et.al.|[2412.11664](http://arxiv.org/abs/2412.11664)|null|
@@ -3161,7 +3161,7 @@ layout: default
 |**2024-12-11**|**EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance**|Yingxin Li et.al.|[2412.08521](http://arxiv.org/abs/2412.08521)|null|
 |**2024-12-11**|**Dissipation for codimension 1 singular structures to incompressible Euler**|Luigi De Rosa et.al.|[2412.08493](http://arxiv.org/abs/2412.08493)|null|
 |**2024-12-11**|**ALoRE: Efficient Visual Adaptation via Aggregating Low Rank Experts**|Sinan Du et.al.|[2412.08341](http://arxiv.org/abs/2412.08341)|null|
-|**2024-12-11**|**Efficient gradient-based methods for bilevel learning via recycling Krylov subspaces**|Matthias J. Ehrhardt et.al.|[2412.08264](http://arxiv.org/abs/2412.08264)|null|
+|**2024-12-11**|**Efficient gradient-based methods for bilevel learning via recycling Krylov subspaces**|Matthias J. Ehrhardt et.al.|[2412.08264](http://arxiv.org/abs/2412.08264)|**[link](https://github.com/s-j-scott/bilevel-recycling)**|
 |**2024-12-11**|**Unicorn: Unified Neural Image Compression with One Number Reconstruction**|Qi Zheng et.al.|[2412.08210](http://arxiv.org/abs/2412.08210)|null|
 |**2024-12-10**|**GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning**|Yicheng Wang et.al.|[2412.07704](http://arxiv.org/abs/2412.07704)|null|
 |**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|null|
@@ -3265,7 +3265,7 @@ layout: default
 |**2024-11-25**|**VideoOrion: Tokenizing Object Dynamics in Videos**|Yicheng Feng et.al.|[2411.16156](http://arxiv.org/abs/2411.16156)|null|
 |**2024-11-22**|**Information geometric regularization of unidimensional pressureless Euler equations yields global strong solutions**|Ruijia Cao et.al.|[2411.15121](http://arxiv.org/abs/2411.15121)|null|
 |**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113](http://arxiv.org/abs/2411.15113)|null|
-|**2024-11-22**|**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models**|Keda Tao et.al.|[2411.15024](http://arxiv.org/abs/2411.15024)|null|
+|**2024-11-22**|**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models**|Keda Tao et.al.|[2411.15024](http://arxiv.org/abs/2411.15024)|**[link](https://github.com/kd-tao/dycoke)**|
 |**2024-11-22**|**A positive- and bound-preserving vectorial lattice Boltzmann method in two dimensions**|Gauthier Wissocq et.al.|[2411.15001](http://arxiv.org/abs/2411.15001)|null|
 |**2024-11-22**|**On Temporal Decay of Compressible Hookean Viscoelastic Fluids with Relatively Large Elasticity Coefficient**|Shengbin Fu et.al.|[2411.14882](http://arxiv.org/abs/2411.14882)|null|
 |**2024-11-22**|**De-biased Multimodal Electrocardiogram Analysis**|Haitao Li et.al.|[2411.14795](http://arxiv.org/abs/2411.14795)|null|
@@ -3863,7 +3863,7 @@ layout: default
 |**2024-08-20**|**End-to-end learned Lossy Dynamic Point Cloud Attribute Compression**|Dat Thanh Nguyen et.al.|[2408.10665](http://arxiv.org/abs/2408.10665)|null|
 |**2024-08-20**|**Federated Clustering: An Unsupervised Cluster-Wise Training for Decentralized Data Distributions**|Mirko Nardi et.al.|[2408.10664](http://arxiv.org/abs/2408.10664)|null|
 |**2024-08-20**|**Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds**|Kai Liu et.al.|[2408.10543](http://arxiv.org/abs/2408.10543)|null|
-|**2024-08-21**|**Surgical Workflow Recognition and Blocking Effectiveness Detection in Laparoscopic Liver Resections with Pringle Maneuver**|Diandian Guo et.al.|[2408.10538](http://arxiv.org/abs/2408.10538)|null|
+|**2024-08-21**|**Surgical Workflow Recognition and Blocking Effectiveness Detection in Laparoscopic Liver Resections with Pringle Maneuver**|Diandian Guo et.al.|[2408.10538](http://arxiv.org/abs/2408.10538)|**[link](https://github.com/rascalgdd/pmnet)**|
 |**2024-08-19**|**Superconductivity and spin canting in spin-orbit proximitized rhombohedral trilayer graphene**|Caitlin L. Patterson et.al.|[2408.10190](http://arxiv.org/abs/2408.10190)|null|
 |**2024-08-19**|**Implicit Gaussian Splatting with Efficient Multi-Level Tri-Plane Representation**|Minye Wu et.al.|[2408.10041](http://arxiv.org/abs/2408.10041)|null|
 |**2024-08-19**|**Efficient Inference of Sub-Item Id-based Sequential Recommendation Models with Millions of Items**|Aleksandr V. Petrov et.al.|[2408.09992](http://arxiv.org/abs/2408.09992)|null|
@@ -4003,7 +4003,7 @@ layout: default
 |**2024-07-30**|**Edge Learning Based Collaborative Automatic Modulation Classification for Hierarchical Cognitive Radio Networks**|Peihao Dong et.al.|[2407.20772](http://arxiv.org/abs/2407.20772)|**[link](https://github.com/AI4CogComm/CAMC)**|
 |**2024-07-30**|**Task-Oriented Communication for Vehicle-to-Infrastructure Cooperative Perception**|Jiawei Shao et.al.|[2407.20748](http://arxiv.org/abs/2407.20748)|null|
 |**2024-07-30**|**Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications**|Yi Ju et.al.|[2407.20717](http://arxiv.org/abs/2407.20717)|null|
-|**2024-07-30**|**Pruning Large Language Models with Semi-Structural Adaptive Sparse Training**|Weiyu Huang et.al.|[2407.20584](http://arxiv.org/abs/2407.20584)|null|
+|**2024-07-30**|**Pruning Large Language Models with Semi-Structural Adaptive Sparse Training**|Weiyu Huang et.al.|[2407.20584](http://arxiv.org/abs/2407.20584)|**[link](https://github.com/thu-ml/adaptive-sparse-trainer)**|
 |**2024-07-30**|**RIP sensing matrices construction for sparsifying dictionaries with application to MRI imaging**|Jinn Ho et.al.|[2407.20576](http://arxiv.org/abs/2407.20576)|null|
 |**2024-07-30**|**SuperCodec: A Neural Speech Codec with Selective Back-Projection Network**|Youqiang Zheng et.al.|[2407.20530](http://arxiv.org/abs/2407.20530)|**[link](https://github.com/exercise-book-yq/supercodec)**|
 |**2024-07-30**|**Toward Efficient Permutation for Hierarchical N:M Sparsity on GPUs**|Seungmin Yu et.al.|[2407.20496](http://arxiv.org/abs/2407.20496)|null|
