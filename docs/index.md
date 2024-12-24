@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Large Motion Video Autoencoding with Cross-modal Video VAE**|Yazhou Xing et.al.|[2412.17805](http://arxiv.org/abs/2412.17805)|null|
+|**2024-12-23**|**VidTwin: Video VAE with Decoupled Structure and Dynamics**|Yuchi Wang et.al.|[2412.17726](http://arxiv.org/abs/2412.17726)|**[link](https://github.com/microsoft/vidtok)**|
+|**2024-12-23**|**Revisiting the Inert Scalar Dark Matter with Vector-like Quarks**|Prasanta Kumar Das et.al.|[2412.17719](http://arxiv.org/abs/2412.17719)|null|
+|**2024-12-23**|**Trypanosoma brucei moving in microchannels and through constrictions**|Zihan Tan et.al.|[2412.17673](http://arxiv.org/abs/2412.17673)|null|
+|**2024-12-23**|**CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**|Yuanyuan Gao et.al.|[2412.17612](http://arxiv.org/abs/2412.17612)|null|
+|**2024-12-23**|**Empathetic Response in Audio-Visual Conversations Using Emotion Preference Optimization and MambaCompressor**|Yeonju Kim et.al.|[2412.17572](http://arxiv.org/abs/2412.17572)|null|
+|**2024-12-23**|**GQSA: Group Quantization and Sparsity for Accelerating Large Language Model Inference**|Chao Zeng et.al.|[2412.17560](http://arxiv.org/abs/2412.17560)|null|
+|**2024-12-23**|**A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression**|Chenlong Deng et.al.|[2412.17483](http://arxiv.org/abs/2412.17483)|null|
+|**2024-12-23**|**Predicting Satisfied User and Machine Ratio for Compressed Images: A Unified Approach**|Qi Zhang et.al.|[2412.17477](http://arxiv.org/abs/2412.17477)|null|
+|**2024-12-23**|**Bismuth doping induced enhancement of the spin-orbit coupling strength in the prototype dilute ferromagnetic semiconductor (Ga,Mn)As: a review**|Tadeusz Wosinski et.al.|[2412.17473](http://arxiv.org/abs/2412.17473)|null|
 |**2024-12-20**|**PromptOptMe: Error-Aware Prompt Compression for LLM-based MT Evaluation Metrics**|Daniil Larionov et.al.|[2412.16120](http://arxiv.org/abs/2412.16120)|null|
 |**2024-12-20**|**Distributed Beam Alignment in sub-THz D2D Networks**|Fernando Pedraza et.al.|[2412.16015](http://arxiv.org/abs/2412.16015)|null|
 |**2024-12-20**|**Direct measurement of the local electrocaloric effect in 2D ferroelectric In ${}_2$Se${}_3$ by Scanning Electrocaloric Thermometry**|Jean Spièce et.al.|[2412.15884](http://arxiv.org/abs/2412.15884)|null|
