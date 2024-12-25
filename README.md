@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**ReducedLUT: Table Decomposition with "Don't Care" Conditions**|Oliver Cassidy et.al.|[2412.18579](http://arxiv.org/abs/2412.18579)|null|
+|**2024-12-24**|**Scalable Quantum-Inspired Optimization through Dynamic Qubit Compression**|Co Tran et.al.|[2412.18571](http://arxiv.org/abs/2412.18571)|null|
+|**2024-12-24**|**Token-Budget-Aware LLM Reasoning**|Tingxu Han et.al.|[2412.18547](http://arxiv.org/abs/2412.18547)|**[link](https://github.com/geniushtx/tale)**|
+|**2024-12-24**|**HTR-JAND: Handwritten Text Recognition with Joint Attention Network and Knowledge Distillation**|Mohammed Hamdan et.al.|[2412.18524](http://arxiv.org/abs/2412.18524)|null|
+|**2024-12-24**|**Ultra-Low Complexity On-Orbit Compression for Remote Sensing Imagery via Block Modulated Imaging**|Zhibin Wang et.al.|[2412.18417](http://arxiv.org/abs/2412.18417)|**[link](https://github.com/johnathan218/bmnet)**|
+|**2024-12-24**|**MR-COGraphs: Communication-efficient Multi-Robot Open-vocabulary Mapping System via 3D Scene Graphs**|Qiuyi Gu et.al.|[2412.18381](http://arxiv.org/abs/2412.18381)|null|
+|**2024-12-24**|**Extremum Encoding for Joint Baseband Signal Compression and Time-Delay Estimation for Distributed Systems**|Amir Weiss et.al.|[2412.18334](http://arxiv.org/abs/2412.18334)|null|
+|**2024-12-24**|**Multifluid simulation of shear-induced migration in pressure-driven suspension flows**|Mohammad Noori et.al.|[2412.18242](http://arxiv.org/abs/2412.18242)|null|
+|**2024-12-24**|**Efficient Long Context Language Model Retrieval with Compression**|Minju Seo et.al.|[2412.18232](http://arxiv.org/abs/2412.18232)|null|
+|**2024-12-24**|**Unified Stochastic Framework for Neural Network Quantization and Pruning**|Haoyu Zhang et.al.|[2412.18184](http://arxiv.org/abs/2412.18184)|null|
 |**2024-12-23**|**Large Motion Video Autoencoding with Cross-modal Video VAE**|Yazhou Xing et.al.|[2412.17805](http://arxiv.org/abs/2412.17805)|null|
 |**2024-12-23**|**VidTwin: Video VAE with Decoupled Structure and Dynamics**|Yuchi Wang et.al.|[2412.17726](http://arxiv.org/abs/2412.17726)|**[link](https://github.com/microsoft/vidtok)**|
 |**2024-12-23**|**Revisiting the Inert Scalar Dark Matter with Vector-like Quarks**|Prasanta Kumar Das et.al.|[2412.17719](http://arxiv.org/abs/2412.17719)|null|
