@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483](http://arxiv.org/abs/2412.19483)|null|
+|**2024-12-27**|**Exploiting Dynamic Sparsity for Near-Field Spatial Non-Stationary XL-MIMO Channel Tracking**|Wenkang Xu amd An Liu et.al.|[2412.19475](http://arxiv.org/abs/2412.19475)|null|
+|**2024-12-27**|**Feature Alignment-Based Knowledge Distillation for Efficient Compression of Large Language Models**|Shuo Wang et.al.|[2412.19449](http://arxiv.org/abs/2412.19449)|null|
+|**2024-12-27**|**Adrenaline: Adaptive Rendering Optimization System for Scalable Cloud Gaming**|Jin Heo et.al.|[2412.19446](http://arxiv.org/abs/2412.19446)|null|
+|**2024-12-27**|**Low driving-force stable bending cooling via fatigue-resistant hierarchical NiTi shape memory alloy**|Kai Yan et.al.|[2412.19440](http://arxiv.org/abs/2412.19440)|null|
+|**2024-12-27**|**Multi-scale Latent Point Consistency Models for 3D Shape Generation**|Bi'an Du et.al.|[2412.19413](http://arxiv.org/abs/2412.19413)|null|
+|**2024-12-27**|**Resolvent-based estimation and control of a laminar airfoil wake**|Junoh Jung et.al.|[2412.19386](http://arxiv.org/abs/2412.19386)|null|
+|**2024-12-26**|**BSDB-Net: Band-Split Dual-Branch Network with Selective State Spaces Mechanism for Monaural Speech Enhancement**|Cunhang Fan et.al.|[2412.19099](http://arxiv.org/abs/2412.19099)|null|
+|**2024-12-25**|**Enhanced Elastocaloric Effects in γ-graphyne**|Guilherme B. Kanegae et.al.|[2412.18978](http://arxiv.org/abs/2412.18978)|null|
+|**2024-12-25**|**Tensor Density Estimator by Convolution-Deconvolution**|Yifan Peng et.al.|[2412.18964](http://arxiv.org/abs/2412.18964)|null|
 |**2024-12-24**|**ReducedLUT: Table Decomposition with "Don't Care" Conditions**|Oliver Cassidy et.al.|[2412.18579](http://arxiv.org/abs/2412.18579)|**[link](https://github.com/ollycassidy13/ReducedLUT)**|
 |**2024-12-24**|**Scalable Quantum-Inspired Optimization through Dynamic Qubit Compression**|Co Tran et.al.|[2412.18571](http://arxiv.org/abs/2412.18571)|null|
 |**2024-12-24**|**Token-Budget-Aware LLM Reasoning**|Tingxu Han et.al.|[2412.18547](http://arxiv.org/abs/2412.18547)|**[link](https://github.com/geniushtx/tale)**|
