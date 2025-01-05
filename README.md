@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|null|
+|**2025-01-02**|**The Pseudospectrum of Random Compressions of Matrices**|Rikhav Shah et.al.|[2501.01418](http://arxiv.org/abs/2501.01418)|null|
+|**2025-01-02**|**Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging**|Mengjie Qin et.al.|[2501.01262](http://arxiv.org/abs/2501.01262)|null|
+|**2025-01-02**|**Exploiting Latent Properties to Optimize Neural Codecs**|Muhammet Balcilar et.al.|[2501.01231](http://arxiv.org/abs/2501.01231)|null|
+|**2025-01-02**|**D-HAT: a Diatom-inspired structure for a Helmet concept Against Trauma**|Ludovico Musenich et.al.|[2501.01211](http://arxiv.org/abs/2501.01211)|null|
+|**2025-01-02**|**BatStyler: Advancing Multi-category Style Generation for Source-free Domain Generalization**|Xiusheng Xu et.al.|[2501.01109](http://arxiv.org/abs/2501.01109)|null|
+|**2025-01-02**|**Confined Orthogonal Matching Pursuit for Sparse Random Combinatorial Matrices**|Xinwei Zhao et.al.|[2501.01008](http://arxiv.org/abs/2501.01008)|null|
+|**2025-01-02**|**Exploring Information Processing in Large Language Models: Insights from Information Bottleneck Theory**|Zhou Yang et.al.|[2501.00999](http://arxiv.org/abs/2501.00999)|null|
+|**2025-01-01**|**CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation**|Daniel Silver et.al.|[2501.00975](http://arxiv.org/abs/2501.00975)|null|
+|**2025-01-01**|**A Survey of Secure Semantic Communications**|Rui Meng et.al.|[2501.00842](http://arxiv.org/abs/2501.00842)|null|
 |**2024-12-30**|**Privacy-Aware Multi-Device Cooperative Edge Inference with Distributed Resource Bidding**|Wenhao Zhuang et.al.|[2412.21069](http://arxiv.org/abs/2412.21069)|null|
 |**2025-01-01**|**Gradient catastrophes and an infinite hierarchy of Hölder cusp-singularities for 1D Euler**|Isaac Neal et.al.|[2412.21040](http://arxiv.org/abs/2412.21040)|null|
 |**2024-12-30**|**Navigating Chemical-Linguistic Sharing Space with Heterogeneous Molecular Encoding**|Liuzhenghao Lv et.al.|[2412.20888](http://arxiv.org/abs/2412.20888)|**[link](https://github.com/Lyu6PosHao/HME)**|
