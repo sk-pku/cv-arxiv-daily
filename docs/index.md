@@ -3093,6 +3093,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Compressed sensing for inverse problems II: applications to deconvolution, source recovery, and MRI**|Giovanni S. Alberti et.al.|[2501.01929](http://arxiv.org/abs/2501.01929)|null|
+|**2025-01-03**|**Compressed Domain Prior-Guided Video Super-Resolution for Cloud Gaming Content**|Qizhe Wang et.al.|[2501.01773](http://arxiv.org/abs/2501.01773)|null|
+|**2025-01-03**|**Energy spectra and fluxes of two-dimensional turbulent quantum droplets**|Shawan Kumar Jha et.al.|[2501.01771](http://arxiv.org/abs/2501.01771)|null|
+|**2025-01-03**|**MusicGen-Stem: Multi-stem music generation and edition through autoregressive modeling**|Simon Rouard et.al.|[2501.01757](http://arxiv.org/abs/2501.01757)|null|
+|**2025-01-03**|**Decoupling the effects of ripples from tensile strain on the thermal conductivity of graphene and understanding the role of curvature on the thermal conductivity of graphene with grain boundaries**|Abhishek Kumar et.al.|[2501.01730](http://arxiv.org/abs/2501.01730)|null|
+|**2025-01-03**|**KeyNode-Driven Geometry Coding for Real-World Scanned Human Dynamic Mesh Compression**|Huong Hoang et.al.|[2501.01717](http://arxiv.org/abs/2501.01717)|null|
+|**2025-01-03**|**ICPC: In-context Prompt Compression with Faster Inference**|Ziyang Yu et.al.|[2501.01625](http://arxiv.org/abs/2501.01625)|null|
+|**2025-01-02**|**An unsupervised method for MRI recovery: Deep image prior with structured sparsity**|Muhammad Ahmad Sultan et.al.|[2501.01482](http://arxiv.org/abs/2501.01482)|null|
 |**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|null|
 |**2025-01-02**|**The Pseudospectrum of Random Compressions of Matrices**|Rikhav Shah et.al.|[2501.01418](http://arxiv.org/abs/2501.01418)|null|
 |**2025-01-02**|**Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging**|Mengjie Qin et.al.|[2501.01262](http://arxiv.org/abs/2501.01262)|null|
