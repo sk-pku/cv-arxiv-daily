@@ -3262,7 +3262,7 @@ layout: default
 |**2024-12-05**|**Small-scale dynamics and structure of free-surface turbulence**|Yinghe Qi et.al.|[2412.04361](http://arxiv.org/abs/2412.04361)|null|
 |**2024-12-05**|**Multi-Scale Node Embeddings for Graph Modeling and Generation**|Riccardo Milocco et.al.|[2412.04354](http://arxiv.org/abs/2412.04354)|null|
 |**2024-12-05**|**FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression**|Bo Tong et.al.|[2412.04317](http://arxiv.org/abs/2412.04317)|**[link](https://github.com/codefanw/flashsloth)**|
-|**2024-12-05**|**Feature Coding in the Era of Large Models: Dataset, Test Conditions, and Benchmark**|Changsheng Gao et.al.|[2412.04307](http://arxiv.org/abs/2412.04307)|null|
+|**2024-12-05**|**Feature Coding in the Era of Large Models: Dataset, Test Conditions, and Benchmark**|Changsheng Gao et.al.|[2412.04307](http://arxiv.org/abs/2412.04307)|**[link](https://github.com/chansongoal/FCM-LM)**|
 |**2024-12-04**|**Decoding Long-duration Gravitational Waves from Binary Neutron Stars with Machine Learning: Parameter Estimation and Equations of State**|Qian Hu et.al.|[2412.03454](http://arxiv.org/abs/2412.03454)|null|
 |**2024-12-04**|**Consequences of the failure of equipartition for the p-V behavior of liquid water and the hydration free energy components of a small protein**|Dilipkumar N. Asthagiri et.al.|[2412.03448](http://arxiv.org/abs/2412.03448)|null|
 |**2024-12-04**|**A Novel and Simple Invariant-Domain-Preserving Framework for PAMPA Scheme: 1D Case**|Rémi Abgrall et.al.|[2412.03423](http://arxiv.org/abs/2412.03423)|null|
@@ -3732,7 +3732,7 @@ layout: default
 |**2024-09-18**|**Precise Forecasting of Sky Images Using Spatial Warping**|Leron Julian et.al.|[2409.12162](http://arxiv.org/abs/2409.12162)|null|
 |**2024-09-18**|**Generalized compression and compressive search of large datasets**|Morgan E. Prior et.al.|[2409.12161](http://arxiv.org/abs/2409.12161)|**[link](https://github.com/uri-abd/clam)**|
 |**2024-09-18**|**Mechanical Wannier-Stark Ladder of Diamond Spin-Mechanical Lamb Wave Resonators**|Philip Andrango et.al.|[2409.12149](http://arxiv.org/abs/2409.12149)|null|
-|**2024-09-22**|**WMCodec: End-to-End Neural Speech Codec with Deep Watermarking for Authenticity Verification**|Junzuo Zhou et.al.|[2409.12121](http://arxiv.org/abs/2409.12121)|null|
+|**2024-09-22**|**WMCodec: End-to-End Neural Speech Codec with Deep Watermarking for Authenticity Verification**|Junzuo Zhou et.al.|[2409.12121](http://arxiv.org/abs/2409.12121)|**[link](https://github.com/zjzser/wmcodec)**|
 |**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117](http://arxiv.org/abs/2409.12117)|null|
 |**2024-09-18**|**Applications of Knowledge Distillation in Remote Sensing: A Survey**|Yassine Himeur et.al.|[2409.12111](http://arxiv.org/abs/2409.12111)|null|
 |**2024-09-18**|**Less Memory Means smaller GPUs: Backpropagation with Compressed Activations**|Daniel Barley et.al.|[2409.11902](http://arxiv.org/abs/2409.11902)|null|
@@ -3866,7 +3866,7 @@ layout: default
 |**2024-08-28**|**New Results on Periodic Golay Pairs**|Tyler Lumsden et.al.|[2408.15611](http://arxiv.org/abs/2408.15611)|**[link](https://github.com/tylerlumsden/GolayPair)**|
 |**2024-08-28**|**On the elastoplastic behavior in collisional compression of spherical dust aggregates**|Sota Arakawa et.al.|[2408.15573](http://arxiv.org/abs/2408.15573)|null|
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|Jiajun Liu et.al.|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
-|**2024-08-29**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496](http://arxiv.org/abs/2408.15496)|null|
+|**2024-08-29**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496](http://arxiv.org/abs/2408.15496)|**[link](https://github.com/lblankl/remamba)**|
 |**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|**[link](https://github.com/ar-roy/dct-cryptonets)**|
 |**2024-08-27**|**A Deep Dive into the NGC 741 Galaxy Group: Insights into a Spectacular Head-Tail Radio Galaxy from VLA, MeerKAT, uGMRT and LOFAR**|K. Rajpurohit et.al.|[2408.15197](http://arxiv.org/abs/2408.15197)|null|
 |**2024-08-27**|**Assembly Theory Reduced to Shannon Entropy and Rendered Redundant by Naive Statistical Algorithms**|Luan Ozelim et.al.|[2408.15108](http://arxiv.org/abs/2408.15108)|null|
