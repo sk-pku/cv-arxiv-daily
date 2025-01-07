@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
+|**2025-01-06**|**CAT: Content-Adaptive Image Tokenization**|Junhong Shen et.al.|[2501.03120](http://arxiv.org/abs/2501.03120)|null|
+|**2025-01-06**|**A Novel Structure-Agnostic Multi-Objective Approach for Weight-Sharing Compression in Deep Neural Networks**|Rasa Khosrowshahli et.al.|[2501.03095](http://arxiv.org/abs/2501.03095)|null|
+|**2025-01-06**|**Qinco2: Vector Compression and Search with Improved Implicit Neural Codebooks**|Théophane Vallaeys et.al.|[2501.03078](http://arxiv.org/abs/2501.03078)|**[link](https://github.com/facebookresearch/qinco)**|
+|**2025-01-06**|**Large Scale Finite-Temperature Real-time Time Dependent Density Functional Theory Calculation with Hybrid Functional on ARM and GPU Systems**|Rongrong Liu et.al.|[2501.03061](http://arxiv.org/abs/2501.03061)|null|
+|**2025-01-06**|**Analytical solution for the hydrodynamic resistance of a disk in a compressible fluid layer with odd viscosity on a rigid substrate**|Abdallah Daddi-Moussa-Ider et.al.|[2501.03046](http://arxiv.org/abs/2501.03046)|null|
+|**2025-01-06**|**MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models**|Wenyi Hong et.al.|[2501.02955](http://arxiv.org/abs/2501.02955)|null|
+|**2025-01-06**|**Femtosecond temperature measurements of laser-shocked copper deduced from the intensity of the x-ray thermal diffuse scattering**|J. S. Wark et.al.|[2501.02940](http://arxiv.org/abs/2501.02940)|null|
+|**2025-01-06**|**Region of Interest based Medical Image Compression**|Utkarsh Prakash Srivastava et.al.|[2501.02895](http://arxiv.org/abs/2501.02895)|null|
+|**2025-01-06**|**BaTiO $_3$ -- SrTiO$_3$ composites: a microscopic study on paraelectric cubic inclusions**|Sheng-Han Teng et.al.|[2501.02853](http://arxiv.org/abs/2501.02853)|null|
 |**2025-01-03**|**Compressed sensing for inverse problems II: applications to deconvolution, source recovery, and MRI**|Giovanni S. Alberti et.al.|[2501.01929](http://arxiv.org/abs/2501.01929)|null|
 |**2025-01-03**|**Compressed Domain Prior-Guided Video Super-Resolution for Cloud Gaming Content**|Qizhe Wang et.al.|[2501.01773](http://arxiv.org/abs/2501.01773)|null|
 |**2025-01-03**|**Energy spectra and fluxes of two-dimensional turbulent quantum droplets**|Shawan Kumar Jha et.al.|[2501.01771](http://arxiv.org/abs/2501.01771)|null|
