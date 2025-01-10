@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442](http://arxiv.org/abs/2501.05442)|null|
+|**2025-01-09**|**Efficient computation of particle-fluid and particle-particle interactions in compressible flow**|Anna Schwarz et.al.|[2501.05340](http://arxiv.org/abs/2501.05340)|null|
+|**2025-01-09**|**Optimized Sampling for Non-Line-of-Sight Imaging Using Modified Fast Fourier Transforms**|Talha Sultan et.al.|[2501.05244](http://arxiv.org/abs/2501.05244)|null|
+|**2025-01-09**|**Principles and Metrics of Extreme Learning Machines Using a Highly Nonlinear Fiber**|Mathilde Hary et.al.|[2501.05233](http://arxiv.org/abs/2501.05233)|null|
+|**2025-01-09**|**Probing Nuclear Excitation by Electron Capture in an Electron Beam Ion Trap with Non-destructive Isomer Detection via Precision Mass Spectrometry**|Bingsheng Tu et.al.|[2501.05217](http://arxiv.org/abs/2501.05217)|null|
+|**2025-01-09**|**Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**|Xuyang Liu et.al.|[2501.05179](http://arxiv.org/abs/2501.05179)|null|
+|**2025-01-09**|**Regularity and well-posedness of the Euler system in gas dynamics for dissipative solutions**|Eduard Feireisl et.al.|[2501.05134](http://arxiv.org/abs/2501.05134)|null|
+|**2025-01-09**|**Thermodynamics of a compressible lattice gas crystal: Generalized Gibbs-Duhem equation and adsorption**|Michiel Sprik et.al.|[2501.05117](http://arxiv.org/abs/2501.05117)|null|
+|**2025-01-09**|**A 1Mb mixed-precision quantized encoder for image classification and patch-based compression**|Van Thien Nguyen et.al.|[2501.05097](http://arxiv.org/abs/2501.05097)|null|
+|**2025-01-09**|**Incompressible and vanishing vertical viscosity limit for the compressible Navier-Stokes system with Dirichlet boundary conditions**|Nader Masmoudi et.al.|[2501.05063](http://arxiv.org/abs/2501.05063)|null|
 |**2025-01-08**|**Recorder: Comprehensive Parallel I/O Tracing and Analysis**|Chen Wang et.al.|[2501.04654](http://arxiv.org/abs/2501.04654)|null|
 |**2025-01-08**|**Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**|Ivan Kankeu et.al.|[2501.04591](http://arxiv.org/abs/2501.04591)|null|
 |**2025-01-08**|**Unified Coding for Both Human Perception and Generalized Machine Analytics with CLIP Supervision**|Kangsheng Yin et.al.|[2501.04579](http://arxiv.org/abs/2501.04579)|**[link](https://github.com/yinkangsheng/ug-icm)**|
