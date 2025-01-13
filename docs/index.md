@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3098,7 +3098,7 @@ layout: default
 |**2025-01-09**|**Optimized Sampling for Non-Line-of-Sight Imaging Using Modified Fast Fourier Transforms**|Talha Sultan et.al.|[2501.05244](http://arxiv.org/abs/2501.05244)|null|
 |**2025-01-09**|**Principles and Metrics of Extreme Learning Machines Using a Highly Nonlinear Fiber**|Mathilde Hary et.al.|[2501.05233](http://arxiv.org/abs/2501.05233)|null|
 |**2025-01-09**|**Probing Nuclear Excitation by Electron Capture in an Electron Beam Ion Trap with Non-destructive Isomer Detection via Precision Mass Spectrometry**|Bingsheng Tu et.al.|[2501.05217](http://arxiv.org/abs/2501.05217)|null|
-|**2025-01-09**|**Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**|Xuyang Liu et.al.|[2501.05179](http://arxiv.org/abs/2501.05179)|null|
+|**2025-01-09**|**Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**|Xuyang Liu et.al.|[2501.05179](http://arxiv.org/abs/2501.05179)|**[link](https://github.com/xuyang-liu16/globalcom2)**|
 |**2025-01-09**|**Regularity and well-posedness of the Euler system in gas dynamics for dissipative solutions**|Eduard Feireisl et.al.|[2501.05134](http://arxiv.org/abs/2501.05134)|null|
 |**2025-01-09**|**Thermodynamics of a compressible lattice gas crystal: Generalized Gibbs-Duhem equation and adsorption**|Michiel Sprik et.al.|[2501.05117](http://arxiv.org/abs/2501.05117)|null|
 |**2025-01-09**|**A 1Mb mixed-precision quantized encoder for image classification and patch-based compression**|Van Thien Nguyen et.al.|[2501.05097](http://arxiv.org/abs/2501.05097)|null|
