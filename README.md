@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Merging Feed-Forward Sublayers for Compressed Transformers**|Neha Verma et.al.|[2501.06126](http://arxiv.org/abs/2501.06126)|**[link](https://github.com/nverma1/merging-ffs-compression)**|
+|**2025-01-10**|**Modeling the Saddle-like GeV-TeV Spectrum of HESS 1809-193: Gamma-Rays Arising from Reverse-Shocked Pulsar Wind Nebula?**|Jiaxu Sun et.al.|[2501.05944](http://arxiv.org/abs/2501.05944)|null|
+|**2025-01-10**|**Annealing Machine-assisted Learning of Graph Neural Network for Combinatorial Optimization**|Pablo Loyola et.al.|[2501.05845](http://arxiv.org/abs/2501.05845)|null|
+|**2025-01-10**|**Locality-aware Gaussian Compression for Fast and High-quality Rendering**|Seungjoo Shin et.al.|[2501.05757](http://arxiv.org/abs/2501.05757)|null|
+|**2025-01-10**|**LLVD: LSTM-based Explicit Motion Modeling in Latent Space for Blind Video Denoising**|Loay Rashid et.al.|[2501.05744](http://arxiv.org/abs/2501.05744)|null|
+|**2025-01-10**|**ELENA: Epigenetic Learning through Evolved Neural Adaptation**|Boris Kriuk et.al.|[2501.05735](http://arxiv.org/abs/2501.05735)|**[link](https://github.com/sparcus-technologies/elena)**|
+|**2025-01-10**|**Element-wise Attention Is All You Need**|Guoxin Feng et.al.|[2501.05730](http://arxiv.org/abs/2501.05730)|null|
+|**2025-01-10**|**From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities**|Dominick Reilly et.al.|[2501.05711](http://arxiv.org/abs/2501.05711)|null|
+|**2025-01-10**|**Structural transition and emission enhancement in vacancy ordered halide double perovskite Cs $_2$TeCl$_6$ under pressure**|Suvashree Mukherjee et.al.|[2501.05705](http://arxiv.org/abs/2501.05705)|null|
+|**2025-01-10**|**A Two-timescale Primal-dual Algorithm for Decentralized Optimization with Compression**|Haoming Liu et.al.|[2501.05701](http://arxiv.org/abs/2501.05701)|null|
 |**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442](http://arxiv.org/abs/2501.05442)|null|
 |**2025-01-09**|**Efficient computation of particle-fluid and particle-particle interactions in compressible flow**|Anna Schwarz et.al.|[2501.05340](http://arxiv.org/abs/2501.05340)|null|
 |**2025-01-09**|**Optimized Sampling for Non-Line-of-Sight Imaging Using Modified Fast Fourier Transforms**|Talha Sultan et.al.|[2501.05244](http://arxiv.org/abs/2501.05244)|null|
