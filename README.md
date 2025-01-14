@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Dynamic Prototype Rehearsal for Continual Learning in ECG Arrhythmia Detection**|Sana Rahmani et.al.|[2501.07555](http://arxiv.org/abs/2501.07555)|null|
+|**2025-01-13**|**Spectral distribution of the free Jacobi process with equal rank projections**|Nizar Demni et.al.|[2501.07552](http://arxiv.org/abs/2501.07552)|null|
+|**2025-01-13**|**Estimating Musical Surprisal in Audio**|Mathias Rose Bjare et.al.|[2501.07474](http://arxiv.org/abs/2501.07474)|null|
+|**2025-01-13**|**Effect of dark matter halo on transonic accretion flow around a galactic black hole**|Subhankar Patra et.al.|[2501.07456](http://arxiv.org/abs/2501.07456)|null|
+|**2025-01-13**|**A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion**|Fabio Montello et.al.|[2501.07451](http://arxiv.org/abs/2501.07451)|null|
+|**2025-01-13**|**Do tides play a role in the determination of the pre-stellar core mass function?**|Pierre Dumond et.al.|[2501.07436](http://arxiv.org/abs/2501.07436)|null|
+|**2025-01-13**|**Efficient Quantum Circuit Compilation for Near-Term Quantum Advantage**|Yuchen Guo et.al.|[2501.07387](http://arxiv.org/abs/2501.07387)|null|
+|**2025-01-13**|**Emergent effects of scaling on the functional hierarchies within large language models**|Paul C. Bogdan et.al.|[2501.07359](http://arxiv.org/abs/2501.07359)|null|
+|**2025-01-13**|**EdgeTAM: On-Device Track Anything Model**|Chong Zhou et.al.|[2501.07256](http://arxiv.org/abs/2501.07256)|null|
+|**2025-01-13**|**On the origin of compressive turbulence in protoclumps in high redshift disks**|Omry Ginzburg et.al.|[2501.07097](http://arxiv.org/abs/2501.07097)|null|
 |**2025-01-10**|**Merging Feed-Forward Sublayers for Compressed Transformers**|Neha Verma et.al.|[2501.06126](http://arxiv.org/abs/2501.06126)|**[link](https://github.com/nverma1/merging-ffs-compression)**|
 |**2025-01-10**|**Modeling the Saddle-like GeV-TeV Spectrum of HESS 1809-193: Gamma-Rays Arising from Reverse-Shocked Pulsar Wind Nebula?**|Jiaxu Sun et.al.|[2501.05944](http://arxiv.org/abs/2501.05944)|null|
 |**2025-01-10**|**Annealing Machine-assisted Learning of Graph Neural Network for Combinatorial Optimization**|Pablo Loyola et.al.|[2501.05845](http://arxiv.org/abs/2501.05845)|null|
