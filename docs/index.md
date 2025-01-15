@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Low Mach number limit for the compressible Navier-Stokes equation with a stationary force**|Naoto Deguchi et.al.|[2501.08315](http://arxiv.org/abs/2501.08315)|null|
+|**2025-01-14**|**LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding**|Hongyu Li et.al.|[2501.08282](http://arxiv.org/abs/2501.08282)|**[link](https://github.com/appletea233/llava-st)**|
+|**2025-01-14**|**Resolving Structural Origins for Superconductivity in Strain-Engineered La $_3$Ni$_2$O$_7$ Thin Films**|Lopa Bhatt et.al.|[2501.08204](http://arxiv.org/abs/2501.08204)|null|
+|**2025-01-14**|**D $^2$ -DPM: Dual Denoising for Quantized Diffusion Probabilistic Models**|Qian Zeng et.al.|[2501.08180](http://arxiv.org/abs/2501.08180)|**[link](https://github.com/taylorjocelyn/d2-dpm)**|
+|**2025-01-14**|**Flow-field analysis and performance assessment of rotating detonation engines under different number of discrete inlet nozzles**|Sebastian Valencia et.al.|[2501.08171](http://arxiv.org/abs/2501.08171)|null|
+|**2025-01-14**|**Lyapunov-Schmidt bifurcation analysis of a supported compressible elastic beam**|Ee Hou Yong et.al.|[2501.08028](http://arxiv.org/abs/2501.08028)|null|
+|**2025-01-14**|**Geodesic deviation in the $q$ -metric**|Anuar Idrissov et.al.|[2501.08024](http://arxiv.org/abs/2501.08024)|null|
+|**2025-01-14**|**Superconductivity and normal-state transport in compressively strained La $_2$PrNi$_2$O$_7$ thin films**|Yidi Liu et.al.|[2501.08022](http://arxiv.org/abs/2501.08022)|null|
+|**2025-01-14**|**Effective algorithms for tensor train decomposition via the UTV framework**|Yuchao Wang et.al.|[2501.07904](http://arxiv.org/abs/2501.07904)|null|
+|**2025-01-14**|**Bridge-SR: Schrödinger Bridge for Efficient SR**|Chang Li et.al.|[2501.07897](http://arxiv.org/abs/2501.07897)|null|
 |**2025-01-13**|**Dynamic Prototype Rehearsal for Continual Learning in ECG Arrhythmia Detection**|Sana Rahmani et.al.|[2501.07555](http://arxiv.org/abs/2501.07555)|null|
 |**2025-01-13**|**Spectral distribution of the free Jacobi process with equal rank projections**|Nizar Demni et.al.|[2501.07552](http://arxiv.org/abs/2501.07552)|null|
 |**2025-01-13**|**Estimating Musical Surprisal in Audio**|Mathias Rose Bjare et.al.|[2501.07474](http://arxiv.org/abs/2501.07474)|null|
