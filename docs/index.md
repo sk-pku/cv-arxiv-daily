@@ -3093,6 +3093,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Learning Joint Denoising, Demosaicing, and Compression from the Raw Natural Image Noise Dataset**|Benoit Brummer et.al.|[2501.08924](http://arxiv.org/abs/2501.08924)|null|
+|**2025-01-15**|**PAC Learnability of Scenario Decision-Making Algorithms: Necessary and Sufficient Conditions**|Guillaume O. Berger et.al.|[2501.08887](http://arxiv.org/abs/2501.08887)|null|
+|**2025-01-15**|**Improved Compression Bounds for Scenario Decision Making**|Guillaume O. Berger et.al.|[2501.08884](http://arxiv.org/abs/2501.08884)|null|
+|**2025-01-15**|**Compressible Navier-Stokes-Fourier approximation for the Boltzmann equation in bounded domains: from specular reflection to Navier-slip boundary conditions**|Ning Jiang et.al.|[2501.08715](http://arxiv.org/abs/2501.08715)|null|
+|**2025-01-15**|**Pulse compression by photoexcitation-induced dynamics of Bragg mirrors**|Zukhriddin Ruziev et.al.|[2501.08637](http://arxiv.org/abs/2501.08637)|null|
+|**2025-01-15**|**SWSC: Shared Weight for Similar Channel in LLM**|Binrui Zeng et.al.|[2501.08631](http://arxiv.org/abs/2501.08631)|null|
+|**2025-01-14**|**Observation of Jones-Roberts solitons in a paraxial quantum fluid of ligh**|Myrann Baker-Rasooli et.al.|[2501.08383](http://arxiv.org/abs/2501.08383)|null|
 |**2025-01-14**|**Low Mach number limit for the compressible Navier-Stokes equation with a stationary force**|Naoto Deguchi et.al.|[2501.08315](http://arxiv.org/abs/2501.08315)|null|
 |**2025-01-14**|**LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding**|Hongyu Li et.al.|[2501.08282](http://arxiv.org/abs/2501.08282)|**[link](https://github.com/appletea233/llava-st)**|
 |**2025-01-14**|**Resolving Structural Origins for Superconductivity in Strain-Engineered La $_3$Ni$_2$O$_7$ Thin Films**|Lopa Bhatt et.al.|[2501.08204](http://arxiv.org/abs/2501.08204)|null|
