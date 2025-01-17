@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**|Philippe Hansen-Estruch et.al.|[2501.09755](http://arxiv.org/abs/2501.09755)|null|
+|**2025-01-16**|**SRE-Conv: Symmetric Rotation Equivariant Convolution for Biomedical Image Classification**|Yuexi Du et.al.|[2501.09753](http://arxiv.org/abs/2501.09753)|**[link](https://github.com/xypb/sre-conv)**|
+|**2025-01-16**|**A vertical slice frontogenesis test case for compressible nonhydrostatic dynamical cores of atmospheric models**|Hiroe Yamazaki et.al.|[2501.09752](http://arxiv.org/abs/2501.09752)|null|
+|**2025-01-16**|**FAST: Efficient Action Tokenization for Vision-Language-Action Models**|Karl Pertsch et.al.|[2501.09747](http://arxiv.org/abs/2501.09747)|null|
+|**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
+|**2025-01-16**|**Magnetic injection photocurrents in valley polarized states of twisted bilayer graphene**|Fernando Peñaranda et.al.|[2501.09703](http://arxiv.org/abs/2501.09703)|null|
+|**2025-01-16**|**Atleus: Accelerating Transformers on the Edge Enabled by 3D Heterogeneous Manycore Architectures**|Pratyush Dhingra et.al.|[2501.09588](http://arxiv.org/abs/2501.09588)|null|
+|**2025-01-16**|**Velocity fields and turbulence from cosmic filaments to galaxy clusters**|Théo Lebeau et.al.|[2501.09573](http://arxiv.org/abs/2501.09573)|null|
+|**2025-01-16**|**Very soft microgels at the interface behave and flow as Hertzian-like spheres**|José Ruiz-Franco et.al.|[2501.09472](http://arxiv.org/abs/2501.09472)|null|
+|**2025-01-16**|**FASP: Fast and Accurate Structured Pruning of Large Language Models**|Hanyu Hu et.al.|[2501.09412](http://arxiv.org/abs/2501.09412)|null|
 |**2025-01-15**|**Learning Joint Denoising, Demosaicing, and Compression from the Raw Natural Image Noise Dataset**|Benoit Brummer et.al.|[2501.08924](http://arxiv.org/abs/2501.08924)|null|
 |**2025-01-15**|**PAC Learnability of Scenario Decision-Making Algorithms: Necessary and Sufficient Conditions**|Guillaume O. Berger et.al.|[2501.08887](http://arxiv.org/abs/2501.08887)|null|
 |**2025-01-15**|**Improved Compression Bounds for Scenario Decision Making**|Guillaume O. Berger et.al.|[2501.08884](http://arxiv.org/abs/2501.08884)|null|
