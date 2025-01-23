@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**Real-time Terahertz Compressive Optical-Digital Neural Network Imaging**|Shao-Hsuan Wu et.al.|[2501.13065](http://arxiv.org/abs/2501.13065)|null|
+|**2025-01-22**|**Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference**|Weizhi Fei et.al.|[2501.12959](http://arxiv.org/abs/2501.12959)|null|
+|**2025-01-22**|**QuaRs: A Transform for Better Lossless Compression of Integers**|Jonas G. Matt et.al.|[2501.12929](http://arxiv.org/abs/2501.12929)|null|
+|**2025-01-22**|**Irrational Complex Rotations Empower Low-bit Optimizers**|Zhen Tian et.al.|[2501.12896](http://arxiv.org/abs/2501.12896)|null|
+|**2025-01-22**|**High-Quality Pulse Compression Using a Hybrid All-Bulk Multipass Cell Scheme**|V. W. Segundo Staels et.al.|[2501.12839](http://arxiv.org/abs/2501.12839)|null|
+|**2025-01-22**|**FDG-Diff: Frequency-Domain-Guided Diffusion Framework for Compressed Hazy Image Restoration**|Ruicheng Zhang et.al.|[2501.12832](http://arxiv.org/abs/2501.12832)|**[link](https://github.com/sysuzrc/fdg-diff)**|
+|**2025-01-22**|**Nonlinear reduction strategies for data compression: a comprehensive comparison from diffusion to advection problems**|Isabella Carla Gonnella et.al.|[2501.12816](http://arxiv.org/abs/2501.12816)|null|
+|**2025-01-22**|**On growth of cocycles of isometric representations on $L^p$ -spaces**|Antonio López Neumann et.al.|[2501.12808](http://arxiv.org/abs/2501.12808)|null|
+|**2025-01-22**|**Practical quantum federated learning and its experimental demonstration**|Zhi-Ping Liu et.al.|[2501.12709](http://arxiv.org/abs/2501.12709)|null|
+|**2025-01-22**|**SoundSpring: Loss-Resilient Audio Transceiver with Dual-Functional Masked Language Modeling**|Shengshi Yao et.al.|[2501.12696](http://arxiv.org/abs/2501.12696)|null|
 |**2025-01-21**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2025-01-21**|**CCESAR: Coastline Classification-Extraction From SAR Images Using CNN-U-Net Combination**|Vidhu Arora et.al.|[2501.12384](http://arxiv.org/abs/2501.12384)|null|
 |**2025-01-21**|**Rate-Distortion-Perception Function of Bernoulli Vector Sources**|Praneeth Kumar Vippathalla et.al.|[2501.12348](http://arxiv.org/abs/2501.12348)|null|
