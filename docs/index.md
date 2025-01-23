@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3099,7 +3099,7 @@ layout: default
 |**2025-01-21**|**Quantum Compressive Sensing Meets Quantum Noise: A Practical Exploration**|Naveed Naimipour et.al.|[2501.12335](http://arxiv.org/abs/2501.12335)|null|
 |**2025-01-21**|**The Gap Between Principle and Practice of Lossy Image Coding**|Haotian Zhang et.al.|[2501.12330](http://arxiv.org/abs/2501.12330)|null|
 |**2025-01-21**|**The Rouse ring chain with attractive harmonic potential of spherical symmetry**|Nail Fatkullin et.al.|[2501.12324](http://arxiv.org/abs/2501.12324)|null|
-|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
+|**2025-01-22**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
 |**2025-01-21**|**Experiments and modeling of dust particle heating resulting from changes in polarity switching in the PK-4 microgravity laboratory**|Lori S. McCabe et.al.|[2501.12248](http://arxiv.org/abs/2501.12248)|null|
 |**2025-01-21**|**RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression**|Uri Gadot et.al.|[2501.12216](http://arxiv.org/abs/2501.12216)|null|
 |**2025-01-21**|**Unveiling the thermal transport mechanism in compressed plastic crystals assisted by deep potential**|Yangjun Qin et.al.|[2501.12078](http://arxiv.org/abs/2501.12078)|null|
