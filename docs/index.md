@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**HP2 Survey V. Ophiuchus: Filament formation in a dispersing cloud complex**|João Alves et.al.|[2501.13931](http://arxiv.org/abs/2501.13931)|null|
+|**2025-01-23**|**Predicting Compact Phrasal Rewrites with Large Language Models for ASR Post Editing**|Hao Zhang et.al.|[2501.13831](http://arxiv.org/abs/2501.13831)|null|
+|**2025-01-23**|**On Disentangled Training for Nonlinear Transform in Learned Image Compression**|Han Li et.al.|[2501.13751](http://arxiv.org/abs/2501.13751)|**[link](https://github.com/qingshi9974/auxt)**|
+|**2025-01-23**|**Influence of inertial confinement on laser-induced bubble generation and shock wave emission**|Xiao-Xuan Liang et.al.|[2501.13749](http://arxiv.org/abs/2501.13749)|null|
+|**2025-01-23**|**Discrete Layered Entropy, Conditional Compression and a Tighter Strong Functional Representation Lemma**|Cheuk Ting Li et.al.|[2501.13736](http://arxiv.org/abs/2501.13736)|null|
+|**2025-01-23**|**Revealing turbulent Dark Matter via merging of self-Gravitating condensates**|Anirudh Sivakumar et.al.|[2501.13689](http://arxiv.org/abs/2501.13689)|null|
+|**2025-01-23**|**Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models**|Zhenghao Lin et.al.|[2501.13629](http://arxiv.org/abs/2501.13629)|null|
+|**2025-01-23**|**K-COMP: Retrieval-Augmented Medical Domain Question Answering With Knowledge-Injected Compressor**|Jeonghun Cho et.al.|[2501.13567](http://arxiv.org/abs/2501.13567)|null|
+|**2025-01-23**|**GoDe: Gaussians on Demand for Progressive Level of Detail and Scalable Compression**|Francesco Di Sario et.al.|[2501.13558](http://arxiv.org/abs/2501.13558)|null|
+|**2025-01-23**|**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse**|Wenzhuo Ma et.al.|[2501.13528](http://arxiv.org/abs/2501.13528)|null|
 |**2025-01-22**|**Real-time Terahertz Compressive Optical-Digital Neural Network Imaging**|Shao-Hsuan Wu et.al.|[2501.13065](http://arxiv.org/abs/2501.13065)|null|
 |**2025-01-22**|**Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference**|Weizhi Fei et.al.|[2501.12959](http://arxiv.org/abs/2501.12959)|null|
 |**2025-01-22**|**QuaRs: A Transform for Better Lossless Compression of Integers**|Jonas G. Matt et.al.|[2501.12929](http://arxiv.org/abs/2501.12929)|null|
