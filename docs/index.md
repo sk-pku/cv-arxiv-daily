@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.24
+## Updated on 2025.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3096,7 +3096,7 @@ layout: default
 |**2025-01-23**|**HP2 Survey V. Ophiuchus: Filament formation in a dispersing cloud complex**|João Alves et.al.|[2501.13931](http://arxiv.org/abs/2501.13931)|null|
 |**2025-01-23**|**Predicting Compact Phrasal Rewrites with Large Language Models for ASR Post Editing**|Hao Zhang et.al.|[2501.13831](http://arxiv.org/abs/2501.13831)|null|
 |**2025-01-23**|**On Disentangled Training for Nonlinear Transform in Learned Image Compression**|Han Li et.al.|[2501.13751](http://arxiv.org/abs/2501.13751)|**[link](https://github.com/qingshi9974/auxt)**|
-|**2025-01-23**|**Influence of inertial confinement on laser-induced bubble generation and shock wave emission**|Xiao-Xuan Liang et.al.|[2501.13749](http://arxiv.org/abs/2501.13749)|null|
+|**2025-01-23**|**Influence of inertial confinement on laser-induced bubble generation and shock wave emission**|Xiao-Xuan Liang et.al.|[2501.13749](http://arxiv.org/abs/2501.13749)|**[link](https://github.com/X-X-Liang/LIBDAR)**|
 |**2025-01-23**|**Discrete Layered Entropy, Conditional Compression and a Tighter Strong Functional Representation Lemma**|Cheuk Ting Li et.al.|[2501.13736](http://arxiv.org/abs/2501.13736)|null|
 |**2025-01-23**|**Revealing turbulent Dark Matter via merging of self-Gravitating condensates**|Anirudh Sivakumar et.al.|[2501.13689](http://arxiv.org/abs/2501.13689)|null|
 |**2025-01-23**|**Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models**|Zhenghao Lin et.al.|[2501.13629](http://arxiv.org/abs/2501.13629)|null|
