@@ -2260,7 +2260,7 @@ layout: default
 |**2024-03-07**|**Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs**|Nikhil Mishra et.al.|[2403.04114](http://arxiv.org/abs/2403.04114)|**[link](https://github.com/nikhilmishra000/cov-nerf)**|
 |**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608](http://arxiv.org/abs/2403.03608)|null|
 |**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241](http://arxiv.org/abs/2403.03241)|null|
-|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
+|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|**[link](https://github.com/chengine/splatnav)**|
 |**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265](http://arxiv.org/abs/2403.02265)|null|
 |**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
 |**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325](http://arxiv.org/abs/2403.01325)|**[link](https://github.com/freedomcls/nerf-vpt)**|
@@ -3129,7 +3129,7 @@ layout: default
 |**2025-01-17**|**Lossless data compression at pragmatic rates**|Andreas Theocharous et.al.|[2501.10103](http://arxiv.org/abs/2501.10103)|null|
 |**2025-01-17**|**One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression**|Keita Miwa et.al.|[2501.10064](http://arxiv.org/abs/2501.10064)|null|
 |**2025-01-17**|**Accelerating Large Language Models through Partially Linear Feed-Forward Network**|Gansen Hu et.al.|[2501.10054](http://arxiv.org/abs/2501.10054)|null|
-|**2025-01-17**|**Conditional Latent Diffusion-Based Speech Enhancement Via Dual Context Learning**|Shengkui Zhao et.al.|[2501.10052](http://arxiv.org/abs/2501.10052)|null|
+|**2025-01-17**|**Conditional Latent Diffusion-Based Speech Enhancement Via Dual Context Learning**|Shengkui Zhao et.al.|[2501.10052](http://arxiv.org/abs/2501.10052)|**[link](https://github.com/alibabasglab/cldm-dcl)**|
 |**2025-01-17**|**Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography**|Mohammed Salah et.al.|[2501.09994](http://arxiv.org/abs/2501.09994)|**[link](https://github.com/mohammedsalah98/pt_fusion)**|
 |**2025-01-17**|**MultiPruner: Balanced Structure Removal in Foundation Models**|J. Pablo Muñoz et.al.|[2501.09949](http://arxiv.org/abs/2501.09949)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
 |**2025-01-16**|**So long Kolmogorov: the forward and backward turbulence cascades in a supernovae-driven, multiphase interstellar medium**|James R. Beattie et.al.|[2501.09855](http://arxiv.org/abs/2501.09855)|null|
@@ -3177,7 +3177,7 @@ layout: default
 |**2025-01-10**|**LLVD: LSTM-based Explicit Motion Modeling in Latent Space for Blind Video Denoising**|Loay Rashid et.al.|[2501.05744](http://arxiv.org/abs/2501.05744)|null|
 |**2025-01-10**|**ELENA: Epigenetic Learning through Evolved Neural Adaptation**|Boris Kriuk et.al.|[2501.05735](http://arxiv.org/abs/2501.05735)|**[link](https://github.com/sparcus-technologies/elena)**|
 |**2025-01-10**|**Element-wise Attention Is All You Need**|Guoxin Feng et.al.|[2501.05730](http://arxiv.org/abs/2501.05730)|null|
-|**2025-01-10**|**From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities**|Dominick Reilly et.al.|[2501.05711](http://arxiv.org/abs/2501.05711)|null|
+|**2025-01-10**|**From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities**|Dominick Reilly et.al.|[2501.05711](http://arxiv.org/abs/2501.05711)|**[link](https://github.com/dominickrei/egoexo4adl)**|
 |**2025-01-10**|**Structural transition and emission enhancement in vacancy ordered halide double perovskite Cs $_2$TeCl$_6$ under pressure**|Suvashree Mukherjee et.al.|[2501.05705](http://arxiv.org/abs/2501.05705)|null|
 |**2025-01-10**|**A Two-timescale Primal-dual Algorithm for Decentralized Optimization with Compression**|Haoming Liu et.al.|[2501.05701](http://arxiv.org/abs/2501.05701)|null|
 |**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442](http://arxiv.org/abs/2501.05442)|null|
@@ -3196,7 +3196,7 @@ layout: default
 |**2025-01-08**|**The Cygnus Allscale Survey of Chemistry and Dynamical Environments: CASCADE. IV. Unveiling the hidden structures in DR18**|W. -J. Kim et.al.|[2501.04518](http://arxiv.org/abs/2501.04518)|null|
 |**2025-01-08**|**Time-asymptotic stability of generic Riemann solutions for Boltzmann equation**|Yi Wang et.al.|[2501.04399](http://arxiv.org/abs/2501.04399)|null|
 |**2025-01-08**|**An Efficient Adaptive Compression Method for Human Perception and Machine Vision Tasks**|Lei Liu et.al.|[2501.04329](http://arxiv.org/abs/2501.04329)|null|
-|**2025-01-08**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**|Hyogon Ryu et.al.|[2501.04304](http://arxiv.org/abs/2501.04304)|null|
+|**2025-01-08**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**|Hyogon Ryu et.al.|[2501.04304](http://arxiv.org/abs/2501.04304)|**[link](https://github.com/ugonfor/DGQ)**|
 |**2025-01-08**|**Separate Source Channel Coding Is Still What You Need: An LLM-based Rethinking**|Tianqi Ren et.al.|[2501.04285](http://arxiv.org/abs/2501.04285)|null|
 |**2025-01-09**|**ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning**|Hyungjin Chung et.al.|[2501.04284](http://arxiv.org/abs/2501.04284)|**[link](https://github.com/dohunlee1/contextmri)**|
 |**2025-01-08**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213](http://arxiv.org/abs/2501.04213)|null|
