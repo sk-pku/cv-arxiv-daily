@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing**|James Seale Smith et.al.|[2501.14713](http://arxiv.org/abs/2501.14713)|null|
+|**2025-01-24**|**Enhanced Confocal Laser Scanning Microscopy with Adaptive Physics Informed Deep Autoencoders**|Zaheer Ahmad et.al.|[2501.14709](http://arxiv.org/abs/2501.14709)|null|
+|**2025-01-24**|**State Space Models for Extractive Summarization in Low Resource Scenarios**|Nisrine Ait Khayi et.al.|[2501.14673](http://arxiv.org/abs/2501.14673)|null|
+|**2025-01-24**|**Landscape of Correlated Orders in Strained Bilayer Nickelate Thin Films**|Congcong Le et.al.|[2501.14665](http://arxiv.org/abs/2501.14665)|null|
+|**2025-01-24**|**Steady compressible Navier-Stokes-Fourier system with general temperature dependent viscosities I: density estimates based on Bogovskii operator**|Ondřej Kreml et.al.|[2501.14501](http://arxiv.org/abs/2501.14501)|null|
+|**2025-01-24**|**CAMEO: Autocorrelation-Preserving Line Simplification for Lossy Time Series Compression**|Carlos Enrique Muñiz-Cuza et.al.|[2501.14432](http://arxiv.org/abs/2501.14432)|null|
+|**2025-01-24**|**Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation**|Yuxuan Wang et.al.|[2501.14317](http://arxiv.org/abs/2501.14317)|null|
+|**2025-01-24**|**Pre-train and Fine-tune: Recommenders as Large Models**|Zhenhao Jiang et.al.|[2501.14268](http://arxiv.org/abs/2501.14268)|null|
+|**2025-01-24**|**Dynamic Token Reduction during Generation for Vision Language Models**|Xiaoyu Liang et.al.|[2501.14204](http://arxiv.org/abs/2501.14204)|null|
+|**2025-01-24**|**Time-asymptotic stability of composite weak planar waves for a general $n\times n$ multi-D viscous system**|Jiayun Meng et.al.|[2501.14188](http://arxiv.org/abs/2501.14188)|null|
 |**2025-01-23**|**HP2 Survey V. Ophiuchus: Filament formation in a dispersing cloud complex**|João Alves et.al.|[2501.13931](http://arxiv.org/abs/2501.13931)|null|
 |**2025-01-23**|**Predicting Compact Phrasal Rewrites with Large Language Models for ASR Post Editing**|Hao Zhang et.al.|[2501.13831](http://arxiv.org/abs/2501.13831)|null|
 |**2025-01-23**|**On Disentangled Training for Nonlinear Transform in Learned Image Compression**|Han Li et.al.|[2501.13751](http://arxiv.org/abs/2501.13751)|**[link](https://github.com/qingshi9974/auxt)**|
