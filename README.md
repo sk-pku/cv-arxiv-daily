@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Adaptive Iterative Compression for High-Resolution Files: an Approach Focused on Preserving Visual Quality in Cinematic Workflows**|Leonardo Melo et.al.|[2501.16319](http://arxiv.org/abs/2501.16319)|null|
+|**2025-01-27**|**Matryoshka Re-Ranker: A Flexible Re-Ranking Architecture With Configurable Depth and Width**|Zheng Liu et.al.|[2501.16302](http://arxiv.org/abs/2501.16302)|null|
+|**2025-01-27**|**FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers**|Renshan Zhang et.al.|[2501.16297](http://arxiv.org/abs/2501.16297)|null|
+|**2025-01-27**|**Structural stability of boundary layers in the entire subsonic regime**|Shengxin Li et.al.|[2501.16268](http://arxiv.org/abs/2501.16268)|null|
+|**2025-01-27**|**3D image based stochastic micro-structure modelling of foams for simulating elasticity**|Anne Jung et.al.|[2501.16194](http://arxiv.org/abs/2501.16194)|null|
+|**2025-01-27**|**Cryptographic Compression**|Joshua Cooper et.al.|[2501.16184](http://arxiv.org/abs/2501.16184)|null|
+|**2025-01-27**|**ARFlow: Autogressive Flow with Hybrid Linear Attention**|Mude Hui et.al.|[2501.16085](http://arxiv.org/abs/2501.16085)|null|
+|**2025-01-27**|**PISCO: Pretty Simple Compression for Retrieval-Augmented Generation**|Maxime Louis et.al.|[2501.16075](http://arxiv.org/abs/2501.16075)|null|
+|**2025-01-27**|**Adaptive Width Neural Networks**|Federico Errica et.al.|[2501.15889](http://arxiv.org/abs/2501.15889)|null|
+|**2025-01-27**|**Multivariate Feature Selection and Autoencoder Embeddings of Ovarian Cancer Clinical and Genetic Data**|Luis Bote-Curiel et.al.|[2501.15881](http://arxiv.org/abs/2501.15881)|null|
 |**2025-01-24**|**FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing**|James Seale Smith et.al.|[2501.14713](http://arxiv.org/abs/2501.14713)|null|
 |**2025-01-24**|**Enhanced Confocal Laser Scanning Microscopy with Adaptive Physics Informed Deep Autoencoders**|Zaheer Ahmad et.al.|[2501.14709](http://arxiv.org/abs/2501.14709)|null|
 |**2025-01-24**|**State Space Models for Extractive Summarization in Low Resource Scenarios**|Nisrine Ait Khayi et.al.|[2501.14673](http://arxiv.org/abs/2501.14673)|null|
