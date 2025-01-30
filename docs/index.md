@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3095,7 +3095,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-28**|**Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models**|J. Pablo Muñoz et.al.|[2501.17088](http://arxiv.org/abs/2501.17088)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
 |**2025-01-28**|**Improved Encoding for Overfitted Video Codecs**|Thomas Leguay et.al.|[2501.16976](http://arxiv.org/abs/2501.16976)|null|
-|**2025-01-28**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
+|**2025-01-29**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
 |**2025-01-28**|**Optimal Criteria for Best Subset Selection**|Zhihan Zhu et.al.|[2501.16815](http://arxiv.org/abs/2501.16815)|null|
 |**2025-01-28**|**Assessing the validity of the anelastic and Boussinesq approximations to model solar inertial modes**|Suprabha Mukhopadhyay et.al.|[2501.16797](http://arxiv.org/abs/2501.16797)|null|
 |**2025-01-28**|**Exploring the Role of Explicit Temporal Modeling in Multimodal Large Language Models for Video Understanding**|Yun Li et.al.|[2501.16786](http://arxiv.org/abs/2501.16786)|null|
