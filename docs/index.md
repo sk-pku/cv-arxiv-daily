@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596](http://arxiv.org/abs/2501.18596)|null|
+|**2025-01-30**|**SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer**|Enze Xie et.al.|[2501.18427](http://arxiv.org/abs/2501.18427)|null|
+|**2025-01-30**|**A weakly compressible SPH method for RANS simulation of wall-bounded turbulent flows**|Feng Wang et.al.|[2501.18397](http://arxiv.org/abs/2501.18397)|null|
+|**2025-01-30**|**Dynamic Model Fine-Tuning For Extreme MIMO CSI Compression**|Mehdi Sattari et.al.|[2501.18250](http://arxiv.org/abs/2501.18250)|null|
+|**2025-01-30**|**Experimental Study of AM and PM Noise in Cascaded Amplifiers**|Inari Badillo et.al.|[2501.18235](http://arxiv.org/abs/2501.18235)|null|
+|**2025-01-30**|**Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models**|Qika Lin et.al.|[2501.18119](http://arxiv.org/abs/2501.18119)|null|
+|**2025-01-30**|**Disentangling Safe and Unsafe Corruptions via Anisotropy and Locality**|Ramchandran Muthukumar et.al.|[2501.18098](http://arxiv.org/abs/2501.18098)|null|
+|**2025-01-29**|**Into the Mystic: the MUSE view of the ionized gas in the Mystic Mountains in Carina**|Megan Reiter et.al.|[2501.18029](http://arxiv.org/abs/2501.18029)|null|
+|**2025-01-29**|**Perforated Backpropagation: A Neuroscience Inspired Extension to Artificial Neural Networks**|Rorry Brenner et.al.|[2501.18018](http://arxiv.org/abs/2501.18018)|null|
+|**2025-01-29**|**On the removal of the barotropic condition in helicity studies of the compressible Euler and ideal compressible MHD equations**|Daniel W. Boutros et.al.|[2501.17990](http://arxiv.org/abs/2501.17990)|null|
 |**2025-01-29**|**Quantum oscillations in a dipolar excitonic insulator**|Phuong X. Nguyen et.al.|[2501.17829](http://arxiv.org/abs/2501.17829)|null|
 |**2025-01-29**|**Structured Context Recomposition for Large Language Models Using Probabilistic Layer Realignment**|Jonathan Teel et.al.|[2501.17617](http://arxiv.org/abs/2501.17617)|null|
 |**2025-01-29**|**Optimum Efficiency of an Asymmetric Quantum Harmonic Otto Engine**|Monika et.al.|[2501.17592](http://arxiv.org/abs/2501.17592)|null|
