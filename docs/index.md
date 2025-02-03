@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|null|
+|**2025-01-31**|**Synthetic User Behavior Sequence Generation with Large Language Models for Smart Homes**|Zhiyao Xu et.al.|[2501.19298](http://arxiv.org/abs/2501.19298)|null|
+|**2025-01-31**|**A Comunication Framework for Compositional Generation**|Rafael Elberg et.al.|[2501.19182](http://arxiv.org/abs/2501.19182)|null|
+|**2025-01-31**|**A Tensor-Train Decomposition based Compression of LLMs on Group Vector Systolic Accelerator**|Sixiao Huang et.al.|[2501.19135](http://arxiv.org/abs/2501.19135)|null|
+|**2025-01-31**|**Brain-inspired sparse training enables Transformers and LLMs to perform as fully connected**|Yingtao Zhang et.al.|[2501.19107](http://arxiv.org/abs/2501.19107)|null|
+|**2025-01-31**|**Pivoting Factorization: A Compact Meta Low-Rank Representation of Sparsity for Efficient Inference in Large Language Models**|Jialin Zhao et.al.|[2501.19090](http://arxiv.org/abs/2501.19090)|null|
+|**2025-01-31**|**Deep Multi-Task Learning Has Low Amortized Intrinsic Dimensionality**|Hossein Zakerinia et.al.|[2501.19067](http://arxiv.org/abs/2501.19067)|null|
+|**2025-01-31**|**Beyond Token Compression: A Training-Free Reduction Framework for Efficient Visual Processing in MLLMs**|Hongliang Li et.al.|[2501.19036](http://arxiv.org/abs/2501.19036)|null|
+|**2025-01-31**|**BCAT: A Block Causal Transformer for PDE Foundation Models for Fluid Dynamics**|Yuxuan Liu et.al.|[2501.18972](http://arxiv.org/abs/2501.18972)|null|
+|**2025-01-31**|**Two-color lattice QCD in $(1+1)$ dimensions with Grassmann tensor renormalization group**|Kwok Ho Pai et.al.|[2501.18918](http://arxiv.org/abs/2501.18918)|null|
 |**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596](http://arxiv.org/abs/2501.18596)|null|
 |**2025-01-30**|**SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer**|Enze Xie et.al.|[2501.18427](http://arxiv.org/abs/2501.18427)|null|
 |**2025-01-30**|**A weakly compressible SPH method for RANS simulation of wall-bounded turbulent flows**|Feng Wang et.al.|[2501.18397](http://arxiv.org/abs/2501.18397)|null|
