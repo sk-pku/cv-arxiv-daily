@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.05
+## Updated on 2025.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3096,7 +3096,7 @@ layout: default
 |**2025-02-04**|**A novel hybrid approach for accurate simulation of compressible multi-component flows across all-Mach number**|Xi Deng et.al.|[2502.02570](http://arxiv.org/abs/2502.02570)|null|
 |**2025-02-04**|**A Clique Partitioning-Based Algorithm for Graph Compression**|Akshar Chavan et.al.|[2502.02477](http://arxiv.org/abs/2502.02477)|null|
 |**2025-02-04**|**Pruning-aware Loss Functions for STOI-Optimized Pruned Recurrent Autoencoders for the Compression of the Stimulation Patterns of Cochlear Implants at Zero Delay**|Reemt Hinrichs et.al.|[2502.02424](http://arxiv.org/abs/2502.02424)|null|
-|**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421](http://arxiv.org/abs/2502.02421)|null|
+|**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421](http://arxiv.org/abs/2502.02421)|**[link](https://github.com/ahnobari/ActivationInformedMerging)**|
 |**2025-02-04**|**On likelihood-based analysis of the gravitationally (de)lensed CMB**|Julien Carron et.al.|[2502.02399](http://arxiv.org/abs/2502.02399)|null|
 |**2025-02-04**|**Burnett-level discrete Boltzmann modeling of compressible flows under force**|Suni Chen et.al.|[2502.02241](http://arxiv.org/abs/2502.02241)|null|
 |**2025-02-04**|**When Dimensionality Hurts: The Role of LLM Embedding Compression for Noisy Regression Tasks**|Felix Drinkall et.al.|[2502.02199](http://arxiv.org/abs/2502.02199)|null|
