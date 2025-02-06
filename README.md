@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
+|**2025-02-05**|**Room Temperature Dy Spin-Flop Switching in Strained DyFeO3 Thin Films**|Banani Biswas et.al.|[2502.03404](http://arxiv.org/abs/2502.03404)|null|
+|**2025-02-05**|**Deep Learning-based Event Data Coding: A Joint Spatiotemporal and Polarity Solution**|Abdelrahman Seleem et.al.|[2502.03285](http://arxiv.org/abs/2502.03285)|null|
+|**2025-02-05**|**Epitaxial strain tuning of electronic and spin excitations in La $_3$Ni$_2$O$_7$ thin films**|Hengyang Zhong et.al.|[2502.03178](http://arxiv.org/abs/2502.03178)|null|
+|**2025-02-05**|**LED there be DoS: Exploiting variable bitrate IP cameras for network DoS**|Emmanuel Goldberg et.al.|[2502.03177](http://arxiv.org/abs/2502.03177)|null|
+|**2025-02-05**|**Investigating the Bouncing Barrier with Collision Simulations of Compressed Dust Aggregates**|Haruto Oshiro et.al.|[2502.03107](http://arxiv.org/abs/2502.03107)|null|
+|**2025-02-05**|**E-3SFC: Communication-Efficient Federated Learning with Double-way Features Synthesizing**|Yuhao Zhou et.al.|[2502.03092](http://arxiv.org/abs/2502.03092)|null|
+|**2025-02-05**|**Gain compression in Josephson Traveling-Wave Parametric Amplifiers**|Gwenael Le Gal et.al.|[2502.03022](http://arxiv.org/abs/2502.03022)|null|
+|**2025-02-05**|**Robust spin-orbit coupling in semi-metallic SrIrO3 under hydrostatic pressure**|Dirk Fuchs et.al.|[2502.02985](http://arxiv.org/abs/2502.02985)|null|
+|**2025-02-05**|**LLM-KT: Aligning Large Language Models with Knowledge Tracing using a Plug-and-Play Instruction**|Ziwei Wang et.al.|[2502.02945](http://arxiv.org/abs/2502.02945)|null|
 |**2025-02-04**|**A novel hybrid approach for accurate simulation of compressible multi-component flows across all-Mach number**|Xi Deng et.al.|[2502.02570](http://arxiv.org/abs/2502.02570)|null|
 |**2025-02-04**|**A Clique Partitioning-Based Algorithm for Graph Compression**|Akshar Chavan et.al.|[2502.02477](http://arxiv.org/abs/2502.02477)|null|
 |**2025-02-04**|**Pruning-aware Loss Functions for STOI-Optimized Pruned Recurrent Autoencoders for the Compression of the Stimulation Patterns of Cochlear Implants at Zero Delay**|Reemt Hinrichs et.al.|[2502.02424](http://arxiv.org/abs/2502.02424)|null|
