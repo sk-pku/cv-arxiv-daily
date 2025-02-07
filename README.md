@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**NLP-Based .NET CLR Event Logs Analyzer**|Maxim Stavtsev et.al.|[2502.04219](http://arxiv.org/abs/2502.04219)|null|
+|**2025-02-06**|**Algorithmic causal structure emerging through compression**|Liang Wendong et.al.|[2502.04210](http://arxiv.org/abs/2502.04210)|null|
+|**2025-02-06**|**Pressure suppresses the density wave order in kagome metal LuNb $_6$Sn$_6$**|William R. Meier et.al.|[2502.04197](http://arxiv.org/abs/2502.04197)|null|
+|**2025-02-06**|**PSZ: Enhancing the SZ Scientific Lossy Compressor With Progressive Data Retrieval**|Zhuoxun Yang et.al.|[2502.04093](http://arxiv.org/abs/2502.04093)|null|
+|**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/abs/2502.04077)|null|
+|**2025-02-06**|**PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation**|Hyemin Lim et.al.|[2502.03984](http://arxiv.org/abs/2502.03984)|null|
+|**2025-02-06**|**Semantic Feature Division Multiple Access for Digital Semantic Broadcast Channels**|Shuai Ma et.al.|[2502.03949](http://arxiv.org/abs/2502.03949)|null|
+|**2025-02-06**|**Enhancing Online Learning Efficiency Through Heterogeneous Resource Integration with a Multi-Agent RAG System**|Devansh Srivastav et.al.|[2502.03948](http://arxiv.org/abs/2502.03948)|null|
+|**2025-02-06**|**UAV Cognitive Semantic Communications Enabled by Knowledge Graph for Robust Object Detection**|Xi Song et.al.|[2502.03761](http://arxiv.org/abs/2502.03761)|null|
+|**2025-02-06**|**Scaling Laws in Patchification: An Image Is Worth 50,176 Tokens And More**|Feng Wang et.al.|[2502.03738](http://arxiv.org/abs/2502.03738)|null|
 |**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
 |**2025-02-05**|**Room Temperature Dy Spin-Flop Switching in Strained DyFeO3 Thin Films**|Banani Biswas et.al.|[2502.03404](http://arxiv.org/abs/2502.03404)|null|
 |**2025-02-05**|**Deep Learning-based Event Data Coding: A Joint Spatiotemporal and Polarity Solution**|Abdelrahman Seleem et.al.|[2502.03285](http://arxiv.org/abs/2502.03285)|null|
