@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Counting Fish with Temporal Representations of Sonar Video**|Kai Van Brunt et.al.|[2502.05129](http://arxiv.org/abs/2502.05129)|null|
+|**2025-02-07**|**Trust-Aware Diversion for Data-Effective Distillation**|Zhuojie Wu et.al.|[2502.05027](http://arxiv.org/abs/2502.05027)|null|
+|**2025-02-07**|**QuEST: Stable Training of LLMs with 1-Bit Weights and Activations**|Andrei Panferov et.al.|[2502.05003](http://arxiv.org/abs/2502.05003)|**[link](https://github.com/IST-DASLab/QuEST)**|
+|**2025-02-07**|**CMamba: Learned Image Compression with State Space Models**|Zhuojie Wu et.al.|[2502.04988](http://arxiv.org/abs/2502.04988)|null|
+|**2025-02-07**|**High-dimensional stochastic finite volumes using the tensor train format**|Juliette Dubois et.al.|[2502.04868](http://arxiv.org/abs/2502.04868)|null|
+|**2025-02-07**|**Integration Concept of the CBM Micro Vertex Detector**|Franz Matejcek et.al.|[2502.04858](http://arxiv.org/abs/2502.04858)|null|
+|**2025-02-07**|**A fully conservative discrete velocity Boltzmann solver with parallel adaptive mesh refinement for compressible flows**|Ruben M. Strässle et.al.|[2502.04820](http://arxiv.org/abs/2502.04820)|null|
+|**2025-02-07**|**DetVPCC: RoI-based Point Cloud Sequence Compression for 3D Object Detection**|Mingxuan Yan et.al.|[2502.04804](http://arxiv.org/abs/2502.04804)|null|
+|**2025-02-07**|**Comprehensive Formal Verification of Observational Correctness for the CHERIoT-Ibex Processor**|Louis-Emile Ploix et.al.|[2502.04738](http://arxiv.org/abs/2502.04738)|null|
+|**2025-02-07**|**Dynamic Frequency-Adaptive Knowledge Distillation for Speech Enhancement**|Xihao Yuan et.al.|[2502.04711](http://arxiv.org/abs/2502.04711)|null|
 |**2025-02-06**|**NLP-Based .NET CLR Event Logs Analyzer**|Maxim Stavtsev et.al.|[2502.04219](http://arxiv.org/abs/2502.04219)|null|
 |**2025-02-06**|**Algorithmic causal structure emerging through compression**|Liang Wendong et.al.|[2502.04210](http://arxiv.org/abs/2502.04210)|null|
 |**2025-02-06**|**Pressure suppresses the density wave order in kagome metal LuNb $_6$Sn$_6$**|William R. Meier et.al.|[2502.04197](http://arxiv.org/abs/2502.04197)|null|
