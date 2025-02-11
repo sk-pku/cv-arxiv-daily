@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**|Dongyang Liu et.al.|[2502.06782](http://arxiv.org/abs/2502.06782)|null|
+|**2025-02-10**|**Solving Optimal Power Flow on a Data-Budget: Feature Selection on Smart Meter Data**|Vassilis Kekatos et.al.|[2502.06683](http://arxiv.org/abs/2502.06683)|null|
+|**2025-02-10**|**EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models**|Xingrun Xing et.al.|[2502.06663](http://arxiv.org/abs/2502.06663)|null|
+|**2025-02-10**|**Scaling Multi-Document Event Summarization: Evaluating Compression vs. Full-Text Approaches**|Adithya Pratapa et.al.|[2502.06617](http://arxiv.org/abs/2502.06617)|null|
+|**2025-02-10**|**Surrogate models for diffusion on graphs via sparse polynomials**|Giuseppe Alessio D'Inverno et.al.|[2502.06595](http://arxiv.org/abs/2502.06595)|null|
+|**2025-02-10**|**Inflatable Kirigami Crawlers**|Burcu Seyidoğlu et.al.|[2502.06466](http://arxiv.org/abs/2502.06466)|null|
+|**2025-02-10**|**New opportunities for high pressure hydrogen achieved by fullerane vibrating modes: an ab initio study**|Leonard Constantin Gebac et.al.|[2502.06441](http://arxiv.org/abs/2502.06441)|null|
+|**2025-02-10**|**Rethinking Large-scale Dataset Compression: Shifting Focus From Labels to Images**|Lingao Xiao et.al.|[2502.06434](http://arxiv.org/abs/2502.06434)|null|
+|**2025-02-10**|**FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution**|Qiang Zhu et.al.|[2502.06431](http://arxiv.org/abs/2502.06431)|null|
+|**2025-02-10**|**Robust Watermarks Leak: Channel-Aware Feature Extraction Enables Adversarial Watermark Manipulation**|Zhongjie Ba et.al.|[2502.06418](http://arxiv.org/abs/2502.06418)|null|
 |**2025-02-07**|**Counting Fish with Temporal Representations of Sonar Video**|Kai Van Brunt et.al.|[2502.05129](http://arxiv.org/abs/2502.05129)|null|
 |**2025-02-07**|**Trust-Aware Diversion for Data-Effective Distillation**|Zhuojie Wu et.al.|[2502.05027](http://arxiv.org/abs/2502.05027)|null|
 |**2025-02-07**|**QuEST: Stable Training of LLMs with 1-Bit Weights and Activations**|Andrei Panferov et.al.|[2502.05003](http://arxiv.org/abs/2502.05003)|**[link](https://github.com/IST-DASLab/QuEST)**|
