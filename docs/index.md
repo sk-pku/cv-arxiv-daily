@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
+|**2025-02-11**|**Stay-Positive: A Case for Ignoring Real Image Features in Fake Image Detection**|Anirudh Sundara Rajan et.al.|[2502.07778](http://arxiv.org/abs/2502.07778)|null|
+|**2025-02-11**|**To clean or not to clean? Influence of pixel removal on event reconstruction using deep learning in CTAO**|Tom François et.al.|[2502.07643](http://arxiv.org/abs/2502.07643)|null|
+|**2025-02-11**|**The Interaction of a Supernova Remnant with background interstellar turbulence**|Giuseppe Prete et.al.|[2502.07619](http://arxiv.org/abs/2502.07619)|null|
+|**2025-02-11**|**Optimizing Knowledge Distillation in Transformers: Enabling Multi-Head Attention without Alignment Barriers**|Zhaodong Bing et.al.|[2502.07436](http://arxiv.org/abs/2502.07436)|null|
+|**2025-02-11**|**Multi-directional Backlighting Compressive Light Field Displays**|Chen Gao et.al.|[2502.07413](http://arxiv.org/abs/2502.07413)|null|
+|**2025-02-11**|**Non-uniqueness for the nonlinear dynamical Lamé system**|Shunkai Mao et.al.|[2502.07385](http://arxiv.org/abs/2502.07385)|null|
+|**2025-02-11**|**Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**|Hongyu An et.al.|[2502.07381](http://arxiv.org/abs/2502.07381)|null|
+|**2025-02-11**|**The contribution of dilatational motion to energy flux in homogeneous compressible turbulence**|Chensheng Luo et.al.|[2502.07349](http://arxiv.org/abs/2502.07349)|null|
+|**2025-02-11**|**Simplifying Adversarially Robust PAC Learning with Tolerance**|Hassan Ashtiani et.al.|[2502.07232](http://arxiv.org/abs/2502.07232)|null|
 |**2025-02-10**|**Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**|Dongyang Liu et.al.|[2502.06782](http://arxiv.org/abs/2502.06782)|null|
 |**2025-02-10**|**Solving Optimal Power Flow on a Data-Budget: Feature Selection on Smart Meter Data**|Vassilis Kekatos et.al.|[2502.06683](http://arxiv.org/abs/2502.06683)|null|
 |**2025-02-10**|**EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models**|Xingrun Xing et.al.|[2502.06663](http://arxiv.org/abs/2502.06663)|null|
