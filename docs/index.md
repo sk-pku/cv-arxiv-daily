@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/abs/2502.09601)|null|
+|**2025-02-13**|**Differentially Private Compression and the Sensitivity of LZ77**|Jeremiah Blocki et.al.|[2502.09584](http://arxiv.org/abs/2502.09584)|null|
+|**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|null|
+|**2025-02-13**|**EQ-VAE: Equivariance Regularized Latent Space for Improved Generative Image Modeling**|Theodoros Kouzelis et.al.|[2502.09509](http://arxiv.org/abs/2502.09509)|null|
+|**2025-02-13**|**The Third Generation of Nanogenerators: The Irreplaceable Potential Source Enabled by the Flexoelectric Nanogenerator**|Shang Ru Li et.al.|[2502.09439](http://arxiv.org/abs/2502.09439)|null|
+|**2025-02-13**|**Stability of composite Wave of Planar Viscous Shock and Rarefaction for 3D Barotropic Navier-Stokes Equations**|Jiajin Shi et.al.|[2502.09321](http://arxiv.org/abs/2502.09321)|null|
+|**2025-02-13**|**Failure of the least action admissibility principle in the context of the compressible Euler equations**|Simon Markfelder et.al.|[2502.09292](http://arxiv.org/abs/2502.09292)|null|
+|**2025-02-13**|**You Do Not Fully Utilize Transformer's Representation Capacity**|Gleb Gerasimov et.al.|[2502.09245](http://arxiv.org/abs/2502.09245)|null|
+|**2025-02-13**|**On LLM-generated Logic Programs and their Inference Execution Methods**|Paul Tarau et.al.|[2502.09209](http://arxiv.org/abs/2502.09209)|null|
+|**2025-02-13**|**XAInomaly: Explainable and Interpretable Deep Contractive Autoencoder for O-RAN Traffic Anomaly Detection**|Osman Tugay Basaran et.al.|[2502.09194](http://arxiv.org/abs/2502.09194)|null|
 |**2025-02-12**|**Free products and rescalings involving non-separable abelian von Neumann algebras**|Ken Dykema et.al.|[2502.08595](http://arxiv.org/abs/2502.08595)|null|
 |**2025-02-12**|**A Novel Approach to for Multimodal Emotion Recognition : Multimodal semantic information fusion**|Wei Dai et.al.|[2502.08573](http://arxiv.org/abs/2502.08573)|null|
 |**2025-02-12**|**Semantic Learning for Molecular Communication in Internet of Bio-Nano Things**|Hanlin Cai et.al.|[2502.08426](http://arxiv.org/abs/2502.08426)|null|
