@@ -2150,7 +2150,7 @@
 |**2024-04-15**|**OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering**|Jingrui Ye et.al.|[2404.08449](http://arxiv.org/abs/2404.08449)|null|
 |**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312](http://arxiv.org/abs/2404.08312)|**[link](https://github.com/forestsen/GPN)**|
 |**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252](http://arxiv.org/abs/2404.08252)|null|
-|**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993](http://arxiv.org/abs/2404.07993)|null|
+|**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993](http://arxiv.org/abs/2404.07993)|**[link](https://github.com/CVLAB-Unibo/clip2nerf)**|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|**[link](https://github.com/keonhee-han/KDBTS)**|
 |**2024-04-12**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/abs/2404.07762)|**[link](https://github.com/wljungbergh/neuroncap)**|
 |**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474](http://arxiv.org/abs/2404.07474)|**[link](https://github.com/llrtt/G-NeRF)**|
@@ -3148,7 +3148,7 @@
 |**2025-02-10**|**Solving Optimal Power Flow on a Data-Budget: Feature Selection on Smart Meter Data**|Vassilis Kekatos et.al.|[2502.06683](http://arxiv.org/abs/2502.06683)|null|
 |**2025-02-10**|**EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models**|Xingrun Xing et.al.|[2502.06663](http://arxiv.org/abs/2502.06663)|null|
 |**2025-02-10**|**Scaling Multi-Document Event Summarization: Evaluating Compression vs. Full-Text Approaches**|Adithya Pratapa et.al.|[2502.06617](http://arxiv.org/abs/2502.06617)|null|
-|**2025-02-10**|**Surrogate models for diffusion on graphs via sparse polynomials**|Giuseppe Alessio D'Inverno et.al.|[2502.06595](http://arxiv.org/abs/2502.06595)|null|
+|**2025-02-10**|**Surrogate models for diffusion on graphs via sparse polynomials**|Giuseppe Alessio D'Inverno et.al.|[2502.06595](http://arxiv.org/abs/2502.06595)|**[link](https://github.com/k-yoan/surrogate_graph_diffusion)**|
 |**2025-02-10**|**Inflatable Kirigami Crawlers**|Burcu Seyidoğlu et.al.|[2502.06466](http://arxiv.org/abs/2502.06466)|null|
 |**2025-02-10**|**New opportunities for high pressure hydrogen achieved by fullerane vibrating modes: an ab initio study**|Leonard Constantin Gebac et.al.|[2502.06441](http://arxiv.org/abs/2502.06441)|null|
 |**2025-02-10**|**Rethinking Large-scale Dataset Compression: Shifting Focus From Labels to Images**|Lingao Xiao et.al.|[2502.06434](http://arxiv.org/abs/2502.06434)|null|
@@ -3164,7 +3164,7 @@
 |**2025-02-07**|**DetVPCC: RoI-based Point Cloud Sequence Compression for 3D Object Detection**|Mingxuan Yan et.al.|[2502.04804](http://arxiv.org/abs/2502.04804)|null|
 |**2025-02-07**|**Comprehensive Formal Verification of Observational Correctness for the CHERIoT-Ibex Processor**|Louis-Emile Ploix et.al.|[2502.04738](http://arxiv.org/abs/2502.04738)|null|
 |**2025-02-07**|**Dynamic Frequency-Adaptive Knowledge Distillation for Speech Enhancement**|Xihao Yuan et.al.|[2502.04711](http://arxiv.org/abs/2502.04711)|null|
-|**2025-02-06**|**NLP-Based .NET CLR Event Logs Analyzer**|Maxim Stavtsev et.al.|[2502.04219](http://arxiv.org/abs/2502.04219)|null|
+|**2025-02-06**|**NLP-Based .NET CLR Event Logs Analyzer**|Maxim Stavtsev et.al.|[2502.04219](http://arxiv.org/abs/2502.04219)|**[link](https://github.com/mastavtsev/NLP-CLR-LogAnalyzer)**|
 |**2025-02-06**|**Algorithmic causal structure emerging through compression**|Liang Wendong et.al.|[2502.04210](http://arxiv.org/abs/2502.04210)|null|
 |**2025-02-06**|**Pressure suppresses the density wave order in kagome metal LuNb $_6$Sn$_6$**|William R. Meier et.al.|[2502.04197](http://arxiv.org/abs/2502.04197)|null|
 |**2025-02-06**|**PSZ: Enhancing the SZ Scientific Lossy Compressor With Progressive Data Retrieval**|Zhuoxun Yang et.al.|[2502.04093](http://arxiv.org/abs/2502.04093)|null|
@@ -3180,7 +3180,7 @@
 |**2025-02-05**|**Epitaxial strain tuning of electronic and spin excitations in La $_3$Ni$_2$O$_7$ thin films**|Hengyang Zhong et.al.|[2502.03178](http://arxiv.org/abs/2502.03178)|null|
 |**2025-02-05**|**LED there be DoS: Exploiting variable bitrate IP cameras for network DoS**|Emmanuel Goldberg et.al.|[2502.03177](http://arxiv.org/abs/2502.03177)|null|
 |**2025-02-05**|**Investigating the Bouncing Barrier with Collision Simulations of Compressed Dust Aggregates**|Haruto Oshiro et.al.|[2502.03107](http://arxiv.org/abs/2502.03107)|null|
-|**2025-02-05**|**E-3SFC: Communication-Efficient Federated Learning with Double-way Features Synthesizing**|Yuhao Zhou et.al.|[2502.03092](http://arxiv.org/abs/2502.03092)|null|
+|**2025-02-05**|**E-3SFC: Communication-Efficient Federated Learning with Double-way Features Synthesizing**|Yuhao Zhou et.al.|[2502.03092](http://arxiv.org/abs/2502.03092)|**[link](https://github.com/Soptq/e-3sfc)**|
 |**2025-02-05**|**Gain compression in Josephson Traveling-Wave Parametric Amplifiers**|Gwenael Le Gal et.al.|[2502.03022](http://arxiv.org/abs/2502.03022)|null|
 |**2025-02-05**|**Robust spin-orbit coupling in semi-metallic SrIrO3 under hydrostatic pressure**|Dirk Fuchs et.al.|[2502.02985](http://arxiv.org/abs/2502.02985)|null|
 |**2025-02-05**|**LLM-KT: Aligning Large Language Models with Knowledge Tracing using a Plug-and-Play Instruction**|Ziwei Wang et.al.|[2502.02945](http://arxiv.org/abs/2502.02945)|null|
@@ -3450,7 +3450,7 @@
 |**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649](http://arxiv.org/abs/2412.15649)|null|
 |**2024-12-20**|**Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck**|Van Thuy Hoang et.al.|[2412.15589](http://arxiv.org/abs/2412.15589)|**[link](https://github.com/NSLab-CUK/S-CGIB)**|
 |**2024-12-19**|**Tokenisation is NP-Complete**|Philip Whittington et.al.|[2412.15210](http://arxiv.org/abs/2412.15210)|null|
-|**2024-12-19**|**Till the Layers Collapse: Compressing a Deep Neural Network through the Lenses of Batch Normalization Layers**|Zhu Liao et.al.|[2412.15077](http://arxiv.org/abs/2412.15077)|null|
+|**2024-12-19**|**Till the Layers Collapse: Compressing a Deep Neural Network through the Lenses of Batch Normalization Layers**|Zhu Liao et.al.|[2412.15077](http://arxiv.org/abs/2412.15077)|**[link](https://github.com/zhuliao001/tlc)**|
 |**2024-12-19**|**ThinCurr: An open-source 3D thin-wall eddy current modeling code for the analysis of large-scale systems of conducting structures**|Christopher Hansen et.al.|[2412.14962](http://arxiv.org/abs/2412.14962)|**[link](https://github.com/openfusiontoolkit/OpenFUSIONToolkit)**|
 |**2024-12-19**|**Effective Method with Compression for Distributed and Federated Cocoercive Variational Inequalities**|Daniil Medyakov et.al.|[2412.14935](http://arxiv.org/abs/2412.14935)|null|
 |**2024-12-19**|**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs**|Xiabin Zhou et.al.|[2412.14838](http://arxiv.org/abs/2412.14838)|null|
@@ -3798,7 +3798,7 @@
 |**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271](http://arxiv.org/abs/2410.21271)|null|
 |**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262](http://arxiv.org/abs/2410.21262)|**[link](https://github.com/changwoolee/blast)**|
 |**2024-10-28**|**Phase space compression of a positive muon beam in two spatial dimensions**|A. Antognini et.al.|[2410.21162](http://arxiv.org/abs/2410.21162)|null|
-|**2024-10-29**|**Enhancing Learned Image Compression via Cross Window-based Attention**|Priyanka Mudgal et.al.|[2410.21144](http://arxiv.org/abs/2410.21144)|null|
+|**2024-10-29**|**Enhancing Learned Image Compression via Cross Window-based Attention**|Priyanka Mudgal et.al.|[2410.21144](http://arxiv.org/abs/2410.21144)|**[link](https://github.com/prmudgal/CWAM_IC_ISVC)**|
 |**2024-10-28**|**Energy cascade and Sobolev norms inflation for the quantum Euler equations on tori**|Filippo Giuliani et.al.|[2410.21080](http://arxiv.org/abs/2410.21080)|null|
 |**2024-10-28**|**Projection-based Reduced Order Modelling for Unsteady Parametrized Optimal Control Problems in 3D Cardiovascular Flows**|Surabhi Rathore et.al.|[2410.20828](http://arxiv.org/abs/2410.20828)|null|
 |**2024-10-28**|**Intermittency of bubble deformation in turbulence**|Xu Xu et.al.|[2410.20826](http://arxiv.org/abs/2410.20826)|null|
@@ -4303,7 +4303,7 @@
 |**2024-08-07**|**Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields**|Joo Chan Lee et.al.|[2408.03822](http://arxiv.org/abs/2408.03822)|null|
 |**2024-08-07**|**The Biot stress -- right stretch relation for the compressible Neo-Hooke-Ciarlet-Geymonat model and Rivlin's cube problem**|Ionel-Dumitrel Ghiba et.al.|[2408.03821](http://arxiv.org/abs/2408.03821)|null|
 |**2024-08-07**|**A Convex-optimization-based Layer-wise Post-training Pruner for Large Language Models**|Pengxiang Zhao et.al.|[2408.03728](http://arxiv.org/abs/2408.03728)|null|
-|**2024-08-06**|**Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems**|Shane A. McQuarrie et.al.|[2408.03455](http://arxiv.org/abs/2408.03455)|null|
+|**2024-08-06**|**Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems**|Shane A. McQuarrie et.al.|[2408.03455](http://arxiv.org/abs/2408.03455)|**[link](https://github.com/sandialabs/gp-bayesopinf)**|
 |**2024-08-06**|**Prioritize Alignment in Dataset Distillation**|Zekai Li et.al.|[2408.03360](http://arxiv.org/abs/2408.03360)|**[link](https://github.com/nus-hpc-ai-lab/pad)**|
 |**2024-08-06**|**DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers**|Lianwei Yang et.al.|[2408.03291](http://arxiv.org/abs/2408.03291)|null|
 |**2024-08-06**|**Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**|Angie Boggust et.al.|[2408.03274](http://arxiv.org/abs/2408.03274)|null|
@@ -4611,7 +4611,7 @@
 |**2024-06-21**|**FC3DNet: A Fully Connected Encoder-Decoder for Efficient Demoir'eing**|Zhibo Du et.al.|[2406.14912](http://arxiv.org/abs/2406.14912)|null|
 |**2024-06-21**|**MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression**|Tianyu Fu et.al.|[2406.14909](http://arxiv.org/abs/2406.14909)|**[link](https://github.com/thu-nics/moa)**|
 |**2024-06-20**|**xCOMET-lite: Bridging the Gap Between Efficiency and Quality in Learned MT Evaluation Metrics**|Daniil Larionov et.al.|[2406.14553](http://arxiv.org/abs/2406.14553)|**[link](https://github.com/nl2g/xcomet-lite)**|
-|**2024-06-20**|**Communication-efficient Vertical Federated Learning via Compressed Error Feedback**|Pedro Valdeira et.al.|[2406.14420](http://arxiv.org/abs/2406.14420)|null|
+|**2024-06-20**|**Communication-efficient Vertical Federated Learning via Compressed Error Feedback**|Pedro Valdeira et.al.|[2406.14420](http://arxiv.org/abs/2406.14420)|**[link](https://github.com/valdeira/ef-vfl)**|
 |**2024-06-20**|**Predicting Probabilities of Error to Combine Quantization and Early Exiting: QuEE**|Florence Regol et.al.|[2406.14404](http://arxiv.org/abs/2406.14404)|null|
 |**2024-06-20**|**PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**|Sihan Ma et.al.|[2406.14367](http://arxiv.org/abs/2406.14367)|null|
 |**2024-06-21**|**DASB -- Discrete Audio and Speech Benchmark**|Pooneh Mousavi et.al.|[2406.14294](http://arxiv.org/abs/2406.14294)|null|
