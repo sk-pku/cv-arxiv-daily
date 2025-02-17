@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**Stretching theory of Hookean metashells**|Luca Giomi et.al.|[2502.10345](http://arxiv.org/abs/2502.10345)|null|
+|**2025-02-14**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248](http://arxiv.org/abs/2502.10248)|null|
+|**2025-02-14**|**Forget the Data and Fine-Tuning! Just Fold the Network to Compress**|Dong Wang et.al.|[2502.10216](http://arxiv.org/abs/2502.10216)|null|
+|**2025-02-14**|**Can Post-Training Quantization Benefit from an Additional QLoRA Integration?**|Xiliang Zhu et.al.|[2502.10202](http://arxiv.org/abs/2502.10202)|null|
+|**2025-02-14**|**Physics-Informed Generative Modeling of Wireless Channels**|Benedikt Böck et.al.|[2502.10137](http://arxiv.org/abs/2502.10137)|null|
+|**2025-02-14**|**Modern Hopfield Networks with Continuous-Time Memories**|Saul Santos et.al.|[2502.10122](http://arxiv.org/abs/2502.10122)|null|
+|**2025-02-14**|**Compress image to patches for Vision Transformer**|Xinfeng Zhao et.al.|[2502.10120](http://arxiv.org/abs/2502.10120)|null|
+|**2025-02-14**|**Behaviour of the Schwarzian derivative on long complex projective tubes**|Tommaso Cremaschi et.al.|[2502.10071](http://arxiv.org/abs/2502.10071)|null|
+|**2025-02-14**|**Enhanced Compressive Threshold Quantum State Tomography for Qudit Systems**|Giovanni Garberoglio et.al.|[2502.10031](http://arxiv.org/abs/2502.10031)|null|
+|**2025-02-14**|**EmbBERT-Q: Breaking Memory Barriers in Embedded NLP**|Riccardo Bravin et.al.|[2502.10001](http://arxiv.org/abs/2502.10001)|null|
 |**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/abs/2502.09601)|null|
 |**2025-02-13**|**Differentially Private Compression and the Sensitivity of LZ77**|Jeremiah Blocki et.al.|[2502.09584](http://arxiv.org/abs/2502.09584)|null|
 |**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|null|
