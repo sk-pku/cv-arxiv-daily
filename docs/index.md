@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**When Wyner and Ziv Met Bayes in Quantum-Classical Realm**|Mohammad Aamir Sohail et.al.|[2502.12129](http://arxiv.org/abs/2502.12129)|null|
+|**2025-02-17**|**APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085](http://arxiv.org/abs/2502.12085)|null|
+|**2025-02-17**|**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**|Heming Xia et.al.|[2502.12067](http://arxiv.org/abs/2502.12067)|null|
+|**2025-02-17**|**Low-Rank Thinning**|Annabelle Michael Carrell et.al.|[2502.12063](http://arxiv.org/abs/2502.12063)|null|
+|**2025-02-17**|**A versatile experimental method to measure the traction forces at interfaces**|Yingwei Hou et.al.|[2502.12044](http://arxiv.org/abs/2502.12044)|null|
+|**2025-02-17**|**Fully Dynamic LZ77 in Sublinear Time**|Itai Boneh et.al.|[2502.12000](http://arxiv.org/abs/2502.12000)|null|
+|**2025-02-17**|**DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation**|Zhihang Yuan et.al.|[2502.11897](http://arxiv.org/abs/2502.11897)|null|
+|**2025-02-17**|**Pulse Compression by an Optical Push Broom On a Chip**|Boyi Zhang et.al.|[2502.11892](http://arxiv.org/abs/2502.11892)|null|
+|**2025-02-17**|**Extreme electrodynamics in time-varying media**|M. Scalora et.al.|[2502.11837](http://arxiv.org/abs/2502.11837)|null|
+|**2025-02-17**|**Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent**|Junda Wu et.al.|[2502.11740](http://arxiv.org/abs/2502.11740)|null|
 |**2025-02-14**|**Stretching theory of Hookean metashells**|Luca Giomi et.al.|[2502.10345](http://arxiv.org/abs/2502.10345)|null|
 |**2025-02-14**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248](http://arxiv.org/abs/2502.10248)|null|
 |**2025-02-14**|**Forget the Data and Fine-Tuning! Just Fold the Network to Compress**|Dong Wang et.al.|[2502.10216](http://arxiv.org/abs/2502.10216)|null|
