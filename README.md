@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**|Roman Bachmann et.al.|[2502.13967](http://arxiv.org/abs/2502.13967)|null|
+|**2025-02-19**|**Polytropic Behavior in Corotating Interaction Regions: Evidence of Alfvénic Heating**|M. A. Dayeh et.al.|[2502.13940](http://arxiv.org/abs/2502.13940)|null|
+|**2025-02-19**|**LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization**|Guanzheng Chen et.al.|[2502.13922](http://arxiv.org/abs/2502.13922)|**[link](https://github.com/DAMO-NLP-SG/LongPO)**|
+|**2025-02-19**|**Elastically Buckled Film-Substrate System as a Two-dimensional Crystal**|Wenqing Zhu et.al.|[2502.13864](http://arxiv.org/abs/2502.13864)|null|
+|**2025-02-19**|**Impact of friction and grain shape on the morphology of sheared granular media**|Huzaif Rahim et.al.|[2502.13739](http://arxiv.org/abs/2502.13739)|null|
+|**2025-02-19**|**MoM: Linear Sequence Modeling with Mixture-of-Memories**|Jusen Du et.al.|[2502.13685](http://arxiv.org/abs/2502.13685)|null|
+|**2025-02-19**|**On the $L_1$ -maximal regularity in the study of free boundary problem for the compressible fluid flows**|Yuko Enomoto et.al.|[2502.13586](http://arxiv.org/abs/2502.13586)|null|
+|**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572](http://arxiv.org/abs/2502.13572)|null|
+|**2025-02-19**|**Turbulence Modelling of Mixing Layers under Anisotropic Strain**|Bradley Pascoe et.al.|[2502.13563](http://arxiv.org/abs/2502.13563)|null|
+|**2025-02-19**|**Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models**|Yunjia Xi et.al.|[2502.13539](http://arxiv.org/abs/2502.13539)|null|
 |**2025-02-18**|**Global Existence and Nonlinear Stability of Finite-Energy Solutions of the Compressible Euler-Riesz Equations with Large Initial Data of Spherical Symmetry**|José A. Carrillo et.al.|[2502.13094](http://arxiv.org/abs/2502.13094)|null|
 |**2025-02-18**|**Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the Limits of Embedding Space Capacity**|Yuri Kuratov et.al.|[2502.13063](http://arxiv.org/abs/2502.13063)|null|
 |**2025-02-18**|**Guaranteed Conditional Diffusion: 3D Block-based Models for Scientific Data Compression**|Jaemoon Lee et.al.|[2502.12951](http://arxiv.org/abs/2502.12951)|null|
