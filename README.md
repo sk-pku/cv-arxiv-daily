@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**|Weilin Zhao et.al.|[2502.14856](http://arxiv.org/abs/2502.14856)|null|
+|**2025-02-20**|**CLIPPER: Compression enables long-context synthetic data generation**|Chau Minh Pham et.al.|[2502.14854](http://arxiv.org/abs/2502.14854)|null|
+|**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|null|
+|**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831](http://arxiv.org/abs/2502.14831)|null|
+|**2025-02-20**|**Determining Layer-wise Sparsity for Large Language Models Through a Theoretical Perspective**|Weizhong Huang et.al.|[2502.14770](http://arxiv.org/abs/2502.14770)|null|
+|**2025-02-20**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
+|**2025-02-20**|**MHD Modeling of the Near-Sun Evolution of Coronal Mass Ejection Initiated from a Sheared Arcade**|Jinnan Cai et.al.|[2502.14562](http://arxiv.org/abs/2502.14562)|null|
+|**2025-02-20**|**Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis**|Thomas Lavigne et.al.|[2502.14518](http://arxiv.org/abs/2502.14518)|null|
+|**2025-02-20**|**U-index: A Universal Indexing Framework for Matching Long Patterns**|Lorraine A. K. Ayad et.al.|[2502.14488](http://arxiv.org/abs/2502.14488)|null|
+|**2025-02-20**|**Unshackling Context Length: An Efficient Selective Attention Approach through Query-Key Compression**|Haoyu Wang et.al.|[2502.14477](http://arxiv.org/abs/2502.14477)|null|
 |**2025-02-19**|**FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**|Roman Bachmann et.al.|[2502.13967](http://arxiv.org/abs/2502.13967)|null|
 |**2025-02-19**|**Polytropic Behavior in Corotating Interaction Regions: Evidence of Alfvénic Heating**|M. A. Dayeh et.al.|[2502.13940](http://arxiv.org/abs/2502.13940)|null|
 |**2025-02-19**|**LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization**|Guanzheng Chen et.al.|[2502.13922](http://arxiv.org/abs/2502.13922)|**[link](https://github.com/DAMO-NLP-SG/LongPO)**|
