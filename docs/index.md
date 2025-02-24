@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.23
+## Updated on 2025.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3098,7 +3098,7 @@ layout: default
 |**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|null|
 |**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831](http://arxiv.org/abs/2502.14831)|null|
 |**2025-02-20**|**Determining Layer-wise Sparsity for Large Language Models Through a Theoretical Perspective**|Weizhong Huang et.al.|[2502.14770](http://arxiv.org/abs/2502.14770)|null|
-|**2025-02-20**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
+|**2025-02-21**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
 |**2025-02-20**|**MHD Modeling of the Near-Sun Evolution of Coronal Mass Ejection Initiated from a Sheared Arcade**|Jinnan Cai et.al.|[2502.14562](http://arxiv.org/abs/2502.14562)|null|
 |**2025-02-20**|**Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis**|Thomas Lavigne et.al.|[2502.14518](http://arxiv.org/abs/2502.14518)|null|
 |**2025-02-20**|**U-index: A Universal Indexing Framework for Matching Long Patterns**|Lorraine A. K. Ayad et.al.|[2502.14488](http://arxiv.org/abs/2502.14488)|null|
