@@ -3094,63 +3094,63 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-20**|**FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**|Weilin Zhao et.al.|[2502.14856](http://arxiv.org/abs/2502.14856)|null|
-|**2025-02-20**|**CLIPPER: Compression enables long-context synthetic data generation**|Chau Minh Pham et.al.|[2502.14854](http://arxiv.org/abs/2502.14854)|null|
-|**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|null|
+|**2025-02-20**|**CLIPPER: Compression enables long-context synthetic data generation**|Chau Minh Pham et.al.|[2502.14854](http://arxiv.org/abs/2502.14854)|**[link](https://github.com/chtmp223/clipper)**|
+|**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|**[link](https://github.com/JT-Ushio/MHA2MLA)**|
 |**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831](http://arxiv.org/abs/2502.14831)|null|
 |**2025-02-20**|**Determining Layer-wise Sparsity for Large Language Models Through a Theoretical Perspective**|Weizhong Huang et.al.|[2502.14770](http://arxiv.org/abs/2502.14770)|null|
 |**2025-02-21**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
 |**2025-02-20**|**MHD Modeling of the Near-Sun Evolution of Coronal Mass Ejection Initiated from a Sheared Arcade**|Jinnan Cai et.al.|[2502.14562](http://arxiv.org/abs/2502.14562)|null|
 |**2025-02-20**|**Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis**|Thomas Lavigne et.al.|[2502.14518](http://arxiv.org/abs/2502.14518)|null|
-|**2025-02-20**|**U-index: A Universal Indexing Framework for Matching Long Patterns**|Lorraine A. K. Ayad et.al.|[2502.14488](http://arxiv.org/abs/2502.14488)|null|
+|**2025-02-20**|**U-index: A Universal Indexing Framework for Matching Long Patterns**|Lorraine A. K. Ayad et.al.|[2502.14488](http://arxiv.org/abs/2502.14488)|**[link](https://github.com/u-index/u-index-rs)**|
 |**2025-02-20**|**Unshackling Context Length: An Efficient Selective Attention Approach through Query-Key Compression**|Haoyu Wang et.al.|[2502.14477](http://arxiv.org/abs/2502.14477)|null|
 |**2025-02-19**|**FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**|Roman Bachmann et.al.|[2502.13967](http://arxiv.org/abs/2502.13967)|null|
 |**2025-02-19**|**Polytropic Behavior in Corotating Interaction Regions: Evidence of Alfvénic Heating**|M. A. Dayeh et.al.|[2502.13940](http://arxiv.org/abs/2502.13940)|null|
 |**2025-02-19**|**LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization**|Guanzheng Chen et.al.|[2502.13922](http://arxiv.org/abs/2502.13922)|**[link](https://github.com/DAMO-NLP-SG/LongPO)**|
 |**2025-02-19**|**Elastically Buckled Film-Substrate System as a Two-dimensional Crystal**|Wenqing Zhu et.al.|[2502.13864](http://arxiv.org/abs/2502.13864)|null|
 |**2025-02-19**|**Impact of friction and grain shape on the morphology of sheared granular media**|Huzaif Rahim et.al.|[2502.13739](http://arxiv.org/abs/2502.13739)|null|
-|**2025-02-19**|**MoM: Linear Sequence Modeling with Mixture-of-Memories**|Jusen Du et.al.|[2502.13685](http://arxiv.org/abs/2502.13685)|null|
+|**2025-02-19**|**MoM: Linear Sequence Modeling with Mixture-of-Memories**|Jusen Du et.al.|[2502.13685](http://arxiv.org/abs/2502.13685)|**[link](https://github.com/opensparsellms/mom)**|
 |**2025-02-19**|**On the $L_1$ -maximal regularity in the study of free boundary problem for the compressible fluid flows**|Yuko Enomoto et.al.|[2502.13586](http://arxiv.org/abs/2502.13586)|null|
 |**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572](http://arxiv.org/abs/2502.13572)|null|
 |**2025-02-19**|**Turbulence Modelling of Mixing Layers under Anisotropic Strain**|Bradley Pascoe et.al.|[2502.13563](http://arxiv.org/abs/2502.13563)|null|
 |**2025-02-19**|**Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models**|Yunjia Xi et.al.|[2502.13539](http://arxiv.org/abs/2502.13539)|null|
 |**2025-02-18**|**Global Existence and Nonlinear Stability of Finite-Energy Solutions of the Compressible Euler-Riesz Equations with Large Initial Data of Spherical Symmetry**|José A. Carrillo et.al.|[2502.13094](http://arxiv.org/abs/2502.13094)|null|
-|**2025-02-18**|**Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the Limits of Embedding Space Capacity**|Yuri Kuratov et.al.|[2502.13063](http://arxiv.org/abs/2502.13063)|null|
+|**2025-02-18**|**Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the Limits of Embedding Space Capacity**|Yuri Kuratov et.al.|[2502.13063](http://arxiv.org/abs/2502.13063)|**[link](https://github.com/yurakuratov/hidden_capacity)**|
 |**2025-02-18**|**Guaranteed Conditional Diffusion: 3D Block-based Models for Scientific Data Compression**|Jaemoon Lee et.al.|[2502.12951](http://arxiv.org/abs/2502.12951)|null|
 |**2025-02-18**|**Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models**|Gyeongman Kim et.al.|[2502.12947](http://arxiv.org/abs/2502.12947)|null|
-|**2025-02-18**|**Flow-of-Options: Diversified and Improved LLM Reasoning by Thinking Through Options**|Lakshmi Nair et.al.|[2502.12929](http://arxiv.org/abs/2502.12929)|null|
+|**2025-02-18**|**Flow-of-Options: Diversified and Improved LLM Reasoning by Thinking Through Options**|Lakshmi Nair et.al.|[2502.12929](http://arxiv.org/abs/2502.12929)|**[link](https://github.com/flagshippioneering/flow-of-options)**|
 |**2025-02-18**|**Formation of Jet-driven Forced Reconnection Region and Associated Plasma Blobs in a Prominence Segment**|Sudheer K. Mishra et.al.|[2502.12889](http://arxiv.org/abs/2502.12889)|null|
-|**2025-02-18**|**Ariadne: A Hotness-Aware and Size-Adaptive Compressed Swap Technique for Fast Application Relaunch and Reduced CPU Usage on Mobile Devices**|Yu Liang et.al.|[2502.12826](http://arxiv.org/abs/2502.12826)|null|
-|**2025-02-18**|**Towards Text-Image Interleaved Retrieval**|Xin Zhang et.al.|[2502.12799](http://arxiv.org/abs/2502.12799)|null|
+|**2025-02-18**|**Ariadne: A Hotness-Aware and Size-Adaptive Compressed Swap Technique for Fast Application Relaunch and Reduced CPU Usage on Mobile Devices**|Yu Liang et.al.|[2502.12826](http://arxiv.org/abs/2502.12826)|**[link](https://github.com/CMU-SAFARI/Ariadne)**|
+|**2025-02-18**|**Towards Text-Image Interleaved Retrieval**|Xin Zhang et.al.|[2502.12799](http://arxiv.org/abs/2502.12799)|**[link](https://github.com/vec-ai/wikihow-tiir)**|
 |**2025-02-18**|**One-bit Compressed Sensing using Generative Models**|Swatantra Kafle et.al.|[2502.12762](http://arxiv.org/abs/2502.12762)|null|
 |**2025-02-18**|**Realization of strain induced multiple topological phases in Cu $_2$SnS$_3$: An $ab$-$initio$ study**|Prakash Pandey et.al.|[2502.12722](http://arxiv.org/abs/2502.12722)|null|
 |**2025-02-17**|**When Wyner and Ziv Met Bayes in Quantum-Classical Realm**|Mohammad Aamir Sohail et.al.|[2502.12129](http://arxiv.org/abs/2502.12129)|null|
-|**2025-02-17**|**APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085](http://arxiv.org/abs/2502.12085)|null|
-|**2025-02-17**|**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**|Heming Xia et.al.|[2502.12067](http://arxiv.org/abs/2502.12067)|null|
+|**2025-02-17**|**APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085](http://arxiv.org/abs/2502.12085)|**[link](https://github.com/thunlp/apb)**|
+|**2025-02-17**|**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**|Heming Xia et.al.|[2502.12067](http://arxiv.org/abs/2502.12067)|**[link](https://github.com/hemingkx/tokenskip)**|
 |**2025-02-17**|**Low-Rank Thinning**|Annabelle Michael Carrell et.al.|[2502.12063](http://arxiv.org/abs/2502.12063)|null|
 |**2025-02-17**|**A versatile experimental method to measure the traction forces at interfaces**|Yingwei Hou et.al.|[2502.12044](http://arxiv.org/abs/2502.12044)|null|
 |**2025-02-17**|**Fully Dynamic LZ77 in Sublinear Time**|Itai Boneh et.al.|[2502.12000](http://arxiv.org/abs/2502.12000)|null|
-|**2025-02-17**|**DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation**|Zhihang Yuan et.al.|[2502.11897](http://arxiv.org/abs/2502.11897)|null|
+|**2025-02-17**|**DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation**|Zhihang Yuan et.al.|[2502.11897](http://arxiv.org/abs/2502.11897)|**[link](https://github.com/thu-nics/dlfr-vae)**|
 |**2025-02-17**|**Pulse Compression by an Optical Push Broom On a Chip**|Boyi Zhang et.al.|[2502.11892](http://arxiv.org/abs/2502.11892)|null|
 |**2025-02-17**|**Extreme electrodynamics in time-varying media**|M. Scalora et.al.|[2502.11837](http://arxiv.org/abs/2502.11837)|null|
 |**2025-02-17**|**Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent**|Junda Wu et.al.|[2502.11740](http://arxiv.org/abs/2502.11740)|null|
 |**2025-02-14**|**Stretching theory of Hookean metashells**|Luca Giomi et.al.|[2502.10345](http://arxiv.org/abs/2502.10345)|null|
-|**2025-02-14**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248](http://arxiv.org/abs/2502.10248)|null|
-|**2025-02-14**|**Forget the Data and Fine-Tuning! Just Fold the Network to Compress**|Dong Wang et.al.|[2502.10216](http://arxiv.org/abs/2502.10216)|null|
+|**2025-02-14**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248](http://arxiv.org/abs/2502.10248)|**[link](https://github.com/stepfun-ai/step-video-t2v)**|
+|**2025-02-14**|**Forget the Data and Fine-Tuning! Just Fold the Network to Compress**|Dong Wang et.al.|[2502.10216](http://arxiv.org/abs/2502.10216)|**[link](https://github.com/nanguoyu/model-folding-universal)**|
 |**2025-02-14**|**Can Post-Training Quantization Benefit from an Additional QLoRA Integration?**|Xiliang Zhu et.al.|[2502.10202](http://arxiv.org/abs/2502.10202)|null|
 |**2025-02-14**|**Physics-Informed Generative Modeling of Wireless Channels**|Benedikt Böck et.al.|[2502.10137](http://arxiv.org/abs/2502.10137)|null|
 |**2025-02-14**|**Modern Hopfield Networks with Continuous-Time Memories**|Saul Santos et.al.|[2502.10122](http://arxiv.org/abs/2502.10122)|null|
-|**2025-02-14**|**Compress image to patches for Vision Transformer**|Xinfeng Zhao et.al.|[2502.10120](http://arxiv.org/abs/2502.10120)|null|
+|**2025-02-14**|**Compress image to patches for Vision Transformer**|Xinfeng Zhao et.al.|[2502.10120](http://arxiv.org/abs/2502.10120)|**[link](https://github.com/fanchy/ci2pvit)**|
 |**2025-02-14**|**Behaviour of the Schwarzian derivative on long complex projective tubes**|Tommaso Cremaschi et.al.|[2502.10071](http://arxiv.org/abs/2502.10071)|null|
-|**2025-02-14**|**Enhanced Compressive Threshold Quantum State Tomography for Qudit Systems**|Giovanni Garberoglio et.al.|[2502.10031](http://arxiv.org/abs/2502.10031)|null|
+|**2025-02-14**|**Enhanced Compressive Threshold Quantum State Tomography for Qudit Systems**|Giovanni Garberoglio et.al.|[2502.10031](http://arxiv.org/abs/2502.10031)|**[link](https://github.com/giogarbe/ect-qst)**|
 |**2025-02-14**|**EmbBERT-Q: Breaking Memory Barriers in Embedded NLP**|Riccardo Bravin et.al.|[2502.10001](http://arxiv.org/abs/2502.10001)|null|
-|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/abs/2502.09601)|null|
+|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/abs/2502.09601)|**[link](https://github.com/horseee/cot-valve)**|
 |**2025-02-13**|**Differentially Private Compression and the Sensitivity of LZ77**|Jeremiah Blocki et.al.|[2502.09584](http://arxiv.org/abs/2502.09584)|null|
-|**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|null|
+|**2025-02-13**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al.|[2502.09520](http://arxiv.org/abs/2502.09520)|**[link](https://github.com/frapez1/SQ-GAN)**|
 |**2025-02-13**|**EQ-VAE: Equivariance Regularized Latent Space for Improved Generative Image Modeling**|Theodoros Kouzelis et.al.|[2502.09509](http://arxiv.org/abs/2502.09509)|null|
 |**2025-02-13**|**The Third Generation of Nanogenerators: The Irreplaceable Potential Source Enabled by the Flexoelectric Nanogenerator**|Shang Ru Li et.al.|[2502.09439](http://arxiv.org/abs/2502.09439)|null|
 |**2025-02-13**|**Stability of composite Wave of Planar Viscous Shock and Rarefaction for 3D Barotropic Navier-Stokes Equations**|Jiajin Shi et.al.|[2502.09321](http://arxiv.org/abs/2502.09321)|null|
 |**2025-02-13**|**Failure of the least action admissibility principle in the context of the compressible Euler equations**|Simon Markfelder et.al.|[2502.09292](http://arxiv.org/abs/2502.09292)|null|
-|**2025-02-13**|**You Do Not Fully Utilize Transformer's Representation Capacity**|Gleb Gerasimov et.al.|[2502.09245](http://arxiv.org/abs/2502.09245)|null|
+|**2025-02-13**|**You Do Not Fully Utilize Transformer's Representation Capacity**|Gleb Gerasimov et.al.|[2502.09245](http://arxiv.org/abs/2502.09245)|**[link](https://github.com/corl-team/lime)**|
 |**2025-02-13**|**On LLM-generated Logic Programs and their Inference Execution Methods**|Paul Tarau et.al.|[2502.09209](http://arxiv.org/abs/2502.09209)|null|
 |**2025-02-13**|**XAInomaly: Explainable and Interpretable Deep Contractive Autoencoder for O-RAN Traffic Anomaly Detection**|Osman Tugay Basaran et.al.|[2502.09194](http://arxiv.org/abs/2502.09194)|null|
 |**2025-02-12**|**Free products and rescalings involving non-separable abelian von Neumann algebras**|Ken Dykema et.al.|[2502.08595](http://arxiv.org/abs/2502.08595)|null|
@@ -3241,7 +3241,7 @@ layout: default
 |**2025-01-30**|**Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models**|Qika Lin et.al.|[2501.18119](http://arxiv.org/abs/2501.18119)|null|
 |**2025-01-30**|**Disentangling Safe and Unsafe Corruptions via Anisotropy and Locality**|Ramchandran Muthukumar et.al.|[2501.18098](http://arxiv.org/abs/2501.18098)|null|
 |**2025-01-29**|**Into the Mystic: the MUSE view of the ionized gas in the Mystic Mountains in Carina**|Megan Reiter et.al.|[2501.18029](http://arxiv.org/abs/2501.18029)|null|
-|**2025-01-29**|**Perforated Backpropagation: A Neuroscience Inspired Extension to Artificial Neural Networks**|Rorry Brenner et.al.|[2501.18018](http://arxiv.org/abs/2501.18018)|null|
+|**2025-01-29**|**Perforated Backpropagation: A Neuroscience Inspired Extension to Artificial Neural Networks**|Rorry Brenner et.al.|[2501.18018](http://arxiv.org/abs/2501.18018)|**[link](https://github.com/PerforatedAI/PerforatedAI-API)**|
 |**2025-01-29**|**On the removal of the barotropic condition in helicity studies of the compressible Euler and ideal compressible MHD equations**|Daniel W. Boutros et.al.|[2501.17990](http://arxiv.org/abs/2501.17990)|null|
 |**2025-01-29**|**Quantum oscillations in a dipolar excitonic insulator**|Phuong X. Nguyen et.al.|[2501.17829](http://arxiv.org/abs/2501.17829)|null|
 |**2025-01-29**|**Structured Context Recomposition for Large Language Models Using Probabilistic Layer Realignment**|Jonathan Teel et.al.|[2501.17617](http://arxiv.org/abs/2501.17617)|null|
@@ -3333,7 +3333,7 @@ layout: default
 |**2025-01-16**|**Velocity fields and turbulence from cosmic filaments to galaxy clusters**|Théo Lebeau et.al.|[2501.09573](http://arxiv.org/abs/2501.09573)|null|
 |**2025-01-16**|**Very soft microgels at the interface behave and flow as Hertzian-like spheres**|José Ruiz-Franco et.al.|[2501.09472](http://arxiv.org/abs/2501.09472)|null|
 |**2025-01-16**|**FASP: Fast and Accurate Structured Pruning of Large Language Models**|Hanyu Hu et.al.|[2501.09412](http://arxiv.org/abs/2501.09412)|null|
-|**2025-01-15**|**Learning Joint Denoising, Demosaicing, and Compression from the Raw Natural Image Noise Dataset**|Benoit Brummer et.al.|[2501.08924](http://arxiv.org/abs/2501.08924)|null|
+|**2025-01-15**|**Learning Joint Denoising, Demosaicing, and Compression from the Raw Natural Image Noise Dataset**|Benoit Brummer et.al.|[2501.08924](http://arxiv.org/abs/2501.08924)|**[link](https://gitlab.com/trougnouf/rawnind_jddc)**|
 |**2025-01-15**|**PAC Learnability of Scenario Decision-Making Algorithms: Necessary and Sufficient Conditions**|Guillaume O. Berger et.al.|[2501.08887](http://arxiv.org/abs/2501.08887)|null|
 |**2025-01-15**|**Improved Compression Bounds for Scenario Decision Making**|Guillaume O. Berger et.al.|[2501.08884](http://arxiv.org/abs/2501.08884)|null|
 |**2025-01-15**|**Compressible Navier-Stokes-Fourier approximation for the Boltzmann equation in bounded domains: from specular reflection to Navier-slip boundary conditions**|Ning Jiang et.al.|[2501.08715](http://arxiv.org/abs/2501.08715)|null|
