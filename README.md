@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Structural and superconducting parameters of highly compressed sulfur**|Evgeny F. Talantsev et.al.|[2502.15590](http://arxiv.org/abs/2502.15590)|null|
+|**2025-02-21**|**LightThinker: Thinking Step-by-Step Compression**|Jintian Zhang et.al.|[2502.15589](http://arxiv.org/abs/2502.15589)|null|
+|**2025-02-21**|**A fast block nonlinear Bregman-Kaczmarz method with averaging for nonlinear sparse signal recovery**|Aqin Xiao et.al.|[2502.15529](http://arxiv.org/abs/2502.15529)|null|
+|**2025-02-21**|**Solving Inverse Problems with Deep Linear Neural Networks: Global Convergence Guarantees for Gradient Descent with Weight Decay**|Hannah Laus et.al.|[2502.15522](http://arxiv.org/abs/2502.15522)|null|
+|**2025-02-21**|**CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution**|Kai Liu et.al.|[2502.15478](http://arxiv.org/abs/2502.15478)|null|
+|**2025-02-21**|**When Compression Meets Model Compression: Memory-Efficient Double Compression for Large Language Models**|Weilan Wang et.al.|[2502.15443](http://arxiv.org/abs/2502.15443)|null|
+|**2025-02-21**|**A Universal Framework for Compressing Embeddings in CTR Prediction**|Kefan Wang et.al.|[2502.15355](http://arxiv.org/abs/2502.15355)|null|
+|**2025-02-21**|**SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention**|Hong Yankun et.al.|[2502.15304](http://arxiv.org/abs/2502.15304)|null|
+|**2025-02-21**|**Ultrasound Phase Aberrated Point Spread Function Estimation with Convolutional Neural Network: Simulation Study**|Wei-Hsiang Shen et.al.|[2502.15298](http://arxiv.org/abs/2502.15298)|null|
+|**2025-02-21**|**Self-assembly of Dipolar Crystals from Magnetic Colloids**|Anuj Kumar Singh et.al.|[2502.15265](http://arxiv.org/abs/2502.15265)|null|
 |**2025-02-20**|**FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**|Weilin Zhao et.al.|[2502.14856](http://arxiv.org/abs/2502.14856)|null|
 |**2025-02-20**|**CLIPPER: Compression enables long-context synthetic data generation**|Chau Minh Pham et.al.|[2502.14854](http://arxiv.org/abs/2502.14854)|**[link](https://github.com/chtmp223/clipper)**|
 |**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|**[link](https://github.com/JT-Ushio/MHA2MLA)**|
