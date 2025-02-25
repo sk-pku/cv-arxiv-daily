@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Unraveling the geometry of visual relational reasoning**|Jiaqi Shang et.al.|[2502.17382](http://arxiv.org/abs/2502.17382)|null|
+|**2025-02-24**|**1 Particle - 1 Qubit: Particle Physics Data Encoding for Quantum Machine Learning**|Aritra Bal et.al.|[2502.17301](http://arxiv.org/abs/2502.17301)|null|
+|**2025-02-24**|**Delta Decompression for MoE-based LLMs Compression**|Hao Gu et.al.|[2502.17298](http://arxiv.org/abs/2502.17298)|null|
+|**2025-02-24**|**Additional jamming transition in 2D bidisperse granular packings**|Juan C. Petit et.al.|[2502.17266](http://arxiv.org/abs/2502.17266)|null|
+|**2025-02-24**|**Unsupervised Accelerated MRI Reconstruction via Ground-Truth-Free Flow Matching**|Xinzhe Luo et.al.|[2502.17174](http://arxiv.org/abs/2502.17174)|null|
+|**2025-02-24**|**The Energy Cascade Rate in Supersonic Magnetohydrodynamic Turbulence**|Gonzalo Javier Alvarez et.al.|[2502.17155](http://arxiv.org/abs/2502.17155)|null|
+|**2025-02-24**|**SFLD: Reducing the content bias for AI-generated Image Detection**|Seoyeon Gye et.al.|[2502.17105](http://arxiv.org/abs/2502.17105)|null|
+|**2025-02-24**|**Pleno-Generation: A Scalable Generative Face Video Compression Framework with Bandwidth Intelligence**|Bolin Chen et.al.|[2502.17085](http://arxiv.org/abs/2502.17085)|null|
+|**2025-02-24**|**Random Projections and Natural Sparsity in Time-Series Classification: A Theoretical Analysis**|Jorge Marco-Blanco et.al.|[2502.17061](http://arxiv.org/abs/2502.17061)|null|
+|**2025-02-24**|**Investigating the relation between elastic and relaxation properties of dry, frictional granular media during shear deformation**|Aurélien Rigotti et.al.|[2502.17021](http://arxiv.org/abs/2502.17021)|null|
 |**2025-02-21**|**Structural and superconducting parameters of highly compressed sulfur**|Evgeny F. Talantsev et.al.|[2502.15590](http://arxiv.org/abs/2502.15590)|null|
 |**2025-02-21**|**LightThinker: Thinking Step-by-Step Compression**|Jintian Zhang et.al.|[2502.15589](http://arxiv.org/abs/2502.15589)|null|
 |**2025-02-21**|**A fast block nonlinear Bregman-Kaczmarz method with averaging for nonlinear sparse signal recovery**|Aqin Xiao et.al.|[2502.15529](http://arxiv.org/abs/2502.15529)|null|
