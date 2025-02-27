@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Tackling Compressible Turbulent Multi-Component Flows with Dynamic hp-Adaptation**|Pascal Mossier et.al.|[2502.19342](http://arxiv.org/abs/2502.19342)|null|
+|**2025-02-26**|**Coronal Abundance Fractionation Linked to Chromospheric Transverse MHD Waves in a Solar Active Region Observed with FISS/GST and EIS/Hinode**|Kyoung-Sun Lee et.al.|[2502.19224](http://arxiv.org/abs/2502.19224)|null|
+|**2025-02-26**|**UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering**|Langming Liu et.al.|[2502.19178](http://arxiv.org/abs/2502.19178)|null|
+|**2025-02-26**|**On the Byzantine Fault Tolerance of signSGD with Majority Vote**|Emanuele Mengoli et.al.|[2502.19170](http://arxiv.org/abs/2502.19170)|null|
+|**2025-02-26**|**2064 global population crisis scenario predicted by the most general dynamic model**|Alessio Zaccone et.al.|[2502.19063](http://arxiv.org/abs/2502.19063)|null|
+|**2025-02-26**|**InternVQA: Advancing Compressed Video Quality Assessment with Distilling Large Foundation Model**|Fengbin Guan et.al.|[2502.19026](http://arxiv.org/abs/2502.19026)|null|
+|**2025-02-26**|**Stronger femtosecond excitation causes slower electron-phonon coupling in silicon**|A. B. Swain et.al.|[2502.19025](http://arxiv.org/abs/2502.19025)|null|
+|**2025-02-26**|**Thermodynamics of Hamiltonian anyons with applications to quantum heat engines**|Joe Dunlop et.al.|[2502.19019](http://arxiv.org/abs/2502.19019)|null|
+|**2025-02-26**|**Real-time Sign-Problem-Suppressed Quantum Monte Carlo Algorithm For Noisy Quantum Circuit Simulations**|Tong Shen et.al.|[2502.18929](http://arxiv.org/abs/2502.18929)|null|
+|**2025-02-26**|**Disparities in Magnetic Cloud Observations Between Two Spacecraft Having Small Radial and Angular Separations Near 1 AU**|Anjali Agarwal et.al.|[2502.18919](http://arxiv.org/abs/2502.18919)|null|
 |**2025-02-25**|**Compressing Language Models for Specialized Domains**|Miles Williams et.al.|[2502.18424](http://arxiv.org/abs/2502.18424)|null|
 |**2025-02-25**|**Task-Agnostic Semantic Communication with Multimodal Foundation Models**|Jiangjing Hu et.al.|[2502.18200](http://arxiv.org/abs/2502.18200)|null|
 |**2025-02-25**|**Agnostic calculation of atomic free energies with the descriptor density of states**|Thomas D Swinburne et.al.|[2502.18191](http://arxiv.org/abs/2502.18191)|null|
