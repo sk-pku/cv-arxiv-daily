@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**T1-PILOT: Optimized Trajectories for T1 Mapping Acceleration**|Tamir Shor et.al.|[2502.20333](http://arxiv.org/abs/2502.20333)|null|
+|**2025-02-27**|**HVI: A New color space for Low-light Image Enhancement**|Qingsen Yan et.al.|[2502.20272](http://arxiv.org/abs/2502.20272)|**[link](https://github.com/fediory/hvi-cidnet)**|
+|**2025-02-27**|**Spatio-temporal tensor-network approaches to out-of-equilibrium dynamics bridging open and closed systems**|Sergio Cerezo-Roquebrún et.al.|[2502.20214](http://arxiv.org/abs/2502.20214)|null|
+|**2025-02-27**|**Balanced Rate-Distortion Optimization in Learned Image Compression**|Yichi Zhang et.al.|[2502.20161](http://arxiv.org/abs/2502.20161)|null|
+|**2025-02-27**|**Finite State Automata Inside Transformers with Chain-of-Thought: A Mechanistic Study on State Tracking**|Yifan Zhang et.al.|[2502.20129](http://arxiv.org/abs/2502.20129)|null|
+|**2025-02-27**|**MITracker: Multi-View Integration for Visual Object Tracking**|Mengjie Xu et.al.|[2502.20111](http://arxiv.org/abs/2502.20111)|null|
+|**2025-02-27**|**A high-performance and portable implementation of the SISSO method for CPUs and GPUs**|Sebastian Eibl et.al.|[2502.20072](http://arxiv.org/abs/2502.20072)|null|
+|**2025-02-27**|**A Generative Model Enhanced Multi-Agent Reinforcement Learning Method for Electric Vehicle Charging Navigation**|Tianyang Qi et.al.|[2502.20068](http://arxiv.org/abs/2502.20068)|null|
+|**2025-02-27**|**Influence of the laser pulse duration in high-order harmonic generation**|Saga Westerberg et.al.|[2502.20058](http://arxiv.org/abs/2502.20058)|null|
+|**2025-02-27**|**Turbulence and large-scale structures in self-gravitating superfluids**|Sanjay Shukla et.al.|[2502.20006](http://arxiv.org/abs/2502.20006)|null|
 |**2025-02-26**|**Tackling Compressible Turbulent Multi-Component Flows with Dynamic hp-Adaptation**|Pascal Mossier et.al.|[2502.19342](http://arxiv.org/abs/2502.19342)|null|
 |**2025-02-26**|**Coronal Abundance Fractionation Linked to Chromospheric Transverse MHD Waves in a Solar Active Region Observed with FISS/GST and EIS/Hinode**|Kyoung-Sun Lee et.al.|[2502.19224](http://arxiv.org/abs/2502.19224)|null|
 |**2025-02-26**|**UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering**|Langming Liu et.al.|[2502.19178](http://arxiv.org/abs/2502.19178)|null|
