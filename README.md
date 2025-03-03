@@ -3136,9 +3136,9 @@
 |**2025-02-26**|**Disparities in Magnetic Cloud Observations Between Two Spacecraft Having Small Radial and Angular Separations Near 1 AU**|Anjali Agarwal et.al.|[2502.18919](http://arxiv.org/abs/2502.18919)|null|
 |**2025-02-25**|**Compressing Language Models for Specialized Domains**|Miles Williams et.al.|[2502.18424](http://arxiv.org/abs/2502.18424)|null|
 |**2025-02-25**|**Task-Agnostic Semantic Communication with Multimodal Foundation Models**|Jiangjing Hu et.al.|[2502.18200](http://arxiv.org/abs/2502.18200)|null|
-|**2025-02-25**|**Agnostic calculation of atomic free energies with the descriptor density of states**|Thomas D Swinburne et.al.|[2502.18191](http://arxiv.org/abs/2502.18191)|null|
+|**2025-02-25**|**Agnostic calculation of atomic free energies with the descriptor density of states**|Thomas D Swinburne et.al.|[2502.18191](http://arxiv.org/abs/2502.18191)|**[link](https://github.com/tomswinburne/DescriptorDOS)**|
 |**2025-02-25**|**$L^{p}-L^{q}$ existence for the open compressible MHD system**|Mostafa Meliani et.al.|[2502.18164](http://arxiv.org/abs/2502.18164)|null|
-|**2025-02-25**|**Accelerating Graph Indexing for ANNS on Modern CPUs**|Mengzhao Wang et.al.|[2502.18113](http://arxiv.org/abs/2502.18113)|null|
+|**2025-02-25**|**Accelerating Graph Indexing for ANNS on Modern CPUs**|Mengzhao Wang et.al.|[2502.18113](http://arxiv.org/abs/2502.18113)|**[link](https://github.com/ZJU-DAILY/HNSW-Flash)**|
 |**2025-02-25**|**Novel Strontium Carbides Under Compression**|Nikita Rybin et.al.|[2502.18057](http://arxiv.org/abs/2502.18057)|null|
 |**2025-02-25**|**AfroXLMR-Comet: Multilingual Knowledge Distillation with Attention Matching for Low-Resource languages**|Joshua Sakthivel Raju et.al.|[2502.18020](http://arxiv.org/abs/2502.18020)|null|
 |**2025-02-25**|**Deep-JGAC: End-to-End Deep Joint Geometry and Attribute Compression for Dense Colored Point Clouds**|Yun Zhang et.al.|[2502.17939](http://arxiv.org/abs/2502.17939)|null|
@@ -3158,9 +3158,9 @@
 |**2025-02-21**|**LightThinker: Thinking Step-by-Step Compression**|Jintian Zhang et.al.|[2502.15589](http://arxiv.org/abs/2502.15589)|null|
 |**2025-02-21**|**A fast block nonlinear Bregman-Kaczmarz method with averaging for nonlinear sparse signal recovery**|Aqin Xiao et.al.|[2502.15529](http://arxiv.org/abs/2502.15529)|null|
 |**2025-02-21**|**Solving Inverse Problems with Deep Linear Neural Networks: Global Convergence Guarantees for Gradient Descent with Weight Decay**|Hannah Laus et.al.|[2502.15522](http://arxiv.org/abs/2502.15522)|null|
-|**2025-02-21**|**CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution**|Kai Liu et.al.|[2502.15478](http://arxiv.org/abs/2502.15478)|null|
+|**2025-02-21**|**CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution**|Kai Liu et.al.|[2502.15478](http://arxiv.org/abs/2502.15478)|**[link](https://github.com/kai-liu001/condiquant)**|
 |**2025-02-21**|**When Compression Meets Model Compression: Memory-Efficient Double Compression for Large Language Models**|Weilan Wang et.al.|[2502.15443](http://arxiv.org/abs/2502.15443)|null|
-|**2025-02-21**|**A Universal Framework for Compressing Embeddings in CTR Prediction**|Kefan Wang et.al.|[2502.15355](http://arxiv.org/abs/2502.15355)|null|
+|**2025-02-21**|**A Universal Framework for Compressing Embeddings in CTR Prediction**|Kefan Wang et.al.|[2502.15355](http://arxiv.org/abs/2502.15355)|**[link](https://github.com/ustc-starteam/mec)**|
 |**2025-02-21**|**SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention**|Hong Yankun et.al.|[2502.15304](http://arxiv.org/abs/2502.15304)|null|
 |**2025-02-21**|**Ultrasound Phase Aberrated Point Spread Function Estimation with Convolutional Neural Network: Simulation Study**|Wei-Hsiang Shen et.al.|[2502.15298](http://arxiv.org/abs/2502.15298)|null|
 |**2025-02-21**|**Self-assembly of Dipolar Crystals from Magnetic Colloids**|Anuj Kumar Singh et.al.|[2502.15265](http://arxiv.org/abs/2502.15265)|null|
@@ -3171,7 +3171,7 @@
 |**2025-02-20**|**Determining Layer-wise Sparsity for Large Language Models Through a Theoretical Perspective**|Weizhong Huang et.al.|[2502.14770](http://arxiv.org/abs/2502.14770)|null|
 |**2025-02-21**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
 |**2025-02-20**|**MHD Modeling of the Near-Sun Evolution of Coronal Mass Ejection Initiated from a Sheared Arcade**|Jinnan Cai et.al.|[2502.14562](http://arxiv.org/abs/2502.14562)|null|
-|**2025-02-20**|**Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis**|Thomas Lavigne et.al.|[2502.14518](http://arxiv.org/abs/2502.14518)|null|
+|**2025-02-20**|**Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis**|Thomas Lavigne et.al.|[2502.14518](http://arxiv.org/abs/2502.14518)|**[link](https://github.com/Th0masLavigne/Porous_media_Generation_and_properties)**|
 |**2025-02-20**|**U-index: A Universal Indexing Framework for Matching Long Patterns**|Lorraine A. K. Ayad et.al.|[2502.14488](http://arxiv.org/abs/2502.14488)|**[link](https://github.com/u-index/u-index-rs)**|
 |**2025-02-20**|**Unshackling Context Length: An Efficient Selective Attention Approach through Query-Key Compression**|Haoyu Wang et.al.|[2502.14477](http://arxiv.org/abs/2502.14477)|null|
 |**2025-02-19**|**FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**|Roman Bachmann et.al.|[2502.13967](http://arxiv.org/abs/2502.13967)|null|
@@ -3268,7 +3268,7 @@
 |**2025-02-06**|**Algorithmic causal structure emerging through compression**|Liang Wendong et.al.|[2502.04210](http://arxiv.org/abs/2502.04210)|null|
 |**2025-02-06**|**Pressure suppresses the density wave order in kagome metal LuNb $_6$Sn$_6$**|William R. Meier et.al.|[2502.04197](http://arxiv.org/abs/2502.04197)|null|
 |**2025-02-06**|**PSZ: Enhancing the SZ Scientific Lossy Compressor With Progressive Data Retrieval**|Zhuoxun Yang et.al.|[2502.04093](http://arxiv.org/abs/2502.04093)|null|
-|**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/abs/2502.04077)|null|
+|**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/abs/2502.04077)|**[link](https://github.com/MIRALab-USTC/LLM-AttentionPredictor)**|
 |**2025-02-06**|**PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation**|Hyemin Lim et.al.|[2502.03984](http://arxiv.org/abs/2502.03984)|null|
 |**2025-02-06**|**Semantic Feature Division Multiple Access for Digital Semantic Broadcast Channels**|Shuai Ma et.al.|[2502.03949](http://arxiv.org/abs/2502.03949)|null|
 |**2025-02-06**|**Enhancing Online Learning Efficiency Through Heterogeneous Resource Integration with a Multi-Agent RAG System**|Devansh Srivastav et.al.|[2502.03948](http://arxiv.org/abs/2502.03948)|null|
@@ -3547,7 +3547,7 @@
 |**2024-12-20**|**Convergence of a Hyperbolic Thermodynamically Compatible Finite Volume scheme for the Euler equations**|Michael Dumbser et.al.|[2412.15730](http://arxiv.org/abs/2412.15730)|null|
 |**2024-12-20**|**MacLight: Multi-scene Aggregation Convolutional Learning for Traffic Signal Control**|Sunbowen Lee et.al.|[2412.15703](http://arxiv.org/abs/2412.15703)|**[link](https://github.com/Aegis1863/MacLight)**|
 |**2024-12-20**|**Parameterized Complexity of (d,r)-Domination via Modular Decomposition**|Gennaro Cordasco et.al.|[2412.15671](http://arxiv.org/abs/2412.15671)|null|
-|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649](http://arxiv.org/abs/2412.15649)|null|
+|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649](http://arxiv.org/abs/2412.15649)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 |**2024-12-20**|**Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck**|Van Thuy Hoang et.al.|[2412.15589](http://arxiv.org/abs/2412.15589)|**[link](https://github.com/NSLab-CUK/S-CGIB)**|
 |**2024-12-19**|**Tokenisation is NP-Complete**|Philip Whittington et.al.|[2412.15210](http://arxiv.org/abs/2412.15210)|null|
 |**2024-12-19**|**Till the Layers Collapse: Compressing a Deep Neural Network through the Lenses of Batch Normalization Layers**|Zhu Liao et.al.|[2412.15077](http://arxiv.org/abs/2412.15077)|**[link](https://github.com/zhuliao001/tlc)**|
