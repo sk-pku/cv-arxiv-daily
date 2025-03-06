@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Constrained Gaussian Wasserstein Optimal Transport with Commutative Covariance Matrices**|Jun Chen et.al.|[2503.03744](http://arxiv.org/abs/2503.03744)|null|
+|**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
+|**2025-03-05**|**Evaluating Compression and Nanoindentation in FCC Nickel: A Methodology for Interatomic Potential Selection**|K. Cichocki et.al.|[2503.03723](http://arxiv.org/abs/2503.03723)|null|
+|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
+|**2025-03-05**|**ILLC: Iterative Layer-by-Layer Compression for Enhancing Structural Faithfulness in SpArX**|Ungsik Kim et.al.|[2503.03693](http://arxiv.org/abs/2503.03693)|null|
+|**2025-03-05**|**Ambiguity-Free Broadband DOA Estimation Relying on Parameterized Time-Frequency Transform**|Wei Wang et.al.|[2503.03691](http://arxiv.org/abs/2503.03691)|null|
+|**2025-03-05**|**The Roles of Size, Packing, and Cohesion in the Emergence of Force Chains in Granular Packings**|Ankit Shrivastava et.al.|[2503.03668](http://arxiv.org/abs/2503.03668)|null|
+|**2025-03-05**|**KLiNQ: Knowledge Distillation-Assisted Lightweight Neural Network for Qubit Readout on FPGA**|Xiaorang Guo et.al.|[2503.03544](http://arxiv.org/abs/2503.03544)|null|
+|**2025-03-05**|**On action rate admissibility criteria**|Heiko Gimperlein et.al.|[2503.03491](http://arxiv.org/abs/2503.03491)|null|
+|**2025-03-05**|**Logarithmic-Time Internal Pattern Matching Queries in Compressed and Dynamic Texts**|Anouk Duyster et.al.|[2503.03488](http://arxiv.org/abs/2503.03488)|null|
 |**2025-03-04**|**Privacy and Accuracy-Aware AI/ML Model Deduplication**|Hong Guan et.al.|[2503.02862](http://arxiv.org/abs/2503.02862)|null|
 |**2025-03-04**|**Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression**|Nathan Godey et.al.|[2503.02812](http://arxiv.org/abs/2503.02812)|null|
 |**2025-03-04**|**Undertrained Image Reconstruction for Realistic Degradation in Blind Image Super-Resolution**|Ru Ito et.al.|[2503.02767](http://arxiv.org/abs/2503.02767)|null|
