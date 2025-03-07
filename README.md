@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704](http://arxiv.org/abs/2503.04704)|null|
+|**2025-03-06**|**An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**|Dou Hu et.al.|[2503.04667](http://arxiv.org/abs/2503.04667)|null|
+|**2025-03-06**|**Manifolds with weakly reducible genus-three trisections are standard**|Román Aranda et.al.|[2503.04607](http://arxiv.org/abs/2503.04607)|null|
+|**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
+|**2025-03-06**|**Succinct Perfect Zero-knowledge for MIP***|Honghao Fu et.al.|[2503.04517](http://arxiv.org/abs/2503.04517)|null|
+|**2025-03-06**|**A microstructural model of transversely isotropic, fibre-reinforced hydrogels**|Matthew G. Hennessy et.al.|[2503.04485](http://arxiv.org/abs/2503.04485)|null|
+|**2025-03-06**|**Influence of elastic deformations on body-wave velocity in solids: a case study considering shear deformations in concrete**|Hao Cheng et.al.|[2503.04354](http://arxiv.org/abs/2503.04354)|null|
+|**2025-03-06**|**Emergence of Robust High-Temperature Superconductivity in Li3IrH9 at Moderate Pressures**|Wendi Zhao et.al.|[2503.04336](http://arxiv.org/abs/2503.04336)|null|
+|**2025-03-06**|**GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting**|Inseo Lee et.al.|[2503.04333](http://arxiv.org/abs/2503.04333)|null|
+|**2025-03-06**|**Euler buckling on curved surfaces**|Shiheng Zhao et.al.|[2503.04303](http://arxiv.org/abs/2503.04303)|null|
 |**2025-03-05**|**Constrained Gaussian Wasserstein Optimal Transport with Commutative Covariance Matrices**|Jun Chen et.al.|[2503.03744](http://arxiv.org/abs/2503.03744)|null|
 |**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
 |**2025-03-05**|**Evaluating Compression and Nanoindentation in FCC Nickel: A Methodology for Interatomic Potential Selection**|K. Cichocki et.al.|[2503.03723](http://arxiv.org/abs/2503.03723)|null|
