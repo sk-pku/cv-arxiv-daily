@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Physics-based machine learning framework for predicting NOx emissions from compression ignition engines using on-board diagnostics data**|Harish Panneer Selvam et.al.|[2503.05648](http://arxiv.org/abs/2503.05648)|null|
+|**2025-03-07**|**D2GV: Deformable 2D Gaussian Splatting for Video Representation in 400FPS**|Mufan Liu et.al.|[2503.05600](http://arxiv.org/abs/2503.05600)|null|
+|**2025-03-07**|**A sharp-interface discontinuous Galerkin method for simulation of two-phase flow of real gases based on implicit shock tracking**|Charles Naudet et.al.|[2503.05557](http://arxiv.org/abs/2503.05557)|null|
+|**2025-03-07**|**Localized necking under global compression in two-scale metallic hierarchical solids**|Naresh Chockalingam S. et.al.|[2503.05498](http://arxiv.org/abs/2503.05498)|null|
+|**2025-03-07**|**A Decentralized Sequencer and Data Availability Committee for Rollups Using Set Consensus**|Margarita Capretto et.al.|[2503.05451](http://arxiv.org/abs/2503.05451)|null|
+|**2025-03-07**|**Physics-based machine learning for fatigue lifetime prediction under non-uniform loading scenarios**|Abedulgader Baktheer et.al.|[2503.05419](http://arxiv.org/abs/2503.05419)|null|
+|**2025-03-07**|**Tailoring the breathing-mode distortions in nickelate-ferroelectric heterostructures**|Guillaume Krieger et.al.|[2503.05375](http://arxiv.org/abs/2503.05375)|null|
+|**2025-03-07**|**On the $\mathcal R$ -boundedness of solution operators for a compressible fluid model of Korteweg type in general domains**|Sri Maryani et.al.|[2503.05352](http://arxiv.org/abs/2503.05352)|null|
+|**2025-03-07**|**Cross-Layer-Optimized Link Selection for Hologram Video Streaming over Millimeter Wave Networks**|Yiming Jiang et.al.|[2503.05195](http://arxiv.org/abs/2503.05195)|null|
+|**2025-03-07**|**EvolvingGS: High-Fidelity Streamable Volumetric Video via Evolving 3D Gaussian Representation**|Chao Zhang et.al.|[2503.05162](http://arxiv.org/abs/2503.05162)|null|
 |**2025-03-07**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704](http://arxiv.org/abs/2503.04704)|null|
 |**2025-03-06**|**An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**|Dou Hu et.al.|[2503.04667](http://arxiv.org/abs/2503.04667)|null|
 |**2025-03-06**|**Manifolds with weakly reducible genus-three trisections are standard**|Román Aranda et.al.|[2503.04607](http://arxiv.org/abs/2503.04607)|null|
