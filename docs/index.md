@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Investigation of the piston effect in supercritical fluids via a reversible--irreversible vector field splitting-based explicit time integration scheme**|Donát M. Takács et.al.|[2503.07449](http://arxiv.org/abs/2503.07449)|null|
+|**2025-03-10**|**Representing two-parameter persistence modules via graphcodes**|Michael Kerber et.al.|[2503.07368](http://arxiv.org/abs/2503.07368)|null|
+|**2025-03-10**|**Research and Design on Intelligent Recognition of Unordered Targets for Robots Based on Reinforcement Learning**|Yiting Mao et.al.|[2503.07340](http://arxiv.org/abs/2503.07340)|null|
+|**2025-03-10**|**Temporal Triplane Transformers as Occupancy World Models**|Haoran Xu et.al.|[2503.07338](http://arxiv.org/abs/2503.07338)|null|
+|**2025-03-10**|**Non-vacuous Generalization Bounds for Deep Neural Networks without any modification to the trained models**|Khoat Than et.al.|[2503.07325](http://arxiv.org/abs/2503.07325)|null|
+|**2025-03-10**|**Semantic Communications with Computer Vision Sensing for Edge Video Transmission**|Yubo Peng et.al.|[2503.07252](http://arxiv.org/abs/2503.07252)|null|
+|**2025-03-10**|**Wave-Particle Based Multiscale Modeling and Simulation of Non-equilibrium Turbulent Flows**|Xiaojian Yang et.al.|[2503.07207](http://arxiv.org/abs/2503.07207)|null|
+|**2025-03-10**|**Spatiotemporal Deep Learning Network for Photon-Level Block Compressed Sensing Imaging**|Changzhi Yu et.al.|[2503.07143](http://arxiv.org/abs/2503.07143)|null|
+|**2025-03-10**|**Quantizing Large Language Models for Code Generation: A Differentiated Replication**|Alessandro Giagnorio et.al.|[2503.07103](http://arxiv.org/abs/2503.07103)|null|
+|**2025-03-10**|**Encoding Co-Lex Orders of Finite-State Automata in Linear Space**|Ruben Becker et.al.|[2503.07061](http://arxiv.org/abs/2503.07061)|null|
 |**2025-03-07**|**Physics-based machine learning framework for predicting NOx emissions from compression ignition engines using on-board diagnostics data**|Harish Panneer Selvam et.al.|[2503.05648](http://arxiv.org/abs/2503.05648)|null|
 |**2025-03-07**|**D2GV: Deformable 2D Gaussian Splatting for Video Representation in 400FPS**|Mufan Liu et.al.|[2503.05600](http://arxiv.org/abs/2503.05600)|null|
 |**2025-03-07**|**A sharp-interface discontinuous Galerkin method for simulation of two-phase flow of real gases based on implicit shock tracking**|Charles Naudet et.al.|[2503.05557](http://arxiv.org/abs/2503.05557)|null|
