@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting**|Shuaiting Li et.al.|[2503.08668](http://arxiv.org/abs/2503.08668)|null|
+|**2025-03-11**|**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**|Yitian Zhang et.al.|[2503.08665](http://arxiv.org/abs/2503.08665)|null|
+|**2025-03-11**|**Position-Aware Depth Decay Decoding ( $D^3$ ): Boosting Large Language Model Inference Efficiency**|Siqi Fan et.al.|[2503.08524](http://arxiv.org/abs/2503.08524)|null|
+|**2025-03-11**|**PCGS: Progressive Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2503.08511](http://arxiv.org/abs/2503.08511)|null|
+|**2025-03-11**|**A Communication-Efficient and Differentially-Private Distributed Generalized Nash Equilibrium Seeking Algorithm for Aggregative Games**|Wenqing Zhao et.al.|[2503.08494](http://arxiv.org/abs/2503.08494)|null|
+|**2025-03-11**|**FastCache: Optimizing Multimodal LLM Serving through Lightweight KV-Cache Compression Framework**|Jianian Zhu et.al.|[2503.08461](http://arxiv.org/abs/2503.08461)|null|
+|**2025-03-11**|**Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing**|Chen Liao et.al.|[2503.08429](http://arxiv.org/abs/2503.08429)|null|
+|**2025-03-11**|**Accelerated Distributed Optimization with Compression and Error Feedback**|Yuan Gao et.al.|[2503.08427](http://arxiv.org/abs/2503.08427)|null|
+|**2025-03-11**|**Layton: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens**|Qingsong Xie et.al.|[2503.08377](http://arxiv.org/abs/2503.08377)|null|
+|**2025-03-11**|**Online Conformal Compression for Zero-Delay Communication with Distortion Guarantees**|Unnikrishnan Kunnath Ganesan et.al.|[2503.08340](http://arxiv.org/abs/2503.08340)|null|
 |**2025-03-10**|**V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation**|Guiwei Zhang et.al.|[2503.07493](http://arxiv.org/abs/2503.07493)|null|
 |**2025-03-10**|**Investigation of the piston effect in supercritical fluids via a reversible--irreversible vector field splitting-based explicit time integration scheme**|Donát M. Takács et.al.|[2503.07449](http://arxiv.org/abs/2503.07449)|null|
 |**2025-03-10**|**Representing two-parameter persistence modules via graphcodes**|Michael Kerber et.al.|[2503.07368](http://arxiv.org/abs/2503.07368)|null|
