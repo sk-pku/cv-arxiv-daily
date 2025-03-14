@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,7 +3093,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-12**|**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**|Md Mohaiminul Islam et.al.|[2503.09590](http://arxiv.org/abs/2503.09590)|null|
+|**2025-03-13**|**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**|Md Mohaiminul Islam et.al.|[2503.09590](http://arxiv.org/abs/2503.09590)|null|
 |**2025-03-12**|**Robust Multimodal Survival Prediction with the Latent Differentiation Conditional Variational AutoEncoder**|Junjie Zhou et.al.|[2503.09496](http://arxiv.org/abs/2503.09496)|null|
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
 |**2025-03-12**|**Multi-Agent Image Restoration**|Xu Jiang et.al.|[2503.09403](http://arxiv.org/abs/2503.09403)|null|
