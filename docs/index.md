@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Adversarial Data Collection: Human-Collaborative Perturbations for Efficient and Robust Robotic Imitation Learning**|Siyuan Huang et.al.|[2503.11646](http://arxiv.org/abs/2503.11646)|null|
+|**2025-03-14**|**Surface instabilities in laminar compressible boundary layers with sublimation**|Blaine Vollmer et.al.|[2503.11631](http://arxiv.org/abs/2503.11631)|null|
+|**2025-03-14**|**TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing**|Stefan Lionar et.al.|[2503.11629](http://arxiv.org/abs/2503.11629)|null|
+|**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591](http://arxiv.org/abs/2503.11591)|null|
+|**2025-03-14**|**Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**|Weiming Ren et.al.|[2503.11579](http://arxiv.org/abs/2503.11579)|null|
+|**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513](http://arxiv.org/abs/2503.11513)|null|
+|**2025-03-14**|**Text Compression for Efficient Language Generation**|David Gu et.al.|[2503.11426](http://arxiv.org/abs/2503.11426)|null|
+|**2025-03-14**|**Creating a Good Teacher for Knowledge Distillation in Acoustic Scene Classification**|Tobias Morocutti et.al.|[2503.11363](http://arxiv.org/abs/2503.11363)|null|
+|**2025-03-14**|**Enhanced Diagnostic Fidelity in Pathology Whole Slide Image Compression via Deep Learning**|Maximilian Fischer et.al.|[2503.11350](http://arxiv.org/abs/2503.11350)|null|
+|**2025-03-14**|**FG-DFPN: Flow Guided Deformable Frame Prediction Network**|M. Akın Yılmaz et.al.|[2503.11343](http://arxiv.org/abs/2503.11343)|null|
 |**2025-03-13**|**Approximation technique for preserving the minimum principle on the entropy for the compressible Euler Equations**|Bennett Clayton et.al.|[2503.10612](http://arxiv.org/abs/2503.10612)|null|
 |**2025-03-13**|**Spherical accretion of a collisionless kinetic gas into a generic static black hole**|Mehrab Momennia et.al.|[2503.10606](http://arxiv.org/abs/2503.10606)|null|
 |**2025-03-13**|**The LZ78 Source**|Naomi Sagan et.al.|[2503.10574](http://arxiv.org/abs/2503.10574)|null|
