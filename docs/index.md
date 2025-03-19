@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Flying in Highly Dynamic Environments with End-to-end Learning Approach**|Xiyu Fan et.al.|[2503.14352](http://arxiv.org/abs/2503.14352)|null|
+|**2025-03-18**|**LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models**|Yu Cheng et.al.|[2503.14325](http://arxiv.org/abs/2503.14325)|null|
+|**2025-03-18**|**Classes of non-Gaussian random matrices: long-range eigenvalue correlations and non-ergodic extended eigenvectors**|Joseph W. Baron et.al.|[2503.14282](http://arxiv.org/abs/2503.14282)|null|
+|**2025-03-18**|**Trading-off Accuracy and Communication Cost in Federated Learning**|Mattia Jacopo Villani et.al.|[2503.14246](http://arxiv.org/abs/2503.14246)|null|
+|**2025-03-18**|**Linear stability analysis of the Couette flow for 2D compressible Navier-Stokes-Poisson system**|Yurui Lu et.al.|[2503.14206](http://arxiv.org/abs/2503.14206)|null|
+|**2025-03-18**|**In situ vs ex situ: Comparing the structure of PNIPAM microgels at the air/water and air/solid interfaces**|Hayden Robertson et.al.|[2503.14181](http://arxiv.org/abs/2503.14181)|null|
+|**2025-03-18**|**RBFIM: Perceptual Quality Assessment for Compressed Point Clouds Using Radial Basis Function Interpolation**|Zhang Chen et.al.|[2503.14154](http://arxiv.org/abs/2503.14154)|null|
+|**2025-03-18**|**Modular Distributed Nonconvex Learning with Error Feedback**|Guido Carnevale et.al.|[2503.14055](http://arxiv.org/abs/2503.14055)|null|
+|**2025-03-18**|**The KoLMogorov Test: Compression by Code Generation**|Ori Yoran et.al.|[2503.13992](http://arxiv.org/abs/2503.13992)|null|
+|**2025-03-18**|**A new functional model for contractions**|Wang Yicao et.al.|[2503.13977](http://arxiv.org/abs/2503.13977)|null|
 |**2025-03-17**|**Causal Emergence 2.0: Quantifying emergent complexity**|Erik Hoel et.al.|[2503.13395](http://arxiv.org/abs/2503.13395)|null|
 |**2025-03-17**|**Investigating the effect of CPT in lateral spreading prediction using Explainable AI**|Cheng-Hsi Hsiao et.al.|[2503.13389](http://arxiv.org/abs/2503.13389)|null|
 |**2025-03-17**|**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**|Hai-Long Sun et.al.|[2503.13360](http://arxiv.org/abs/2503.13360)|null|
