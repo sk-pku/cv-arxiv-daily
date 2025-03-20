@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Fast Two-photon Microscopy by Neuroimaging with Oblong Random Acquisition (NORA)**|Esther Whang et.al.|[2503.15487](http://arxiv.org/abs/2503.15487)|null|
+|**2025-03-19**|**Value Profiles for Encoding Human Variation**|Taylor Sorensen et.al.|[2503.15484](http://arxiv.org/abs/2503.15484)|null|
+|**2025-03-19**|**Laser pulse focusing and energetic electron generation by magnetized plasma lens**|Trishul Dhalia et.al.|[2503.15401](http://arxiv.org/abs/2503.15401)|null|
+|**2025-03-19**|**Quasi- $Φ_0$ -periodic supercurrent at quantum Hall transitions**|Ivan Villani et.al.|[2503.15384](http://arxiv.org/abs/2503.15384)|null|
+|**2025-03-19**|**Well-Posedness of Contact Discontinuity Solutions and Vanishing Pressure Limit for the Aw-Rascle Traffic Flow Model**|Zijie Deng et.al.|[2503.15375](http://arxiv.org/abs/2503.15375)|null|
+|**2025-03-19**|**Is the Radcliffe wave turbulent?**|Itzhak Goldman et.al.|[2503.15345](http://arxiv.org/abs/2503.15345)|null|
+|**2025-03-19**|**TROVE: A Challenge for Fine-Grained Text Provenance via Source Sentence Tracing and Relationship Classification**|Junnan Zhu et.al.|[2503.15289](http://arxiv.org/abs/2503.15289)|null|
+|**2025-03-19**|**Nuclear Physics under the low-energy, high intensity frontier**|C. -J. Yang et.al.|[2503.15224](http://arxiv.org/abs/2503.15224)|null|
+|**2025-03-19**|**3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation**|Gyeongrok Oh et.al.|[2503.15185](http://arxiv.org/abs/2503.15185)|null|
+|**2025-03-19**|**When the Future Becomes the Past: Taming Temporal Correspondence for Self-supervised Video Representation Learning**|Yang Liu et.al.|[2503.15096](http://arxiv.org/abs/2503.15096)|null|
 |**2025-03-18**|**Flying in Highly Dynamic Environments with End-to-end Learning Approach**|Xiyu Fan et.al.|[2503.14352](http://arxiv.org/abs/2503.14352)|null|
 |**2025-03-18**|**LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models**|Yu Cheng et.al.|[2503.14325](http://arxiv.org/abs/2503.14325)|null|
 |**2025-03-18**|**Classes of non-Gaussian random matrices: long-range eigenvalue correlations and non-ergodic extended eigenvectors**|Joseph W. Baron et.al.|[2503.14282](http://arxiv.org/abs/2503.14282)|null|
