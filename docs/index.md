@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.21
+## Updated on 2025.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3096,7 +3096,7 @@ layout: default
 |**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
 |**2025-03-20**|**Tokenize Image as a Set**|Zigang Geng et.al.|[2503.16425](http://arxiv.org/abs/2503.16425)|null|
 |**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
-|**2025-03-20**|**NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes**|Han-Hung Lee et.al.|[2503.16375](http://arxiv.org/abs/2503.16375)|null|
+|**2025-03-20**|**NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes**|Han-Hung Lee et.al.|[2503.16375](http://arxiv.org/abs/2503.16375)|**[link](https://github.com/3dlg-hcvc/NuiScene)**|
 |**2025-03-20**|**Overview of Variable Rate Coding in JPEG AI**|Panqi Jia et.al.|[2503.16288](http://arxiv.org/abs/2503.16288)|null|
 |**2025-03-20**|**Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens**|Shuqi Lu et.al.|[2503.16278](http://arxiv.org/abs/2503.16278)|null|
 |**2025-03-20**|**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models**|Keda Tao et.al.|[2503.16257](http://arxiv.org/abs/2503.16257)|null|
