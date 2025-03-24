@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Leveraging statistical models to improve pre-season forecasting and in-season management of a recreational fishery**|A. Challen Hyman et.al.|[2503.17293](http://arxiv.org/abs/2503.17293)|null|
+|**2025-03-21**|**Searches for direct slepton production in the compressed-mass corridor in $\sqrt{s}=13$ TeV $pp$ collisions with the ATLAS detector**|ATLAS Collaboration et.al.|[2503.17186](http://arxiv.org/abs/2503.17186)|null|
+|**2025-03-21**|**Large Language Model Compression via the Nested Activation-Aware Decomposition**|Jun Lu et.al.|[2503.17101](http://arxiv.org/abs/2503.17101)|null|
+|**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
+|**2025-03-21**|**Ex vivo experiment on vertebral body with defect representing bone metastasis**|W. Lokbani et.al.|[2503.17047](http://arxiv.org/abs/2503.17047)|null|
+|**2025-03-21**|**STFTCodec: High-Fidelity Audio Compression through Time-Frequency Domain Representation**|Tao Feng et.al.|[2503.16989](http://arxiv.org/abs/2503.16989)|null|
+|**2025-03-21**|**Token Dynamics: Towards Efficient and Dynamic Video Token Representation for Video Large Language Models**|Haichao Zhang et.al.|[2503.16980](http://arxiv.org/abs/2503.16980)|null|
+|**2025-03-21**|**Optimized Minimal 3D Gaussian Splatting**|Joo Chan Lee et.al.|[2503.16924](http://arxiv.org/abs/2503.16924)|null|
+|**2025-03-21**|**Temporal Action Detection Model Compression by Progressive Block Drop**|Xiaoyong Chen et.al.|[2503.16916](http://arxiv.org/abs/2503.16916)|null|
+|**2025-03-21**|**Property of downstream turbulence driven by the special relativistic shock-clump interaction**|Kanji Morikawa et.al.|[2503.16899](http://arxiv.org/abs/2503.16899)|null|
 |**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
 |**2025-03-20**|**Tokenize Image as a Set**|Zigang Geng et.al.|[2503.16425](http://arxiv.org/abs/2503.16425)|**[link](https://github.com/Gengzigang/TokenSet)**|
 |**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
