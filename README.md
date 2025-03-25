@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
+|**2025-03-24**|**Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation**|Yanda Chen et.al.|[2503.18872](http://arxiv.org/abs/2503.18872)|null|
+|**2025-03-24**|**On the singular limit of Brinkman's law to Darcy's law**|Noemi David et.al.|[2503.18870](http://arxiv.org/abs/2503.18870)|null|
+|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-03-24**|**Reasoning to Learn from Latent Thoughts**|Yangjun Ruan et.al.|[2503.18866](http://arxiv.org/abs/2503.18866)|null|
+|**2025-03-24**|**Coarse-graining Directed Networks with Ergodic Sets Preserving Diffusive Dynamics**|Erik Hormann et.al.|[2503.18823](http://arxiv.org/abs/2503.18823)|null|
+|**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812](http://arxiv.org/abs/2503.18812)|null|
+|**2025-03-24**|**Large deformation and collapse analysis of re-entrant auxetic and hexagonal honeycomb lattice structures subjected to tension and compression**|Sima Farshbaf et.al.|[2503.18736](http://arxiv.org/abs/2503.18736)|null|
+|**2025-03-24**|**Adaptive stochastic Galerkin finite element methods: Optimality and non-affine coefficients**|Markus Bachmayr et.al.|[2503.18704](http://arxiv.org/abs/2503.18704)|null|
+|**2025-03-24**|**Merge Mode for Template-based Intra Mode Derivation (TIMD) in ECM**|Mohsen Abdoli et.al.|[2503.18679](http://arxiv.org/abs/2503.18679)|null|
 |**2025-03-21**|**Leveraging statistical models to improve pre-season forecasting and in-season management of a recreational fishery**|A. Challen Hyman et.al.|[2503.17293](http://arxiv.org/abs/2503.17293)|null|
 |**2025-03-21**|**Searches for direct slepton production in the compressed-mass corridor in $\sqrt{s}=13$ TeV $pp$ collisions with the ATLAS detector**|ATLAS Collaboration et.al.|[2503.17186](http://arxiv.org/abs/2503.17186)|null|
 |**2025-03-21**|**Large Language Model Compression via the Nested Activation-Aware Decomposition**|Jun Lu et.al.|[2503.17101](http://arxiv.org/abs/2503.17101)|null|
