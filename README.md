@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**A natural MSSM from a novel $\mathsf{SO(10)}$ , Yukawa unification, light sparticles, and SUSY implications at LHC**|Jinzheng Li et.al.|[2503.19871](http://arxiv.org/abs/2503.19871)|null|
+|**2025-03-25**|**TopoGEN: topology-driven microstructure generation for in silico modeling of fiber network mechanics**|Sara Cardona et.al.|[2503.19832](http://arxiv.org/abs/2503.19832)|null|
+|**2025-03-25**|**Bitstream Collisions in Neural Image Compression via Adversarial Perturbations**|Jordan Madden et.al.|[2503.19817](http://arxiv.org/abs/2503.19817)|null|
+|**2025-03-25**|**Probabilistic combination of loads in topology optimization designs via cumulative damage criteria**|Luis Irastorza-Valera et.al.|[2503.19807](http://arxiv.org/abs/2503.19807)|null|
+|**2025-03-25**|**Characteristic boundary conditions for Hybridizable Discontinuous Galerkin methods**|Jan Ellmenreich et.al.|[2503.19684](http://arxiv.org/abs/2503.19684)|null|
+|**2025-03-25**|**A Low-Power Sparse Deep Learning Accelerator with Optimized Data Reuse**|Kai-Chieh Hsu et.al.|[2503.19639](http://arxiv.org/abs/2503.19639)|null|
+|**2025-03-25**|**Lifting Linear Sketches: Optimal Bounds and Adversarial Robustness**|Elena Gribelyuk et.al.|[2503.19629](http://arxiv.org/abs/2503.19629)|null|
+|**2025-03-25**|**GIViC: Generative Implicit Video Compression**|Ge Gao et.al.|[2503.19604](http://arxiv.org/abs/2503.19604)|null|
+|**2025-03-25**|**SINR: Sparsity Driven Compressed Implicit Neural Representations**|Dhananjaya Jayasundara et.al.|[2503.19576](http://arxiv.org/abs/2503.19576)|null|
+|**2025-03-25**|**Improved tissue sodium concentration quantification in breast cancer by reducing partial volume effects: a preliminary study**|Olgica Zaric et.al.|[2503.19570](http://arxiv.org/abs/2503.19570)|null|
 |**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
 |**2025-03-24**|**Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation**|Yanda Chen et.al.|[2503.18872](http://arxiv.org/abs/2503.18872)|null|
 |**2025-03-24**|**On the singular limit of Brinkman's law to Darcy's law**|Noemi David et.al.|[2503.18870](http://arxiv.org/abs/2503.18870)|null|
