@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Experiments and modeling of mechanically-soft, hard magnetorheological foams with potential applications in haptic sensing**|Zehui Lin et.al.|[2503.20580](http://arxiv.org/abs/2503.20580)|null|
+|**2025-03-26**|**MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation**|Jinnan Chen et.al.|[2503.20519](http://arxiv.org/abs/2503.20519)|null|
+|**2025-03-26**|**Hybridization of lattice and charge order excitations in a superconducting cuprate**|S. M. Souliou et.al.|[2503.20503](http://arxiv.org/abs/2503.20503)|null|
+|**2025-03-26**|**Automated and Risk-Aware Engine Control Calibration Using Constrained Bayesian Optimization**|Maarten Vlaswinkel et.al.|[2503.20493](http://arxiv.org/abs/2503.20493)|null|
+|**2025-03-26**|**Lipschitz Constant Meets Condition Number: Learning Robust and Compact Deep Neural Networks**|Yangqi Feng et.al.|[2503.20454](http://arxiv.org/abs/2503.20454)|null|
+|**2025-03-26**|**Maximal turbulence as a selection criterion for measure-valued solutions**|Christian Klingenberg et.al.|[2503.20343](http://arxiv.org/abs/2503.20343)|null|
+|**2025-03-26**|**Dynamic Pyramid Network for Efficient Multimodal Large Language Model**|Hao Ai et.al.|[2503.20322](http://arxiv.org/abs/2503.20322)|null|
+|**2025-03-26**|**TC-GS: Tri-plane based compression for 3D Gaussian Splatting**|Taorui Wang et.al.|[2503.20221](http://arxiv.org/abs/2503.20221)|null|
+|**2025-03-26**|**Spectrum from Defocus: Fast Spectral Imaging with Chromatic Focal Stack**|M. Kerem Aydin et.al.|[2503.20184](http://arxiv.org/abs/2503.20184)|null|
+|**2025-03-26**|**Beyond Worst-Case Subset Sum: An Adaptive, Structure-Aware Solver with Sub- $2^{n/2}$ Enumeration**|Jesus Salas et.al.|[2503.20162](http://arxiv.org/abs/2503.20162)|null|
 |**2025-03-25**|**A natural MSSM from a novel $\mathsf{SO(10)}$ , Yukawa unification, light sparticles, and SUSY implications at LHC**|Jinzheng Li et.al.|[2503.19871](http://arxiv.org/abs/2503.19871)|null|
 |**2025-03-25**|**TopoGEN: topology-driven microstructure generation for in silico modeling of fiber network mechanics**|Sara Cardona et.al.|[2503.19832](http://arxiv.org/abs/2503.19832)|null|
 |**2025-03-25**|**Bitstream Collisions in Neural Image Compression via Adversarial Perturbations**|Jordan Madden et.al.|[2503.19817](http://arxiv.org/abs/2503.19817)|null|
