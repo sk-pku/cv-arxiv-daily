@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757](http://arxiv.org/abs/2503.21757)|null|
+|**2025-03-27**|**As easy as PIE: understanding when pruning causes language models to disagree**|Pietro Tropeano et.al.|[2503.21714](http://arxiv.org/abs/2503.21714)|null|
+|**2025-03-27**|**Shear Strain-Induced Multiferroic Response in the Altermagnetic Semiconductor CuFeS $_2$**|Roman Malyshev et.al.|[2503.21637](http://arxiv.org/abs/2503.21637)|null|
+|**2025-03-27**|**Nonlinear Multiple Response Regression and Learning of Latent Spaces**|Ye Tian et.al.|[2503.21608](http://arxiv.org/abs/2503.21608)|null|
+|**2025-03-27**|**F-INR: Functional Tensor Decomposition for Implicit Neural Representations**|Sai Karthikeya Vemuri et.al.|[2503.21507](http://arxiv.org/abs/2503.21507)|null|
+|**2025-03-27**|**Embedding Compression Distortion in Video Coding for Machines**|Yuxiao Sun et.al.|[2503.21469](http://arxiv.org/abs/2503.21469)|null|
+|**2025-03-27**|**Subtle Structural Anomaly under Compression in Line-Nodal CaSb $_2$**|Hidemitsu Takahashi et.al.|[2503.21340](http://arxiv.org/abs/2503.21340)|null|
+|**2025-03-27**|**A Low-Power Streaming Speech Enhancement Accelerator For Edge Devices**|Ci-Hao Wu et.al.|[2503.21335](http://arxiv.org/abs/2503.21335)|null|
+|**2025-03-27**|**InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression**|Dongchen Lu et.al.|[2503.21307](http://arxiv.org/abs/2503.21307)|null|
+|**2025-03-27**|**Shock compression-based equation of state for perfluorohexane**|Anunay Prasanna et.al.|[2503.21306](http://arxiv.org/abs/2503.21306)|null|
 |**2025-03-26**|**Experiments and modeling of mechanically-soft, hard magnetorheological foams with potential applications in haptic sensing**|Zehui Lin et.al.|[2503.20580](http://arxiv.org/abs/2503.20580)|null|
 |**2025-03-27**|**MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation**|Jinnan Chen et.al.|[2503.20519](http://arxiv.org/abs/2503.20519)|null|
 |**2025-03-26**|**Hybridization of lattice and charge order excitations in a superconducting cuprate**|S. M. Souliou et.al.|[2503.20503](http://arxiv.org/abs/2503.20503)|null|
