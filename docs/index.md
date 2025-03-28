@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3094,7 +3094,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-26**|**Experiments and modeling of mechanically-soft, hard magnetorheological foams with potential applications in haptic sensing**|Zehui Lin et.al.|[2503.20580](http://arxiv.org/abs/2503.20580)|null|
-|**2025-03-26**|**MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation**|Jinnan Chen et.al.|[2503.20519](http://arxiv.org/abs/2503.20519)|null|
+|**2025-03-27**|**MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation**|Jinnan Chen et.al.|[2503.20519](http://arxiv.org/abs/2503.20519)|null|
 |**2025-03-26**|**Hybridization of lattice and charge order excitations in a superconducting cuprate**|S. M. Souliou et.al.|[2503.20503](http://arxiv.org/abs/2503.20503)|null|
 |**2025-03-26**|**Automated and Risk-Aware Engine Control Calibration Using Constrained Bayesian Optimization**|Maarten Vlaswinkel et.al.|[2503.20493](http://arxiv.org/abs/2503.20493)|null|
 |**2025-03-26**|**Lipschitz Constant Meets Condition Number: Learning Robust and Compact Deep Neural Networks**|Yangqi Feng et.al.|[2503.20454](http://arxiv.org/abs/2503.20454)|null|
