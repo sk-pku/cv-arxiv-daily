@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3096,7 +3096,7 @@ layout: default
 |**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358](http://arxiv.org/abs/2503.24358)|null|
 |**2025-03-31**|**Compressible N-phase fluid mixture models**|M. F. P. ten Eikelder et.al.|[2503.24225](http://arxiv.org/abs/2503.24225)|null|
 |**2025-03-31**|**TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**|Jingxian Xu et.al.|[2503.24198](http://arxiv.org/abs/2503.24198)|null|
-|**2025-03-31**|**Moving mesh FSI approach for VIV simulation based on DG method with AMR technique**|Jia-Jun Zou et.al.|[2503.24134](http://arxiv.org/abs/2503.24134)|null|
+|**2025-04-01**|**Moving mesh FSI approach for VIV simulation based on DG method with AMR technique**|Jia-Jun Zou et.al.|[2503.24134](http://arxiv.org/abs/2503.24134)|null|
 |**2025-03-31**|**Compression Metadata-assisted RoI Extraction and Adaptive Inference for Efficient Video Analytics**|Chengzhi Wang et.al.|[2503.24127](http://arxiv.org/abs/2503.24127)|null|
 |**2025-03-31**|**Physics-informed neural networks for hidden boundary detection and flow field reconstruction**|Yongzheng Zhu et.al.|[2503.24074](http://arxiv.org/abs/2503.24074)|null|
 |**2025-03-31**|**A low cost singular value decomposition based data assimilation technique for analysis of heterogeneous combustion data**|Prajith Pillai et.al.|[2503.24064](http://arxiv.org/abs/2503.24064)|null|
