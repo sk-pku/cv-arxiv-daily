@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Efficient Federated Learning Tiny Language Models for Mobile Network Feature Prediction**|Daniel Becking et.al.|[2504.01947](http://arxiv.org/abs/2504.01947)|null|
+|**2025-04-02**|**Representing Flow Fields with Divergence-Free Kernels for Reconstruction**|Xingyu Ni et.al.|[2504.01913](http://arxiv.org/abs/2504.01913)|null|
+|**2025-04-02**|**Dual mechanism of Anti-Seizure Medications in controlling seizure activity**|Guillermo M. Besne et.al.|[2504.01887](http://arxiv.org/abs/2504.01887)|null|
+|**2025-04-02**|**Efficient Constant-Space Multi-Vector Retrieval**|Sean MacAvaney et.al.|[2504.01818](http://arxiv.org/abs/2504.01818)|null|
+|**2025-04-02**|**Acoustic Propagation/Refraction Through Diffuse Interface Models**|Abbas Ballout et.al.|[2504.01727](http://arxiv.org/abs/2504.01727)|null|
+|**2025-04-02**|**An Adaptive Proximal Inexact Gradient Framework and Its Application to Per-Antenna Constrained Joint Beamforming and Compression Design**|Xilai Fan et.al.|[2504.01721](http://arxiv.org/abs/2504.01721)|null|
+|**2025-04-02**|**Surface forces and frictional properties of adsorbed bio-based cationic polysaccharide thin films in salted aqueous medium**|Lionel Bureau et.al.|[2504.01510](http://arxiv.org/abs/2504.01510)|null|
+|**2025-04-02**|**In-situ compression and shape recovery of Ceramic single grain micro-pillar**|Justin Jetter et.al.|[2504.01505](http://arxiv.org/abs/2504.01505)|null|
+|**2025-04-02**|**CASCADE Your Datasets for Cross-Mode Knowledge Retrieval of Language Models**|Runlong Zhou et.al.|[2504.01450](http://arxiv.org/abs/2504.01450)|null|
+|**2025-04-02**|**Enabling Continuous THz Band Coverage via Precise Electron Beam Tailoring in Free-electron Lasers**|Yin Kang et.al.|[2504.01391](http://arxiv.org/abs/2504.01391)|null|
 |**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358](http://arxiv.org/abs/2503.24358)|null|
 |**2025-03-31**|**Compressible N-phase fluid mixture models**|M. F. P. ten Eikelder et.al.|[2503.24225](http://arxiv.org/abs/2503.24225)|null|
 |**2025-03-31**|**TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**|Jingxian Xu et.al.|[2503.24198](http://arxiv.org/abs/2503.24198)|null|
