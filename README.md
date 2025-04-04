@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801](http://arxiv.org/abs/2504.02801)|null|
+|**2025-04-03**|**Component-wise Krasnosel'skii type fixed point theorem in product spaces and applications**|Laura M Fernández-Pardo et.al.|[2504.02774](http://arxiv.org/abs/2504.02774)|null|
+|**2025-04-03**|**GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration**|Yuhang Li et.al.|[2504.02692](http://arxiv.org/abs/2504.02692)|null|
+|**2025-04-03**|**Compositionality Unlocks Deep Interpretable Models**|Thomas Dooms et.al.|[2504.02667](http://arxiv.org/abs/2504.02667)|null|
+|**2025-04-03**|**PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation**|Lihua Liu et.al.|[2504.02617](http://arxiv.org/abs/2504.02617)|null|
+|**2025-04-03**|**Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression**|Lucas Relic et.al.|[2504.02579](http://arxiv.org/abs/2504.02579)|null|
+|**2025-04-03**|**L-LBVC: Long-Term Motion Estimation and Prediction for Learned Bi-Directional Video Compression**|Yongqi Zhai et.al.|[2504.02560](http://arxiv.org/abs/2504.02560)|null|
+|**2025-04-03**|**UNDO: Understanding Distillation as Optimization**|Kushal Jain et.al.|[2504.02521](http://arxiv.org/abs/2504.02521)|null|
+|**2025-04-03**|**An MHD Simulation of the Possible Modulations of Stellar CMEs Radio Observations by an Exoplanetary Magnetosphere**|Soumitra Hazra et.al.|[2504.02469](http://arxiv.org/abs/2504.02469)|null|
+|**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
 |**2025-04-02**|**Efficient Federated Learning Tiny Language Models for Mobile Network Feature Prediction**|Daniel Becking et.al.|[2504.01947](http://arxiv.org/abs/2504.01947)|null|
 |**2025-04-02**|**Representing Flow Fields with Divergence-Free Kernels for Reconstruction**|Xingyu Ni et.al.|[2504.01913](http://arxiv.org/abs/2504.01913)|null|
 |**2025-04-02**|**Dual mechanism of Anti-Seizure Medications in controlling seizure activity**|Guillermo M. Besne et.al.|[2504.01887](http://arxiv.org/abs/2504.01887)|null|
