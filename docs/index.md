@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
+|**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298](http://arxiv.org/abs/2504.05298)|null|
+|**2025-04-07**|**Learning symmetries in datasets**|Veronica Sanz et.al.|[2504.05174](http://arxiv.org/abs/2504.05174)|null|
+|**2025-04-07**|**Kinetic study of compressible Rayleigh-Taylor instability with time-varying acceleration**|Huilin Lai et.al.|[2504.05128](http://arxiv.org/abs/2504.05128)|null|
+|**2025-04-07**|**Balancing Robustness and Efficiency in Embedded DNNs Through Activation Function Selection**|Jon Gutiérrez Zaballa et.al.|[2504.05119](http://arxiv.org/abs/2504.05119)|null|
+|**2025-04-07**|**Randomized block Krylov method for approximation of truncated tensor SVD**|Malihe Nobakht Kooshkghazi et.al.|[2504.04989](http://arxiv.org/abs/2504.04989)|null|
+|**2025-04-07**|**Low-Rate Semantic Communication with Codebook-based Conditional Generative Models**|Kailang Ye et.al.|[2504.04977](http://arxiv.org/abs/2504.04977)|null|
+|**2025-04-07**|**One Quantizer is Enough: Toward a Lightweight Audio Codec**|Linwei Zhai et.al.|[2504.04949](http://arxiv.org/abs/2504.04949)|null|
+|**2025-04-07**|**Sparse Optimization for Transfer Learning: A L0-Regularized Framework for Multi-Source Domain Adaptation**|Chenqi Gong et.al.|[2504.04812](http://arxiv.org/abs/2504.04812)|null|
+|**2025-04-07**|**Drastic softening of Pd nanoparticles induced by hydrogen cycling**|Jonathan Zimmerman et.al.|[2504.04776](http://arxiv.org/abs/2504.04776)|null|
 |**2025-04-04**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624](http://arxiv.org/abs/2504.03624)|null|
 |**2025-04-04**|**AutoSSVH: Exploring Automated Frame Sampling for Efficient Self-Supervised Video Hashing**|Niu Lian et.al.|[2504.03587](http://arxiv.org/abs/2504.03587)|**[link](https://github.com/EliSpectre/CVPR25-AutoSSVH)**|
 |**2025-04-04**|**A variationally consistent membrane wrinkling model based on spectral decomposition of the stress tensor**|Daobo Zhang et.al.|[2504.03400](http://arxiv.org/abs/2504.03400)|null|
