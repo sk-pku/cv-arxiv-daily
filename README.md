@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443](http://arxiv.org/abs/2504.10443)|null|
+|**2025-04-14**|**Fine-Grained Complexity via Quantum Natural Proofs**|Yanlin Chen et.al.|[2504.10363](http://arxiv.org/abs/2504.10363)|null|
+|**2025-04-14**|**ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language Modeling**|Dongchao Yang et.al.|[2504.10344](http://arxiv.org/abs/2504.10344)|null|
+|**2025-04-14**|**Optimal Graph Stretching for Distributed Averaging**|Florine W. Dekker et.al.|[2504.10289](http://arxiv.org/abs/2504.10289)|null|
+|**2025-04-14**|**Compressible fluids excited by space-dependent transport noise**|D. Breit et.al.|[2504.10256](http://arxiv.org/abs/2504.10256)|null|
+|**2025-04-14**|**Elastic displacements in wedge-shaped geometries with a straight edge: Green's functions for perpendicular forces**|Abdallah Daddi-Moussa-Ider et.al.|[2504.10239](http://arxiv.org/abs/2504.10239)|null|
+|**2025-04-14**|**Mathematical Justification of a Baer $-$ Nunziato Model for a Compressible Viscous Fluid with Phase Transition**|Christian Rohde et.al.|[2504.10161](http://arxiv.org/abs/2504.10161)|null|
+|**2025-04-14**|**HistLLM: A Unified Framework for LLM-Based Multimodal Recommendation with User History Encoding and Compression**|Chen Zhang et.al.|[2504.10150](http://arxiv.org/abs/2504.10150)|null|
+|**2025-04-14**|**Conditional Distribution Compression via the Kernel Conditional Mean Embedding**|Dominic Broadbent et.al.|[2504.10139](http://arxiv.org/abs/2504.10139)|null|
+|**2025-04-14**|**Local-in-time well-posedness for the regular solution to the 2D full compressible Navier-Stokes equations with degenerate viscosities and heat conductivity**|Yue Cao et.al.|[2504.10094](http://arxiv.org/abs/2504.10094)|null|
 |**2025-04-11**|**GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation**|Tianwei Xiong et.al.|[2504.08736](http://arxiv.org/abs/2504.08736)|null|
 |**2025-04-11**|**Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging**|Gabriele Lozupone et.al.|[2504.08635](http://arxiv.org/abs/2504.08635)|**[link](https://github.com/GabrieleLozupone/LDAE)**|
 |**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591](http://arxiv.org/abs/2504.08591)|null|
