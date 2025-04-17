@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**On the range of validity of parabolic models for fluid flow through isotropic homogeneous porous media**|Davide Dapelo et.al.|[2504.12280](http://arxiv.org/abs/2504.12280)|null|
+|**2025-04-16**|**Human Aligned Compression for Robust Models**|Samuel Räber et.al.|[2504.12255](http://arxiv.org/abs/2504.12255)|null|
+|**2025-04-16**|**Sound waves from primordial black hole formations**|Zhuan Ning et.al.|[2504.12243](http://arxiv.org/abs/2504.12243)|null|
+|**2025-04-16**|**Suppression of composition g-modes in chemically-equilibrating warm neutron stars**|Tianqi Zhao et.al.|[2504.12230](http://arxiv.org/abs/2504.12230)|null|
+|**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|null|
+|**2025-04-16**|**One-stage hollow-core fiber-based compression of Yb:KGW lasers to the single-cycle regime**|Z. Pi et.al.|[2504.12064](http://arxiv.org/abs/2504.12064)|null|
+|**2025-04-16**|**Pressure-tuned spin chains in brochantite, Cu $_4$SO$_4$(OH)$_6$**|Victoria A. Ginga et.al.|[2504.12057](http://arxiv.org/abs/2504.12057)|null|
+|**2025-04-16**|**No equivalence between hydrodynamic and dispersive mass of the charged polaron**|Krzysztof Myśliwy et.al.|[2504.12040](http://arxiv.org/abs/2504.12040)|null|
+|**2025-04-16**|**Generative Recommendation with Continuous-Token Diffusion**|Haohao Qu et.al.|[2504.12007](http://arxiv.org/abs/2504.12007)|null|
+|**2025-04-16**|**Local-in-time well-posedness for 2D compressible magneto-micropolar boundary layer in Sobolev spaces**|Yuming Qin et.al.|[2504.11931](http://arxiv.org/abs/2504.11931)|null|
 |**2025-04-15**|**Analysis of Preheat Propagation in MagLIF-like Plasmas**|Fernando Garcia-Rubio et.al.|[2504.11432](http://arxiv.org/abs/2504.11432)|null|
 |**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426](http://arxiv.org/abs/2504.11426)|null|
 |**2025-04-15**|**Randomized block proximal method with locally Lipschitz continuous gradient**|Pedro Pérez-Aros et.al.|[2504.11410](http://arxiv.org/abs/2504.11410)|null|
