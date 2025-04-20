@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3102,7 +3102,7 @@ layout: default
 |**2025-04-17**|**TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations**|Yihang Lu et.al.|[2504.12721](http://arxiv.org/abs/2504.12721)|null|
 |**2025-04-17**|**A Two-Phase Perspective on Deep Learning Dynamics**|Robert de Mello Koch et.al.|[2504.12700](http://arxiv.org/abs/2504.12700)|null|
 |**2025-04-17**|**ACoRN: Noise-Robust Abstractive Compression in Retrieval-Augmented Language Models**|Singon Kim et.al.|[2504.12673](http://arxiv.org/abs/2504.12673)|null|
-|**2025-04-17**|**Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**|Lvmin Zhang et.al.|[2504.12626](http://arxiv.org/abs/2504.12626)|null|
+|**2025-04-17**|**Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**|Lvmin Zhang et.al.|[2504.12626](http://arxiv.org/abs/2504.12626)|**[link](https://github.com/lllyasviel/framepack)**|
 |**2025-04-16**|**On the range of validity of parabolic models for fluid flow through isotropic homogeneous porous media**|Davide Dapelo et.al.|[2504.12280](http://arxiv.org/abs/2504.12280)|null|
 |**2025-04-16**|**Human Aligned Compression for Robust Models**|Samuel Räber et.al.|[2504.12255](http://arxiv.org/abs/2504.12255)|null|
 |**2025-04-16**|**Sound waves from primordial black hole formations**|Zhuan Ning et.al.|[2504.12243](http://arxiv.org/abs/2504.12243)|null|
