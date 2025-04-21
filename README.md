@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
+|**2025-04-18**|**A Fast Direct Solver for Boundary Integral Equations Using Quadrature By Expansion**|Alexandru Fikl et.al.|[2504.13809](http://arxiv.org/abs/2504.13809)|null|
+|**2025-04-18**|**Models, Methods and Waveforms for Estimation and Prediction of Doubly Sparse Time-Varying Channels**|Wissal Benzine et.al.|[2504.13762](http://arxiv.org/abs/2504.13762)|null|
+|**2025-04-18**|**Fragile Watermarking for Image Certification Using Deep Steganographic Embedding**|Davide Ghiani et.al.|[2504.13759](http://arxiv.org/abs/2504.13759)|null|
+|**2025-04-18**|**JANC: A cost-effective, differentiable compressible reacting flow solver featured with JAX-based adaptive mesh refinement**|Haocheng Wen et.al.|[2504.13750](http://arxiv.org/abs/2504.13750)|null|
+|**2025-04-18**|**LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks**|Ali Hojjat et.al.|[2504.13736](http://arxiv.org/abs/2504.13736)|null|
+|**2025-04-18**|**Efficient algorithms for the Hadamard decomposition**|Samuel Wertz et.al.|[2504.13633](http://arxiv.org/abs/2504.13633)|null|
+|**2025-04-18**|**Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**|Sebastian Schwalbe et.al.|[2504.13611](http://arxiv.org/abs/2504.13611)|null|
+|**2025-04-18**|**MAAM: A Lightweight Multi-Agent Aggregation Module for Efficient Image Classification Based on the MindSpore Framework**|Zhenkai Qin et.al.|[2504.13574](http://arxiv.org/abs/2504.13574)|null|
+|**2025-04-18**|**Extracting flow stress surfaces of pristine materials using deformation paths in MD simulations**|Eliott T. Dubois et.al.|[2504.13544](http://arxiv.org/abs/2504.13544)|null|
 |**2025-04-17**|**Quantum-gas microscopy of the Bose-glass phase**|Lennart Koehn et.al.|[2504.13040](http://arxiv.org/abs/2504.13040)|null|
 |**2025-04-17**|**Inference-friendly Graph Compression for Graph Neural Networks**|Yangxin Fan et.al.|[2504.13034](http://arxiv.org/abs/2504.13034)|null|
 |**2025-04-17**|**CompGS++: Compressed Gaussian Splatting for Static and Dynamic Scene Representation**|Xiangrui Liu et.al.|[2504.13022](http://arxiv.org/abs/2504.13022)|null|
