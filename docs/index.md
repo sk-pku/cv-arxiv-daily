@@ -47,7 +47,7 @@ layout: default
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
 |**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071](http://arxiv.org/abs/2405.04071)|**[link](https://github.com/nail-hnu/esvio_aa)**|
 |**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745](http://arxiv.org/abs/2404.17745)|null|
-|**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251](http://arxiv.org/abs/2404.17251)|null|
+|**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251](http://arxiv.org/abs/2404.17251)|**[link](https://github.com/samuel-cerezo/SceneFlowFusion)**|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263](http://arxiv.org/abs/2404.15263)|**[link](https://github.com/princeton-vl/multislam_diffpose)**|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
 |**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|**[link](https://github.com/rvp-group/vbr-devkit)**|
@@ -70,7 +70,7 @@ layout: default
 |**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836](http://arxiv.org/abs/2401.05836)|null|
 |**2023-12-19**|**Loss it right: Euclidean and Riemannian Metrics in Learning-based Visual Odometry**|Olaya Álvarez-Tuñón et.al.|[2401.05396](http://arxiv.org/abs/2401.05396)|**[link](https://github.com/remaro-network/Loss_VO_right)**|
 |**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604](http://arxiv.org/abs/2401.03604)|**[link](https://github.com/A3DV/VIRec)**|
-|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
+|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|**[link](https://github.com/wrchen530/leapvo)**|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
 |**2023-12-22**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332](http://arxiv.org/abs/2312.13332)|null|
@@ -3104,7 +3104,7 @@ layout: default
 |**2025-04-17**|**ACoRN: Noise-Robust Abstractive Compression in Retrieval-Augmented Language Models**|Singon Kim et.al.|[2504.12673](http://arxiv.org/abs/2504.12673)|null|
 |**2025-04-17**|**Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**|Lvmin Zhang et.al.|[2504.12626](http://arxiv.org/abs/2504.12626)|**[link](https://github.com/lllyasviel/framepack)**|
 |**2025-04-16**|**On the range of validity of parabolic models for fluid flow through isotropic homogeneous porous media**|Davide Dapelo et.al.|[2504.12280](http://arxiv.org/abs/2504.12280)|null|
-|**2025-04-16**|**Human Aligned Compression for Robust Models**|Samuel Räber et.al.|[2504.12255](http://arxiv.org/abs/2504.12255)|null|
+|**2025-04-16**|**Human Aligned Compression for Robust Models**|Samuel Räber et.al.|[2504.12255](http://arxiv.org/abs/2504.12255)|**[link](https://github.com/aplesner/Human-aligned-compression-for-robust-models)**|
 |**2025-04-16**|**Sound waves from primordial black hole formations**|Zhuan Ning et.al.|[2504.12243](http://arxiv.org/abs/2504.12243)|null|
 |**2025-04-16**|**Suppression of composition g-modes in chemically-equilibrating warm neutron stars**|Tianqi Zhao et.al.|[2504.12230](http://arxiv.org/abs/2504.12230)|null|
 |**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|null|
@@ -3115,7 +3115,7 @@ layout: default
 |**2025-04-16**|**Local-in-time well-posedness for 2D compressible magneto-micropolar boundary layer in Sobolev spaces**|Yuming Qin et.al.|[2504.11931](http://arxiv.org/abs/2504.11931)|null|
 |**2025-04-15**|**Analysis of Preheat Propagation in MagLIF-like Plasmas**|Fernando Garcia-Rubio et.al.|[2504.11432](http://arxiv.org/abs/2504.11432)|null|
 |**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426](http://arxiv.org/abs/2504.11426)|null|
-|**2025-04-15**|**Randomized block proximal method with locally Lipschitz continuous gradient**|Pedro Pérez-Aros et.al.|[2504.11410](http://arxiv.org/abs/2504.11410)|null|
+|**2025-04-15**|**Randomized block proximal method with locally Lipschitz continuous gradient**|Pedro Pérez-Aros et.al.|[2504.11410](http://arxiv.org/abs/2504.11410)|**[link](https://github.com/davidtbelen/arbpg)**|
 |**2025-04-15**|**Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning**|Ali Taghibakhshi et.al.|[2504.11409](http://arxiv.org/abs/2504.11409)|null|
 |**2025-04-15**|**Unraveling Momentum and Heat Intercoupling in Reattaching Turbulent Boundary Layers Using Dynamic Mode Decomposition**|Rozie Zangeneh et.al.|[2504.11390](http://arxiv.org/abs/2504.11390)|null|
 |**2025-04-15**|**Adaptive Compressible Smoothed Particle Hydrodynamics**|Navaneet Villodi et.al.|[2504.11350](http://arxiv.org/abs/2504.11350)|null|
@@ -3123,7 +3123,7 @@ layout: default
 |**2025-04-15**|**DeepSelective: Feature Gating and Representation Matching for Interpretable Clinical Prediction**|Ruochi Zhang et.al.|[2504.11264](http://arxiv.org/abs/2504.11264)|null|
 |**2025-04-15**|**Guided Wave-Based Structural Awareness Under Varying Operating States via Manifold Representations**|Yiming Fan et.al.|[2504.11235](http://arxiv.org/abs/2504.11235)|null|
 |**2025-04-15**|**Morphing-based Compression for Data-centric ML Pipelines**|Sebastian Baunsgaard et.al.|[2504.11067](http://arxiv.org/abs/2504.11067)|null|
-|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443](http://arxiv.org/abs/2504.10443)|null|
+|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443](http://arxiv.org/abs/2504.10443)|**[link](https://github.com/hoar012/tdc-video)**|
 |**2025-04-14**|**Fine-Grained Complexity via Quantum Natural Proofs**|Yanlin Chen et.al.|[2504.10363](http://arxiv.org/abs/2504.10363)|null|
 |**2025-04-14**|**ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language Modeling**|Dongchao Yang et.al.|[2504.10344](http://arxiv.org/abs/2504.10344)|null|
 |**2025-04-14**|**Optimal Graph Stretching for Distributed Averaging**|Florine W. Dekker et.al.|[2504.10289](http://arxiv.org/abs/2504.10289)|null|
@@ -3142,7 +3142,7 @@ layout: default
 |**2025-04-11**|**Collapsing Catalytic Classes**|Michal Koucký et.al.|[2504.08444](http://arxiv.org/abs/2504.08444)|null|
 |**2025-04-11**|**PCA-RAG: Principal Component Analysis for Efficient Retrieval-Augmented Generation**|Arman Khaledian et.al.|[2504.08386](http://arxiv.org/abs/2504.08386)|null|
 |**2025-04-10**|**Communication-Efficient Cooperative Localization: A Graph Neural Network Approach**|Yinan Zou et.al.|[2504.08135](http://arxiv.org/abs/2504.08135)|null|
-|**2025-04-10**|**Data Compression for Fast Online Stochastic Optimization**|Irina Wang et.al.|[2504.08097](http://arxiv.org/abs/2504.08097)|null|
+|**2025-04-10**|**Data Compression for Fast Online Stochastic Optimization**|Irina Wang et.al.|[2504.08097](http://arxiv.org/abs/2504.08097)|**[link](https://github.com/stellatogrp/online_mro)**|
 |**2025-04-10**|**Cluster-Driven Expert Pruning for Mixture-of-Experts Large Language Models**|Hongcheng Guo et.al.|[2504.07807](http://arxiv.org/abs/2504.07807)|**[link](https://github.com/fighoture/moe_unsupervised_pruning)**|
 |**2025-04-10**|**Parasitic Gas Evolution Reactions in Vanadium Redox Flow Batteries: A Lattice Boltzmann Study**|K. Duan et.al.|[2504.07786](http://arxiv.org/abs/2504.07786)|null|
 |**2025-04-10**|**Efficient Tuning of Large Language Models for Knowledge-Grounded Dialogue Generation**|Bo Zhang et.al.|[2504.07754](http://arxiv.org/abs/2504.07754)|**[link](https://github.com/zhangbo-nlp/kedit)**|
@@ -3557,7 +3557,7 @@ layout: default
 |**2025-02-10**|**Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**|Dongyang Liu et.al.|[2502.06782](http://arxiv.org/abs/2502.06782)|null|
 |**2025-02-10**|**Solving Optimal Power Flow on a Data-Budget: Feature Selection on Smart Meter Data**|Vassilis Kekatos et.al.|[2502.06683](http://arxiv.org/abs/2502.06683)|null|
 |**2025-02-10**|**EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models**|Xingrun Xing et.al.|[2502.06663](http://arxiv.org/abs/2502.06663)|null|
-|**2025-02-10**|**Scaling Multi-Document Event Summarization: Evaluating Compression vs. Full-Text Approaches**|Adithya Pratapa et.al.|[2502.06617](http://arxiv.org/abs/2502.06617)|null|
+|**2025-02-10**|**Scaling Multi-Document Event Summarization: Evaluating Compression vs. Full-Text Approaches**|Adithya Pratapa et.al.|[2502.06617](http://arxiv.org/abs/2502.06617)|**[link](https://github.com/adithya7/scaling-mds)**|
 |**2025-02-10**|**Surrogate models for diffusion on graphs via sparse polynomials**|Giuseppe Alessio D'Inverno et.al.|[2502.06595](http://arxiv.org/abs/2502.06595)|**[link](https://github.com/k-yoan/surrogate_graph_diffusion)**|
 |**2025-02-10**|**Inflatable Kirigami Crawlers**|Burcu Seyidoğlu et.al.|[2502.06466](http://arxiv.org/abs/2502.06466)|null|
 |**2025-02-10**|**New opportunities for high pressure hydrogen achieved by fullerane vibrating modes: an ab initio study**|Leonard Constantin Gebac et.al.|[2502.06441](http://arxiv.org/abs/2502.06441)|null|
@@ -3956,7 +3956,7 @@ layout: default
 |**2024-12-06**|**Ultrahigh-temperature ferromagnetism in ultrathin insulating films with ripple-infinite-layer structure**|Yazhuo Yi et.al.|[2412.04957](http://arxiv.org/abs/2412.04957)|null|
 |**2024-12-06**|**UniMIC: Towards Universal Multi-modality Perceptual Image Compression**|Yixin Gao et.al.|[2412.04912](http://arxiv.org/abs/2412.04912)|null|
 |**2024-12-06**|**Volumetric (dilatant) plasticity in geodynamic models and implications on thermal dissipation and strain localization**|Ekeabino Momoh et.al.|[2412.04851](http://arxiv.org/abs/2412.04851)|null|
-|**2024-12-06**|**Wavelet Diffusion Neural Operator**|Peiyan Hu et.al.|[2412.04833](http://arxiv.org/abs/2412.04833)|null|
+|**2024-12-06**|**Wavelet Diffusion Neural Operator**|Peiyan Hu et.al.|[2412.04833](http://arxiv.org/abs/2412.04833)|**[link](https://github.com/AI4Science-WestlakeU/wdno)**|
 |**2024-12-06**|**Origin of Increased Curie Temperature in Lithium-Substituted Ferroelectric Niobate Perovskite: Enhancement of the Soft Polar Mode**|Hao-Cheng Thong et.al.|[2412.04810](http://arxiv.org/abs/2412.04810)|null|
 |**2024-12-06**|**Ltri-LLM: Streaming Long Context Inference for LLMs with Training-Free Dynamic Triangular Attention Pattern**|Hongyin Tang et.al.|[2412.04757](http://arxiv.org/abs/2412.04757)|null|
 |**2024-12-05**|**NVILA: Efficient Frontier Visual Language Models**|Zhijian Liu et.al.|[2412.04468](http://arxiv.org/abs/2412.04468)|null|
