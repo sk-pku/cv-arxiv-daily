@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3099,7 +3099,7 @@ layout: default
 |**2025-04-18**|**Fragile Watermarking for Image Certification Using Deep Steganographic Embedding**|Davide Ghiani et.al.|[2504.13759](http://arxiv.org/abs/2504.13759)|null|
 |**2025-04-18**|**JANC: A cost-effective, differentiable compressible reacting flow solver featured with JAX-based adaptive mesh refinement**|Haocheng Wen et.al.|[2504.13750](http://arxiv.org/abs/2504.13750)|null|
 |**2025-04-18**|**LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks**|Ali Hojjat et.al.|[2504.13736](http://arxiv.org/abs/2504.13736)|null|
-|**2025-04-18**|**Efficient algorithms for the Hadamard decomposition**|Samuel Wertz et.al.|[2504.13633](http://arxiv.org/abs/2504.13633)|null|
+|**2025-04-18**|**Efficient algorithms for the Hadamard decomposition**|Samuel Wertz et.al.|[2504.13633](http://arxiv.org/abs/2504.13633)|**[link](https://github.com/wertzsamuel/hadamarddecompositions)**|
 |**2025-04-18**|**Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**|Sebastian Schwalbe et.al.|[2504.13611](http://arxiv.org/abs/2504.13611)|null|
 |**2025-04-18**|**MAAM: A Lightweight Multi-Agent Aggregation Module for Efficient Image Classification Based on the MindSpore Framework**|Zhenkai Qin et.al.|[2504.13574](http://arxiv.org/abs/2504.13574)|null|
 |**2025-04-18**|**Extracting flow stress surfaces of pristine materials using deformation paths in MD simulations**|Eliott T. Dubois et.al.|[2504.13544](http://arxiv.org/abs/2504.13544)|null|
