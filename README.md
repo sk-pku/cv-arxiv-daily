@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes**|Ji Qi et.al.|[2504.15270](http://arxiv.org/abs/2504.15270)|null|
+|**2025-04-21**|**An $rp$ -adaptive method for accurate resolution of shock-dominated viscous flow based on implicit shock tracking**|Huijing Dong et.al.|[2504.15177](http://arxiv.org/abs/2504.15177)|null|
+|**2025-04-21**|**Artificial compressibility method for the incompressible Navier-Stokes equations with variable density**|Cappanera Loic et.al.|[2504.15151](http://arxiv.org/abs/2504.15151)|null|
+|**2025-04-21**|**"I Know It When I See It": Mood Spaces for Connecting and Expressing Visual Concepts**|Huzheng Yang et.al.|[2504.15145](http://arxiv.org/abs/2504.15145)|null|
+|**2025-04-21**|**Structure-guided Diffusion Transformer for Low-Light Image Enhancement**|Xiangchen Yin et.al.|[2504.15054](http://arxiv.org/abs/2504.15054)|null|
+|**2025-04-21**|**The compliance of the molecular hydride superconductor $BiH_4$ with the Migdal's theorem**|E. F. Talantsev et.al.|[2504.15004](http://arxiv.org/abs/2504.15004)|null|
+|**2025-04-21**|**Cloud-cloud collision and star formation in G013.313+0.193**|Dilda Berdikhan et.al.|[2504.14943](http://arxiv.org/abs/2504.14943)|null|
+|**2025-04-21**|**Hilbert expansion of the Boltzmann equation on a 2-dimensional disk with specular boundary condition**|Feimin Huang et.al.|[2504.14932](http://arxiv.org/abs/2504.14932)|null|
+|**2025-04-21**|**StableQuant: Layer Adaptive Post-Training Quantization for Speech Foundation Models**|Yeona Hong et.al.|[2504.14915](http://arxiv.org/abs/2504.14915)|null|
+|**2025-04-21**|**Physics-Aware Compression of Plasma Distribution Functions with GPU-Accelerated Gaussian Mixture Models**|Andong Hu et.al.|[2504.14897](http://arxiv.org/abs/2504.14897)|null|
 |**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
 |**2025-04-18**|**A Fast Direct Solver for Boundary Integral Equations Using Quadrature By Expansion**|Alexandru Fikl et.al.|[2504.13809](http://arxiv.org/abs/2504.13809)|null|
 |**2025-04-18**|**Models, Methods and Waveforms for Estimation and Prediction of Doubly Sparse Time-Varying Channels**|Wissal Benzine et.al.|[2504.13762](http://arxiv.org/abs/2504.13762)|null|
