@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Reinforcement Learning and Metaheuristics for Feynman Integral Reduction**|Mao Zeng et.al.|[2504.16045](http://arxiv.org/abs/2504.16045)|null|
+|**2025-04-22**|**Low-Rank Adaptation of Neural Fields**|Anh Truong et.al.|[2504.15933](http://arxiv.org/abs/2504.15933)|null|
+|**2025-04-22**|**Real-fluid behavior in rapid compression machines: Does it matter?**|Mingrui Wang et.al.|[2504.15887](http://arxiv.org/abs/2504.15887)|null|
+|**2025-04-22**|**Distributed Compression for Computation and Bounds on the Optimal Rate**|Mohammad Reza Deylam Salehi et.al.|[2504.15706](http://arxiv.org/abs/2504.15706)|null|
+|**2025-04-22**|**You Sense Only Once Beneath: Ultra-Light Real-Time Underwater Object Detection**|Jun Dong et.al.|[2504.15694](http://arxiv.org/abs/2504.15694)|null|
+|**2025-04-22**|**HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification**|Hongxing Peng et.al.|[2504.15612](http://arxiv.org/abs/2504.15612)|null|
+|**2025-04-22**|**Vielbein Lattice Boltzmann approach for fluid flows on spherical surfaces**|Victor E. Ambrus et.al.|[2504.15574](http://arxiv.org/abs/2504.15574)|null|
+|**2025-04-22**|**Scale-dependent alignment in compressible magnetohydrodynamic turbulence**|James R. Beattie et.al.|[2504.15538](http://arxiv.org/abs/2504.15538)|null|
+|**2025-04-21**|**Plug-and-Play Versatile Compressed Video Enhancement**|Huimin Zeng et.al.|[2504.15380](http://arxiv.org/abs/2504.15380)|null|
+|**2025-04-21**|**FedFetch: Faster Federated Learning with Adaptive Downstream Prefetching**|Qifan Yan et.al.|[2504.15366](http://arxiv.org/abs/2504.15366)|null|
 |**2025-04-21**|**An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes**|Ji Qi et.al.|[2504.15270](http://arxiv.org/abs/2504.15270)|null|
 |**2025-04-21**|**An $rp$ -adaptive method for accurate resolution of shock-dominated viscous flow based on implicit shock tracking**|Huijing Dong et.al.|[2504.15177](http://arxiv.org/abs/2504.15177)|null|
 |**2025-04-21**|**Artificial compressibility method for the incompressible Navier-Stokes equations with variable density**|Cappanera Loic et.al.|[2504.15151](http://arxiv.org/abs/2504.15151)|null|
