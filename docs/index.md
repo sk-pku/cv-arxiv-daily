@@ -3093,6 +3093,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Ultradense Sphere Packings Derived From Disordered Stealthy Hyperuniform Ground States**|Jaeuk Kim et.al.|[2504.16924](http://arxiv.org/abs/2504.16924)|null|
+|**2025-04-23**|**Comparative analysis of finite-size ammonia and n-heptane droplets evaporation rates in weakly compressible homogeneous turbulence: an interface-resolved Direct Numerical Simulation study**|Salar Zamani Salimi et.al.|[2504.16850](http://arxiv.org/abs/2504.16850)|null|
+|**2025-04-23**|**Crack Face Contact Modeling is Essential to Predict Crack-Parallel Stresses**|Maryam Hakimzadeh et.al.|[2504.16794](http://arxiv.org/abs/2504.16794)|null|
+|**2025-04-23**|**MOOSComp: Improving Lightweight Long-Context Compressor via Mitigating Over-Smoothing and Incorporating Outlier Scores**|Fengwei Zhou et.al.|[2504.16786](http://arxiv.org/abs/2504.16786)|null|
+|**2025-04-23**|**PIS: Linking Importance Sampling and Attention Mechanisms for Efficient Prompt Compression**|Lizhe Chen et.al.|[2504.16574](http://arxiv.org/abs/2504.16574)|null|
+|**2025-04-23**|**A strategy for the enhancement of barocaloric performance in plastic crystal solid solutions**|Frederic Rendell-Bhatti et.al.|[2504.16488](http://arxiv.org/abs/2504.16488)|null|
+|**2025-04-23**|**SoCov: Semi-Orthogonal Parametric Pooling of Covariance Matrix for Speaker Recognition**|Rongjin Li et.al.|[2504.16441](http://arxiv.org/abs/2504.16441)|null|
+|**2025-04-23**|**Electronic structure of compressively strained thin film La $_2$PrNi$_2$O$_7$**|Bai Yang Wang et.al.|[2504.16372](http://arxiv.org/abs/2504.16372)|null|
+|**2025-04-22**|**TeLLMe: An Energy-Efficient Ternary LLM Accelerator for Prefilling and Decoding on Edge FPGAs**|Ye Qiao et.al.|[2504.16266](http://arxiv.org/abs/2504.16266)|null|
 |**2025-04-22**|**Reinforcement Learning and Metaheuristics for Feynman Integral Reduction**|Mao Zeng et.al.|[2504.16045](http://arxiv.org/abs/2504.16045)|null|
 |**2025-04-22**|**Low-Rank Adaptation of Neural Fields**|Anh Truong et.al.|[2504.15933](http://arxiv.org/abs/2504.15933)|null|
 |**2025-04-22**|**Real-fluid behavior in rapid compression machines: Does it matter?**|Mingrui Wang et.al.|[2504.15887](http://arxiv.org/abs/2504.15887)|null|
