@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Zeptosecond free-electron compression through temporal lensing**|Xin Jin et.al.|[2504.17770](http://arxiv.org/abs/2504.17770)|null|
+|**2025-04-24**|**Aerial Image Classification in Scarce and Unconstrained Environments via Conformal Prediction**|Farhad Pourkamali-Anaraki et.al.|[2504.17655](http://arxiv.org/abs/2504.17655)|null|
+|**2025-04-24**|**Integrated Sensing and Communications for Unsourced Random Access: A Spectrum Sharing Compressive Sensing Approach**|Zhentian Zhang et.al.|[2504.17629](http://arxiv.org/abs/2504.17629)|null|
+|**2025-04-24**|**Tamper-evident Image using JPEG Fixed Points**|Zhaofeng Si et.al.|[2504.17594](http://arxiv.org/abs/2504.17594)|null|
+|**2025-04-24**|**Quantum Autoencoder for Multivariate Time Series Anomaly Detection**|Kilian Tscharke et.al.|[2504.17548](http://arxiv.org/abs/2504.17548)|null|
+|**2025-04-24**|**Wolves in the Repository: A Software Engineering Analysis of the XZ Utils Supply Chain Attack**|Piotr Przymus et.al.|[2504.17473](http://arxiv.org/abs/2504.17473)|null|
+|**2025-04-24**|**Morphisms and BWT-run Sensitivity**|Gabriele Fici et.al.|[2504.17443](http://arxiv.org/abs/2504.17443)|null|
+|**2025-04-24**|**The KP equation of plane elastodynamics**|Harold Berjamin et.al.|[2504.17411](http://arxiv.org/abs/2504.17411)|null|
+|**2025-04-24**|**Coding for Computation: Efficient Compression of Neural Networks for Reconfigurable Hardware**|Hans Rosenberger et.al.|[2504.17403](http://arxiv.org/abs/2504.17403)|null|
+|**2025-04-24**|**On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration**|Maoyang Xiang et.al.|[2504.17376](http://arxiv.org/abs/2504.17376)|null|
 |**2025-04-23**|**Ultradense Sphere Packings Derived From Disordered Stealthy Hyperuniform Ground States**|Jaeuk Kim et.al.|[2504.16924](http://arxiv.org/abs/2504.16924)|null|
 |**2025-04-23**|**Comparative analysis of finite-size ammonia and n-heptane droplets evaporation rates in weakly compressible homogeneous turbulence: an interface-resolved Direct Numerical Simulation study**|Salar Zamani Salimi et.al.|[2504.16850](http://arxiv.org/abs/2504.16850)|null|
 |**2025-04-23**|**Crack Face Contact Modeling is Essential to Predict Crack-Parallel Stresses**|Maryam Hakimzadeh et.al.|[2504.16794](http://arxiv.org/abs/2504.16794)|null|
