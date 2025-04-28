@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Facets, Taxonomies, and Syntheses: Navigating Structured Representations in LLM-Assisted Literature Review**|Raymond Fok et.al.|[2504.18496](http://arxiv.org/abs/2504.18496)|null|
+|**2025-04-25**|**MROP: Modulated Rank-One Projections for compressive radio interferometric imaging**|Olivier Leblanc et.al.|[2504.18446](http://arxiv.org/abs/2504.18446)|null|
+|**2025-04-25**|**Testing a large size triple GEM detector for the first station of the CBM-Muon Chambers with a high-intensity gamma source at GIF++ under large-area illumination**|Apar Agarwal et.al.|[2504.18445](http://arxiv.org/abs/2504.18445)|null|
+|**2025-04-25**|**Partition Map-Based Fast Block Partitioning for VVC Inter Coding**|Xinmin Feng et.al.|[2504.18398](http://arxiv.org/abs/2504.18398)|null|
+|**2025-04-25**|**Orientation- and pressure-dependence of the vibrational response of a monolayer crystal on a vicinal diamond surface**|Yi Zhao et.al.|[2504.18306](http://arxiv.org/abs/2504.18306)|null|
+|**2025-04-25**|**The stability of current vortex sheets with transverse magnetic field**|Binqiang Xie et.al.|[2504.18303](http://arxiv.org/abs/2504.18303)|null|
+|**2025-04-25**|**The structural effects of (111) growth of La $_2$CoMnO$_6$ on SrTiO$_3$ and LSAT -- new insights from 3D crystallographic characterisation with 4D-STEM and Digital Dark Field imaging**|Ian MacLaren et.al.|[2504.18171](http://arxiv.org/abs/2504.18171)|null|
+|**2025-04-25**|**S3MOT: Monocular 3D Object Tracking with Selective State Space Model**|Zhuohao Yan et.al.|[2504.18068](http://arxiv.org/abs/2504.18068)|null|
+|**2025-04-25**|**From Cluster to Desktop: A Cache-Accelerated INR framework for Interactive Visualization of Tera-Scale Data**|Daniel Zavorotny et.al.|[2504.18001](http://arxiv.org/abs/2504.18001)|null|
+|**2025-04-24**|**Counterexamples to Strichartz estimates and gallery waves for the irrotational compressible Euler equation in a vacuum setting**|Ovidiu-Neculai Avadanei et.al.|[2504.17932](http://arxiv.org/abs/2504.17932)|null|
 |**2025-04-24**|**Zeptosecond free-electron compression through temporal lensing**|Xin Jin et.al.|[2504.17770](http://arxiv.org/abs/2504.17770)|null|
 |**2025-04-24**|**Aerial Image Classification in Scarce and Unconstrained Environments via Conformal Prediction**|Farhad Pourkamali-Anaraki et.al.|[2504.17655](http://arxiv.org/abs/2504.17655)|null|
 |**2025-04-24**|**Integrated Sensing and Communications for Unsourced Random Access: A Spectrum Sharing Compressive Sensing Approach**|Zhentian Zhang et.al.|[2504.17629](http://arxiv.org/abs/2504.17629)|null|
