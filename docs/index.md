@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning**|Hongfei Xue et.al.|[2504.20835](http://arxiv.org/abs/2504.20835)|null|
+|**2025-04-29**|**Semi-discrete optimal transport techniques for the compressible semi-geostrophic equations**|David P. Bourne et.al.|[2504.20807](http://arxiv.org/abs/2504.20807)|null|
+|**2025-04-29**|**Evaluating Effects of Augmented SELFIES for Molecular Understanding Using QK-LSTM**|Collin Beaudoin et.al.|[2504.20789](http://arxiv.org/abs/2504.20789)|null|
+|**2025-04-29**|**Performance Evaluation of Efficient Hybrid Compression Methods For Devanagiri-Encoded Hindi Text Using Lossless Algorithms**|Mukesh Sahu et.al.|[2504.20747](http://arxiv.org/abs/2504.20747)|null|
+|**2025-04-29**|**Non-Equilibrium Phase Changes in Aircraft Exhaust: A Computational Study on Early Contrail Formation**|Katharina Tegethoff et.al.|[2504.20742](http://arxiv.org/abs/2504.20742)|null|
+|**2025-04-29**|**Handling Large-Scale Network Flow Records: A Comparative Study on Lossy Compression**|Gabriele Merlach et.al.|[2504.20729](http://arxiv.org/abs/2504.20729)|null|
+|**2025-04-29**|**Parametrized Stacked Intelligent Metasurfaces for Bistatic Integrated Sensing and Communications**|Kuranage Roche Rayan Ranasinghe et.al.|[2504.20661](http://arxiv.org/abs/2504.20661)|null|
+|**2025-04-29**|**TrueFake: A Real World Case Dataset of Last Generation Fake Images also Shared on Social Networks**|Stefano Dell'Anna et.al.|[2504.20658](http://arxiv.org/abs/2504.20658)|null|
+|**2025-04-29**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557](http://arxiv.org/abs/2504.20557)|null|
+|**2025-04-29**|**Molecular gas in cool-core brightest cluster galaxies at $z\simeq0.4$**|G. Castignani et.al.|[2504.20538](http://arxiv.org/abs/2504.20538)|null|
 |**2025-04-28**|**Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model**|Xiem HoangVan et.al.|[2504.19935](http://arxiv.org/abs/2504.19935)|null|
 |**2025-04-28**|**Post-buckling of fiber-reinforced soft tissues**|Yang Liu et.al.|[2504.19932](http://arxiv.org/abs/2504.19932)|null|
 |**2025-04-28**|**Distributed Reconstruction from Compressive Measurements: Nonconvexity and Heterogeneity**|Erbo Li Qi Qin et.al.|[2504.19919](http://arxiv.org/abs/2504.19919)|null|
