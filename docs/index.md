@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Existence of Large Boundary Layer Solutions to Inflow Problem of 1D Full Compressible Navier-Stokes Equations**|Yi Wang et.al.|[2504.21830](http://arxiv.org/abs/2504.21830)|null|
+|**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814](http://arxiv.org/abs/2504.21814)|null|
+|**2025-04-30**|**Indian participation in the construction of the Facility for Antiproton and Ion Research (FAIR) at Darmstadt, Germany**|Saikat Biswas et.al.|[2504.21804](http://arxiv.org/abs/2504.21804)|null|
+|**2025-04-30**|**LoC-LIC: Low Complexity Learned Image Coding Using Hierarchical Feature Transforms**|Ayman A. Ameen et.al.|[2504.21778](http://arxiv.org/abs/2504.21778)|null|
+|**2025-04-30**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
+|**2025-04-30**|**Distributed Online Randomized Gradient-Free optimization with Compressed Communication**|Longkang Zhu et.al.|[2504.21693](http://arxiv.org/abs/2504.21693)|null|
+|**2025-04-30**|**Fast Sign Retrieval via Sub-band Convolution: An Elementary Extension of Binary Classification**|Fuma Ito et.al.|[2504.21632](http://arxiv.org/abs/2504.21632)|null|
+|**2025-04-30**|**LSNIF: Locally-Subdivided Neural Intersection Function**|Shin Fujieda et.al.|[2504.21627](http://arxiv.org/abs/2504.21627)|null|
+|**2025-04-30**|**Time periodic problem of compressible Euler equations with damping on the whole space**|Houzhi Tang et.al.|[2504.21591](http://arxiv.org/abs/2504.21591)|null|
+|**2025-04-30**|**PolyQROM: Orthogonal-Polynomial-Based Quantum Reduced-Order Model for Flow Field Analysis**|Yu Fang et.al.|[2504.21567](http://arxiv.org/abs/2504.21567)|null|
 |**2025-04-29**|**Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning**|Hongfei Xue et.al.|[2504.20835](http://arxiv.org/abs/2504.20835)|null|
 |**2025-04-29**|**Semi-discrete optimal transport techniques for the compressible semi-geostrophic equations**|David P. Bourne et.al.|[2504.20807](http://arxiv.org/abs/2504.20807)|null|
 |**2025-04-29**|**Evaluating Effects of Augmented SELFIES for Molecular Understanding Using QK-LSTM**|Collin Beaudoin et.al.|[2504.20789](http://arxiv.org/abs/2504.20789)|null|
