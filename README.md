@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|null|
+|**2025-05-01**|**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**|Jushi Kai et.al.|[2505.00570](http://arxiv.org/abs/2505.00570)|null|
+|**2025-05-01**|**Error Exponents for Oblivious Relaying and Connections to Source Coding with a Helper**|Han Wu et.al.|[2505.00567](http://arxiv.org/abs/2505.00567)|null|
+|**2025-05-01**|**CORSTITCH - A free, open source software for stitching and georeferencing underwater coral reef videos**|Julian Christopher L. Maya et.al.|[2505.00462](http://arxiv.org/abs/2505.00462)|null|
+|**2025-05-01**|**Multi-dimensional optical imaging on a chip**|Liheng Bian et.al.|[2505.00408](http://arxiv.org/abs/2505.00408)|null|
+|**2025-05-01**|**From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**|Jie Yang et.al.|[2505.00364](http://arxiv.org/abs/2505.00364)|null|
+|**2025-05-01**|**Non-reciprocal anti-aligning active mixtures: deriving the exact Boltzmann collision operator**|Jakob Mihatsch et.al.|[2505.00357](http://arxiv.org/abs/2505.00357)|null|
+|**2025-05-01**|**Optimizing Deep Neural Networks using Safety-Guided Self Compression**|Mohammad Zbeeb et.al.|[2505.00350](http://arxiv.org/abs/2505.00350)|null|
+|**2025-05-01**|**Compressing fluid flows with nonlinear machine learning: mode decomposition, latent modeling, and flow control**|Koji Fukagata et.al.|[2505.00343](http://arxiv.org/abs/2505.00343)|null|
+|**2025-05-01**|**Efficient Neural Video Representation with Temporally Coherent Modulation**|Seungjun Shin et.al.|[2505.00335](http://arxiv.org/abs/2505.00335)|null|
 |**2025-04-30**|**Existence of Large Boundary Layer Solutions to Inflow Problem of 1D Full Compressible Navier-Stokes Equations**|Yi Wang et.al.|[2504.21830](http://arxiv.org/abs/2504.21830)|null|
 |**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814](http://arxiv.org/abs/2504.21814)|null|
 |**2025-04-30**|**Indian participation in the construction of the Facility for Antiproton and Ion Research (FAIR) at Darmstadt, Germany**|Saikat Biswas et.al.|[2504.21804](http://arxiv.org/abs/2504.21804)|null|
