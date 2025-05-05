@@ -3233,7 +3233,7 @@ layout: default
 |**2025-04-14**|**HistLLM: A Unified Framework for LLM-Based Multimodal Recommendation with User History Encoding and Compression**|Chen Zhang et.al.|[2504.10150](http://arxiv.org/abs/2504.10150)|null|
 |**2025-04-14**|**Conditional Distribution Compression via the Kernel Conditional Mean Embedding**|Dominic Broadbent et.al.|[2504.10139](http://arxiv.org/abs/2504.10139)|null|
 |**2025-04-14**|**Local-in-time well-posedness for the regular solution to the 2D full compressible Navier-Stokes equations with degenerate viscosities and heat conductivity**|Yue Cao et.al.|[2504.10094](http://arxiv.org/abs/2504.10094)|null|
-|**2025-04-11**|**GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation**|Tianwei Xiong et.al.|[2504.08736](http://arxiv.org/abs/2504.08736)|null|
+|**2025-04-11**|**GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation**|Tianwei Xiong et.al.|[2504.08736](http://arxiv.org/abs/2504.08736)|**[link](https://github.com/SilentView/GigaTok)**|
 |**2025-04-11**|**Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging**|Gabriele Lozupone et.al.|[2504.08635](http://arxiv.org/abs/2504.08635)|**[link](https://github.com/GabrieleLozupone/LDAE)**|
 |**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591](http://arxiv.org/abs/2504.08591)|null|
 |**2025-04-11**|**Sunward Flows in the Magnetosheath Associated with Magnetic Pressure Gradient and Magnetosheath Expansion**|H. Madanian et.al.|[2504.08521](http://arxiv.org/abs/2504.08521)|null|
