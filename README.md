@@ -3114,6 +3114,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Phase-field modeling of elastic microphase separation**|Hamza Oudich et.al.|[2505.01389](http://arxiv.org/abs/2505.01389)|null|
+|**2025-05-02**|**Asymptotic Linear Convergence of ADMM for Isotropic TV Norm Compressed Sensing**|Emmanuel Gil Torres et.al.|[2505.01240](http://arxiv.org/abs/2505.01240)|null|
+|**2025-05-02**|**BS-tree: A gapped data-parallel B-tree**|Dimitrios Tsitsigkos. Achilleas Michalopoulos et.al.|[2505.01180](http://arxiv.org/abs/2505.01180)|null|
+|**2025-05-02**|**LZD-style Compression Scheme with Truncation and Repetitions**|Linus Götz et.al.|[2505.00970](http://arxiv.org/abs/2505.00970)|null|
+|**2025-05-02**|**SemSpaceFL: A Collaborative Hierarchical Federated Learning Framework for Semantic Communication in 6G LEO Satellites**|Loc X. Nguyen et.al.|[2505.00966](http://arxiv.org/abs/2505.00966)|null|
+|**2025-05-02**|**Compact Recurrent Transformer with Persistent Memory**|Edison Mucllari et.al.|[2505.00929](http://arxiv.org/abs/2505.00929)|null|
+|**2025-05-01**|**Bayesian inferences on covariant density functionals from multimessenger astrophysical data: The impacts of likelihood functions of low density matter constraints**|Jia-Jie Li et.al.|[2505.00911](http://arxiv.org/abs/2505.00911)|null|
+|**2025-05-01**|**Physics-Informed Neural Network-Driven Sparse Field Discretization Method for Near-Field Acoustic Holography**|Xinmeng Luan et.al.|[2505.00897](http://arxiv.org/abs/2505.00897)|null|
+|**2025-05-01**|**ICQuant: Index Coding enables Low-bit LLM Quantization**|Xinlin Li et.al.|[2505.00850](http://arxiv.org/abs/2505.00850)|null|
 |**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|null|
 |**2025-05-01**|**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**|Jushi Kai et.al.|[2505.00570](http://arxiv.org/abs/2505.00570)|null|
 |**2025-05-01**|**Error Exponents for Oblivious Relaying and Connections to Source Coding with a Helper**|Han Wu et.al.|[2505.00567](http://arxiv.org/abs/2505.00567)|null|
