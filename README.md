@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**ReplaceMe: Network Simplification via Layer Pruning and Linear Transformations**|Dmitriy Shopkhoev et.al.|[2505.02819](http://arxiv.org/abs/2505.02819)|null|
+|**2025-05-05**|**Lumped-element broadband SNAIL parametric amplifier with on-chip pump filter for multiplexed readout**|V. R. Joshi et.al.|[2505.02740](http://arxiv.org/abs/2505.02740)|null|
+|**2025-05-05**|**A Rate-Quality Model for Learned Video Coding**|Sang NguyenQuang et.al.|[2505.02720](http://arxiv.org/abs/2505.02720)|null|
+|**2025-05-05**|**Data Compression for Time Series Modelling: A Case Study of Smart Grid Demand Forecasting**|Mikkel Bue Lykkegaard et.al.|[2505.02606](http://arxiv.org/abs/2505.02606)|null|
+|**2025-05-05**|**Linear analysis of shear-flow instabilities in a prominence-corona interface with ambipolar diffusion**|Llorenç Melis et.al.|[2505.02534](http://arxiv.org/abs/2505.02534)|null|
+|**2025-05-05**|**Node pruning reveals compact and optimal substructures within large networks**|Manish Yadav et.al.|[2505.02522](http://arxiv.org/abs/2505.02522)|null|
+|**2025-05-05**|**Uncovering Population PK Covariates from VAE-Generated Latent Spaces**|Diego Perazzolo et.al.|[2505.02514](http://arxiv.org/abs/2505.02514)|**[link](https://github.com/Dperazzolo/tacrolimus_data_generator)**|
+|**2025-05-05**|**Cooperative ISAC Network for Off-Grid Imaging-based Low-Altitude Surveillance**|Yixuan Huang et.al.|[2505.02440](http://arxiv.org/abs/2505.02440)|null|
+|**2025-05-05**|**EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices**|Arnab Sanyal et.al.|[2505.02380](http://arxiv.org/abs/2505.02380)|null|
+|**2025-05-05**|**Interfacial superconductivity in Cu/Cu $_{\rm{2}}$ O and its effect on shielding ambient electric fields**|Dale R. Harshman et.al.|[2505.02328](http://arxiv.org/abs/2505.02328)|null|
 |**2025-05-02**|**Phase-field modeling of elastic microphase separation**|Hamza Oudich et.al.|[2505.01389](http://arxiv.org/abs/2505.01389)|null|
 |**2025-05-02**|**Asymptotic Linear Convergence of ADMM for Isotropic TV Norm Compressed Sensing**|Emmanuel Gil Torres et.al.|[2505.01240](http://arxiv.org/abs/2505.01240)|null|
 |**2025-05-02**|**BS-tree: A gapped data-parallel B-tree**|Dimitrios Tsitsigkos. Achilleas Michalopoulos et.al.|[2505.01180](http://arxiv.org/abs/2505.01180)|null|
