@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**The role of friction forces in arterial mechanical thrombectomy: a review**|Mahesh S. Nagargoje et.al.|[2505.03632](http://arxiv.org/abs/2505.03632)|null|
+|**2025-05-06**|**Self-Organized Three-Dimensional Superstructures, Spinodal Decomposition, and Mechanical Response of Epitaxial Hf $_{1-x}$Al$_x$ N Thin Films**|M. Lorentzon et.al.|[2505.03606](http://arxiv.org/abs/2505.03606)|null|
+|**2025-05-06**|**DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes**|Sergey Linok et.al.|[2505.03581](http://arxiv.org/abs/2505.03581)|null|
+|**2025-05-06**|**Crystal structural evolution of Ru $_3$Sn$_7$ under pressure and its implication on possible electronic changes**|K. A. Irshad et.al.|[2505.03571](http://arxiv.org/abs/2505.03571)|null|
+|**2025-05-06**|**Multi-Agent Reinforcement Learning Scheduling to Support Low Latency in Teleoperated Driving**|Giacomo Avanzi et.al.|[2505.03558](http://arxiv.org/abs/2505.03558)|null|
+|**2025-05-06**|**Dilatation-driven spurious dissipation in weakly compressible methods**|Dheeraj Raghunathan et.al.|[2505.03550](http://arxiv.org/abs/2505.03550)|null|
+|**2025-05-06**|**STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation**|Maolin Wang et.al.|[2505.03484](http://arxiv.org/abs/2505.03484)|null|
+|**2025-05-06**|**Mitigating Backdoor Triggered and Targeted Data Poisoning Attacks in Voice Authentication Systems**|Alireza Mohammadi et.al.|[2505.03455](http://arxiv.org/abs/2505.03455)|null|
+|**2025-05-06**|**Memory-Efficient Distributed Unlearning**|Natalie Lang et.al.|[2505.03388](http://arxiv.org/abs/2505.03388)|null|
+|**2025-05-06**|**Efficient Wi-Fi Sensing for IoT Forensics with Lossy Compression of CSI Data**|Paolo Cerutti et.al.|[2505.03375](http://arxiv.org/abs/2505.03375)|null|
 |**2025-05-05**|**ReplaceMe: Network Simplification via Layer Pruning and Linear Transformations**|Dmitriy Shopkhoev et.al.|[2505.02819](http://arxiv.org/abs/2505.02819)|null|
 |**2025-05-05**|**Lumped-element broadband SNAIL parametric amplifier with on-chip pump filter for multiplexed readout**|V. R. Joshi et.al.|[2505.02740](http://arxiv.org/abs/2505.02740)|null|
 |**2025-05-05**|**A Rate-Quality Model for Learned Video Coding**|Sang NguyenQuang et.al.|[2505.02720](http://arxiv.org/abs/2505.02720)|null|
