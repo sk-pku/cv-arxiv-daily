@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3101,7 +3101,7 @@ layout: default
 |**2025-05-05**|**Node pruning reveals compact and optimal substructures within large networks**|Manish Yadav et.al.|[2505.02522](http://arxiv.org/abs/2505.02522)|null|
 |**2025-05-05**|**Uncovering Population PK Covariates from VAE-Generated Latent Spaces**|Diego Perazzolo et.al.|[2505.02514](http://arxiv.org/abs/2505.02514)|**[link](https://github.com/Dperazzolo/tacrolimus_data_generator)**|
 |**2025-05-05**|**Cooperative ISAC Network for Off-Grid Imaging-based Low-Altitude Surveillance**|Yixuan Huang et.al.|[2505.02440](http://arxiv.org/abs/2505.02440)|null|
-|**2025-05-05**|**EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices**|Arnab Sanyal et.al.|[2505.02380](http://arxiv.org/abs/2505.02380)|null|
+|**2025-05-06**|**EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices**|Arnab Sanyal et.al.|[2505.02380](http://arxiv.org/abs/2505.02380)|null|
 |**2025-05-05**|**Interfacial superconductivity in Cu/Cu $_{\rm{2}}$ O and its effect on shielding ambient electric fields**|Dale R. Harshman et.al.|[2505.02328](http://arxiv.org/abs/2505.02328)|null|
 |**2025-05-02**|**Phase-field modeling of elastic microphase separation**|Hamza Oudich et.al.|[2505.01389](http://arxiv.org/abs/2505.01389)|null|
 |**2025-05-02**|**Asymptotic Linear Convergence of ADMM for Isotropic TV Norm Compressed Sensing**|Emmanuel Gil Torres et.al.|[2505.01240](http://arxiv.org/abs/2505.01240)|null|
