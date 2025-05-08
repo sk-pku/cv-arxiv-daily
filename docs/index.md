@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization**|Alexandre Binninger et.al.|[2505.04590](http://arxiv.org/abs/2505.04590)|null|
+|**2025-05-07**|**Fast Pattern Matching with Epsilon Transitions**|Nicola Cotumaccio et.al.|[2505.04549](http://arxiv.org/abs/2505.04549)|null|
+|**2025-05-07**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
+|**2025-05-07**|**Meta-Learning Driven Lightweight Phase Shift Compression for IRS-Assisted Wireless Systems**|Xianhua Yu et.al.|[2505.04453](http://arxiv.org/abs/2505.04453)|null|
+|**2025-05-07**|**Effect of interplanetary shock waves on turbulence parameters**|Emilia Kilpua et.al.|[2505.04450](http://arxiv.org/abs/2505.04450)|null|
+|**2025-05-07**|**Phase Shift Information Compression in IRS-aided Wireless Systems: Challenges and Opportunities**|Xianhua Yu et.al.|[2505.04449](http://arxiv.org/abs/2505.04449)|null|
+|**2025-05-07**|**SwinLSTM Autoencoder for Temporal-Spatial-Frequency Domain CSI Compression in Massive MIMO Systems**|Aakash Saini et.al.|[2505.04432](http://arxiv.org/abs/2505.04432)|null|
+|**2025-05-07**|**Global solutions to 3D compressible MHD equations with partial magnetic diffusion**|Jiahong Wu et.al.|[2505.04351](http://arxiv.org/abs/2505.04351)|null|
+|**2025-05-07**|**Realizing high-temperature superconductivity in compressed molecular-hydrogen through Li doping**|Ashok K. Verma et.al.|[2505.04256](http://arxiv.org/abs/2505.04256)|null|
+|**2025-05-07**|**Navigating Chemical Space: Multi-Level Bayesian Optimization with Hierarchical Coarse-Graining**|Luis J. Walter et.al.|[2505.04169](http://arxiv.org/abs/2505.04169)|null|
 |**2025-05-06**|**The role of friction forces in arterial mechanical thrombectomy: a review**|Mahesh S. Nagargoje et.al.|[2505.03632](http://arxiv.org/abs/2505.03632)|null|
 |**2025-05-06**|**Self-Organized Three-Dimensional Superstructures, Spinodal Decomposition, and Mechanical Response of Epitaxial Hf $_{1-x}$Al$_x$ N Thin Films**|M. Lorentzon et.al.|[2505.03606](http://arxiv.org/abs/2505.03606)|null|
 |**2025-05-06**|**DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes**|Sergey Linok et.al.|[2505.03581](http://arxiv.org/abs/2505.03581)|**[link](https://github.com/linukc/dygenc)**|
