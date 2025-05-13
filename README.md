@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Modal analysis of oblique shock-induced flow dynamics in a supersonic reacting shear layer**|Radouan Boukharfane et.al.|[2505.07636](http://arxiv.org/abs/2505.07636)|null|
+|**2025-05-12**|**GIFStream: 4D Gaussian-based Immersive Video with Feature Stream**|Hao Li et.al.|[2505.07539](http://arxiv.org/abs/2505.07539)|null|
+|**2025-05-12**|**Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning**|Bohan Wang et.al.|[2505.07538](http://arxiv.org/abs/2505.07538)|null|
+|**2025-05-12**|**Quantum mechanical closure of partial differential equations with symmetries**|Chris Vales et.al.|[2505.07519](http://arxiv.org/abs/2505.07519)|null|
+|**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503](http://arxiv.org/abs/2505.07503)|null|
+|**2025-05-12**|**Spatio-temporal pulse propagation during highly-resolved onset of Rayleigh-Taylor and Kelvin-Helmholtz Rayleigh-Taylor instabilities**|Bhavna Joshi et.al.|[2505.07433](http://arxiv.org/abs/2505.07433)|null|
+|**2025-05-12**|**ICE-Pruning: An Iterative Cost-Efficient Pruning Pipeline for Deep Neural Networks**|Wenhao Hu et.al.|[2505.07411](http://arxiv.org/abs/2505.07411)|null|
+|**2025-05-12**|**Scaling of wall pressure and the peak of streamwise turbulence intensity in compressible wall flows**|Asif Manzoor Hasan et.al.|[2505.07407](http://arxiv.org/abs/2505.07407)|null|
+|**2025-05-12**|**Simulating many-engine spacecraft: Exceeding 100 trillion grid points via information~geometric regularization and the MFC flow solver**|Benjamin Wilfong et.al.|[2505.07392](http://arxiv.org/abs/2505.07392)|**[link](https://github.com/MFlowCode/MFC)**|
+|**2025-05-12**|**Few-shot Semantic Encoding and Decoding for Video Surveillance**|Baoping Cheng et.al.|[2505.07381](http://arxiv.org/abs/2505.07381)|null|
 |**2025-05-09**|**Controlling the morphologies and dynamics in three-dimensional tissues**|Rajsekhar Das et.al.|[2505.06168](http://arxiv.org/abs/2505.06168)|null|
 |**2025-05-09**|**Discretized Approximate Ancestral Sampling**|Alfredo De la Fuente et.al.|[2505.06098](http://arxiv.org/abs/2505.06098)|null|
 |**2025-05-09**|**Safe-EF: Error Feedback for Nonsmooth Constrained Optimization**|Rustem Islamov et.al.|[2505.06053](http://arxiv.org/abs/2505.06053)|null|
