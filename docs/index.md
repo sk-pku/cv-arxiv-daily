@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3098,7 +3098,7 @@ layout: default
 |**2025-05-09**|**Safe-EF: Error Feedback for Nonsmooth Constrained Optimization**|Rustem Islamov et.al.|[2505.06053](http://arxiv.org/abs/2505.06053)|null|
 |**2025-05-09**|**Strong converse Exponents of Partially Smoothed Information Measures**|Mario Berta et.al.|[2505.06050](http://arxiv.org/abs/2505.06050)|null|
 |**2025-05-09**|**Droplet Outbursts from Onion Cutting**|Zixuan Wu et.al.|[2505.06016](http://arxiv.org/abs/2505.06016)|null|
-|**2025-05-09**|**FloE: On-the-Fly MoE Inference**|Yuxin Zhou et.al.|[2505.05950](http://arxiv.org/abs/2505.05950)|null|
+|**2025-05-12**|**FloE: On-the-Fly MoE Inference on Memory-constrained GPU**|Yuxin Zhou et.al.|[2505.05950](http://arxiv.org/abs/2505.05950)|null|
 |**2025-05-09**|**TTNOpt: Tree tensor network package for high-rank tensor compression**|Ryo Watanabe et.al.|[2505.05908](http://arxiv.org/abs/2505.05908)|null|
 |**2025-05-09**|**Bipolar doping in van der Waals semiconductor through Flexo-doping**|Bo Zhang et.al.|[2505.05887](http://arxiv.org/abs/2505.05887)|null|
 |**2025-05-09**|**Towards Facial Image Compression with Consistency Preserving Diffusion Prior**|Yimin Zhou et.al.|[2505.05870](http://arxiv.org/abs/2505.05870)|null|
