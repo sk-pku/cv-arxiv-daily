@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Memorization-Compression Cycles Improve Generalization**|Fangyuan Yu et.al.|[2505.08727](http://arxiv.org/abs/2505.08727)|null|
+|**2025-05-13**|**Critical point localization and multiplicity results in Banach spaces via Nehari manifold technique**|Radu Precup et.al.|[2505.08678](http://arxiv.org/abs/2505.08678)|null|
+|**2025-05-13**|**Topology and geometry optimization of grid-shells under self-weight loading**|Helen E. Fairclough et.al.|[2505.08645](http://arxiv.org/abs/2505.08645)|null|
+|**2025-05-13**|**Communication-Efficient Distributed Online Nonconvex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2505.08592](http://arxiv.org/abs/2505.08592)|null|
+|**2025-05-13**|**Distributed Quantum Neural Networks on Distributed Photonic Quantum Computing**|Kuan-Cheng Chen et.al.|[2505.08474](http://arxiv.org/abs/2505.08474)|null|
+|**2025-05-13**|**Origin of the Shell Structure in the Primary Outflow from IRAS 15398-3359**|Tomoyuki Hanawa et.al.|[2505.08470](http://arxiv.org/abs/2505.08470)|null|
+|**2025-05-13**|**TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection**|Wenkui Yang et.al.|[2505.08437](http://arxiv.org/abs/2505.08437)|**[link](https://github.com/hashtag00002/tt-df)**|
+|**2025-05-13**|**Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping**|Ren Zhuang et.al.|[2505.08392](http://arxiv.org/abs/2505.08392)|null|
+|**2025-05-13**|**Simplified, Physically Motivated, and Universally Applicable Range-Separation Tuning**|Aditi Singh et.al.|[2505.08383](http://arxiv.org/abs/2505.08383)|null|
+|**2025-05-13**|**Elastic properties of silicene: Spinodal instabilities**|Carlos P. Herrero et.al.|[2505.08381](http://arxiv.org/abs/2505.08381)|null|
 |**2025-05-12**|**Modal analysis of oblique shock-induced flow dynamics in a supersonic reacting shear layer**|Radouan Boukharfane et.al.|[2505.07636](http://arxiv.org/abs/2505.07636)|null|
 |**2025-05-12**|**GIFStream: 4D Gaussian-based Immersive Video with Feature Stream**|Hao Li et.al.|[2505.07539](http://arxiv.org/abs/2505.07539)|null|
 |**2025-05-12**|**Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning**|Bohan Wang et.al.|[2505.07538](http://arxiv.org/abs/2505.07538)|null|
