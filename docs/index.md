@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3097,7 +3097,7 @@ layout: default
 |**2025-05-12**|**GIFStream: 4D Gaussian-based Immersive Video with Feature Stream**|Hao Li et.al.|[2505.07539](http://arxiv.org/abs/2505.07539)|null|
 |**2025-05-12**|**Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning**|Bohan Wang et.al.|[2505.07538](http://arxiv.org/abs/2505.07538)|null|
 |**2025-05-12**|**Quantum mechanical closure of partial differential equations with symmetries**|Chris Vales et.al.|[2505.07519](http://arxiv.org/abs/2505.07519)|null|
-|**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503](http://arxiv.org/abs/2505.07503)|null|
+|**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503](http://arxiv.org/abs/2505.07503)|**[link](https://github.com/quangdzuytran/COMIC)**|
 |**2025-05-12**|**Spatio-temporal pulse propagation during highly-resolved onset of Rayleigh-Taylor and Kelvin-Helmholtz Rayleigh-Taylor instabilities**|Bhavna Joshi et.al.|[2505.07433](http://arxiv.org/abs/2505.07433)|null|
 |**2025-05-12**|**ICE-Pruning: An Iterative Cost-Efficient Pruning Pipeline for Deep Neural Networks**|Wenhao Hu et.al.|[2505.07411](http://arxiv.org/abs/2505.07411)|null|
 |**2025-05-12**|**Scaling of wall pressure and the peak of streamwise turbulence intensity in compressible wall flows**|Asif Manzoor Hasan et.al.|[2505.07407](http://arxiv.org/abs/2505.07407)|null|
