@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3096,7 +3096,7 @@ layout: default
 |**2025-05-13**|**Memorization-Compression Cycles Improve Generalization**|Fangyuan Yu et.al.|[2505.08727](http://arxiv.org/abs/2505.08727)|null|
 |**2025-05-13**|**Critical point localization and multiplicity results in Banach spaces via Nehari manifold technique**|Radu Precup et.al.|[2505.08678](http://arxiv.org/abs/2505.08678)|null|
 |**2025-05-13**|**Topology and geometry optimization of grid-shells under self-weight loading**|Helen E. Fairclough et.al.|[2505.08645](http://arxiv.org/abs/2505.08645)|null|
-|**2025-05-13**|**Communication-Efficient Distributed Online Nonconvex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2505.08592](http://arxiv.org/abs/2505.08592)|null|
+|**2025-05-14**|**Communication-Efficient Distributed Online Nonconvex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2505.08592](http://arxiv.org/abs/2505.08592)|null|
 |**2025-05-13**|**Distributed Quantum Neural Networks on Distributed Photonic Quantum Computing**|Kuan-Cheng Chen et.al.|[2505.08474](http://arxiv.org/abs/2505.08474)|null|
 |**2025-05-13**|**Origin of the Shell Structure in the Primary Outflow from IRAS 15398-3359**|Tomoyuki Hanawa et.al.|[2505.08470](http://arxiv.org/abs/2505.08470)|null|
 |**2025-05-13**|**TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection**|Wenkui Yang et.al.|[2505.08437](http://arxiv.org/abs/2505.08437)|**[link](https://github.com/hashtag00002/tt-df)**|
