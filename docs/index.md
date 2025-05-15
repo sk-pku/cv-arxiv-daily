@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Second-order invariant-domain preserving approximation to the multi-species Euler equations**|Bennett Clayton et.al.|[2505.09581](http://arxiv.org/abs/2505.09581)|null|
+|**2025-05-14**|**Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput**|Bo Zhang et.al.|[2505.09498](http://arxiv.org/abs/2505.09498)|null|
+|**2025-05-14**|**Efficient LiDAR Reflectance Compression via Scanning Serialization**|Jiahao Zhu et.al.|[2505.09433](http://arxiv.org/abs/2505.09433)|null|
+|**2025-05-14**|**A Dynamic Working Set Method for Compressed Sensing**|Siu-Wing Cheng et.al.|[2505.09370](http://arxiv.org/abs/2505.09370)|null|
+|**2025-05-14**|**Neural Video Compression using 2D Gaussian Splatting**|Lakshya Gupta et.al.|[2505.09324](http://arxiv.org/abs/2505.09324)|null|
+|**2025-05-14**|**Coexistence of Rashba and Dirac dispersions on the surface of centrosymmetric topological insulator decorated with transition metals**|Giuseppe Cuono et.al.|[2505.09211](http://arxiv.org/abs/2505.09211)|null|
+|**2025-05-14**|**BiECVC: Gated Diversification of Bidirectional Contexts for Learned Video Compression**|Wei Jiang et.al.|[2505.09193](http://arxiv.org/abs/2505.09193)|null|
+|**2025-05-14**|**Autoencoder-based Dimensionality Reduction for Accelerating the Solution of Nonlinear Time-Dependent PDEs: Transport in Porous Media with Reactions**|Diba Behnoudfar et.al.|[2505.09071](http://arxiv.org/abs/2505.09071)|null|
+|**2025-05-13**|**ITERA-LLM: Boosting Sub-8-Bit Large Language Model Inference via Iterative Tensor Decomposition**|Keran Zheng et.al.|[2505.08981](http://arxiv.org/abs/2505.08981)|null|
+|**2025-05-13**|**When repeats drive the vocabulary: a Byte-Pair Encoding analysis of T2T primate genomes**|Marina Popova et.al.|[2505.08918](http://arxiv.org/abs/2505.08918)|**[link](https://github.com/aglabx/dnabpe)**|
 |**2025-05-13**|**Memorization-Compression Cycles Improve Generalization**|Fangyuan Yu et.al.|[2505.08727](http://arxiv.org/abs/2505.08727)|null|
 |**2025-05-13**|**Critical point localization and multiplicity results in Banach spaces via Nehari manifold technique**|Radu Precup et.al.|[2505.08678](http://arxiv.org/abs/2505.08678)|null|
 |**2025-05-13**|**Topology and geometry optimization of grid-shells under self-weight loading**|Helen E. Fairclough et.al.|[2505.08645](http://arxiv.org/abs/2505.08645)|null|
