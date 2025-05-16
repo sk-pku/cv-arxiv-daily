@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3099,7 +3099,7 @@ layout: default
 |**2025-05-14**|**A Dynamic Working Set Method for Compressed Sensing**|Siu-Wing Cheng et.al.|[2505.09370](http://arxiv.org/abs/2505.09370)|null|
 |**2025-05-14**|**Neural Video Compression using 2D Gaussian Splatting**|Lakshya Gupta et.al.|[2505.09324](http://arxiv.org/abs/2505.09324)|null|
 |**2025-05-14**|**Coexistence of Rashba and Dirac dispersions on the surface of centrosymmetric topological insulator decorated with transition metals**|Giuseppe Cuono et.al.|[2505.09211](http://arxiv.org/abs/2505.09211)|null|
-|**2025-05-14**|**BiECVC: Gated Diversification of Bidirectional Contexts for Learned Video Compression**|Wei Jiang et.al.|[2505.09193](http://arxiv.org/abs/2505.09193)|null|
+|**2025-05-15**|**BiECVC: Gated Diversification of Bidirectional Contexts for Learned Video Compression**|Wei Jiang et.al.|[2505.09193](http://arxiv.org/abs/2505.09193)|null|
 |**2025-05-14**|**Autoencoder-based Dimensionality Reduction for Accelerating the Solution of Nonlinear Time-Dependent PDEs: Transport in Porous Media with Reactions**|Diba Behnoudfar et.al.|[2505.09071](http://arxiv.org/abs/2505.09071)|null|
 |**2025-05-13**|**ITERA-LLM: Boosting Sub-8-Bit Large Language Model Inference via Iterative Tensor Decomposition**|Keran Zheng et.al.|[2505.08981](http://arxiv.org/abs/2505.08981)|null|
 |**2025-05-13**|**When repeats drive the vocabulary: a Byte-Pair Encoding analysis of T2T primate genomes**|Marina Popova et.al.|[2505.08918](http://arxiv.org/abs/2505.08918)|**[link](https://github.com/aglabx/dnabpe)**|
