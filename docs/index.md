@@ -3121,7 +3121,7 @@ layout: default
 |**2025-05-13**|**Origin of the Shell Structure in the Primary Outflow from IRAS 15398-3359**|Tomoyuki Hanawa et.al.|[2505.08470](http://arxiv.org/abs/2505.08470)|null|
 |**2025-05-13**|**TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection**|Wenkui Yang et.al.|[2505.08437](http://arxiv.org/abs/2505.08437)|**[link](https://github.com/hashtag00002/tt-df)**|
 |**2025-05-13**|**Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping**|Ren Zhuang et.al.|[2505.08392](http://arxiv.org/abs/2505.08392)|null|
-|**2025-05-13**|**Simplified, Physically Motivated, and Universally Applicable Range-Separation Tuning**|Aditi Singh et.al.|[2505.08383](http://arxiv.org/abs/2505.08383)|null|
+|**2025-05-13**|**Simplified, Physically Motivated, and Universally Applicable Range-Separation Tuning**|Aditi Singh et.al.|[2505.08383](http://arxiv.org/abs/2505.08383)|**[link](https://github.com/aditisingh4812/simplified_tuned_range_separated)**|
 |**2025-05-13**|**Elastic properties of silicene: Spinodal instabilities**|Carlos P. Herrero et.al.|[2505.08381](http://arxiv.org/abs/2505.08381)|null|
 |**2025-05-12**|**Modal analysis of oblique shock-induced flow dynamics in a supersonic reacting shear layer**|Radouan Boukharfane et.al.|[2505.07636](http://arxiv.org/abs/2505.07636)|null|
 |**2025-05-12**|**GIFStream: 4D Gaussian-based Immersive Video with Feature Stream**|Hao Li et.al.|[2505.07539](http://arxiv.org/abs/2505.07539)|null|
@@ -3145,9 +3145,9 @@ layout: default
 |**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853](http://arxiv.org/abs/2505.05853)|null|
 |**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
 |**2025-05-09**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
-|**2025-05-08**|**Theoretical modeling of approximate universality of tidally deformed neutron stars**|Takuya Katagiri et.al.|[2505.05429](http://arxiv.org/abs/2505.05429)|null|
+|**2025-05-08**|**Theoretical modeling of approximate universality of tidally deformed neutron stars**|Takuya Katagiri et.al.|[2505.05429](http://arxiv.org/abs/2505.05429)|**[link](https://github.com/takuyakatagiri/theory_universal_love)**|
 |**2025-05-08**|**DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**|Nilesh Prasad Pandey et.al.|[2505.05413](http://arxiv.org/abs/2505.05413)|null|
-|**2025-05-08**|**Dynamic injection of a compressible gas into a confined porous layer**|Peter Castellucci et.al.|[2505.05412](http://arxiv.org/abs/2505.05412)|null|
+|**2025-05-08**|**Dynamic injection of a compressible gas into a confined porous layer**|Peter Castellucci et.al.|[2505.05412](http://arxiv.org/abs/2505.05412)|**[link](https://github.com/petercastellucci/compressible_evolution_equations)**|
 |**2025-05-08**|**Augmented Deep Contexts for Spatially Embedded Video Coding**|Yifan Bian et.al.|[2505.05309](http://arxiv.org/abs/2505.05309)|**[link](https://github.com/esakak/sevc)**|
 |**2025-05-08**|**Diffusion Model Quantization: A Review**|Qian Zeng et.al.|[2505.05215](http://arxiv.org/abs/2505.05215)|null|
 |**2025-05-08**|**Smoothed analysis in compressed sensing**|Elad Aigner-Horev et.al.|[2505.05188](http://arxiv.org/abs/2505.05188)|null|
@@ -3178,7 +3178,7 @@ layout: default
 |**2025-05-05**|**A Rate-Quality Model for Learned Video Coding**|Sang NguyenQuang et.al.|[2505.02720](http://arxiv.org/abs/2505.02720)|null|
 |**2025-05-05**|**Data Compression for Time Series Modelling: A Case Study of Smart Grid Demand Forecasting**|Mikkel Bue Lykkegaard et.al.|[2505.02606](http://arxiv.org/abs/2505.02606)|null|
 |**2025-05-05**|**Linear analysis of shear-flow instabilities in a prominence-corona interface with ambipolar diffusion**|Llorenç Melis et.al.|[2505.02534](http://arxiv.org/abs/2505.02534)|null|
-|**2025-05-05**|**Node pruning reveals compact and optimal substructures within large networks**|Manish Yadav et.al.|[2505.02522](http://arxiv.org/abs/2505.02522)|null|
+|**2025-05-05**|**Node pruning reveals compact and optimal substructures within large networks**|Manish Yadav et.al.|[2505.02522](http://arxiv.org/abs/2505.02522)|**[link](https://github.com/Cyber-Physical-Systems-in-Mech-Eng/PrunedRC)**|
 |**2025-05-05**|**Uncovering Population PK Covariates from VAE-Generated Latent Spaces**|Diego Perazzolo et.al.|[2505.02514](http://arxiv.org/abs/2505.02514)|**[link](https://github.com/Dperazzolo/tacrolimus_data_generator)**|
 |**2025-05-05**|**Cooperative ISAC Network for Off-Grid Imaging-based Low-Altitude Surveillance**|Yixuan Huang et.al.|[2505.02440](http://arxiv.org/abs/2505.02440)|null|
 |**2025-05-06**|**EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices**|Arnab Sanyal et.al.|[2505.02380](http://arxiv.org/abs/2505.02380)|null|
@@ -3186,7 +3186,7 @@ layout: default
 |**2025-05-02**|**Phase-field modeling of elastic microphase separation**|Hamza Oudich et.al.|[2505.01389](http://arxiv.org/abs/2505.01389)|null|
 |**2025-05-02**|**Asymptotic Linear Convergence of ADMM for Isotropic TV Norm Compressed Sensing**|Emmanuel Gil Torres et.al.|[2505.01240](http://arxiv.org/abs/2505.01240)|null|
 |**2025-05-02**|**BS-tree: A gapped data-parallel B-tree**|Dimitrios Tsitsigkos. Achilleas Michalopoulos et.al.|[2505.01180](http://arxiv.org/abs/2505.01180)|null|
-|**2025-05-02**|**LZD-style Compression Scheme with Truncation and Repetitions**|Linus Götz et.al.|[2505.00970](http://arxiv.org/abs/2505.00970)|null|
+|**2025-05-02**|**LZD-style Compression Scheme with Truncation and Repetitions**|Linus Götz et.al.|[2505.00970](http://arxiv.org/abs/2505.00970)|**[link](https://github.com/LinusTUDO/lzdr-comp)**|
 |**2025-05-02**|**SemSpaceFL: A Collaborative Hierarchical Federated Learning Framework for Semantic Communication in 6G LEO Satellites**|Loc X. Nguyen et.al.|[2505.00966](http://arxiv.org/abs/2505.00966)|null|
 |**2025-05-02**|**Compact Recurrent Transformer with Persistent Memory**|Edison Mucllari et.al.|[2505.00929](http://arxiv.org/abs/2505.00929)|null|
 |**2025-05-01**|**Bayesian inferences on covariant density functionals from multimessenger astrophysical data: The impacts of likelihood functions of low density matter constraints**|Jia-Jie Li et.al.|[2505.00911](http://arxiv.org/abs/2505.00911)|null|
@@ -3200,7 +3200,7 @@ layout: default
 |**2025-05-01**|**From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**|Jie Yang et.al.|[2505.00364](http://arxiv.org/abs/2505.00364)|null|
 |**2025-05-01**|**Non-reciprocal anti-aligning active mixtures: deriving the exact Boltzmann collision operator**|Jakob Mihatsch et.al.|[2505.00357](http://arxiv.org/abs/2505.00357)|null|
 |**2025-05-01**|**Optimizing Deep Neural Networks using Safety-Guided Self Compression**|Mohammad Zbeeb et.al.|[2505.00350](http://arxiv.org/abs/2505.00350)|**[link](https://github.com/Moe-Zbeeb/Optimizing-Deep-Neural-Networks-via-Safety-Guided-Self-Compression)**|
-|**2025-05-01**|**Compressing fluid flows with nonlinear machine learning: mode decomposition, latent modeling, and flow control**|Koji Fukagata et.al.|[2505.00343](http://arxiv.org/abs/2505.00343)|null|
+|**2025-05-01**|**Compressing fluid flows with nonlinear machine learning: mode decomposition, latent modeling, and flow control**|Koji Fukagata et.al.|[2505.00343](http://arxiv.org/abs/2505.00343)|**[link](https://github.com/kfukami/CNNAE_Practice)**|
 |**2025-05-01**|**Efficient Neural Video Representation with Temporally Coherent Modulation**|Seungjun Shin et.al.|[2505.00335](http://arxiv.org/abs/2505.00335)|null|
 |**2025-04-30**|**Existence of Large Boundary Layer Solutions to Inflow Problem of 1D Full Compressible Navier-Stokes Equations**|Yi Wang et.al.|[2504.21830](http://arxiv.org/abs/2504.21830)|null|
 |**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814](http://arxiv.org/abs/2504.21814)|null|
@@ -3224,7 +3224,7 @@ layout: default
 |**2025-04-29**|**Molecular gas in cool-core brightest cluster galaxies at $z\simeq0.4$**|G. Castignani et.al.|[2504.20538](http://arxiv.org/abs/2504.20538)|null|
 |**2025-04-28**|**Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model**|Xiem HoangVan et.al.|[2504.19935](http://arxiv.org/abs/2504.19935)|null|
 |**2025-04-28**|**Post-buckling of fiber-reinforced soft tissues**|Yang Liu et.al.|[2504.19932](http://arxiv.org/abs/2504.19932)|null|
-|**2025-04-28**|**Distributed Reconstruction from Compressive Measurements: Nonconvexity and Heterogeneity**|Erbo Li Qi Qin et.al.|[2504.19919](http://arxiv.org/abs/2504.19919)|null|
+|**2025-04-28**|**Distributed Reconstruction from Compressive Measurements: Nonconvexity and Heterogeneity**|Erbo Li Qi Qin et.al.|[2504.19919](http://arxiv.org/abs/2504.19919)|**[link](https://github.com/Lear24/DIR-for-CS)**|
 |**2025-04-28**|**An Achievability Bound for Type-Based Unsourced Multiple Access**|Deekshith Pathayappilly Krishnan et.al.|[2504.19916](http://arxiv.org/abs/2504.19916)|null|
 |**2025-04-28**|**Convergence Analysis of Asynchronous Federated Learning with Gradient Compression for Non-Convex Optimization**|Diying Yang et.al.|[2504.19903](http://arxiv.org/abs/2504.19903)|null|
 |**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876](http://arxiv.org/abs/2504.19876)|**[link](https://github.com/mamadou-keita/deeclip)**|
@@ -3809,7 +3809,7 @@ layout: default
 |**2025-01-31**|**A Tensor-Train Decomposition based Compression of LLMs on Group Vector Systolic Accelerator**|Sixiao Huang et.al.|[2501.19135](http://arxiv.org/abs/2501.19135)|null|
 |**2025-01-31**|**Brain-inspired sparse training enables Transformers and LLMs to perform as fully connected**|Yingtao Zhang et.al.|[2501.19107](http://arxiv.org/abs/2501.19107)|null|
 |**2025-01-31**|**Pivoting Factorization: A Compact Meta Low-Rank Representation of Sparsity for Efficient Inference in Large Language Models**|Jialin Zhao et.al.|[2501.19090](http://arxiv.org/abs/2501.19090)|null|
-|**2025-01-31**|**Deep Multi-Task Learning Has Low Amortized Intrinsic Dimensionality**|Hossein Zakerinia et.al.|[2501.19067](http://arxiv.org/abs/2501.19067)|null|
+|**2025-01-31**|**Deep Multi-Task Learning Has Low Amortized Intrinsic Dimensionality**|Hossein Zakerinia et.al.|[2501.19067](http://arxiv.org/abs/2501.19067)|**[link](https://github.com/hzakerinia/mtl)**|
 |**2025-01-31**|**Beyond Token Compression: A Training-Free Reduction Framework for Efficient Visual Processing in MLLMs**|Hongliang Li et.al.|[2501.19036](http://arxiv.org/abs/2501.19036)|null|
 |**2025-01-31**|**BCAT: A Block Causal Transformer for PDE Foundation Models for Fluid Dynamics**|Yuxuan Liu et.al.|[2501.18972](http://arxiv.org/abs/2501.18972)|null|
 |**2025-01-31**|**Two-color lattice QCD in $(1+1)$ dimensions with Grassmann tensor renormalization group**|Kwok Ho Pai et.al.|[2501.18918](http://arxiv.org/abs/2501.18918)|null|
@@ -3997,7 +3997,7 @@ layout: default
 |**2025-01-03**|**Decoupling the effects of ripples from tensile strain on the thermal conductivity of graphene and understanding the role of curvature on the thermal conductivity of graphene with grain boundaries**|Abhishek Kumar et.al.|[2501.01730](http://arxiv.org/abs/2501.01730)|null|
 |**2025-01-03**|**KeyNode-Driven Geometry Coding for Real-World Scanned Human Dynamic Mesh Compression**|Huong Hoang et.al.|[2501.01717](http://arxiv.org/abs/2501.01717)|null|
 |**2025-01-03**|**ICPC: In-context Prompt Compression with Faster Inference**|Ziyang Yu et.al.|[2501.01625](http://arxiv.org/abs/2501.01625)|null|
-|**2025-01-02**|**An unsupervised method for MRI recovery: Deep image prior with structured sparsity**|Muhammad Ahmad Sultan et.al.|[2501.01482](http://arxiv.org/abs/2501.01482)|null|
+|**2025-01-02**|**An unsupervised method for MRI recovery: Deep image prior with structured sparsity**|Muhammad Ahmad Sultan et.al.|[2501.01482](http://arxiv.org/abs/2501.01482)|**[link](https://github.com/osu-mr/discus)**|
 |**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420](http://arxiv.org/abs/2501.01420)|**[link](https://github.com/yoshitomo-matsubara/ladon-multi-task-sc2)**|
 |**2025-01-02**|**The Pseudospectrum of Random Compressions of Matrices**|Rikhav Shah et.al.|[2501.01418](http://arxiv.org/abs/2501.01418)|null|
 |**2025-01-02**|**Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging**|Mengjie Qin et.al.|[2501.01262](http://arxiv.org/abs/2501.01262)|**[link](https://github.com/mengjie-s/mijun)**|
