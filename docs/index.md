@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Is Compression Really Linear with Code Intelligence?**|Xianzhen Luo et.al.|[2505.11441](http://arxiv.org/abs/2505.11441)|null|
+|**2025-05-16**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
+|**2025-05-16**|**The Future is Sparse: Embedding Compression for Scalable Retrieval in Recommender Systems**|Petr Kasalický et.al.|[2505.11388](http://arxiv.org/abs/2505.11388)|null|
+|**2025-05-16**|**Dynamic Base model Shift for Delta Compression**|Chenyu Huang et.al.|[2505.11344](http://arxiv.org/abs/2505.11344)|null|
+|**2025-05-16**|**Depth first representations of $k^2$ -trees**|Gabriel Carmona et.al.|[2505.11302](http://arxiv.org/abs/2505.11302)|null|
+|**2025-05-16**|**Quantum compressed sensing tomographic reconstruction algorithm**|Arim Ryou et.al.|[2505.11286](http://arxiv.org/abs/2505.11286)|null|
+|**2025-05-16**|**SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning**|Zheng Li et.al.|[2505.11274](http://arxiv.org/abs/2505.11274)|null|
+|**2025-05-16**|**Brinkman's law as $Γ$ -limit of compressible low Mach Navier-Stokes equations and application to randomly perforated domains**|Peter Bella et.al.|[2505.11213](http://arxiv.org/abs/2505.11213)|null|
+|**2025-05-16**|**RanDeS: Randomized Delta Superposition for Multi-Model Compression**|Hangyu Zhou et.al.|[2505.11204](http://arxiv.org/abs/2505.11204)|null|
+|**2025-05-16**|**On physically grounded boundary conditions for the compressible MHD system**|Jan Brezina et.al.|[2505.11179](http://arxiv.org/abs/2505.11179)|null|
 |**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557](http://arxiv.org/abs/2505.10557)|**[link](https://github.com/mathllm/mathcoder)**|
 |**2025-05-15**|**Contact in fluid-plate interaction: formation and detachment**|Srđan Trifunović et.al.|[2505.10508](http://arxiv.org/abs/2505.10508)|null|
 |**2025-05-15**|**Compressed sensing quantum state tomography for qudits: A comparison of Gell-Mann and Heisenberg-Weyl observable bases**|Yoshiyuki Kakihara et.al.|[2505.10462](http://arxiv.org/abs/2505.10462)|null|
