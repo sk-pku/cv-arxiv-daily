@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Denoising Diffusion Probabilistic Model for Point Cloud Compression at Low Bit-Rates**|Gabriele Spadaro et.al.|[2505.13316](http://arxiv.org/abs/2505.13316)|**[link](https://github.com/eidoslab/ddpm-pcc)**|
+|**2025-05-19**|**DD-Ranking: Rethinking the Evaluation of Dataset Distillation**|Zekai Li et.al.|[2505.13300](http://arxiv.org/abs/2505.13300)|**[link](https://github.com/nus-hpc-ai-lab/dd-ranking)**|
+|**2025-05-19**|**Ab initio study of strain-driven vacancy clustering in aluminum**|Sayan Bhowmik et.al.|[2505.13245](http://arxiv.org/abs/2505.13245)|null|
+|**2025-05-19**|**Group Symmetry Enables Faster Optimization in Inverse Problems**|Junqi Tang et.al.|[2505.13223](http://arxiv.org/abs/2505.13223)|null|
+|**2025-05-19**|**Quantum Knowledge Distillation for Large Language Models**|Lingxiao Li et.al.|[2505.13205](http://arxiv.org/abs/2505.13205)|null|
+|**2025-05-19**|**Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model**|Jonas Brenig et.al.|[2505.13152](http://arxiv.org/abs/2505.13152)|**[link](https://github.com/jbrenig/rescdc)**|
+|**2025-05-19**|**FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference**|Guangda Liu et.al.|[2505.13109](http://arxiv.org/abs/2505.13109)|null|
+|**2025-05-19**|**Microscopic Ghost Imaging with a Tabletop XUV Source**|Sukyoon Oh et.al.|[2505.13075](http://arxiv.org/abs/2505.13075)|null|
+|**2025-05-19**|**Automatic mixed precision for optimizing gained time with constrained loss mean-squared-error based on model partition to sequential sub-graphs**|Shmulik Markovich-Golan et.al.|[2505.13060](http://arxiv.org/abs/2505.13060)|null|
+|**2025-05-19**|**Simplicity is Key: An Unsupervised Pretraining Approach for Sparse Radio Channels**|Jonathan Ott et.al.|[2505.13055](http://arxiv.org/abs/2505.13055)|null|
 |**2025-05-16**|**Is Compression Really Linear with Code Intelligence?**|Xianzhen Luo et.al.|[2505.11441](http://arxiv.org/abs/2505.11441)|null|
 |**2025-05-19**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
 |**2025-05-16**|**The Future is Sparse: Embedding Compression for Scalable Retrieval in Recommender Systems**|Petr Kasalický et.al.|[2505.11388](http://arxiv.org/abs/2505.11388)|null|
