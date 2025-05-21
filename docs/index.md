@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673](http://arxiv.org/abs/2505.14673)|null|
+|**2025-05-20**|**Bridging Predictive Coding and MDL: A Two-Part Code Framework for Deep Learning**|Benjamin Prada et.al.|[2505.14635](http://arxiv.org/abs/2505.14635)|null|
+|**2025-05-20**|**Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning**|Shangziqi Zhao et.al.|[2505.14582](http://arxiv.org/abs/2505.14582)|null|
+|**2025-05-20**|**Neural Video Compression with Context Modulation**|Chuanbo Tang et.al.|[2505.14541](http://arxiv.org/abs/2505.14541)|null|
+|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
+|**2025-05-20**|**Latent Flow Transformer**|Yen-Chen Wu et.al.|[2505.14513](http://arxiv.org/abs/2505.14513)|**[link](https://github.com/mtkresearch/latent-flow-transformer)**|
+|**2025-05-20**|**Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models**|Xuyang Liu et.al.|[2505.14454](http://arxiv.org/abs/2505.14454)|**[link](https://github.com/xuyang-liu16/vidcom2)**|
+|**2025-05-20**|**SCOPE: Compress Mathematical Reasoning Steps for Efficient Automated Process Annotation**|Huimin Xu et.al.|[2505.14419](http://arxiv.org/abs/2505.14419)|null|
+|**2025-05-20**|**Reference lattice, sound, stiffness, and magnetic transitions of Ising monolayers**|John M. Davis et.al.|[2505.14416](http://arxiv.org/abs/2505.14416)|null|
+|**2025-05-20**|**Byte Pair Encoding for Efficient Time Series Forecasting**|Leon Götz et.al.|[2505.14411](http://arxiv.org/abs/2505.14411)|null|
 |**2025-05-19**|**Denoising Diffusion Probabilistic Model for Point Cloud Compression at Low Bit-Rates**|Gabriele Spadaro et.al.|[2505.13316](http://arxiv.org/abs/2505.13316)|**[link](https://github.com/eidoslab/ddpm-pcc)**|
 |**2025-05-19**|**DD-Ranking: Rethinking the Evaluation of Dataset Distillation**|Zekai Li et.al.|[2505.13300](http://arxiv.org/abs/2505.13300)|**[link](https://github.com/nus-hpc-ai-lab/dd-ranking)**|
 |**2025-05-19**|**Ab initio study of strain-driven vacancy clustering in aluminum**|Sayan Bhowmik et.al.|[2505.13245](http://arxiv.org/abs/2505.13245)|null|
