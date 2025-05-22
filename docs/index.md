@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**On an Euler-Schrödinger system appearing in laser-plasma interaction**|Kuntal Bhandari et.al.|[2505.15815](http://arxiv.org/abs/2505.15815)|null|
+|**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|null|
+|**2025-05-21**|**Long LEM Query in BWT-Runs Space**|Ahsan Sanaullah et.al.|[2505.15698](http://arxiv.org/abs/2505.15698)|null|
+|**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|null|
+|**2025-05-21**|**Segmentation-Variant Codebooks for Preservation of Paralinguistic and Prosodic Information**|Nicholas Sanders et.al.|[2505.15667](http://arxiv.org/abs/2505.15667)|null|
+|**2025-05-21**|**Combining Progressive Image Compression and Random Access in DNA Data Storage**|Xavier Pic et.al.|[2505.15632](http://arxiv.org/abs/2505.15632)|null|
+|**2025-05-21**|**Learn to Reason Efficiently with Adaptive Length-based Reward Shaping**|Wei Liu et.al.|[2505.15612](http://arxiv.org/abs/2505.15612)|**[link](https://github.com/hkust-nlp/laser)**|
+|**2025-05-21**|**Robo-DM: Data Management For Large Robot Datasets**|Kaiyuan Chen et.al.|[2505.15558](http://arxiv.org/abs/2505.15558)|null|
+|**2025-05-21**|**Clapper: Compact Learning and Video Representation in VLMs**|Lingyu Kong et.al.|[2505.15529](http://arxiv.org/abs/2505.15529)|null|
+|**2025-05-21**|**Certified Neural Approximations of Nonlinear Dynamics**|Frederik Baymler Mathiesen et.al.|[2505.15497](http://arxiv.org/abs/2505.15497)|null|
 |**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673](http://arxiv.org/abs/2505.14673)|null|
 |**2025-05-20**|**Bridging Predictive Coding and MDL: A Two-Part Code Framework for Deep Learning**|Benjamin Prada et.al.|[2505.14635](http://arxiv.org/abs/2505.14635)|null|
 |**2025-05-20**|**Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning**|Shangziqi Zhao et.al.|[2505.14582](http://arxiv.org/abs/2505.14582)|null|
