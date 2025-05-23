@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|null|
+|**2025-05-22**|**On Multilingual Encoder Language Model Compression for Low-Resource Languages**|Daniil Gurgurov et.al.|[2505.16956](http://arxiv.org/abs/2505.16956)|null|
+|**2025-05-22**|**Bottlenecked Transformers: Periodic KV Cache Abstraction for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/abs/2505.16950)|null|
+|**2025-05-22**|**Latent Principle Discovery for Language Model Self-Improvement**|Keshav Ramji et.al.|[2505.16927](http://arxiv.org/abs/2505.16927)|null|
+|**2025-05-22**|**Photo-induced electronic excitations drive polymerization of carbon monoxide: A first-principles study**|Rasool Ahmad et.al.|[2505.16926](http://arxiv.org/abs/2505.16926)|null|
+|**2025-05-22**|**R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**|Yibo Wang et.al.|[2505.16838](http://arxiv.org/abs/2505.16838)|null|
+|**2025-05-22**|**Synthesis of Y $_3$Fe$_4$H$_{20}$ as a new prototype structure for ternary superhydrides recoverable at ambient pressure**|M. Caussé et.al.|[2505.16799](http://arxiv.org/abs/2505.16799)|null|
+|**2025-05-22**|**High-Efficiency Plasma-Based Compressor for Ultrafast Soft X-ray Free-Electron Lasers**|Mingchang Wang et.al.|[2505.16768](http://arxiv.org/abs/2505.16768)|null|
+|**2025-05-22**|**TRIM: Achieving Extreme Sparsity with Targeted Row-wise Iterative Metric-driven Pruning**|Florentin Beck et.al.|[2505.16743](http://arxiv.org/abs/2505.16743)|null|
+|**2025-05-22**|**Pressure dependence of the interfacial polarization and negative activation volume for dielectric relaxation in heterogeneous systems**|Anthony N. Papathanassiou et.al.|[2505.16742](http://arxiv.org/abs/2505.16742)|null|
 |**2025-05-21**|**On an Euler-Schrödinger system appearing in laser-plasma interaction**|Kuntal Bhandari et.al.|[2505.15815](http://arxiv.org/abs/2505.15815)|null|
 |**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|null|
 |**2025-05-21**|**An Efficient Data Structure and Algorithm for Long-Match Query in Run-Length Compressed BWT**|Ahsan Sanaullah et.al.|[2505.15698](http://arxiv.org/abs/2505.15698)|null|
