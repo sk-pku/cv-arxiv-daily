@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155](http://arxiv.org/abs/2505.20155)|null|
+|**2025-05-26**|**Tensorization is a powerful but underexplored tool for compression and interpretability of neural networks**|Safa Hamreras et.al.|[2505.20132](http://arxiv.org/abs/2505.20132)|null|
+|**2025-05-26**|**ResSVD: Residual Compensated SVD for Large Language Model Compression**|Haolei Bai et.al.|[2505.20112](http://arxiv.org/abs/2505.20112)|null|
+|**2025-05-26**|**AdaTP: Attention-Debiased Token Pruning for Video Large Language Models**|Fengyuan Sun et.al.|[2505.20100](http://arxiv.org/abs/2505.20100)|null|
+|**2025-05-26**|**A note on helicity conservation for compressible Euler equations in a bounded domain with vacuum**|Yulin Ye et.al.|[2505.20080](http://arxiv.org/abs/2505.20080)|null|
+|**2025-05-26**|**LPCM: Learning-based Predictive Coding for LiDAR Point Cloud Compression**|Chang Sun et.al.|[2505.20059](http://arxiv.org/abs/2505.20059)|null|
+|**2025-05-26**|**On the class of coding optimality of human languages and the origins of Zipf's law**|Ramon Ferrer-i-Cancho et.al.|[2505.20015](http://arxiv.org/abs/2505.20015)|null|
+|**2025-05-26**|**Proof Compression via Subatomic Logic and Guarded Substitutions**|Victoria Barrett et.al.|[2505.20009](http://arxiv.org/abs/2505.20009)|null|
+|**2025-05-26**|**Neutron Star Inner Crust at Finite Temperatures: A Comparison Between Compressible Liquid Drop and Extended Thomas-Fermi Approaches**|Guilherme Grams et.al.|[2505.19984](http://arxiv.org/abs/2505.19984)|null|
+|**2025-05-26**|**MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models**|Zhongzhan Huang et.al.|[2505.19959](http://arxiv.org/abs/2505.19959)|null|
 |**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142](http://arxiv.org/abs/2505.18142)|null|
 |**2025-05-23**|**Beyond Discreteness: Finite-Sample Analysis of Straight-Through Estimator for Quantization**|Halyun Jeong et.al.|[2505.18113](http://arxiv.org/abs/2505.18113)|null|
 |**2025-05-23**|**Accelerating Learned Image Compression Through Modeling Neural Training Dynamics**|Yichi Zhang et.al.|[2505.18107](http://arxiv.org/abs/2505.18107)|null|
