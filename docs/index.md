@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,11 +3093,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|null|
+|**2025-05-26**|**Structure and Elastic properties of Titanium MXenes: evaluation of COMB3, REAXFF and MEAM force fields**|Luis F. V. Thomazini et.al.|[2505.20169](http://arxiv.org/abs/2505.20169)|null|
 |**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155](http://arxiv.org/abs/2505.20155)|null|
 |**2025-05-26**|**Tensorization is a powerful but underexplored tool for compression and interpretability of neural networks**|Safa Hamreras et.al.|[2505.20132](http://arxiv.org/abs/2505.20132)|null|
 |**2025-05-26**|**ResSVD: Residual Compensated SVD for Large Language Model Compression**|Haolei Bai et.al.|[2505.20112](http://arxiv.org/abs/2505.20112)|null|
 |**2025-05-26**|**AdaTP: Attention-Debiased Token Pruning for Video Large Language Models**|Fengyuan Sun et.al.|[2505.20100](http://arxiv.org/abs/2505.20100)|null|
-|**2025-05-26**|**A note on helicity conservation for compressible Euler equations in a bounded domain with vacuum**|Yulin Ye et.al.|[2505.20080](http://arxiv.org/abs/2505.20080)|null|
+|**2025-05-27**|**A note on helicity conservation for compressible Euler equations in a bounded domain with vacuum**|Yulin Ye et.al.|[2505.20080](http://arxiv.org/abs/2505.20080)|null|
 |**2025-05-26**|**LPCM: Learning-based Predictive Coding for LiDAR Point Cloud Compression**|Chang Sun et.al.|[2505.20059](http://arxiv.org/abs/2505.20059)|null|
 |**2025-05-26**|**On the class of coding optimality of human languages and the origins of Zipf's law**|Ramon Ferrer-i-Cancho et.al.|[2505.20015](http://arxiv.org/abs/2505.20015)|null|
 |**2025-05-26**|**Proof Compression via Subatomic Logic and Guarded Substitutions**|Victoria Barrett et.al.|[2505.20009](http://arxiv.org/abs/2505.20009)|null|
