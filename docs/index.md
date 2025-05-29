@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3099,7 +3099,7 @@ layout: default
 |**2025-05-27**|**A Physics-Augmented GraphGPS Framework for the Reconstruction of 3D Riemann Problems from Sparse Data**|Rami Cassia et.al.|[2505.21421](http://arxiv.org/abs/2505.21421)|null|
 |**2025-05-27**|**Dual-Wavelength Brillouin Lasers as compact Opto-Terahertz References for Low-Noise Microwave Synthesis**|Scott C. Egbert et.al.|[2505.21416](http://arxiv.org/abs/2505.21416)|null|
 |**2025-05-27**|**Graph Neural Network Aided Detection for the Multi-User Multi-Dimensional Index Modulated Uplink**|Xinyu Feng et.al.|[2505.21343](http://arxiv.org/abs/2505.21343)|null|
-|**2025-05-27**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334](http://arxiv.org/abs/2505.21334)|null|
+|**2025-05-28**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334](http://arxiv.org/abs/2505.21334)|null|
 |**2025-05-27**|**Spectral Compression Transformer with Line Pose Graph for Monocular 3D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.21309](http://arxiv.org/abs/2505.21309)|null|
 |**2025-05-27**|**Towards One-bit ASR: Extremely Low-bit Conformer Quantization Using Co-training and Stochastic Precision**|Zhaoqing Li et.al.|[2505.21245](http://arxiv.org/abs/2505.21245)|null|
 |**2025-05-27**|**Unfolding A Few Structures for The Many: Memory-Efficient Compression of Conformer and Speech Foundation Models**|Zhaoqing Li et.al.|[2505.21237](http://arxiv.org/abs/2505.21237)|null|
