@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/abs/2505.22662)|null|
+|**2025-05-28**|**Effective and Efficient One-pass Compression of Speech Foundation Models Using Sparsity-aware Self-pinching Gates**|Haoning Xu et.al.|[2505.22608](http://arxiv.org/abs/2505.22608)|null|
+|**2025-05-28**|**Lanczos with compression for symmetric matrix Lyapunov equations**|Angelo A. Casulli et.al.|[2505.22498](http://arxiv.org/abs/2505.22498)|null|
+|**2025-05-28**|**Synonymous Variational Inference for Perceptual Image Compression**|Zijian Liang et.al.|[2505.22438](http://arxiv.org/abs/2505.22438)|null|
+|**2025-05-28**|**Compression versus Accuracy: A Hierarchy of Lifted Models**|Jan Speller et.al.|[2505.22288](http://arxiv.org/abs/2505.22288)|null|
+|**2025-05-28**|**Thermophysical Properties and Phase Behavior of CO2 with Impurities: Insight from Molecular Simulations**|Darshan Raju et.al.|[2505.22268](http://arxiv.org/abs/2505.22268)|null|
+|**2025-05-28**|**Hadaptive-Net: Efficient Vision Models via Adaptive Cross-Hadamard Synergy**|Xuyang Zhang et.al.|[2505.22226](http://arxiv.org/abs/2505.22226)|null|
+|**2025-05-28**|**S2AFormer: Strip Self-Attention for Efficient Vision Transformer**|Guoan Xu et.al.|[2505.22195](http://arxiv.org/abs/2505.22195)|null|
+|**2025-05-28**|**Speculative Decoding Meets Quantization: Compatibility Evaluation and Hierarchical Framework Design**|Yudi Zhang et.al.|[2505.22179](http://arxiv.org/abs/2505.22179)|null|
+|**2025-05-28**|**InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing**|Shuaiyi Li et.al.|[2505.22156](http://arxiv.org/abs/2505.22156)|null|
 |**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
 |**2025-05-27**|**Cryptography from Lossy Reductions: Towards OWFs from ETH, and Beyond**|Pouria Fallahpour et.al.|[2505.21442](http://arxiv.org/abs/2505.21442)|null|
 |**2025-05-27**|**Autoencoding Random Forests**|Binh Duc Vu et.al.|[2505.21441](http://arxiv.org/abs/2505.21441)|null|
