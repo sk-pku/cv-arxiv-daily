@@ -3105,25 +3105,25 @@ layout: default
 |**2025-05-30**|**A Mathematical Framework for AI-Human Integration in Work**|L. Elisa Celis et.al.|[2505.23432](http://arxiv.org/abs/2505.23432)|null|
 |**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/abs/2505.22662)|null|
 |**2025-05-28**|**Effective and Efficient One-pass Compression of Speech Foundation Models Using Sparsity-aware Self-pinching Gates**|Haoning Xu et.al.|[2505.22608](http://arxiv.org/abs/2505.22608)|null|
-|**2025-05-28**|**Lanczos with compression for symmetric matrix Lyapunov equations**|Angelo A. Casulli et.al.|[2505.22498](http://arxiv.org/abs/2505.22498)|null|
-|**2025-05-28**|**Synonymous Variational Inference for Perceptual Image Compression**|Zijian Liang et.al.|[2505.22438](http://arxiv.org/abs/2505.22438)|null|
+|**2025-05-28**|**Lanczos with compression for symmetric matrix Lyapunov equations**|Angelo A. Casulli et.al.|[2505.22498](http://arxiv.org/abs/2505.22498)|**[link](https://github.com/fhrobat/lyap-compress)**|
+|**2025-05-28**|**Synonymous Variational Inference for Perceptual Image Compression**|Zijian Liang et.al.|[2505.22438](http://arxiv.org/abs/2505.22438)|**[link](https://github.com/ZJLiang6412/SynonymousImageCompression)**|
 |**2025-05-28**|**Compression versus Accuracy: A Hierarchy of Lifted Models**|Jan Speller et.al.|[2505.22288](http://arxiv.org/abs/2505.22288)|null|
 |**2025-05-28**|**Thermophysical Properties and Phase Behavior of CO2 with Impurities: Insight from Molecular Simulations**|Darshan Raju et.al.|[2505.22268](http://arxiv.org/abs/2505.22268)|null|
 |**2025-05-28**|**Hadaptive-Net: Efficient Vision Models via Adaptive Cross-Hadamard Synergy**|Xuyang Zhang et.al.|[2505.22226](http://arxiv.org/abs/2505.22226)|null|
 |**2025-05-28**|**S2AFormer: Strip Self-Attention for Efficient Vision Transformer**|Guoan Xu et.al.|[2505.22195](http://arxiv.org/abs/2505.22195)|null|
-|**2025-05-29**|**Speculative Decoding Meets Quantization: Compatibility Evaluation and Hierarchical Framework Design**|Yudi Zhang et.al.|[2505.22179](http://arxiv.org/abs/2505.22179)|null|
+|**2025-05-29**|**Speculative Decoding Meets Quantization: Compatibility Evaluation and Hierarchical Framework Design**|Yudi Zhang et.al.|[2505.22179](http://arxiv.org/abs/2505.22179)|**[link](https://github.com/ai9stars/specmquant)**|
 |**2025-05-28**|**InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing**|Shuaiyi Li et.al.|[2505.22156](http://arxiv.org/abs/2505.22156)|null|
-|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|**[link](https://github.com/paper2poster/paper2poster)**|
 |**2025-05-27**|**Cryptography from Lossy Reductions: Towards OWFs from ETH, and Beyond**|Pouria Fallahpour et.al.|[2505.21442](http://arxiv.org/abs/2505.21442)|null|
 |**2025-05-27**|**Autoencoding Random Forests**|Binh Duc Vu et.al.|[2505.21441](http://arxiv.org/abs/2505.21441)|null|
-|**2025-05-27**|**A Physics-Augmented GraphGPS Framework for the Reconstruction of 3D Riemann Problems from Sparse Data**|Rami Cassia et.al.|[2505.21421](http://arxiv.org/abs/2505.21421)|null|
+|**2025-05-27**|**A Physics-Augmented GraphGPS Framework for the Reconstruction of 3D Riemann Problems from Sparse Data**|Rami Cassia et.al.|[2505.21421](http://arxiv.org/abs/2505.21421)|**[link](https://github.com/RamiCassia/GraphGPS-for-Sparse-Reconstruction)**|
 |**2025-05-27**|**Dual-Wavelength Brillouin Lasers as compact Opto-Terahertz References for Low-Noise Microwave Synthesis**|Scott C. Egbert et.al.|[2505.21416](http://arxiv.org/abs/2505.21416)|null|
 |**2025-05-27**|**Graph Neural Network Aided Detection for the Multi-User Multi-Dimensional Index Modulated Uplink**|Xinyu Feng et.al.|[2505.21343](http://arxiv.org/abs/2505.21343)|null|
 |**2025-05-28**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334](http://arxiv.org/abs/2505.21334)|null|
 |**2025-05-27**|**Spectral Compression Transformer with Line Pose Graph for Monocular 3D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.21309](http://arxiv.org/abs/2505.21309)|null|
 |**2025-05-27**|**Towards One-bit ASR: Extremely Low-bit Conformer Quantization Using Co-training and Stochastic Precision**|Zhaoqing Li et.al.|[2505.21245](http://arxiv.org/abs/2505.21245)|null|
 |**2025-05-27**|**Unfolding A Few Structures for The Many: Memory-Efficient Compression of Conformer and Speech Foundation Models**|Zhaoqing Li et.al.|[2505.21237](http://arxiv.org/abs/2505.21237)|null|
-|**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|null|
+|**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|**[link](https://github.com/ymoslem/model-compression)**|
 |**2025-05-26**|**Structure and Elastic properties of Titanium MXenes: evaluation of COMB3, REAXFF and MEAM force fields**|Luis F. V. Thomazini et.al.|[2505.20169](http://arxiv.org/abs/2505.20169)|null|
 |**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155](http://arxiv.org/abs/2505.20155)|null|
 |**2025-05-26**|**Tensorization is a powerful but underexplored tool for compression and interpretability of neural networks**|Safa Hamreras et.al.|[2505.20132](http://arxiv.org/abs/2505.20132)|null|
@@ -3134,7 +3134,7 @@ layout: default
 |**2025-05-26**|**On the class of coding optimality of human languages and the origins of Zipf's law**|Ramon Ferrer-i-Cancho et.al.|[2505.20015](http://arxiv.org/abs/2505.20015)|null|
 |**2025-05-26**|**Proof Compression via Subatomic Logic and Guarded Substitutions**|Victoria Barrett et.al.|[2505.20009](http://arxiv.org/abs/2505.20009)|null|
 |**2025-05-26**|**Neutron Star Inner Crust at Finite Temperatures: A Comparison Between Compressible Liquid Drop and Extended Thomas-Fermi Approaches**|Guilherme Grams et.al.|[2505.19984](http://arxiv.org/abs/2505.19984)|null|
-|**2025-05-26**|**MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models**|Zhongzhan Huang et.al.|[2505.19959](http://arxiv.org/abs/2505.19959)|null|
+|**2025-05-26**|**MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models**|Zhongzhan Huang et.al.|[2505.19959](http://arxiv.org/abs/2505.19959)|**[link](https://github.com/milkthink-lab/minilongbench)**|
 |**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142](http://arxiv.org/abs/2505.18142)|null|
 |**2025-05-23**|**Beyond Discreteness: Finite-Sample Analysis of Straight-Through Estimator for Quantization**|Halyun Jeong et.al.|[2505.18113](http://arxiv.org/abs/2505.18113)|null|
 |**2025-05-23**|**Accelerating Learned Image Compression Through Modeling Neural Training Dynamics**|Yichi Zhang et.al.|[2505.18107](http://arxiv.org/abs/2505.18107)|null|
@@ -3156,7 +3156,7 @@ layout: default
 |**2025-05-22**|**TRIM: Achieving Extreme Sparsity with Targeted Row-wise Iterative Metric-driven Pruning**|Florentin Beck et.al.|[2505.16743](http://arxiv.org/abs/2505.16743)|**[link](https://github.com/flobk/trim)**|
 |**2025-05-22**|**Pressure dependence of the interfacial polarization and negative activation volume for dielectric relaxation in heterogeneous systems**|Anthony N. Papathanassiou et.al.|[2505.16742](http://arxiv.org/abs/2505.16742)|null|
 |**2025-05-21**|**On an Euler-Schrödinger system appearing in laser-plasma interaction**|Kuntal Bhandari et.al.|[2505.15815](http://arxiv.org/abs/2505.15815)|null|
-|**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|null|
+|**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|**[link](https://github.com/Xnhyacinth/HyCo2)**|
 |**2025-05-21**|**An Efficient Data Structure and Algorithm for Long-Match Query in Run-Length Compressed BWT**|Ahsan Sanaullah et.al.|[2505.15698](http://arxiv.org/abs/2505.15698)|null|
 |**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|**[link](https://github.com/TAP-LLM/SplitFedLLM)**|
 |**2025-05-21**|**Segmentation-Variant Codebooks for Preservation of Paralinguistic and Prosodic Information**|Nicholas Sanders et.al.|[2505.15667](http://arxiv.org/abs/2505.15667)|null|
@@ -3298,7 +3298,7 @@ layout: default
 |**2025-05-01**|**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**|Jushi Kai et.al.|[2505.00570](http://arxiv.org/abs/2505.00570)|null|
 |**2025-05-01**|**Error Exponents for Oblivious Relaying and Connections to Source Coding with a Helper**|Han Wu et.al.|[2505.00567](http://arxiv.org/abs/2505.00567)|null|
 |**2025-05-01**|**CORSTITCH - A free, open source software for stitching and georeferencing underwater coral reef videos**|Julian Christopher L. Maya et.al.|[2505.00462](http://arxiv.org/abs/2505.00462)|null|
-|**2025-05-01**|**Multi-dimensional optical imaging on a chip**|Liheng Bian et.al.|[2505.00408](http://arxiv.org/abs/2505.00408)|null|
+|**2025-05-01**|**Multi-dimensional optical imaging on a chip**|Liheng Bian et.al.|[2505.00408](http://arxiv.org/abs/2505.00408)|**[link](https://github.com/bianlab/MOCI)**|
 |**2025-05-01**|**From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**|Jie Yang et.al.|[2505.00364](http://arxiv.org/abs/2505.00364)|null|
 |**2025-05-01**|**Non-reciprocal anti-aligning active mixtures: deriving the exact Boltzmann collision operator**|Jakob Mihatsch et.al.|[2505.00357](http://arxiv.org/abs/2505.00357)|null|
 |**2025-05-01**|**Optimizing Deep Neural Networks using Safety-Guided Self Compression**|Mohammad Zbeeb et.al.|[2505.00350](http://arxiv.org/abs/2505.00350)|**[link](https://github.com/Moe-Zbeeb/Optimizing-Deep-Neural-Networks-via-Safety-Guided-Self-Compression)**|
