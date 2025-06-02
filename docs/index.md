@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
+|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796](http://arxiv.org/abs/2505.24796)|null|
+|**2025-05-30**|**Knockoff-Guided Compressive Sensing: A Statistical Machine Learning Framework for Support-Assured Signal Recovery**|Xiaochen Zhang et.al.|[2505.24727](http://arxiv.org/abs/2505.24727)|null|
+|**2025-05-30**|**Likelihoods for Stochastic Gravitational Wave Background Data Analysis**|Gabriele Franciolini et.al.|[2505.24695](http://arxiv.org/abs/2505.24695)|null|
+|**2025-05-30**|**BPE Stays on SCRIPT: Structured Encoding for Robust Multilingual Pretokenization**|Sander Land et.al.|[2505.24689](http://arxiv.org/abs/2505.24689)|null|
+|**2025-05-30**|**A Simple Linear Patch Revives Layer-Pruned Large Language Models**|Xinrui Chen et.al.|[2505.24680](http://arxiv.org/abs/2505.24680)|null|
+|**2025-05-30**|**Minimizing Ray Tracing Memory Traffic through Quantized Structures and Ray Stream Tracing**|Moritz Grauer et.al.|[2505.24653](http://arxiv.org/abs/2505.24653)|null|
+|**2025-05-30**|**Robust Distributed Phase Retrieval for Multi-View Compressive Networked Sensing With Outliers**|Ming-Hsun Yang et.al.|[2505.24651](http://arxiv.org/abs/2505.24651)|null|
+|**2025-05-30**|**A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings**|Xiaoang Xu et.al.|[2505.24550](http://arxiv.org/abs/2505.24550)|null|
+|**2025-05-30**|**Strain-induced manipulation of non-collinear antiferromagnets**|Mithuss Tharmalingam et.al.|[2505.24520](http://arxiv.org/abs/2505.24520)|null|
 |**2025-05-29**|**REOrdering Patches Improves Vision Models**|Declan Kutscher et.al.|[2505.23751](http://arxiv.org/abs/2505.23751)|null|
 |**2025-05-30**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734](http://arxiv.org/abs/2505.23734)|**[link](https://github.com/ziplab/ZPressor)**|
 |**2025-05-29**|**PixelThink: Towards Efficient Chain-of-Pixel Reasoning**|Song Wang et.al.|[2505.23727](http://arxiv.org/abs/2505.23727)|null|
