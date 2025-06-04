@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Beyond Text Compression: Evaluating Tokenizers Across Scales**|Jonas F. Lotz et.al.|[2506.03101](http://arxiv.org/abs/2506.03101)|null|
+|**2025-06-03**|**Accuracy and scalability of asynchronous compressible flow solver for transitional flows**|Aswin Kumar Arumugam et.al.|[2506.03027](http://arxiv.org/abs/2506.03027)|null|
+|**2025-06-03**|**QKV Projections Require a Fraction of Their Memory**|Malik Khalaf et.al.|[2506.02939](http://arxiv.org/abs/2506.02939)|null|
+|**2025-06-03**|**Distributed Retraction-Free and Communication-Efficient Optimization on the Stiefel Manifold**|Yilong Song et.al.|[2506.02879](http://arxiv.org/abs/2506.02879)|null|
+|**2025-06-03**|**METok: Multi-Stage Event-based Token Compression for Efficient Long Video Understanding**|Mengyue Wang et.al.|[2506.02850](http://arxiv.org/abs/2506.02850)|null|
+|**2025-06-03**|**ProcrustesGPT: Compressing LLMs with Structured Matrices and Orthogonal Transformations**|Ekaterina Grishina et.al.|[2506.02818](http://arxiv.org/abs/2506.02818)|null|
+|**2025-06-03**|**Learning to crawl: benefits and limits of centralized vs distributed control**|Luca Gagliardi et.al.|[2506.02766](http://arxiv.org/abs/2506.02766)|null|
+|**2025-06-03**|**An Exploratory Framework for Future SETI Applications: Detecting Generative Reactivity via Language Models**|Po-Chieh Yu et.al.|[2506.02730](http://arxiv.org/abs/2506.02730)|null|
+|**2025-06-03**|**ToothForge: Automatic Dental Shape Generation using Synchronized Spectral Embeddings**|Tibor Kubík et.al.|[2506.02702](http://arxiv.org/abs/2506.02702)|null|
+|**2025-06-03**|**TL;DR: Too Long, Do Re-weighting for Effcient LLM Reasoning Compression**|Zhong-Zhi Li et.al.|[2506.02678](http://arxiv.org/abs/2506.02678)|null|
 |**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
 |**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796](http://arxiv.org/abs/2505.24796)|null|
 |**2025-05-30**|**Knockoff-Guided Compressive Sensing: A Statistical Machine Learning Framework for Support-Assured Signal Recovery**|Xiaochen Zhang et.al.|[2505.24727](http://arxiv.org/abs/2505.24727)|null|
