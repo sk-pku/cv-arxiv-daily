@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Studying mirror acceleration via kinetic simulations of relativistic plasma turbulence**|Saikat Das et.al.|[2506.04212](http://arxiv.org/abs/2506.04212)|null|
+|**2025-06-04**|**Rounding error analysis of randomized CholeskyQR2 for sparse matrices**|Haoran Guan et.al.|[2506.04208](http://arxiv.org/abs/2506.04208)|null|
+|**2025-06-04**|**Entanglement renormalization circuits for $2d$ Gaussian Fermion States**|Sing Lam Wong et.al.|[2506.04200](http://arxiv.org/abs/2506.04200)|null|
+|**2025-06-04**|**FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting**|Hengyu Liu et.al.|[2506.04174](http://arxiv.org/abs/2506.04174)|null|
+|**2025-06-04**|**A robust matrix-free approach for large-scale non-isothermal high-contrast viscosity Stokes flow on blended domains with applications to geophysics**|Andreas Burkhart et.al.|[2506.04157](http://arxiv.org/abs/2506.04157)|null|
+|**2025-06-04**|**Model Splitting Enhanced Communication-Efficient Federated Learning for CSI Feedback**|Yanjie Dong et.al.|[2506.04113](http://arxiv.org/abs/2506.04113)|null|
+|**2025-06-04**|**Global convergence rates in the relaxation limits for the compressible Euler and Euler-Maxwell systems in Sobolev spaces**|Timothée Crin-Barat et.al.|[2506.04103](http://arxiv.org/abs/2506.04103)|null|
+|**2025-06-04**|**Laser-plasma acceleration in a conical plasma channel with longitudinally inhomogeneous plasma profile**|D. S. Bondar et.al.|[2506.04021](http://arxiv.org/abs/2506.04021)|null|
+|**2025-06-04**|**Experimental and simulative study on laser irradiation of 3D-printed micro-structures at intensities relevant for inertial confinement fusion**|M. Cipriani et.al.|[2506.04017](http://arxiv.org/abs/2506.04017)|null|
+|**2025-06-04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|Lianfeng Shi et.al.|[2506.03996](http://arxiv.org/abs/2506.03996)|null|
 |**2025-06-03**|**Beyond Text Compression: Evaluating Tokenizers Across Scales**|Jonas F. Lotz et.al.|[2506.03101](http://arxiv.org/abs/2506.03101)|null|
 |**2025-06-03**|**Accuracy and scalability of asynchronous compressible flow solver for transitional flows**|Aswin Kumar Arumugam et.al.|[2506.03027](http://arxiv.org/abs/2506.03027)|null|
 |**2025-06-03**|**QKV Projections Require a Fraction of Their Memory**|Malik Khalaf et.al.|[2506.02939](http://arxiv.org/abs/2506.02939)|null|
