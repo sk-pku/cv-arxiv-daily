@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/abs/2506.05345)|null|
+|**2025-06-05**|**AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model**|Pingyu Wu et.al.|[2506.05289](http://arxiv.org/abs/2506.05289)|null|
+|**2025-06-05**|**Tight analyses of first-order methods with error feedback**|Daniel Berg Thomsen et.al.|[2506.05271](http://arxiv.org/abs/2506.05271)|null|
+|**2025-06-05**|**MokA: Multimodal Low-Rank Adaptation for MLLMs**|Yake Wei et.al.|[2506.05191](http://arxiv.org/abs/2506.05191)|null|
+|**2025-06-05**|**ECoRAG: Evidentiality-guided Compression for Long Context RAG**|Yeonseok Jeong et.al.|[2506.05167](http://arxiv.org/abs/2506.05167)|null|
+|**2025-06-05**|**Effects of lower floating-point precision on scale-resolving numerical simulations of turbulence**|Martin Karp et.al.|[2506.05150](http://arxiv.org/abs/2506.05150)|null|
+|**2025-06-05**|**Learning Balanced Field Summaries of the Large-Scale Structure with the Neural Field Scattering Transform**|Matthew Craigie et.al.|[2506.05090](http://arxiv.org/abs/2506.05090)|null|
+|**2025-06-05**|**Hybrid between biologically inspired and quantum inspired many-body states**|Miha Srdinšek et.al.|[2506.05050](http://arxiv.org/abs/2506.05050)|null|
+|**2025-06-05**|**Compressing Hypergraphs using Suffix Sorting**|Enno Adler et.al.|[2506.05023](http://arxiv.org/abs/2506.05023)|null|
+|**2025-06-05**|**Robustness as Architecture: Designing IQA Models to Withstand Adversarial Perturbations**|Igor Meleshin et.al.|[2506.04951](http://arxiv.org/abs/2506.04951)|null|
 |**2025-06-04**|**Studying mirror acceleration via kinetic simulations of relativistic plasma turbulence**|Saikat Das et.al.|[2506.04212](http://arxiv.org/abs/2506.04212)|null|
 |**2025-06-04**|**Rounding error analysis of randomized CholeskyQR2 for sparse matrices**|Haoran Guan et.al.|[2506.04208](http://arxiv.org/abs/2506.04208)|null|
 |**2025-06-04**|**Entanglement renormalization circuits for $2d$ Gaussian Fermion States**|Sing Lam Wong et.al.|[2506.04200](http://arxiv.org/abs/2506.04200)|null|
