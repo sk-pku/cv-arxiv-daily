@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Physics-Informed Neural Networks for Control of Single-Phase Flow Systems Governed by Partial Differential Equations**|Luis Kin Miyatake et.al.|[2506.06188](http://arxiv.org/abs/2506.06188)|null|
+|**2025-06-06**|**ENMA: Tokenwise Autoregression for Generative Neural PDE Operators**|Armand Kassaï Koupaï et.al.|[2506.06158](http://arxiv.org/abs/2506.06158)|null|
+|**2025-06-09**|**Text-to-LoRA: Instant Transformer Adaption**|Rujikorn Charakorn et.al.|[2506.06105](http://arxiv.org/abs/2506.06105)|null|
+|**2025-06-06**|**Compression of executable QR codes or sQRy for Industry: an example for Wi-Fi access points**|Stefano Scanzio et.al.|[2506.06100](http://arxiv.org/abs/2506.06100)|null|
+|**2025-06-06**|**Direct Integration of Recursive Gaussian Process Regression Into Extended Kalman Filters With Application to Vapor Compression Cycle Control**|Ricus Husmann et.al.|[2506.06065](http://arxiv.org/abs/2506.06065)|null|
+|**2025-06-06**|**Hardware Accelerated Neural Block Texture Compression with Cooperative Vectors**|Belcour Laurent et.al.|[2506.06040](http://arxiv.org/abs/2506.06040)|null|
+|**2025-06-06**|**The JPEG XL Image Coding System: History, Features, Coding Tools, Design Rationale, and Future**|Jon Sneyers et.al.|[2506.05987](http://arxiv.org/abs/2506.05987)|null|
+|**2025-06-09**|**AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models**|Adil Hasan et.al.|[2506.05960](http://arxiv.org/abs/2506.05960)|null|
+|**2025-06-06**|**Simulation-based inference with neural posterior estimation applied to X-ray spectral fitting II -- High-resolution spectroscopy with the X-ray Integral Field Unit**|Simon Dupourqué et.al.|[2506.05911](http://arxiv.org/abs/2506.05911)|null|
+|**2025-06-09**|**Heartcare Suite: Multi-dimensional Understanding of ECG with Raw Multi-lead Signal Modeling**|Yihan Xie et.al.|[2506.05831](http://arxiv.org/abs/2506.05831)|null|
 |**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/abs/2506.05345)|null|
 |**2025-06-05**|**AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model**|Pingyu Wu et.al.|[2506.05289](http://arxiv.org/abs/2506.05289)|null|
 |**2025-06-05**|**Tight analyses of first-order methods with error feedback**|Daniel Berg Thomsen et.al.|[2506.05271](http://arxiv.org/abs/2506.05271)|null|
