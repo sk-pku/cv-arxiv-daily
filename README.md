@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**InfoDPCCA: Information-Theoretic Dynamic Probabilistic Canonical Correlation Analysis**|Shiqin Tang et.al.|[2506.08884](http://arxiv.org/abs/2506.08884)|null|
+|**2025-06-10**|**Strain dependent viscous response describes the mechanics of cohesionless soft granular materials**|Chandan Shakya et.al.|[2506.08855](http://arxiv.org/abs/2506.08855)|null|
+|**2025-06-10**|**STI-SNN: A 0.14 GOPS/W/PE Single-Timestep Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et.al.|[2506.08842](http://arxiv.org/abs/2506.08842)|null|
+|**2025-06-10**|**Atomic to mesoscale hierarchical structures and magnetic states in an anisotropic layered ferromagnet FePd2Te2**|Shuo Mi et.al.|[2506.08773](http://arxiv.org/abs/2506.08773)|null|
+|**2025-06-10**|**Brevity is the soul of sustainability: Characterizing LLM response lengths**|Soham Poddar et.al.|[2506.08686](http://arxiv.org/abs/2506.08686)|null|
+|**2025-06-10**|**sparseGeoHOPCA: A Geometric Solution to Sparse Higher-Order PCA Without Covariance Estimation**|Renjie Xu et.al.|[2506.08670](http://arxiv.org/abs/2506.08670)|null|
+|**2025-06-10**|**Optimizing Learned Image Compression on Scalar and Entropy-Constraint Quantization**|Florian Borzechowski et.al.|[2506.08662](http://arxiv.org/abs/2506.08662)|null|
+|**2025-06-10**|**Extended Spherical Geometry Algorithm for Spaceborne SAR Processing in Stripmap and TOPS Imaging Modes**|Xinhua Mao et.al.|[2506.08620](http://arxiv.org/abs/2506.08620)|null|
+|**2025-06-10**|**Diversity-Guided MLP Reduction for Efficient Large Vision Transformers**|Chengchao Shen et.al.|[2506.08591](http://arxiv.org/abs/2506.08591)|**[link](https://github.com/visresearch/DGMR)**|
+|**2025-06-10**|**Averaged models for compressible two-phase stratified flows on thin domains**|Nicolas Seguin et.al.|[2506.08542](http://arxiv.org/abs/2506.08542)|null|
 |**2025-06-09**|**Low-Complexity Super-Resolution Signature Estimation of XL-MIMO FMCW Radar**|Chandrashekhar Rai et.al.|[2506.07979](http://arxiv.org/abs/2506.07979)|null|
 |**2025-06-09**|**Discrete and Continuous Difference of Submodular Minimization**|George Orfanides et.al.|[2506.07952](http://arxiv.org/abs/2506.07952)|**[link](https://github.com/SamsungSAILMontreal/cont-diffsubmin)**|
 |**2025-06-09**|**Squeeze3D: Your 3D Generation Model is Secretly an Extreme Neural Compressor**|Rishit Dagli et.al.|[2506.07932](http://arxiv.org/abs/2506.07932)|null|
