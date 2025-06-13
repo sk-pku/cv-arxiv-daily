@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3098,7 +3098,7 @@ layout: default
 |**2025-06-11**|**CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects**|Tao Liu et.al.|[2506.09897](http://arxiv.org/abs/2506.09897)|null|
 |**2025-06-11**|**Guided Graph Compression for Quantum Graph Neural Networks**|Mikel Casals et.al.|[2506.09862](http://arxiv.org/abs/2506.09862)|null|
 |**2025-06-11**|**Cross-Channel Unlabeled Sensing over a Union of Signal Subspaces**|Taulant Koka et.al.|[2506.09773](http://arxiv.org/abs/2506.09773)|null|
-|**2025-06-11**|**Empirical and computer-aided robustness analysis of long-step and accelerated methods in smooth convex optimization**|Pierre Vernimmen et.al.|[2506.09730](http://arxiv.org/abs/2506.09730)|null|
+|**2025-06-12**|**Empirical and computer-aided robustness analysis of long-step and accelerated methods in smooth convex optimization**|Pierre Vernimmen et.al.|[2506.09730](http://arxiv.org/abs/2506.09730)|null|
 |**2025-06-11**|**Rock-salt ScN(113) layers grown on AlN $(11\bar{2}2)$ by plasma-assisted molecular beam epitaxy**|Duc V. Dinh et.al.|[2506.09715](http://arxiv.org/abs/2506.09715)|null|
 |**2025-06-11**|**Auto-Compressing Networks**|Vaggelis Dorovatas et.al.|[2506.09714](http://arxiv.org/abs/2506.09714)|null|
 |**2025-06-11**|**Wavelet Scattering Transform and Fourier Representation for Offline Detection of Malicious Clients in Federated Learning**|Alessandro Licciardi et.al.|[2506.09674](http://arxiv.org/abs/2506.09674)|null|
