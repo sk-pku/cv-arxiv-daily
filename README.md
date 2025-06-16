@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015](http://arxiv.org/abs/2506.12015)|null|
+|**2025-06-13**|**Engineering Fast and Space-Efficient Recompression from SLP-Compressed Text**|Ankith Reddy Adudodla et.al.|[2506.12011](http://arxiv.org/abs/2506.12011)|null|
+|**2025-06-13**|**An Efficient Compression of Deep Neural Network Checkpoints Based on Prediction and Context Modeling**|Yuriy Kim et.al.|[2506.12000](http://arxiv.org/abs/2506.12000)|null|
+|**2025-06-13**|**Compression Aware Certified Training**|Changming Xu et.al.|[2506.11992](http://arxiv.org/abs/2506.11992)|null|
+|**2025-06-13**|**Learning the Analytic Geometry of Transformations to Achieve Efficient Computation**|Pei-Chun Su et.al.|[2506.11990](http://arxiv.org/abs/2506.11990)|null|
+|**2025-06-13**|**A unified neural background-error covariance model for midlatitude and tropical atmospheric data assimilation**|Boštjan Melinc et.al.|[2506.11968](http://arxiv.org/abs/2506.11968)|null|
+|**2025-06-13**|**An approximate Riemann Solver Approach in Physics-Informed Neural Networks for hyperbolic conservation laws**|Jorge F. Urbán et.al.|[2506.11959](http://arxiv.org/abs/2506.11959)|null|
+|**2025-06-13**|**Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache**|Xiaoran Liu et.al.|[2506.11886](http://arxiv.org/abs/2506.11886)|null|
+|**2025-06-13**|**Radar Ranging Using Rydberg Atomic Homodyne Receiver**|Minze Chen et.al.|[2506.11833](http://arxiv.org/abs/2506.11833)|null|
+|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
 |**2025-06-12**|**Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence**|Eduardo Baena et.al.|[2506.10925](http://arxiv.org/abs/2506.10925)|null|
 |**2025-06-12**|**Failure modes of irregular ceramic foam under compression: Development of a new image based strut segmentation strategy**|Vinit Vijay Deshpande et.al.|[2506.10860](http://arxiv.org/abs/2506.10860)|null|
 |**2025-06-12**|**Post-Training Quantization for Video Matting**|Tianrui Zhu et.al.|[2506.10840](http://arxiv.org/abs/2506.10840)|null|
