@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3096,7 +3096,7 @@ layout: default
 |**2025-06-16**|**Attribution-guided Pruning for Compression, Circuit Discovery, and Targeted Correction in LLMs**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2506.13727](http://arxiv.org/abs/2506.13727)|null|
 |**2025-06-16**|**MambaMia: A State-Space-Model-Based Compression for Efficient Video Understanding in Large Multimodal Models**|Geewook Kim et.al.|[2506.13564](http://arxiv.org/abs/2506.13564)|null|
 |**2025-06-16**|**TensorSLM: Energy-efficient Embedding Compression of Sub-billion Parameter Language Models on Low-end Devices**|Mingxue Xu et.al.|[2506.13514](http://arxiv.org/abs/2506.13514)|null|
-|**2025-06-16**|**ROSAQ: Rotation-based Saliency-Aware Weight Quantization for Efficiently Compressing Large Language Models**|Junho Yoon et.al.|[2506.13472](http://arxiv.org/abs/2506.13472)|null|
+|**2025-06-17**|**ROSAQ: Rotation-based Saliency-Aware Weight Quantization for Efficiently Compressing Large Language Models**|Junho Yoon et.al.|[2506.13472](http://arxiv.org/abs/2506.13472)|null|
 |**2025-06-16**|**Dark Energy Survey Year 3 results: $w$ CDM cosmology from simulation-based inference with persistent homology on the sphere**|J. Prat et.al.|[2506.13439](http://arxiv.org/abs/2506.13439)|null|
 |**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419](http://arxiv.org/abs/2506.13419)|null|
 |**2025-06-16**|**Simple is what you need for efficient and accurate medical image segmentation**|Xiang Yu et.al.|[2506.13415](http://arxiv.org/abs/2506.13415)|null|
