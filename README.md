@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Optimizing Length Compression in Large Reasoning Models**|Zhengxiang Cheng et.al.|[2506.14755](http://arxiv.org/abs/2506.14755)|null|
+|**2025-06-17**|**Compressing Suffix Trees by Path Decompositions**|Ruben Becker et.al.|[2506.14734](http://arxiv.org/abs/2506.14734)|null|
+|**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728](http://arxiv.org/abs/2506.14728)|null|
+|**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710](http://arxiv.org/abs/2506.14710)|null|
+|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|null|
+|**2025-06-17**|**GenerationPrograms: Fine-grained Attribution with Executable Programs**|David Wan et.al.|[2506.14580](http://arxiv.org/abs/2506.14580)|null|
+|**2025-06-17**|**Versatile SPH Open Boundary Conditions for Multiphase Flows in Extreme Condition**|Zi-Yang Zhan et.al.|[2506.14500](http://arxiv.org/abs/2506.14500)|null|
+|**2025-06-17**|**Dataset distillation for memorized data: Soft labels can leak held-out teacher knowledge**|Freya Behrens et.al.|[2506.14457](http://arxiv.org/abs/2506.14457)|null|
+|**2025-06-17**|**Model compression using knowledge distillation with integrated gradients**|David E. Hernandez et.al.|[2506.14440](http://arxiv.org/abs/2506.14440)|null|
+|**2025-06-17**|**GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion**|Huan Kang et.al.|[2506.14384](http://arxiv.org/abs/2506.14384)|null|
 |**2025-06-16**|**Attribution-guided Pruning for Compression, Circuit Discovery, and Targeted Correction in LLMs**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2506.13727](http://arxiv.org/abs/2506.13727)|null|
 |**2025-06-16**|**MambaMia: A State-Space-Model-Based Compression for Efficient Video Understanding in Large Multimodal Models**|Geewook Kim et.al.|[2506.13564](http://arxiv.org/abs/2506.13564)|null|
 |**2025-06-16**|**TensorSLM: Energy-efficient Embedding Compression of Sub-billion Parameter Language Models on Low-end Devices**|Mingxue Xu et.al.|[2506.13514](http://arxiv.org/abs/2506.13514)|null|
