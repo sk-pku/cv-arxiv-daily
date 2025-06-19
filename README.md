@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**The Effect of State Representation on LLM Agent Behavior in Dynamic Routing Games**|Lyle Goodyear et.al.|[2506.15624](http://arxiv.org/abs/2506.15624)|null|
+|**2025-06-18**|**Further Evidence for a Direct-Collapse Origin of the Supermassive Black Hole at the Center of the Infinity Galaxy**|Pieter van Dokkum et.al.|[2506.15619](http://arxiv.org/abs/2506.15619)|null|
+|**2025-06-18**|**The Infinity Galaxy: a Candidate Direct-Collapse Supermassive Black Hole Between Two Massive, Ringed Nuclei**|Pieter van Dokkum et.al.|[2506.15618](http://arxiv.org/abs/2506.15618)|null|
+|**2025-06-18**|**The Compositional Architecture of Regret in Large Language Models**|Xiangxiang Cui et.al.|[2506.15617](http://arxiv.org/abs/2506.15617)|null|
+|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|null|
+|**2025-06-18**|**Impeding Turbulence Decay in Self-gravitating Cloud Cores**|Shibo Yuan et.al.|[2506.15476](http://arxiv.org/abs/2506.15476)|null|
+|**2025-06-18**|**Warping and Matching Subsequences Between Time Series**|Simiao Lin et.al.|[2506.15452](http://arxiv.org/abs/2506.15452)|null|
+|**2025-06-18**|**Contractive upper triangular matrices with prescribed diagonals and superdiagonals**|Axel Renard et.al.|[2506.15444](http://arxiv.org/abs/2506.15444)|null|
+|**2025-06-18**|**Golden Partition Zone: Rethinking Neural Network Partitioning Under Inversion Threats in Collaborative Inference**|Rongke Liu et.al.|[2506.15412](http://arxiv.org/abs/2506.15412)|null|
+|**2025-06-18**|**Strain-tuning for superconductivity in La $_3$Ni$_2$O$_7$ thin films**|Motoki Osada et.al.|[2506.15319](http://arxiv.org/abs/2506.15319)|null|
 |**2025-06-17**|**Optimizing Length Compression in Large Reasoning Models**|Zhengxiang Cheng et.al.|[2506.14755](http://arxiv.org/abs/2506.14755)|null|
 |**2025-06-17**|**Compressing Suffix Trees by Path Decompositions**|Ruben Becker et.al.|[2506.14734](http://arxiv.org/abs/2506.14734)|null|
 |**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728](http://arxiv.org/abs/2506.14728)|null|
