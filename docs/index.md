@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Shock formation in 1D conservation laws II: Vanishing viscosity**|John Anderson et.al.|[2506.17156](http://arxiv.org/abs/2506.17156)|null|
+|**2025-06-20**|**No Scratch Quantum Computing by Reducing Qubit Overhead for Efficient Arithmetics**|Omid Faizy et.al.|[2506.17135](http://arxiv.org/abs/2506.17135)|null|
+|**2025-06-20**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090](http://arxiv.org/abs/2506.17090)|null|
+|**2025-06-20**|**JANUS: Resilient and Adaptive Data Transmission for Enabling Timely and Efficient Cross-Facility Scientific Workflows**|Vladislav Esaulov et.al.|[2506.17084](http://arxiv.org/abs/2506.17084)|null|
+|**2025-06-20**|**RocketStack: A level-aware deep recursive ensemble learning framework with exploratory feature fusion and model pruning dynamics**|Çağatay Demirel et.al.|[2506.16965](http://arxiv.org/abs/2506.16965)|null|
+|**2025-06-20**|**LAION-C: An Out-of-Distribution Benchmark for Web-Scale Vision Models**|Fanfei Li et.al.|[2506.16950](http://arxiv.org/abs/2506.16950)|null|
+|**2025-06-20**|**Analytic Full Potential Adjoint Solution for Two-dimensional Subcritical Flows**|Carlos Lozano et.al.|[2506.16886](http://arxiv.org/abs/2506.16886)|null|
+|**2025-06-20**|**RS-Coded Adaptive Dynamic Network for Reliable Long-Term Information Transmission in Disturbed Multimode Fiber**|Yang Hu et.al.|[2506.16859](http://arxiv.org/abs/2506.16859)|null|
+|**2025-06-20**|**DistillNote: LLM-based clinical note summaries improve heart failure diagnosis**|Heloisa Oss Boll et.al.|[2506.16777](http://arxiv.org/abs/2506.16777)|null|
+|**2025-06-20**|**PQCAD-DM: Progressive Quantization and Calibration-Assisted Distillation for Extremely Efficient Diffusion Model**|Beomseok Ko et.al.|[2506.16776](http://arxiv.org/abs/2506.16776)|null|
 |**2025-06-18**|**The Effect of State Representation on LLM Agent Behavior in Dynamic Routing Games**|Lyle Goodyear et.al.|[2506.15624](http://arxiv.org/abs/2506.15624)|null|
 |**2025-06-18**|**Further Evidence for a Direct-Collapse Origin of the Supermassive Black Hole at the Center of the Infinity Galaxy**|Pieter van Dokkum et.al.|[2506.15619](http://arxiv.org/abs/2506.15619)|null|
 |**2025-06-18**|**The Infinity Galaxy: a Candidate Direct-Collapse Supermassive Black Hole Between Two Massive, Ringed Nuclei**|Pieter van Dokkum et.al.|[2506.15618](http://arxiv.org/abs/2506.15618)|null|
