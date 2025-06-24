@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3095,7 +3095,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-20**|**Shock formation in 1D conservation laws II: Vanishing viscosity**|John Anderson et.al.|[2506.17156](http://arxiv.org/abs/2506.17156)|null|
 |**2025-06-20**|**No Scratch Quantum Computing by Reducing Qubit Overhead for Efficient Arithmetics**|Omid Faizy et.al.|[2506.17135](http://arxiv.org/abs/2506.17135)|null|
-|**2025-06-20**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090](http://arxiv.org/abs/2506.17090)|null|
+|**2025-06-23**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090](http://arxiv.org/abs/2506.17090)|null|
 |**2025-06-20**|**JANUS: Resilient and Adaptive Data Transmission for Enabling Timely and Efficient Cross-Facility Scientific Workflows**|Vladislav Esaulov et.al.|[2506.17084](http://arxiv.org/abs/2506.17084)|null|
 |**2025-06-20**|**RocketStack: A level-aware deep recursive ensemble learning framework with exploratory feature fusion and model pruning dynamics**|Çağatay Demirel et.al.|[2506.16965](http://arxiv.org/abs/2506.16965)|null|
 |**2025-06-20**|**LAION-C: An Out-of-Distribution Benchmark for Web-Scale Vision Models**|Fanfei Li et.al.|[2506.16950](http://arxiv.org/abs/2506.16950)|null|
