@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**On the computation of tensor functions under tensor-tensor multiplications with linear maps**|Jeong-Hoon Ju et.al.|[2506.18713](http://arxiv.org/abs/2506.18713)|null|
+|**2025-06-23**|**RL-Driven Semantic Compression Model Selection and Resource Allocation in Semantic Communication Systems**|Xinyi Lin et.al.|[2506.18660](http://arxiv.org/abs/2506.18660)|null|
+|**2025-06-23**|**Spectra and invariant subspaces of compressed shifts on nearly invariant subspaces**|Y. Liang et.al.|[2506.18646](http://arxiv.org/abs/2506.18646)|null|
+|**2025-06-23**|**ByteSpan: Information-Driven Subword Tokenisation**|Zébulon Goriely et.al.|[2506.18639](http://arxiv.org/abs/2506.18639)|null|
+|**2025-06-23**|**Efficient and Generalizable Speaker Diarization via Structured Pruning of Self-Supervised Models**|Jiangyu Han et.al.|[2506.18623](http://arxiv.org/abs/2506.18623)|null|
+|**2025-06-23**|**Normality Prior Guided Multi-Semantic Fusion Network for Unsupervised Image Anomaly Detection**|Muhao Xu et.al.|[2506.18544](http://arxiv.org/abs/2506.18544)|null|
+|**2025-06-23**|**Compression Maps Between Polytopes**|José Ayala et.al.|[2506.18534](http://arxiv.org/abs/2506.18534)|null|
+|**2025-06-23**|**Biased Teacher, Balanced Student**|Seonghak Kim et.al.|[2506.18496](http://arxiv.org/abs/2506.18496)|null|
+|**2025-06-23**|**A Large Language Model-based Multi-Agent Framework for Analog Circuits' Sizing Relationships Extraction**|Chengjie Liu et.al.|[2506.18424](http://arxiv.org/abs/2506.18424)|null|
 |**2025-06-20**|**Shock formation in 1D conservation laws II: Vanishing viscosity**|John Anderson et.al.|[2506.17156](http://arxiv.org/abs/2506.17156)|null|
 |**2025-06-20**|**No Scratch Quantum Computing by Reducing Qubit Overhead for Efficient Arithmetics**|Omid Faizy et.al.|[2506.17135](http://arxiv.org/abs/2506.17135)|null|
 |**2025-06-23**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090](http://arxiv.org/abs/2506.17090)|null|
