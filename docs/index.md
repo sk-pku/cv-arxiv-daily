@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Non-Gaussian statistics in galaxy weak lensing: compressed three-point correlations and cosmological forecasts**|Sofia Samario-Nava et.al.|[2506.19811](http://arxiv.org/abs/2506.19811)|null|
+|**2025-06-24**|**Ambiguous Online Learning**|Vanessa Kosoy et.al.|[2506.19810](http://arxiv.org/abs/2506.19810)|null|
+|**2025-06-24**|**Singular limits of anisotropic weak solutions to compressible magnetohydrodynamics**|Nicolas Besse et.al.|[2506.19784](http://arxiv.org/abs/2506.19784)|null|
+|**2025-06-24**|**Who Does What in Deep Learning? Multidimensional Game-Theoretic Attribution of Function of Neural Units**|Shrey Dixit et.al.|[2506.19732](http://arxiv.org/abs/2506.19732)|null|
+|**2025-06-24**|**Characterizing quantum resourcefulness via group-Fourier decompositions**|Pablo Bermejo et.al.|[2506.19696](http://arxiv.org/abs/2506.19696)|null|
+|**2025-06-24**|**Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation**|Yuanhe Tian et.al.|[2506.19665](http://arxiv.org/abs/2506.19665)|null|
+|**2025-06-24**|**Video Compression for Spatiotemporal Earth System Data**|Oscar J. Pellicer-Valero et.al.|[2506.19656](http://arxiv.org/abs/2506.19656)|null|
+|**2025-06-24**|**RCStat: A Statistical Framework for using Relative Contextualization in Transformers**|Debabrata Mahapatra et.al.|[2506.19549](http://arxiv.org/abs/2506.19549)|null|
+|**2025-06-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al.|[2506.19505](http://arxiv.org/abs/2506.19505)|null|
+|**2025-06-24**|**Is Long-to-Short a Free Lunch? Investigating Inconsistency and Reasoning Efficiency in LRMs**|Shu Yang et.al.|[2506.19492](http://arxiv.org/abs/2506.19492)|null|
 |**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
 |**2025-06-23**|**On the computation of tensor functions under tensor-tensor multiplications with linear maps**|Jeong-Hoon Ju et.al.|[2506.18713](http://arxiv.org/abs/2506.18713)|null|
 |**2025-06-23**|**RL-Driven Semantic Compression Model Selection and Resource Allocation in Semantic Communication Systems**|Xinyi Lin et.al.|[2506.18660](http://arxiv.org/abs/2506.18660)|null|
