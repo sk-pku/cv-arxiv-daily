@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Experimental demonstration of high compression of space by optical spaceplates**|Ryan Hogan et.al.|[2506.20647](http://arxiv.org/abs/2506.20647)|null|
+|**2025-06-25**|**Communication-Aware Map Compression for Online Path-Planning: A Rate-Distortion Approach**|Ali Reza Pedram et.al.|[2506.20579](http://arxiv.org/abs/2506.20579)|null|
+|**2025-06-25**|**Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks**|Manyi Li et.al.|[2506.20548](http://arxiv.org/abs/2506.20548)|null|
+|**2025-06-25**|**Detectors and Electronics for the CBM experiment at FAIR**|Maksym Teklishyn et.al.|[2506.20545](http://arxiv.org/abs/2506.20545)|null|
+|**2025-06-25**|**Rabi oscillations with close-range quantum vortex states**|Sam Patrick et.al.|[2506.20482](http://arxiv.org/abs/2506.20482)|null|
+|**2025-06-25**|**GPTailor: Large Language Model Pruning Through Layer Cutting and Stitching**|Guinan Su et.al.|[2506.20480](http://arxiv.org/abs/2506.20480)|null|
+|**2025-06-25**|**Phonon spectra and vibrational heat capacity of quasi-one-dimensional structures formed by rare gas atoms on the surface of carbon nanotube bundles**|E. V. Manzhelii et.al.|[2506.20460](http://arxiv.org/abs/2506.20460)|null|
+|**2025-06-25**|**MHD simulation of tilt instability during the dynamic FRC magnetic compression process**|Yiming Ma et.al.|[2506.20443](http://arxiv.org/abs/2506.20443)|null|
+|**2025-06-25**|**DipSVD: Dual-importance Protected SVD for Efficient LLM Compression**|Xuan Ding et.al.|[2506.20353](http://arxiv.org/abs/2506.20353)|null|
+|**2025-06-25**|**EAGLE: An Efficient Global Attention Lesion Segmentation Model for Hepatic Echinococcosis**|Jiayan Chen et.al.|[2506.20333](http://arxiv.org/abs/2506.20333)|null|
 |**2025-06-24**|**Non-Gaussian statistics in galaxy weak lensing: compressed three-point correlations and cosmological forecasts**|Sofia Samario-Nava et.al.|[2506.19811](http://arxiv.org/abs/2506.19811)|null|
 |**2025-06-24**|**Ambiguous Online Learning**|Vanessa Kosoy et.al.|[2506.19810](http://arxiv.org/abs/2506.19810)|null|
 |**2025-06-24**|**Singular limits of anisotropic weak solutions to compressible magnetohydrodynamics**|Nicolas Besse et.al.|[2506.19784](http://arxiv.org/abs/2506.19784)|null|
