@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Optimal superconductivity near a Lifshitz transition in strained (La,Pr) $_3$Ni$_2$O$_7$**|Siheon Ryee et.al.|[2506.21480](http://arxiv.org/abs/2506.21480)|null|
+|**2025-06-26**|**Succinct Preferential Attachment Graphs**|Ziad Ismaili Alaoui et.al.|[2506.21436](http://arxiv.org/abs/2506.21436)|null|
+|**2025-06-26**|**Hamiltonian formulation of the quasineutral Vlasov-Poisson system**|J. W. Burby et.al.|[2506.21415](http://arxiv.org/abs/2506.21415)|null|
+|**2025-06-26**|**Lower Bounds on Relative Error Quantum Compression and Classical Shadows**|Kaushik Sankar et.al.|[2506.21345](http://arxiv.org/abs/2506.21345)|null|
+|**2025-06-26**|**Constraint on Momentum-coupled Dark Energy using DESI DR2**|Prasanta Sahoo et.al.|[2506.21295](http://arxiv.org/abs/2506.21295)|null|
+|**2025-06-26**|**DiLoCoX: A Low-Communication Large-Scale Training Framework for Decentralized Cluster**|Ji Qi et.al.|[2506.21263](http://arxiv.org/abs/2506.21263)|null|
+|**2025-06-26**|**Task-Aware KV Compression For Cost-Effective Long Video Understanding**|Minghao Qin et.al.|[2506.21184](http://arxiv.org/abs/2506.21184)|null|
+|**2025-06-26**|**Uncover Treasures in DCT: Advancing JPEG Quality Enhancement by Exploiting Latent Correlations**|Jing Yang et.al.|[2506.21171](http://arxiv.org/abs/2506.21171)|null|
+|**2025-06-26**|**Compressed and Smooth Latent Space for Text Diffusion Modeling**|Viacheslav Meshchaninov et.al.|[2506.21170](http://arxiv.org/abs/2506.21170)|null|
+|**2025-06-26**|**Linearity-based neural network compression**|Silas Dobler et.al.|[2506.21146](http://arxiv.org/abs/2506.21146)|null|
 |**2025-06-25**|**Experimental demonstration of high compression of space by optical spaceplates**|Ryan Hogan et.al.|[2506.20647](http://arxiv.org/abs/2506.20647)|null|
 |**2025-06-25**|**Communication-Aware Map Compression for Online Path-Planning: A Rate-Distortion Approach**|Ali Reza Pedram et.al.|[2506.20579](http://arxiv.org/abs/2506.20579)|null|
 |**2025-06-25**|**Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks**|Manyi Li et.al.|[2506.20548](http://arxiv.org/abs/2506.20548)|null|
