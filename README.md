@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Physics-Informed Neural Networks: Bridging the Divide Between Conservative and Non-Conservative Equations**|Arun Govind Neelan et.al.|[2506.22413](http://arxiv.org/abs/2506.22413)|null|
+|**2025-06-27**|**HLTCOE at LiveRAG: GPT-Researcher using ColBERT retrieval**|Kevin Duh et.al.|[2506.22356](http://arxiv.org/abs/2506.22356)|null|
+|**2025-06-27**|**Projected Compression: Trainable Projection for Efficient Transformer Compression**|Maciej Stefaniak et.al.|[2506.22255](http://arxiv.org/abs/2506.22255)|null|
+|**2025-06-27**|**Two types of compressible isotropic neo-Hookean material models**|Sergey N. Korobeynikov et.al.|[2506.22244](http://arxiv.org/abs/2506.22244)|null|
+|**2025-06-27**|**Global regularity and incompressible limit of 2D compressible Navier-Stokes equations with large bulk viscosity**|Shengquan Liu et.al.|[2506.22235](http://arxiv.org/abs/2506.22235)|null|
+|**2025-06-27**|**dreaMLearning: Data Compression Assisted Machine Learning**|Xiaobo Zhao et.al.|[2506.22190](http://arxiv.org/abs/2506.22190)|null|
+|**2025-06-27**|**MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**|Dechao Meng et.al.|[2506.22065](http://arxiv.org/abs/2506.22065)|null|
+|**2025-06-27**|**Towards Universal & Efficient Model Compression via Exponential Torque Pruning**|Sarthak Ketanbhai Modi et.al.|[2506.22015](http://arxiv.org/abs/2506.22015)|null|
+|**2025-06-27**|**Generation of high power spatially-structured laser pulses via forward Raman amplification in plasma**|Zhi-Yu Lei et.al.|[2506.21979](http://arxiv.org/abs/2506.21979)|null|
+|**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
 |**2025-06-26**|**Optimal superconductivity near a Lifshitz transition in strained (La,Pr) $_3$Ni$_2$O$_7$**|Siheon Ryee et.al.|[2506.21480](http://arxiv.org/abs/2506.21480)|null|
 |**2025-06-26**|**Succinct Preferential Attachment Graphs**|Ziad Ismaili Alaoui et.al.|[2506.21436](http://arxiv.org/abs/2506.21436)|null|
 |**2025-06-26**|**Hamiltonian formulation of the quasineutral Vlasov-Poisson system**|J. W. Burby et.al.|[2506.21415](http://arxiv.org/abs/2506.21415)|null|
