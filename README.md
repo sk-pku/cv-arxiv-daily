@@ -3178,8 +3178,8 @@
 |**2025-06-17**|**Compressing Suffix Trees by Path Decompositions**|Ruben Becker et.al.|[2506.14734](http://arxiv.org/abs/2506.14734)|null|
 |**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728](http://arxiv.org/abs/2506.14728)|null|
 |**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710](http://arxiv.org/abs/2506.14710)|null|
-|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|null|
-|**2025-06-17**|**GenerationPrograms: Fine-grained Attribution with Executable Programs**|David Wan et.al.|[2506.14580](http://arxiv.org/abs/2506.14580)|null|
+|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|**[link](https://github.com/yukexing/3dgs-ieval-15k)**|
+|**2025-06-17**|**GenerationPrograms: Fine-grained Attribution with Executable Programs**|David Wan et.al.|[2506.14580](http://arxiv.org/abs/2506.14580)|**[link](https://github.com/meetdavidwan/generationprograms)**|
 |**2025-06-17**|**Versatile SPH Open Boundary Conditions for Multiphase Flows in Extreme Condition**|Zi-Yang Zhan et.al.|[2506.14500](http://arxiv.org/abs/2506.14500)|null|
 |**2025-06-17**|**Dataset distillation for memorized data: Soft labels can leak held-out teacher knowledge**|Freya Behrens et.al.|[2506.14457](http://arxiv.org/abs/2506.14457)|**[link](https://github.com/spoc-group/dataset-distillation-memorization)**|
 |**2025-06-17**|**Model compression using knowledge distillation with integrated gradients**|David E. Hernandez et.al.|[2506.14440](http://arxiv.org/abs/2506.14440)|null|
@@ -4856,7 +4856,7 @@
 |**2024-10-07**|**Extended Functional Representation Lemma: A Tool For Privacy, Semantic Representation, Caching, and Compression Design**|Amirreza Zamani et.al.|[2410.05033](http://arxiv.org/abs/2410.05033)|null|
 |**2024-10-07**|**Next state prediction gives rise to entangled, yet compositional representations of objects**|Tankred Saanum et.al.|[2410.04940](http://arxiv.org/abs/2410.04940)|null|
 |**2024-10-07**|**Causal Context Adjustment Loss for Learned Image Compression**|Minghao Han et.al.|[2410.04847](http://arxiv.org/abs/2410.04847)|**[link](https://github.com/LabShuHangGU/CCA)**|
-|**2024-10-07**|**Real-time cardiac cine MRI -- A comparison of a diffusion probabilistic model with alternative state-of-the-art image reconstruction techniques for undersampled spiral acquisitions**|Oliver Schad et.al.|[2410.04843](http://arxiv.org/abs/2410.04843)|null|
+|**2024-10-07**|**Real-time cardiac cine MRI -- A comparison of a diffusion probabilistic model with alternative state-of-the-art image reconstruction techniques for undersampled spiral acquisitions**|Oliver Schad et.al.|[2410.04843](http://arxiv.org/abs/2410.04843)|**[link](https://github.com/exprad/diffusion)**|
 |**2024-10-04**|**Compressing multivariate functions with tree tensor networks**|Joseph Tindall et.al.|[2410.03572](http://arxiv.org/abs/2410.03572)|null|
 |**2024-10-04**|**Polymorphism of monatomic iodine**|Alexander F. Goncharov et.al.|[2410.03468](http://arxiv.org/abs/2410.03468)|null|
 |**2024-10-04**|**Self-supervised Spatio-Temporal Graph Mask-Passing Attention Network for Perceptual Importance Prediction of Multi-point Tactility**|Dazhong He et.al.|[2410.03434](http://arxiv.org/abs/2410.03434)|null|
