@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
+|**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125](http://arxiv.org/abs/2506.24125)|null|
+|**2025-06-30**|**Exact Distributions for the Solutions of the Compressible Viscous Navier Stokes Differential Equations: An Application in the Aeronautical Industry**|Rensley A. Meulens et.al.|[2506.23932](http://arxiv.org/abs/2506.23932)|null|
+|**2025-06-30**|**Segmented Operations using Matrix Multiplications**|Aleksandros Sobczyk et.al.|[2506.23906](http://arxiv.org/abs/2506.23906)|null|
+|**2025-06-30**|**Nonlinearity exponential stability for Lions-Feireisl's weak solutions to the three-dimensional Barotropic Compressible Navier-Stokes Equations with large Potential Force**|Lingping Kang et.al.|[2506.23807](http://arxiv.org/abs/2506.23807)|null|
+|**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
+|**2025-06-30**|**Efficient Interleaved Speech Modeling through Knowledge Distillation**|Mohammadmahdi Nouriborji et.al.|[2506.23670](http://arxiv.org/abs/2506.23670)|null|
+|**2025-06-30**|**TurboVSR: Fantastic Video Upscalers and Where to Find Them**|Zhongdao Wang et.al.|[2506.23618](http://arxiv.org/abs/2506.23618)|null|
+|**2025-06-30**|**Three-dimensional structural stability of shock waves in elastodynamics**|Artem Shafeev et.al.|[2506.23572](http://arxiv.org/abs/2506.23572)|null|
+|**2025-06-30**|**A Fast and Accurate 3-D Reconstruction Algorithm for Near-Range Microwave Imaging with Handheld Synthetic Aperture Radar**|Lei Wang et.al.|[2506.23568](http://arxiv.org/abs/2506.23568)|null|
 |**2025-06-27**|**Physics-Informed Neural Networks: Bridging the Divide Between Conservative and Non-Conservative Equations**|Arun Govind Neelan et.al.|[2506.22413](http://arxiv.org/abs/2506.22413)|null|
 |**2025-06-27**|**HLTCOE at LiveRAG: GPT-Researcher using ColBERT retrieval**|Kevin Duh et.al.|[2506.22356](http://arxiv.org/abs/2506.22356)|null|
 |**2025-06-27**|**Projected Compression: Trainable Projection for Efficient Transformer Compression**|Maciej Stefaniak et.al.|[2506.22255](http://arxiv.org/abs/2506.22255)|null|
