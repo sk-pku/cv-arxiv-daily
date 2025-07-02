@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3097,7 +3097,7 @@ layout: default
 |**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125](http://arxiv.org/abs/2506.24125)|null|
 |**2025-06-30**|**Exact Distributions for the Solutions of the Compressible Viscous Navier Stokes Differential Equations: An Application in the Aeronautical Industry**|Rensley A. Meulens et.al.|[2506.23932](http://arxiv.org/abs/2506.23932)|null|
 |**2025-06-30**|**Segmented Operations using Matrix Multiplications**|Aleksandros Sobczyk et.al.|[2506.23906](http://arxiv.org/abs/2506.23906)|null|
-|**2025-06-30**|**Nonlinearity exponential stability for Lions-Feireisl's weak solutions to the three-dimensional Barotropic Compressible Navier-Stokes Equations with large Potential Force**|Lingping Kang et.al.|[2506.23807](http://arxiv.org/abs/2506.23807)|null|
+|**2025-07-01**|**Nonlinearity exponential stability for Lions-Feireisl's weak solutions to the three-dimensional Barotropic Compressible Navier-Stokes Equations with large Potential Force**|Lingping Kang et.al.|[2506.23807](http://arxiv.org/abs/2506.23807)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-30**|**Efficient Interleaved Speech Modeling through Knowledge Distillation**|Mohammadmahdi Nouriborji et.al.|[2506.23670](http://arxiv.org/abs/2506.23670)|null|
 |**2025-06-30**|**TurboVSR: Fantastic Video Upscalers and Where to Find Them**|Zhongdao Wang et.al.|[2506.23618](http://arxiv.org/abs/2506.23618)|null|
