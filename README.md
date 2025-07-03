@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**|Nan Chen et.al.|[2507.01945](http://arxiv.org/abs/2507.01945)|null|
+|**2025-07-02**|**High-Layer Attention Pruning with Rescaling**|Songtao Liu et.al.|[2507.01900](http://arxiv.org/abs/2507.01900)|null|
+|**2025-07-02**|**Circuit compression for 2D quantum dynamics**|Matteo D'Anna et.al.|[2507.01883](http://arxiv.org/abs/2507.01883)|null|
+|**2025-07-02**|**Tuning without Peeking: Provable Privacy and Generalization Bounds for LLM Post-Training**|Ismail Labiad et.al.|[2507.01752](http://arxiv.org/abs/2507.01752)|null|
+|**2025-07-02**|**Magnetism from Conductors, and Enhanced Non-Linear Phenomena**|JB Pendry et.al.|[2507.01680](http://arxiv.org/abs/2507.01680)|null|
+|**2025-07-02**|**Customized Exploration of Landscape Features Driving Multi-Objective Combinatorial Optimization Performance**|Ana Nikolikj et.al.|[2507.01638](http://arxiv.org/abs/2507.01638)|null|
+|**2025-07-02**|**Perception-Oriented Latent Coding for High-Performance Compressed Domain Semantic Inference**|Xu Zhang et.al.|[2507.01608](http://arxiv.org/abs/2507.01608)|null|
+|**2025-07-02**|**Low-temperature anomalies in 1D hard rods with soft attractive nearest-neighbor interactions**|Igor Travěnec et.al.|[2507.01568](http://arxiv.org/abs/2507.01568)|null|
+|**2025-07-02**|**Symbolic identification of tensor equations in multidimensional physical fields**|Tianyi Chen et.al.|[2507.01466](http://arxiv.org/abs/2507.01466)|null|
+|**2025-07-02**|**Global Existence and Incompressible Limit for Compressible Navier-Stokes Equations with Large Bulk Viscosity Coefficient and Large Initial Data**|Qinghao Lei et.al.|[2507.01432](http://arxiv.org/abs/2507.01432)|null|
 |**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
 |**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125](http://arxiv.org/abs/2506.24125)|null|
 |**2025-06-30**|**Exact Distributions for the Solutions of the Compressible Viscous Navier Stokes Differential Equations: An Application in the Aeronautical Industry**|Rensley A. Meulens et.al.|[2506.23932](http://arxiv.org/abs/2506.23932)|null|
