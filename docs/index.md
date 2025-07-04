@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
+|**2025-07-03**|**MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis**|Kunyu Zhang et.al.|[2507.02847](http://arxiv.org/abs/2507.02847)|null|
+|**2025-07-03**|**Indexing Tries within Entropy-Bounded Space**|Lorenzo Carfagna et.al.|[2507.02728](http://arxiv.org/abs/2507.02728)|null|
+|**2025-07-03**|**Pressure-induced band gap energy increase in crystalline lactose**|Igor A. Fedorov et.al.|[2507.02629](http://arxiv.org/abs/2507.02629)|null|
+|**2025-07-03**|**Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation**|François Rozet et.al.|[2507.02608](http://arxiv.org/abs/2507.02608)|null|
+|**2025-07-03**|**Zeptosecond Electron Pulse Train and Ultrafast Coherent Control of Quantum States via Multiphoton Inelastic Cherenkov Diffraction**|H. K. Avetissian et.al.|[2507.02587](http://arxiv.org/abs/2507.02587)|null|
+|**2025-07-03**|**Scalable Interconnect Learning in Boolean Networks**|Fabian Kresse et.al.|[2507.02585](http://arxiv.org/abs/2507.02585)|null|
+|**2025-07-03**|**Long-time Existence and Incompressible Limit of Weak and Classical Solutions to the Cauchy Problem for Compressible Navier-Stokes Equations with Large Bulk Viscosity Coefficient and Large Initial Data**|Qinghao Lei et.al.|[2507.02497](http://arxiv.org/abs/2507.02497)|null|
+|**2025-07-03**|**Intrinsic Dimensionality of Molecular Properties**|Ali Banjafar et.al.|[2507.02480](http://arxiv.org/abs/2507.02480)|null|
+|**2025-07-03**|**Mesh Silksong: Auto-Regressive Mesh Generation as Weaving Silk**|Gaochao Song et.al.|[2507.02477](http://arxiv.org/abs/2507.02477)|null|
 |**2025-07-02**|**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**|Nan Chen et.al.|[2507.01945](http://arxiv.org/abs/2507.01945)|null|
 |**2025-07-02**|**High-Layer Attention Pruning with Rescaling**|Songtao Liu et.al.|[2507.01900](http://arxiv.org/abs/2507.01900)|null|
 |**2025-07-02**|**Circuit compression for 2D quantum dynamics**|Matteo D'Anna et.al.|[2507.01883](http://arxiv.org/abs/2507.01883)|null|
