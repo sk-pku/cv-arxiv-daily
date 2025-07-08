@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3102,7 +3102,7 @@ layout: default
 |**2025-07-03**|**Scalable Interconnect Learning in Boolean Networks**|Fabian Kresse et.al.|[2507.02585](http://arxiv.org/abs/2507.02585)|null|
 |**2025-07-03**|**Long-time Existence and Incompressible Limit of Weak and Classical Solutions to the Cauchy Problem for Compressible Navier-Stokes Equations with Large Bulk Viscosity Coefficient and Large Initial Data**|Qinghao Lei et.al.|[2507.02497](http://arxiv.org/abs/2507.02497)|null|
 |**2025-07-03**|**Intrinsic Dimensionality of Molecular Properties**|Ali Banjafar et.al.|[2507.02480](http://arxiv.org/abs/2507.02480)|null|
-|**2025-07-03**|**Mesh Silksong: Auto-Regressive Mesh Generation as Weaving Silk**|Gaochao Song et.al.|[2507.02477](http://arxiv.org/abs/2507.02477)|null|
+|**2025-07-04**|**Mesh Silksong: Auto-Regressive Mesh Generation as Weaving Silk**|Gaochao Song et.al.|[2507.02477](http://arxiv.org/abs/2507.02477)|null|
 |**2025-07-02**|**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**|Nan Chen et.al.|[2507.01945](http://arxiv.org/abs/2507.01945)|null|
 |**2025-07-02**|**High-Layer Attention Pruning with Rescaling**|Songtao Liu et.al.|[2507.01900](http://arxiv.org/abs/2507.01900)|null|
 |**2025-07-02**|**Circuit compression for 2D quantum dynamics**|Matteo D'Anna et.al.|[2507.01883](http://arxiv.org/abs/2507.01883)|null|
