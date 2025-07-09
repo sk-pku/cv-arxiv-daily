@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3099,9 +3099,9 @@ layout: default
 |**2025-07-07**|**Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state**|Prashanth Reddy Putta et.al.|[2507.05189](http://arxiv.org/abs/2507.05189)|null|
 |**2025-07-07**|**OGF: An Online Gradient Flow Method for Optimizing the Statistical Steady-State Time Averages of Unsteady Turbulent Flows**|Tom Hickling et.al.|[2507.05149](http://arxiv.org/abs/2507.05149)|null|
 |**2025-07-07**|**Hardware-efficient tractable probabilistic inference for TinyML Neurosymbolic AI applications**|Jelin Leslin et.al.|[2507.05141](http://arxiv.org/abs/2507.05141)|null|
-|**2025-07-07**|**Do We Really Need Specialization? Evaluating Generalist Text Embeddings for Zero-Shot Recommendation and Search**|Matteo Attimonelli et.al.|[2507.05006](http://arxiv.org/abs/2507.05006)|null|
+|**2025-07-08**|**Do We Really Need Specialization? Evaluating Generalist Text Embeddings for Zero-Shot Recommendation and Search**|Matteo Attimonelli et.al.|[2507.05006](http://arxiv.org/abs/2507.05006)|null|
 |**2025-07-07**|**Exploring O-RAN Compression Techniques in Decentralized Distributed MIMO Systems: Reducing Fronthaul Load**|Mostafa Rahmani et.al.|[2507.04997](http://arxiv.org/abs/2507.04997)|null|
-|**2025-07-07**|**Paired Explicit Relaxation Runge-Kutta Methods: Entropy-Conservative and Entropy-Stable High-Order Optimized Multirate Time Integration**|Daniel Doehring et.al.|[2507.04991](http://arxiv.org/abs/2507.04991)|null|
+|**2025-07-08**|**Paired Explicit Relaxation Runge-Kutta Methods: Entropy-Conservative and Entropy-Stable High-Order Optimized Multirate Time Integration**|Daniel Doehring et.al.|[2507.04991](http://arxiv.org/abs/2507.04991)|null|
 |**2025-07-07**|**The Case for Instance-Optimized LLMs in OLAP Databases**|Bardia Mohammadi et.al.|[2507.04967](http://arxiv.org/abs/2507.04967)|null|
 |**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
 |**2025-07-03**|**MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis**|Kunyu Zhang et.al.|[2507.02847](http://arxiv.org/abs/2507.02847)|null|
