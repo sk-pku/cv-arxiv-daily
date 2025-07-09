@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Error Exponents for Quantum Packing Problems via An Operator Layer Cake Theorem**|Hao-Chung Cheng et.al.|[2507.06232](http://arxiv.org/abs/2507.06232)|null|
+|**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
+|**2025-07-08**|**EdgeCodec: Onboard Lightweight High Fidelity Neural Compressor with Residual Vector Quantization**|Benjamin Hodo et.al.|[2507.06040](http://arxiv.org/abs/2507.06040)|null|
+|**2025-07-08**|**A family of conservative axisymmetric contact SPH schemes for impact engineering applications**|G. D. Rublev et.al.|[2507.05927](http://arxiv.org/abs/2507.05927)|null|
+|**2025-07-08**|**D-FCGS: Feedforward Compression of Dynamic Gaussian Splatting for Free-Viewpoint Videos**|Wenkang Zhang et.al.|[2507.05859](http://arxiv.org/abs/2507.05859)|null|
+|**2025-07-08**|**Prototype-Guided and Lightweight Adapters for Inherent Interpretation and Generalisation in Federated Learning**|Samuel Ofosu Mensah et.al.|[2507.05852](http://arxiv.org/abs/2507.05852)|null|
+|**2025-07-08**|**Beamforming with Random Projections: Upper and Lower Bounds**|Manan Mittal et.al.|[2507.05662](http://arxiv.org/abs/2507.05662)|null|
+|**2025-07-08**|**Learnable quantum spectral filters for hybrid graph neural networks**|Ammar Daskin et.al.|[2507.05640](http://arxiv.org/abs/2507.05640)|null|
+|**2025-07-08**|**SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression**|Yiqiao Jin et.al.|[2507.05633](http://arxiv.org/abs/2507.05633)|null|
+|**2025-07-08**|**Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching**|Mingzhe Li et.al.|[2507.05617](http://arxiv.org/abs/2507.05617)|null|
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
 |**2025-07-07**|**Self-Supervised Real-Time Tracking of Military Vehicles in Low-FPS UAV Footage**|Markiyan Kostiv et.al.|[2507.05229](http://arxiv.org/abs/2507.05229)|null|
 |**2025-07-07**|**Quantum-Inspired Tensor-Network Fractional-Step Method for Incompressible Flow in Curvilinear Coordinates**|Nis-Luca van Hülst et.al.|[2507.05222](http://arxiv.org/abs/2507.05222)|null|
