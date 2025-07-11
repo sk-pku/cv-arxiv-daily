@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization**|Mingkai Jia et.al.|[2507.07997](http://arxiv.org/abs/2507.07997)|null|
+|**2025-07-10**|**Single-pass Adaptive Image Tokenization for Minimum Program Search**|Shivam Duggal et.al.|[2507.07995](http://arxiv.org/abs/2507.07995)|null|
+|**2025-07-10**|**Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**|Chen Feng et.al.|[2507.07877](http://arxiv.org/abs/2507.07877)|null|
+|**2025-07-10**|**Re-Bottleneck: Latent Re-Structuring for Neural Audio Autoencoders**|Dimitrios Bralios et.al.|[2507.07867](http://arxiv.org/abs/2507.07867)|null|
+|**2025-07-10**|**Meshless projection model-order reduction via reference spaces for smoothed-particle hydrodynamics**|Steven N. Rodriguez et.al.|[2507.07830](http://arxiv.org/abs/2507.07830)|null|
+|**2025-07-10**|**Compressive Imaging Reconstruction via Tensor Decomposed Multi-Resolution Grid Encoding**|Zhenyu Jin et.al.|[2507.07707](http://arxiv.org/abs/2507.07707)|null|
+|**2025-07-10**|**D-CNN and VQ-VAE Autoencoders for Compression and Denoising of Industrial X-ray Computed Tomography Images**|Bardia Hejazi et.al.|[2507.07704](http://arxiv.org/abs/2507.07704)|null|
+|**2025-07-10**|**An Automated Length-Aware Quality Metric for Summarization**|Andrew D. Foland et.al.|[2507.07653](http://arxiv.org/abs/2507.07653)|null|
+|**2025-07-10**|**Summing Real Time Feynman Paths of Lattice Polaron with Matrix Product States**|Qi Gao et.al.|[2507.07648](http://arxiv.org/abs/2507.07648)|null|
+|**2025-07-10**|**PhysioEdge: Multimodal Compressive Sensing Platform for Wearable Health Monitoring**|Rens Baeyens et.al.|[2507.07645](http://arxiv.org/abs/2507.07645)|null|
 |**2025-07-09**|**Compressibility of Confined Fluids from Volume Fluctuations**|Jason Ogbebor et.al.|[2507.07020](http://arxiv.org/abs/2507.07020)|null|
 |**2025-07-09**|**Generating Multi-Table Time Series EHR from Latent Space with Minimal Preprocessing**|Eunbyeol Cho et.al.|[2507.06996](http://arxiv.org/abs/2507.06996)|null|
 |**2025-07-09**|**HVI-CIDNet+: Beyond Extreme Darkness for Low-Light Image Enhancement**|Qingsen Yan et.al.|[2507.06814](http://arxiv.org/abs/2507.06814)|null|
