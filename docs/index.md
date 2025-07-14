@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Triggering and quenching in the shadow of AGN: How does AGN proximity affect star formation in the EAGLE simulation?**|Apashanka Das et.al.|[2507.08790](http://arxiv.org/abs/2507.08790)|null|
+|**2025-07-11**|**Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees**|Chuyan Chen et.al.|[2507.08784](http://arxiv.org/abs/2507.08784)|null|
+|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
+|**2025-07-11**|**Compress Any Segment Anything Model (SAM)**|Juntong Fan et.al.|[2507.08765](http://arxiv.org/abs/2507.08765)|null|
+|**2025-07-11**|**Partitioned Hybrid Quantum Fourier Neural Operators for Scientific Quantum Machine Learning**|Paolo Marcandelli et.al.|[2507.08746](http://arxiv.org/abs/2507.08746)|null|
+|**2025-07-11**|**L-CLIPScore: a Lightweight Embedding-based Captioning Metric for Evaluating and Training**|Li Li et.al.|[2507.08710](http://arxiv.org/abs/2507.08710)|null|
+|**2025-07-11**|**Granular jamming and rheology in microgravity**|Qing Yu et.al.|[2507.08674](http://arxiv.org/abs/2507.08674)|null|
+|**2025-07-11**|**Tensor train representations of Greeks for Fourier-based pricing of multi-asset options**|Rihito Sakurai et.al.|[2507.08482](http://arxiv.org/abs/2507.08482)|null|
+|**2025-07-11**|**A Cryogenic Uniaxial Strain Cell for Elastoresistance Measurements**|Eckelt Franz et.al.|[2507.08428](http://arxiv.org/abs/2507.08428)|null|
+|**2025-07-11**|**Exploiting Cognition in ISAR Processing for Spectral Compatibility Applications**|Massimo Rosamilia et.al.|[2507.08423](http://arxiv.org/abs/2507.08423)|null|
 |**2025-07-10**|**MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization**|Mingkai Jia et.al.|[2507.07997](http://arxiv.org/abs/2507.07997)|null|
 |**2025-07-10**|**Single-pass Adaptive Image Tokenization for Minimum Program Search**|Shivam Duggal et.al.|[2507.07995](http://arxiv.org/abs/2507.07995)|null|
 |**2025-07-10**|**Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**|Chen Feng et.al.|[2507.07877](http://arxiv.org/abs/2507.07877)|null|
