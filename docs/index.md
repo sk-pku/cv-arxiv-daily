@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3095,7 +3095,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-11**|**Triggering and quenching in the shadow of AGN: How does AGN proximity affect star formation in the EAGLE simulation?**|Apashanka Das et.al.|[2507.08790](http://arxiv.org/abs/2507.08790)|null|
 |**2025-07-11**|**Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees**|Chuyan Chen et.al.|[2507.08784](http://arxiv.org/abs/2507.08784)|null|
-|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
+|**2025-07-14**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
 |**2025-07-11**|**Compress Any Segment Anything Model (SAM)**|Juntong Fan et.al.|[2507.08765](http://arxiv.org/abs/2507.08765)|null|
 |**2025-07-11**|**Partitioned Hybrid Quantum Fourier Neural Operators for Scientific Quantum Machine Learning**|Paolo Marcandelli et.al.|[2507.08746](http://arxiv.org/abs/2507.08746)|null|
 |**2025-07-11**|**L-CLIPScore: a Lightweight Embedding-based Captioning Metric for Evaluating and Training**|Li Li et.al.|[2507.08710](http://arxiv.org/abs/2507.08710)|null|
