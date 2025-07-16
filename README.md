@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**COLI: A Hierarchical Efficient Compressor for Large Images**|Haoran Wang et.al.|[2507.11443](http://arxiv.org/abs/2507.11443)|null|
+|**2025-07-15**|**Compressed data structures for Heegaard splittings**|Henrique Ennes et.al.|[2507.11406](http://arxiv.org/abs/2507.11406)|null|
+|**2025-07-15**|**Joint space-time wind field data extrapolation and uncertainty quantification using nonparametric Bayesian dictionary learning**|George D. Pasparakis et.al.|[2507.11385](http://arxiv.org/abs/2507.11385)|null|
+|**2025-07-15**|**Diffusion-Based Imaginative Coordination for Bimanual Manipulation**|Huilin Xu et.al.|[2507.11296](http://arxiv.org/abs/2507.11296)|null|
+|**2025-07-15**|**Diagnosing phase transitions through time scale entanglement**|Stefan Rohshap et.al.|[2507.11276](http://arxiv.org/abs/2507.11276)|null|
+|**2025-07-15**|**Disk impact on a boiling liquid: Dynamics of the entrapped vapor pocket**|Yee Li Fan et.al.|[2507.11264](http://arxiv.org/abs/2507.11264)|null|
+|**2025-07-15**|**Empirical Globular Cluster Ridgeline Construction on Gaia Data**|Anett Simon-Zsók et.al.|[2507.11244](http://arxiv.org/abs/2507.11244)|null|
+|**2025-07-15**|**Magneto-elastic softening in cold-sprayed polycrystalline nickel studied by resonant ultrasound spectroscopy**|Michaela Janovská et.al.|[2507.11239](http://arxiv.org/abs/2507.11239)|null|
+|**2025-07-15**|**Boosting Scientific Error-Bounded Lossy Compression through Optimized Synergistic Lossy-Lossless Orchestration**|Shixun Wu et.al.|[2507.11165](http://arxiv.org/abs/2507.11165)|null|
+|**2025-07-15**|**Physics-Informed Transfer Learning for Data-Driven Sound Source Reconstruction in Near-Field Acoustic Holography**|Xinmeng Luan et.al.|[2507.11070](http://arxiv.org/abs/2507.11070)|null|
 |**2025-07-14**|**Quantize-then-Rectify: Efficient VQ-VAE Training**|Borui Zhang et.al.|[2507.10547](http://arxiv.org/abs/2507.10547)|null|
 |**2025-07-14**|**WildFX: A DAW-Powered Pipeline for In-the-Wild Audio FX Graph Modeling**|Qihui Yang et.al.|[2507.10534](http://arxiv.org/abs/2507.10534)|null|
 |**2025-07-14**|**Enhanced superconductivity in the compressively strained bilayer nickelate thin films by pressure**|Qing Li et.al.|[2507.10399](http://arxiv.org/abs/2507.10399)|null|
