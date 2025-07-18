@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
+|**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343](http://arxiv.org/abs/2507.13343)|null|
+|**2025-07-17**|**Phase transitions of eutectic high entropy alloy AlCoCrFeNi2.1 under shock compression**|Sophie Parsons et.al.|[2507.13218](http://arxiv.org/abs/2507.13218)|null|
+|**2025-07-17**|**Technical Review on RF-Amplifiers for Quantum Computer Circuits: New Architectures of Josephson Parametric Amplifier**|Ahmad Salmanogli et.al.|[2507.13187](http://arxiv.org/abs/2507.13187)|null|
+|**2025-07-17**|**Disentangling coincident cell events using deep transfer learning and compressive sensing**|Moritz Leuthner et.al.|[2507.13176](http://arxiv.org/abs/2507.13176)|null|
+|**2025-07-17**|**ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning**|Rahel Rickenbach et.al.|[2507.13088](http://arxiv.org/abs/2507.13088)|null|
+|**2025-07-17**|**High Performance Parallel Solvers for the time-harmonic Maxwell Equations**|Elise Fressart et.al.|[2507.13066](http://arxiv.org/abs/2507.13066)|null|
+|**2025-07-17**|**Variance-Based Pruning for Accelerating and Compressing Trained Networks**|Uranik Berisha et.al.|[2507.12988](http://arxiv.org/abs/2507.12988)|null|
+|**2025-07-17**|**RGB Pre-Training Enhanced Unobservable Feature Latent Diffusion Model for Spectral Reconstruction**|Keli Deng et.al.|[2507.12967](http://arxiv.org/abs/2507.12967)|null|
+|**2025-07-17**|**LoViC: Efficient Long Video Generation with Context Compression**|Jiaxiu Jiang et.al.|[2507.12952](http://arxiv.org/abs/2507.12952)|null|
 |**2025-07-16**|**Jenga-Krotov algorithm: Efficient compilation of multi-qubit gates for exchange-only qubits**|Jiahao Wu et.al.|[2507.12448](http://arxiv.org/abs/2507.12448)|null|
 |**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444](http://arxiv.org/abs/2507.12444)|null|
 |**2025-07-16**|**Heisenberg limited multiple eigenvalue estimation via off-the-grid compressed sensing**|Davide Castaldo et.al.|[2507.12438](http://arxiv.org/abs/2507.12438)|null|
