@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851](http://arxiv.org/abs/2507.15851)|null|
+|**2025-07-21**|**Hyperelastic nature of the Hoek-Brown criterion**|Ilaria Fontana et.al.|[2507.15813](http://arxiv.org/abs/2507.15813)|null|
+|**2025-07-21**|**Supernova: Achieving More with Less in Transformer Architectures**|Andrei-Valentin Tanase et.al.|[2507.15773](http://arxiv.org/abs/2507.15773)|null|
+|**2025-07-21**|**Remote Channel Synthesis**|Yassine Hamdi et.al.|[2507.15757](http://arxiv.org/abs/2507.15757)|null|
+|**2025-07-21**|**Estimating Rate-Distortion Functions Using the Energy-Based Model**|Shitong Wu et.al.|[2507.15700](http://arxiv.org/abs/2507.15700)|null|
+|**2025-07-21**|**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression**|Wenjie Huang et.al.|[2507.15686](http://arxiv.org/abs/2507.15686)|null|
+|**2025-07-21**|**Compress-Align-Detect: onboard change detection from unregistered images**|Gabriele Inzerillo et.al.|[2507.15578](http://arxiv.org/abs/2507.15578)|null|
+|**2025-07-21**|**Discontinuous shear-thickening asymptotic for power-law systems related to compressible flows**|Didier Bresch et.al.|[2507.15410](http://arxiv.org/abs/2507.15410)|null|
+|**2025-07-21**|**Dark energy era with a resolution of Hubble tension in generalized entropic cosmology**|Priyanka Adhikary et.al.|[2507.15273](http://arxiv.org/abs/2507.15273)|null|
+|**2025-07-21**|**Conditional Video Generation for High-Efficiency Video Compression**|Fangqiu Yi et.al.|[2507.15269](http://arxiv.org/abs/2507.15269)|null|
 |**2025-07-18**|**Training-free Token Reduction for Vision Mamba**|Qiankun Ma et.al.|[2507.14042](http://arxiv.org/abs/2507.14042)|null|
 |**2025-07-18**|**Optimal antimatroid sorting**|Benjamin Aram Berendsohn et.al.|[2507.13994](http://arxiv.org/abs/2507.13994)|null|
 |**2025-07-18**|**Quasinormal Modes of a Massive Scalar Field in Slowly Rotating Einstein-Bumblebee Black Holes**|Weike Deng et.al.|[2507.13978](http://arxiv.org/abs/2507.13978)|null|
