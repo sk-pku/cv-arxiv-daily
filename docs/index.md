@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3095,7 +3095,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851](http://arxiv.org/abs/2507.15851)|null|
 |**2025-07-21**|**Hyperelastic nature of the Hoek-Brown criterion**|Ilaria Fontana et.al.|[2507.15813](http://arxiv.org/abs/2507.15813)|null|
-|**2025-07-21**|**Supernova: Achieving More with Less in Transformer Architectures**|Andrei-Valentin Tanase et.al.|[2507.15773](http://arxiv.org/abs/2507.15773)|null|
+|**2025-07-22**|**Supernova: Achieving More with Less in Transformer Architectures**|Andrei-Valentin Tanase et.al.|[2507.15773](http://arxiv.org/abs/2507.15773)|null|
 |**2025-07-21**|**Remote Channel Synthesis**|Yassine Hamdi et.al.|[2507.15757](http://arxiv.org/abs/2507.15757)|null|
 |**2025-07-21**|**Estimating Rate-Distortion Functions Using the Energy-Based Model**|Shitong Wu et.al.|[2507.15700](http://arxiv.org/abs/2507.15700)|null|
 |**2025-07-21**|**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression**|Wenjie Huang et.al.|[2507.15686](http://arxiv.org/abs/2507.15686)|null|
