@@ -3093,6 +3093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
+|**2025-07-22**|**The inverse initial data problem for anisotropic Navier-Stokes equations via Legendre time reduction method**|Cong B. Van et.al.|[2507.16810](http://arxiv.org/abs/2507.16810)|null|
+|**2025-07-22**|**Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges**|Senyao Li et.al.|[2507.16731](http://arxiv.org/abs/2507.16731)|null|
+|**2025-07-22**|**Latent Space Alignment for AI-Native MIMO Semantic Communications**|Mario Edoardo Pandolfo et.al.|[2507.16680](http://arxiv.org/abs/2507.16680)|null|
+|**2025-07-22**|**Scaling Linear Attention with Sparse State Expansion**|Yuqi Pan et.al.|[2507.16577](http://arxiv.org/abs/2507.16577)|null|
+|**2025-07-22**|**Optimization of DNN-based HSI Segmentation FPGA-based SoC for ADS: A Practical Approach**|Jon Gutiérrez-Zaballa et.al.|[2507.16556](http://arxiv.org/abs/2507.16556)|null|
+|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535](http://arxiv.org/abs/2507.16535)|null|
+|**2025-07-22**|**Spatial 3D-LLM: Exploring Spatial Awareness in 3D Vision-Language Models**|Xiaoyan Wang et.al.|[2507.16524](http://arxiv.org/abs/2507.16524)|null|
+|**2025-07-22**|**RIS-aided Latent Space Alignment for Semantic Channel Equalization**|Tomás Hüttebräucker et.al.|[2507.16450](http://arxiv.org/abs/2507.16450)|null|
+|**2025-07-22**|**Global existence and optimal time-decay rates of the compressible Navier-Stokes equations with density-dependent viscosities**|Jie Fan et.al.|[2507.16436](http://arxiv.org/abs/2507.16436)|null|
 |**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851](http://arxiv.org/abs/2507.15851)|null|
 |**2025-07-21**|**Hyperelastic nature of the Hoek-Brown criterion**|Ilaria Fontana et.al.|[2507.15813](http://arxiv.org/abs/2507.15813)|null|
 |**2025-07-22**|**Supernova: Achieving More with Less in Transformer Architectures**|Andrei-Valentin Tanase et.al.|[2507.15773](http://arxiv.org/abs/2507.15773)|null|
