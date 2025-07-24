@@ -3114,6 +3114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Large Learning Rates Simultaneously Achieve Robustness to Spurious Correlations and Compressibility**|Melih Barsbey et.al.|[2507.17748](http://arxiv.org/abs/2507.17748)|null|
+|**2025-07-23**|**On the Interaction of Compressibility and Adversarial Robustness**|Melih Barsbey et.al.|[2507.17725](http://arxiv.org/abs/2507.17725)|null|
+|**2025-07-23**|**STQE: Spatial-Temporal Quality Enhancement for G-PCC Compressed Dynamic Point Clouds**|Tian Guo et.al.|[2507.17522](http://arxiv.org/abs/2507.17522)|null|
+|**2025-07-23**|**Accelerating Parallel Diffusion Model Serving with Residual Compression**|Jiajun Luo et.al.|[2507.17511](http://arxiv.org/abs/2507.17511)|null|
+|**2025-07-23**|**Pressure-tunable phase transitions in atomically thin Chern insulator MnBi $_2$Te$_4$**|Albin Marffy et.al.|[2507.17449](http://arxiv.org/abs/2507.17449)|null|
+|**2025-07-23**|**Characterizing proton polytropic indices inside near-Earth magnetic clouds and ICME sheaths**|Debesh Bhattacharjee et.al.|[2507.17447](http://arxiv.org/abs/2507.17447)|null|
+|**2025-07-23**|**Efficient and Robust Semantic Image Communication via Stable Cascade**|Bilal Khalid et.al.|[2507.17416](http://arxiv.org/abs/2507.17416)|null|
+|**2025-07-23**|**Custody Transfer and Compressed Status Reporting for Bundle Protocol Version 7**|Alice Le Bihan et.al.|[2507.17403](http://arxiv.org/abs/2507.17403)|null|
+|**2025-07-23**|**LightCom: A Generative AI-Augmented Framework for QoE-Oriented Communications**|Chunmei Xu et.al.|[2507.17352](http://arxiv.org/abs/2507.17352)|null|
+|**2025-07-23**|**DeCo-SGD: Joint Optimization of Delay Staleness and Gradient Compression Ratio for Distributed SGD**|Rongwei Lu et.al.|[2507.17346](http://arxiv.org/abs/2507.17346)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-22**|**The inverse initial data problem for anisotropic Navier-Stokes equations via Legendre time reduction method**|Cong B. Van et.al.|[2507.16810](http://arxiv.org/abs/2507.16810)|null|
 |**2025-07-22**|**Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges**|Senyao Li et.al.|[2507.16731](http://arxiv.org/abs/2507.16731)|null|
